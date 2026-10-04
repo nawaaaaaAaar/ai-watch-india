@@ -11,6 +11,7 @@ The application contains seven workspace views, all 30 final DPDP Rules provisio
 - **Automated tests:** `npm test` passed all 12 tests, with zero failures. Checks cover inventory, extracted-text hashes, exact focused quotations, split provision mappings, key finding distinctions, targeted corrections, filters, citation-preserving exports, notebook validation, spreadsheet-formula safeguards and all twelve briefs.
 - **Dataset validation:** `npm run validate:data` passed: 30 complete records, eight corrections and four source objects.
 - **Reproduction:** `python scripts/build_dataset.py` and `node scripts/package-briefs.mjs` regenerated the collection and briefs successfully; tests and validation were rerun afterward.
+- **Clean checkout:** A separate clone passed `npm ci`, full data/brief regeneration, all tests and the production build with no tracked-file changes.
 - **Production build:** `npm run build` passed TypeScript checking and Vite bundling. The static bundle requires no model key or application backend.
 - **Dependencies:** `npm audit --omit=dev` reported zero vulnerabilities at verification time. This is a point-in-time package advisory check, not a security certification.
 - **Browser workflows:** 57 explicit Playwright assertions passed in Chromium with zero observed JavaScript runtime errors.
@@ -34,6 +35,7 @@ Observed browser requests included no document-content POSTs. Notebook state rem
 - The desk's add-to-brief buttons were prevented from stretching to the height of their grid row.
 - A retention-comparison alignment note now explains that the draft user-account definition moved to final Rule 2. Mechanical highlighting must not suggest that this definition was abolished; the same caution is preserved in exported briefs.
 - Dark-mode captures were retaken after the short color transition settled, rather than interpreting an in-transition screenshot as a final visual state.
+- The hosted preview exposed a static-file download limitation: plain download anchors opened Markdown files instead. Packaged research downloads now fetch the selected public file and save a browser Blob, with a visible retry/repository fallback on failure.
 
 ## Remaining boundaries
 

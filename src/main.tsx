@@ -42,6 +42,22 @@ function App(){
   const [reason,setReason]=useState(''),[evidence,setEvidence]=useState('');
   const [reportError,setReportError]=useState('');
   useEffect(()=>{document.documentElement.dataset.theme=theme},[theme]);
+  useEffect(()=>{
+    const handler=(event:MouseEvent)=>{
+      const anchor=(event.target as Element)?.closest<HTMLAnchorElement>('a[download]');
+      if(!anchor||anchor.href.startsWith('blob:'))return;
+      event.preventDefault();
+      fetch(anchor.href).then(async response=>{
+        if(!response.ok)throw Error('File unavailable');
+        const text=await response.text();
+        const name=new URL(anchor.href).pathname.split('/').pop()||'research.txt';
+        download(name,text,response.headers.get('content-type')||'text/plain;charset=utf-8');
+        setNotice('Research file downloaded.');
+      }).catch(()=>setNotice('Download failed. Please retry or retrieve the file from the repository.'));
+    };
+    document.addEventListener('click',handler);
+    return()=>document.removeEventListener('click',handler);
+  },[]);
   useEffect(()=>{window.scrollTo({top:0});setNotice('')},[location]);
   useEffect(()=>{if(!report)return;
     document.querySelectorAll('.rail,.body').forEach(el=>el.setAttribute('inert',''));
