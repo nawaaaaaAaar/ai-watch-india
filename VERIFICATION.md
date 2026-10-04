@@ -15,6 +15,7 @@ The application contains seven workspace views, all 30 final DPDP Rules provisio
 - **Production build:** `npm run build` passed TypeScript checking and Vite bundling. The static bundle requires no model key or application backend.
 - **Dependencies:** `npm audit --omit=dev` reported zero vulnerabilities at verification time. This is a point-in-time package advisory check, not a security certification.
 - **Browser workflows:** 57 explicit Playwright assertions passed in Chromium with zero observed JavaScript runtime errors.
+- **Hosted production checks:** After deployment, cold start, provision comparison, selection, Markdown export, the complete twelve-brief bundle and a source snapshot download passed. A simulated HTTP 503 produced the visible download-failure fallback. No runtime errors were observed.
 
 ## Browser coverage
 
