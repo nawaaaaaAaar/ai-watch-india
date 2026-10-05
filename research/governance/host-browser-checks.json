@@ -1,0 +1,64 @@
+{
+  "assertions": [
+    "host catalogue52",
+    "host filter",
+    "host reset",
+    "host coverage37",
+    "host actual download complete-governance.zip",
+    "host actual download data.json",
+    "host actual download dataset.sqlite",
+    "host actual download system_links.csv",
+    "host actual download jurisdiction_coverage.csv",
+    "host actual download ANALYSIS.pplx.md",
+    "host actual download METHOD.md",
+    "host instrument five fields",
+    "host system association",
+    "host twelve registry fields",
+    "host backlink",
+    "host draft status",
+    "host staged commencement",
+    "host registry144",
+    "host mobile fit",
+    "host mobile filter",
+    "host mobile reset",
+    "no page errors"
+  ],
+  "downloads": [
+    {
+      "file": "complete-governance.zip",
+      "bytes": 747254,
+      "sha256": "100ebfa52d919fa2e2de5daa14b87e1a3ef8582ceda72818811a6642f47b68e5"
+    },
+    {
+      "file": "data.json",
+      "bytes": 735628,
+      "sha256": "d231c33fb616a3204207c692fdaae2b7eef2c525d3e5d5be33a1f0d00c10632c"
+    },
+    {
+      "file": "dataset.sqlite",
+      "bytes": 651264,
+      "sha256": "cc55320e68fde019ae88129487094704ede63268b235a2c25b445ef6cbd117a8"
+    },
+    {
+      "file": "system_links.csv",
+      "bytes": 65749,
+      "sha256": "c86e66d5a0e30abf2167e51da53d7ea8140eafc8d63891dade410e984e2cdc05"
+    },
+    {
+      "file": "jurisdiction_coverage.csv",
+      "bytes": 20706,
+      "sha256": "616857e25339f31314501e15910b0016df8860367e2aa8aa0e0f4965138ca746"
+    },
+    {
+      "file": "ANALYSIS.pplx.md",
+      "bytes": 6740,
+      "sha256": "b5fcacef9476b3c03c3c6abfc08914b60a2efd6825f858dc17605f913f553290"
+    },
+    {
+      "file": "METHOD.md",
+      "bytes": 10365,
+      "sha256": "92cc259b4a97378c5f9eb3cd61196c0dcec91e949218df85d92ca1af523e10cd"
+    }
+  ],
+  "pageErrors": []
+}
