@@ -1,0 +1,10 @@
+Railway AI video surveillance expansion
+Original: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2249823&reg=3&lang=1
+Document date: 2026-04-07
+Source type: Government deployment statement
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Indian Railways has expanded its Video Surveillance System (VSS) across 1,874 railway stations.
+
+The system is equipped with advanced AI-based Video Analytics for automated detection of events such as intrusion and loitering, along with Facial Recognition Software for real-time identification and monitoring.

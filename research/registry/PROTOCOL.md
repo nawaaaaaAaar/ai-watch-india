@@ -1,6 +1,16 @@
 # AI Watch: institution-and-system research protocol
 
-Version 1.0.0; documentary review cutoff 5 October 2026. This is an exploratory India dataset with 18 purposively selected named systems/services, not a census or probability sample.
+Version 1.1.0; documentary review cutoff 5 October 2026. This is an exploratory India dataset with 36 named systems/services: eighteen original purposive cases and eighteen additions from a fixed institutional documentary-search frame. It is not a national census or probability sample.
+
+## Institutional round and source recheck
+
+The second round fixes five ministries (Agriculture and Farmers Welfare; Health and Family Welfare; Education; Home Affairs; Railways) plus the Supreme Court as an independent institution. Four comparable queries per entry cover deployment, procurement, evaluation/safeguards and October recency, followed by twelve candidate-specific queries. The round records all 36 queries and 228 discovery hits. These searches are systematic within a bounded documentary frame, not complete administrative inventories or a formally preregistered study.
+
+The institutional association is a coverage relationship, not a legal ownership assignment. Twenty-six system records are associated with this frame; ten earlier cases remain outside it as context. Capacity-building, generic technologies, outside-frame EOIs and insufficiently resolved applications stay in the candidate-decision register. BODH is labelled evaluation infrastructure, not a clinical diagnostic deployment. Named Abhigyan and CrPI biometric workflows are qualified contexts, not proof of model-specific AI.
+
+All fifty original used sources and 125 original excerpts were subjected to a fresh SDK retrieval/text-match attempt, with raw HTML fallback where cleaned content was incomplete. Sixty-eight excerpts were re-located through those fresh attempts; twenty sources failed fresh retrieval, twenty-seven had all excerpts re-located and three had partial extraction matches. All unresolved originals were retried through cached extraction, which re-located their original selections but does not establish fresh live availability. `source_rechecks` preserves these distinctions and `assertion_rechecks` triages all 216 original assertion slots. Neither is independent semantic recoding.
+
+The previously captured AskDISHA authorized-partner label was not re-located in the fresh extraction; its statement is narrowed to the historical observation, not taken as proof of a changed affiliation. New source selections were manually checked for normalized membership in fetched originals. The new phase is still single-analyst research, without independent second coding or participant/system testing.
 
 ## Research question
 
@@ -10,11 +20,11 @@ The website is an interface to this dataset. Earlier policy comparisons, impleme
 
 ## Selection and boundaries
 
-- **Inclusion**: an identifiable institution/service and an India public-service role, with inspectable documentary evidence and explicit AI attribution or a clearly qualified biometric/analytics context.
+- **Inclusion**: an identifiable institution/service and an India public-service role, with inspectable documentary evidence and explicit AI attribution or a clearly qualified biometric/analytics context. A separately labelled evaluation-infrastructure unit is also retained because it is relevant to public-service AI validation, without counting it as clinical use.
 - **Historical evidence**: retained with its date and stage. A historical rollout, pilot or experimental description is not certified as operational in October 2026.
 - **Qualified attribution**: biometric identity workflows and analytics platforms are not automatically called model-specific AI. The `ai_class` and `ai_basis` fields keep these cases visible but separately filterable.
 - **Exclusions/context**: training repositories, model announcements without a reviewed named public-service deployment, unrelated prototypes, foreign evaluations and existing casebooks are documented in `candidate_decisions`. This register is a record of decisions in this research round, not every candidate in India.
-- **Sampling limitation**: this seed extends six previously researched cases with twelve additional cases selected to probe contrasting evidence types and public functions. Sector, language, geography, search visibility and government-hosting biases are substantial. An absence in this dataset does not imply no AI use.
+- **Sampling limitation**: the original eighteen-record seed extended six previously researched cases with twelve additional cases selected to probe contrasting evidence types and public functions. The second round adds eighteen records through the six-institution documentary frame. Sector, language, geography, search visibility and government-hosting biases remain substantial. An absence in this dataset does not imply no AI use.
 
 ## Search and retrieval
 
@@ -22,7 +32,7 @@ Three rounds cover discovery, component-specific follow-up and recency: 62 queri
 
 Selected pages/PDFs were fetched and read. `retrieval-log.json` records successes and failures, including unaccepted SDK date metadata. The live IRCTC annual-report library was checked in a cloud browser when the cleaned SDK index was stale; the listed 2025–26 PDF could not be retrieved and was not treated as read. A Telangana training-PDF browser fallback returned 404. Those gaps remain explicit.
 
-The six inherited case files retain their earlier reviewed excerpts and original URLs, converted into the same assertion structure. Their prior search history remains in the earlier repository studies, rather than being retroactively claimed as part of these 62 searches.
+The six inherited case files retain their earlier reviewed excerpts and original URLs, converted into the same assertion structure. Their prior search history remains in the earlier repository studies, rather than being retroactively claimed as part of the original 62 searches. The second-round 36 queries and source rechecks are recorded separately, not silently folded into the seed log.
 
 ## Source and date hierarchy
 
@@ -45,7 +55,7 @@ Selected new excerpts were checked for normalized-text membership against the fe
 
 ## Quality controls and reproducibility
 
-The offline builder checks all system/institution/source relationships and generic evidence links, all 216 assertion slots, stable identifiers, SQLite integrity and foreign keys. The package includes JSON, seventeen CSV tables, SQLite, schema, dossiers, queries, selected source snapshots, research receipts and checksums. Rebuilding validates consistency of curated inputs; it does not independently establish the truth of institutional claims.
+The offline builder checks all system/institution/source relationships and generic evidence links, all 432 assertion slots, stable identifiers, SQLite integrity and foreign keys. The package includes JSON, twenty-one CSV tables, SQLite, schema, dossiers, queries, selected source snapshots, research receipts and checksums. Rebuilding validates consistency of curated inputs; it does not independently establish the truth of institutional claims.
 
 The release is single-analyst coded. There has been no independent duplicate review, inter-rater reliability measurement, participant interview, live operational inspection, FOI/RTI response collection or user-demand validation. No request was submitted, no purchase/booking made and no personal test data supplied to a service.
 

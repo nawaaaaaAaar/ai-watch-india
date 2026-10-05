@@ -1,0 +1,10 @@
+SAHI and BODH launch
+Original: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2229226&reg=3&lang=1
+Document date: 2026-02-17
+Source type: Government programme statement
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+The platform is designed to assess performance, robustness, bias, and generalizability of AI systems before their deployment at population scale.
+
+BODH (Benchmarking Open Data Platform for Health AI), developed by the Indian Institute of Technology Kanpur in collaboration with the National Health Authority, will enable systematic evaluation of AI models using diverse, anonymized real-world health datasets.

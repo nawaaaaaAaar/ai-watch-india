@@ -1,0 +1,18 @@
+Health AI diagnostics parliamentary explanation
+Original: https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2199422&reg=3&lang=1
+Document date: 2025-12-05
+Source type: Official parliamentary explanation
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Between March 2023 and 30th November 2025, CATB solution has been utilized to screen more than 1.62 lakh individuals.
+
+In the deployed geographies, the solution has shown an additional yield of 12-16% in TB reported, over patient screenings using conventional methods.
+
+It classifies DR across standard grades, enabling optimized resource allocation by prioritizing urgent cases for specialist referral.
+
+The solution has been implemented across 38 facilities in 11 states and provided AI assistance during screening of more than 14,000 retinal images, benefiting 7,100 patients.
+
+Under the Tuberculosis elimination program, ‘Cough against TB’ (CATB) AI solution is used for screening for pulmonary TB in the community settings.
+
+MadhuNetrAI (DR identification solution) is an AI solution developed to enable non-specialist health workers to conduct screenings for Diabetic Retinopathy.

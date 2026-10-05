@@ -1,0 +1,10 @@
+NCRB applications and fingerprint conference launch
+Original: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2275306&reg=3&lang=1
+Document date: 2026-06-19
+Source type: Government programme statement
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+CrPI Application – This system integrates facial recognition, iris matching, and DNA matching capabilities.
+
+NCRB-Abhigyan – This mobile application enables field police personnel to search the National Fingerprint Database from any location using a certified fingerprint scanner to identify a suspect through fingerprint matching.

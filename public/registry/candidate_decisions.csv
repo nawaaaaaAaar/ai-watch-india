@@ -1,27 +1,57 @@
-candidate_id,name,decision,reason,system_id
-candidate-1475a931c03a1f8d,IndiaAI Impact Casebooks,Related resource,Sectoral India/global casebooks already exist; not proof of exclusive dataset novelty.,
-candidate-3c099ed05fbbcf3c,Digi Yatra RTI request,Context only,"Questions requested are not an authority reply, supplier award or operational evidence.",
-candidate-76b37d3dd2ce1443,Nigeria qXR clinical study,Excluded as Indian deployment validation,Different country and setting; cannot validate the BMC pilot.,
-candidate-798bb7a54afd8049,AIKosh,Context only,Training-data repository is not coded as a public-service deployment unit.,
-candidate-7f6c538fdb884044,BharatGen,Not included in this seed,Model/programme announcement alone was not converted into a named institution/service deployment.,
-candidate-c1250331be9aceff,Generic elephant-detection IoT prototype,Excluded as Railway IDS validation,Reviewed deployment identity was not established.,
-candidate-d6583065ac14cc63,NITI frontier-tech Qure.ai submission,Context only,Page explicitly disclaims endorsement/certification/validation; not an independent BMC evaluation.,
-candidate-d80388e98c44aae7,DCI Social Protection AI Hub Kisan e-Mitra entry,Related resource,"Existing structured use-case documentation; independent primary-source coding here, not an exclusive discovery.",
-sys-advait,ADVAIT,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-advait
-sys-askdisha,AskDISHA 2.0,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-askdisha
-sys-bharat-vistaar,Bharat-VISTAAR,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-bharat-vistaar
-sys-bhashini,BHASHINI language-AI services,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-bhashini
-sys-bmc-tb,BMC–Qure.ai AI-assisted TB screening pilot,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-bmc-tb
-sys-cyberguard,I4C CyberGuard,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-cyberguard
-sys-digiyatra,Digi Yatra,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-digiyatra
-sys-epaarvai,e-Paarvai,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-epaarvai
-sys-esanjeevani,eSanjeevani clinical decision support,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-esanjeevani
-sys-fest,RTA FEST,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-fest
-sys-insight,Project Insight,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-insight
-sys-kisan-emitra,Kisan e-Mitra,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-kisan-emitra
-sys-mahacrimeos,MahaCrimeOS investigation support,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-mahacrimeos
-sys-plcs,Pensioners Life Certificate through Selfie (PLCS),Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-plcs
-sys-rail-ids,Elephant Intrusion Detection System,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-rail-ids
-sys-supace,SUPACE research assistance,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-supace
-sys-suvas,SUVAS judicial translation,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-suvas
-sys-upsc,UPSC face authentication,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-upsc
+candidate_id,name,decision,reason,system_id,frame_id
+candidate-1475a931c03a1f8d,IndiaAI Impact Casebooks,Related resource,Sectoral India/global casebooks already exist; not proof of exclusive dataset novelty.,,
+candidate-29ddf4b8ded90bdb,"RailOne, Coach Mitra, GOAL, CCLMS and Track Management AI",Context / deferred,"Interview names related applications, but component/provider/version records not sufficiently resolved for additional rows in this round.",,frame-railways
+candidate-3c099ed05fbbcf3c,Digi Yatra RTI request,Context only,"Questions requested are not an authority reply, supplier award or operational evidence.",,
+candidate-424b43cc4dffdacf,TRI-Netra and AI drone OHE inspection,Context / deferred,Development descriptions retained in source/candidate register; current operational component identity not resolved in this round.,,frame-railways
+candidate-4830f2f4a294cae7,"AI courses, SOAR, SWAYAM and CoEs",Context / deferred,Teaching AI/capacity building is not evidence that course platforms use AI for public decisions.,,frame-education
+candidate-76b37d3dd2ce1443,Nigeria qXR clinical study,Excluded as Indian deployment validation,Different country and setting; cannot validate the BMC pilot.,,
+candidate-798bb7a54afd8049,AIKosh,Context only,Training-data repository is not coded as a public-service deployment unit.,,
+candidate-7f31f61459ce72be,e-Prosecution 2.0 and e-Forensics 2.0,Context / deferred,Launched applications are not automatically established AI deployments; do not infer from programme umbrella.,,frame-home
+candidate-7f6c538fdb884044,BharatGen,Not included in this seed,Model/programme announcement alone was not converted into a named institution/service deployment.,,
+candidate-80ee26f3994363bc,I4C suspect-scoring models,Context / deferred,"Exploratory models mentioned in report, not verified deployments or automatically CyberGuard components.",,frame-home
+candidate-84c0fd5cd36f726e,AI-enabled National Learning Operating System,Context / deferred,"Education-related DIC/MeitY EOI outside this administrative frame; proposed PPP, not an awarded/operational education-ministry deployment.",,frame-education
+candidate-8d8f857f5d899a67,WILD and OMRS,Context / deferred,"Monitoring technology mentioned under broad AI headline; per-system model-specific AI not established, and not every sensor is AI.",,frame-railways
+candidate-c11850f4e21c5a6b,Perplexity–AICTE access partnership,Context / deferred,Institutional onboarding documented; access/training programme not separately counted as an AI decision-system deployment.,,frame-education
+candidate-c1250331be9aceff,Generic elephant-detection IoT prototype,Excluded as Railway IDS validation,Reviewed deployment identity was not established.,,
+candidate-d20381e1f80d2e1c,AI health hotspots and handheld X-rays,Context / deferred,Official generic capability descriptions lack a uniquely resolved service/product/version for this registry unit.,,frame-health
+candidate-d6583065ac14cc63,NITI frontier-tech Qure.ai submission,Context only,Page explicitly disclaims endorsement/certification/validation; not an independent BMC evaluation.,,
+candidate-d80388e98c44aae7,DCI Social Protection AI Hub Kisan e-Mitra entry,Related resource,"Existing structured use-case documentation; independent primary-source coding here, not an exclusive discovery.",,
+candidate-eeffea1fc2e76e1e,AI/ML textbook translation,Context / deferred,Official use described; a uniquely identified continuing service/version not established in this round.,,frame-education
+candidate-fba75a79e654d576,SAHI,Context / deferred,"Governance strategy, not a clinical/service deployment or a completed evaluation.",,frame-health
+candidate-ffcc9ec64703b357,"Court e-filing defect detection, ADALAT AI and LESA",Context / deferred,"Related court/legal-service descriptions; individual deployment scope and institutional identity deferred, not counted as absent.",,frame-court
+sys-abhigyan,NCRB-Abhigyan,Included,"Named system found in fixed institutional documentary searches; AI attribution, qualified biometric context or evaluation infrastructure retained with explicit limits",sys-abhigyan,
+sys-advait,ADVAIT,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive seed selection,sys-advait,
+sys-askdisha,AskDISHA 2.0,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive seed selection,sys-askdisha,
+sys-bharat-vistaar,Bharat-VISTAAR,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive seed selection,sys-bharat-vistaar,
+sys-bhashini,BHASHINI language-AI services,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive seed selection,sys-bhashini,
+sys-bmc-tb,BMC–Qure.ai AI-assisted TB screening pilot,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive seed selection,sys-bmc-tb,
+sys-bodh,BODH health-AI benchmarking platform,Included,"Named system found in fixed institutional documentary searches; AI attribution, qualified biometric context or evaluation infrastructure retained with explicit limits",sys-bodh,
+sys-catb,Cough Against Tuberculosis (CATB),Included,"Named system found in fixed institutional documentary searches; AI attribution, qualified biometric context or evaluation infrastructure retained with explicit limits",sys-catb,
+sys-cctns2,CCTNS 2.0 AI components,Included,"Named system found in fixed institutional documentary searches; AI attribution, qualified biometric context or evaluation infrastructure retained with explicit limits",sys-cctns2,
+sys-cropic,CROPIC,Included,"Named system found in fixed institutional documentary searches; AI attribution, qualified biometric context or evaluation infrastructure retained with explicit limits",sys-cropic,
+sys-crpi,CrPI multimodal biometric application,Included,"Named system found in fixed institutional documentary searches; AI attribution, qualified biometric context or evaluation infrastructure retained with explicit limits",sys-crpi,
+sys-cyberguard,I4C CyberGuard,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive seed selection,sys-cyberguard,
+sys-digiyatra,Digi Yatra,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive seed selection,sys-digiyatra,
+sys-diksha,DIKSHA AI accessibility features,Included,"Named system found in fixed institutional documentary searches; AI attribution, qualified biometric context or evaluation infrastructure retained with explicit limits",sys-diksha,
+sys-ejaadui,e-Jaadui Pitara AI-bot service,Included,"Named system found in fixed institutional documentary searches; AI attribution, qualified biometric context or evaluation infrastructure retained with explicit limits",sys-ejaadui,
+sys-epaarvai,e-Paarvai,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive seed selection,sys-epaarvai,
+sys-esanjeevani,eSanjeevani clinical decision support,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive seed selection,sys-esanjeevani,
+sys-fest,RTA FEST,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive seed selection,sys-fest,
+sys-insight,Project Insight,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive seed selection,sys-insight,
+sys-itms,Integrated Track Monitoring System (ITMS),Included,"Named system found in fixed institutional documentary searches; AI attribution, qualified biometric context or evaluation infrastructure retained with explicit limits",sys-itms,
+sys-khushi,TB Mukt Bharat Khushi chatbot,Included,"Named system found in fixed institutional documentary searches; AI attribution, qualified biometric context or evaluation infrastructure retained with explicit limits",sys-khushi,
+sys-kisan-emitra,Kisan e-Mitra,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive seed selection,sys-kisan-emitra,
+sys-madhunetrai,MadhuNetrAI,Included,"Named system found in fixed institutional documentary searches; AI attribution, qualified biometric context or evaluation infrastructure retained with explicit limits",sys-madhunetrai,
+sys-mahacrimeos,MahaCrimeOS investigation support,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive seed selection,sys-mahacrimeos,
+sys-mds,Media Disease Surveillance under IDSP,Included,"Named system found in fixed institutional documentary searches; AI attribution, qualified biometric context or evaluation infrastructure retained with explicit limits",sys-mds,
+sys-mvis,Machine Vision Inspection System (MVIS),Included,"Named system found in fixed institutional documentary searches; AI attribution, qualified biometric context or evaluation infrastructure retained with explicit limits",sys-mvis,
+sys-npss,National Pest Surveillance System (NPSS),Included,"Named system found in fixed institutional documentary searches; AI attribution, qualified biometric context or evaluation infrastructure retained with explicit limits",sys-npss,
+sys-plcs,Pensioners Life Certificate through Selfie (PLCS),Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive seed selection,sys-plcs,
+sys-rail-ids,Elephant Intrusion Detection System,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive seed selection,sys-rail-ids,
+sys-rail-vss,Railway Video Surveillance System (VSS) AI analytics,Included,"Named system found in fixed institutional documentary searches; AI attribution, qualified biometric context or evaluation infrastructure retained with explicit limits",sys-rail-vss,
+sys-railmadad,RailMadad AI complaint prioritisation,Included,"Named system found in fixed institutional documentary searches; AI attribution, qualified biometric context or evaluation infrastructure retained with explicit limits",sys-railmadad,
+sys-supace,SUPACE research assistance,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive seed selection,sys-supace,
+sys-susahyak,SuSahayak court-information chatbot,Included,"Named system found in fixed institutional documentary searches; AI attribution, qualified biometric context or evaluation infrastructure retained with explicit limits",sys-susahyak,
+sys-suvas,SUVAS judicial translation,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive seed selection,sys-suvas,
+sys-teres,TERES judicial transcription,Included,"Named system found in fixed institutional documentary searches; AI attribution, qualified biometric context or evaluation infrastructure retained with explicit limits",sys-teres,
+sys-upsc,UPSC face authentication,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive seed selection,sys-upsc,

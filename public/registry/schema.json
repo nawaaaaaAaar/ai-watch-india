@@ -13,6 +13,8 @@
       "checked_date",
       "unit",
       "selection",
+      "frame_id",
+      "system_kind",
       "ai_class",
       "ai_class_basis"
     ],
@@ -76,7 +78,8 @@
       "metric_kind",
       "measurement_scope",
       "denominator",
-      "value_qualifier"
+      "value_qualifier",
+      "value_upper"
     ],
     "controls": [
       "control_id",
@@ -141,7 +144,48 @@
       "name",
       "decision",
       "reason",
-      "system_id"
+      "system_id",
+      "frame_id"
+    ],
+    "institution_coverage": [
+      "frame_id",
+      "institution_id",
+      "institution_name",
+      "checked_date",
+      "search_dimensions",
+      "base_queries",
+      "coverage_status",
+      "scope"
+    ],
+    "coverage_systems": [
+      "coverage_id",
+      "frame_id",
+      "system_id",
+      "relation"
+    ],
+    "source_rechecks": [
+      "recheck_id",
+      "source_id",
+      "checked_date",
+      "status",
+      "matched_excerpts",
+      "total_excerpts",
+      "cached_retry_matches",
+      "cached_retry_basis",
+      "initial_error",
+      "html_error",
+      "method",
+      "note",
+      "excerpts"
+    ],
+    "assertion_rechecks": [
+      "assertion_recheck_id",
+      "assertion_id",
+      "system_id",
+      "checked_date",
+      "status",
+      "method",
+      "linked_source_count"
     ]
   },
   "generic_link_rule": "evidence_links.record_type names a table; record_id matches its first-column primary key. Enforced by builder/tests; SQLite cannot express a polymorphic FK."

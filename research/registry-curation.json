@@ -1021,7 +1021,7 @@
       "fields": [
         {
           "status": "Documented",
-          "statement": "IRCTC's virtual assistant; current interface identifies an authorized partner.",
+          "statement": "IRCTC's historical report identifies the assistant. The earlier captured interface identified an authorized partner, but that label was not re-located during the later extraction recheck; current affiliation is not inferred from its absence.",
           "evidence": [
             {
               "source_id": "reg-irctc-report-mirror",

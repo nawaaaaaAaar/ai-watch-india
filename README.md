@@ -6,6 +6,14 @@ The website brand is **AI Watch**, with **India evidence desk** identifying the 
 
 ## Included in this release
 
+Dataset v1.1.0 adds a fixed six-institution documentary search frame, eighteen additional systems/services, explicit adjacent/deferred candidate decisions and a complete baseline source-availability recheck. The live release has 36 systems, 32 institution labels, 70 source records and all 432 assertion slots, distributed through 21 linked tables.
+
+The six coverage entries are five ministries (Agriculture, Health, Education, Home and Railways) plus the independent Supreme Court. Twenty-six systems are associated with them; ten earlier cases remain outside the frame as context. Completed standardized searches do not mean complete administrative inventories or a national census. The second round records 36 queries separately from the original 62.
+
+The source recheck preserves fresh retrieval failures and extraction mismatches separately from cached original text. It is not independent recoding. Start with `research/registry/INSTITUTION_STUDY.md`; the original v1.0 research note below remains historical context. No public launch, paid services or enquiries were undertaken.
+
+## Original linked-data release
+
 Institution-and-system dataset v1.0.0 is now the primary homepage and research direction:
 
 - Eighteen purposively selected systems/services and twenty-one source-named institutions, including historical, experimental and qualified biometric/analytics contexts. This is not a national census.

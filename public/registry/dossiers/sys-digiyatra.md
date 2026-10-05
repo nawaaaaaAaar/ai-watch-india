@@ -1,6 +1,6 @@
 # AI Watch: Digi Yatra
 
-India institution-and-system dataset v1.0.0. Checked 2026-10-05; analyst-coded documentary evidence, not an operational audit.
+India institution-and-system dataset v1.1.0. Checked 2026-10-05; analyst-coded documentary evidence, not an operational audit. System kind: Public-service system. Selection: Purposive exploratory seed.
 
 ## Owner & purpose
 

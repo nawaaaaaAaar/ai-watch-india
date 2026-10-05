@@ -1,0 +1,16 @@
+Railway AI and smart monitoring parliamentary explanation
+Original: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2238772&reg=3&lang=2
+Document date: 2026-03-12
+Source type: Official parliamentary explanation
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+This system comprises of optical cameras, infra-red camera and ranging devices (e.g. Radar/Lidar) & Al to create a real-time, enhanced vision system for assisting Loco pilots.
+
+Three (03) MVIS have been installed in Northeast Frontier Railway, two (02) in Dedicated Freight Corridor Corporation of India Limited (DFCCIL) and one (01) in South East Central Railway on pilot basis for freight stock.
+
+Presently three (03) ITMS are deployed for track recording and monitoring of IR track.
+
+The ITMS utilizes machine learning and image processing to monitor and detect defects in railway track components such as rails, sleepers, and fastenings.
+
+MVIS is an Artificial Intelligence (AI)/ Machine Learning (ML) based system which generates alerts on detecting any hanging, loose or missing components of moving trains.

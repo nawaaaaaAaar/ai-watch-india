@@ -1,0 +1,14 @@
+AI in Education government backgrounder
+Original: https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2234853&reg=3&lang=1
+Document date: 2026-03-03
+Source type: Government backgrounder
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+DIKSHA (Digital Infrastructure for Knowledge Sharing), a Ministry of Education initiative, uses AI for inclusivity: AI-based keyword search in videos and read-aloud feature for visually impaired students.
+
+There is also student access to the Perplexity website/app through institutional onboarding.
+
+The purpose of the project is for students to explore how AI tools can support research, innovation and real-world applications.
+
+NCERT has incorporated AI content in Class XI Computer Science and Informatics Practices textbooks and used AI/ML to translate Grade 1-2 textbooks into 22 Indian languages.

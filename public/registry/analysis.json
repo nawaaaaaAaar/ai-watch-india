@@ -1,20 +1,22 @@
 {
-  "scope": "18 purposively selected named systems/services, historical and experimental cases included. Not a census, representative sample or operational/legal audit.",
+  "scope": "36 named systems/services: 18 purposive seed cases plus 18 fixed-institution-frame documentary additions. Six coverage institutions, not a census or representative national sample; historical, experimental and evaluation-infrastructure units distinguished.",
   "coverage_status": {
-    "Documented": 53,
-    "Not verified": 62,
-    "Partial": 99,
-    "Conflicting sources": 2
+    "Documented": 89,
+    "Partial": 181,
+    "Not verified": 159,
+    "Conflicting sources": 3
   },
   "ai_qualification": {
-    "Explicit source attribution": 14,
-    "Qualified algorithmic / biometric context": 4
+    "Qualified algorithmic / biometric context": 6,
+    "Explicit source attribution": 29,
+    "AI evaluation infrastructure": 1
   },
   "metrics_by_kind": {
-    "Usage self-report": 3,
+    "Usage self-report": 4,
     "Study measurement": 5,
     "Multi-intervention outcome self-report": 1,
     "Reported clinical workflow count": 1,
+    "Official outcome claim; evaluation protocol unavailable": 1,
     "Specification threshold": 1,
     "Case-study claim; protocol unavailable": 1
   },

@@ -8,10 +8,13 @@ deployments-59fe859d55fa9538,sys-askdisha,2021-09-06,day,Historical enquiry serv
 deployments-5e84ac7c3ff8cfa5,sys-digiyatra,2026-05-30,day,Reported operational,38 airports,Official May coverage; not later October coverage.,
 deployments-6475653e5d94f6e2,sys-bhashini,2026-09-30,day,Launch reported,Comptroller and Auditor General of India,CAG-BHASHINI Anuvaad named launch; no completed output audit.,Comptroller and Auditor General of India
 deployments-6901786729fd58b0,sys-kisan-emitra,2023,year,Launch reported,India,Launch year only; exact day not assigned from an unreviewed source.,
+deployments-7144d2a1f7ccb5e0,sys-npss,2024-08-15,day,Launch reported,India,Launch date is stated; October site-by-site availability not audited.,
 deployments-786bad966d204f6f,sys-bhashini,2026-07-02,day,Reported operational,India government services,"Platform-level activity, not 800 separately inventoried deployments.",
 deployments-7952e3be2323ed68,sys-bmc-tb,2021–2022,range,Historical pilot reported,"Nine BMC hospitals, Mumbai",Attributed reporting; current operation and exact software version not verified.,
 deployments-8213742751a2bbad,sys-supace,,Mixed dates in source-backed narrative; not assigned one go-live date,Experimental in reviewed official record,India,"The February official source describes experimental status and no regular judicial use, rather than completed deployment.",
+deployments-9f0b5d0a30b69e71,sys-madhunetrai,2025-12-16,day,AFMS pilot programme launched; seven sites planned,AFMS named locations,Future site implementation not treated as all seven operational.,
 deployments-b1b678169d746237,sys-insight,2017-05,month,Expected launch,Income Tax Department,Expected first phase only; not treated as achieved date.,
+deployments-b2b5bb1a2b26dd42,sys-bharat-vistaar,2026-07-24,day,Channel-specific service use reported,India,July reply reports two telephone languages versus ten digital-channel languages.,
 deployments-c505f5f2bee4deb6,sys-suvas,,Mixed dates in source-backed narrative; not assigned one go-live date,Official use reported,India,The February official explanation reports use and hosting on e-SCR; current court-by-court coverage is not certified.,
 deployments-e3e4727c3fa5f5f6,sys-rail-ids,2026-02-04,day,Reported operational,Northeast Frontier Railway: 141 route-km,Sanctioned work elsewhere is not counted as completed working extent.,
 deployments-ea50e046c34fac09,sys-askdisha,,undated,Service interface observed,IRCTC–CoRover interface,Observed 5 October 2026; no booking was submitted.,

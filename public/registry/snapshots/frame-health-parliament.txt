@@ -1,0 +1,14 @@
+Public healthcare AI deployment parliamentary answer
+Original: https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS186_TDs0LP.pdf?source=lsapps
+Document date: 2026-07-31
+Source type: Official parliamentary answer
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Media Disease Surveillance under Integrated Disease Surveillance Program (IDSP) to enable early detection and monitoring of disease outbreaks
+
+TB Mukt Bharat App, featuring the AI-powered Khushi Chatbot that provides medication reminders, treatment guidance, adherence support, follow-up assistance, and nutritional and psychosocial support for TB patients.
+
+Central Drugs Standard Control Organisation (CDSCO) also regulates use of AI in health as medical device software under the Drug & Cosmetic Act of 1940 and Medical Device Rules 2017.
+
+These AI solutions are operational in collaboration with central and state health institutions across the country.

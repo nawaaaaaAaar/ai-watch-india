@@ -1,0 +1,12 @@
+Railway AI-enabled applications interview
+Original: https://indianexpress.com/article/business/indian-railways-ai-integration-railmadad-railone-coach-mitra-10543224/
+Document date: 2026-02-20
+Source type: News interview with CRIS managing director
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+We have integrated Bhashini to convert voice in 12 languages to text.
+
+It also identifies the complaint trends and gauges the passenger sentiment for proactive action
+
+It classifies and prioritises the complaints based on urgency and type

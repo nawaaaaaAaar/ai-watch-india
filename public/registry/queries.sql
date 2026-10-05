@@ -30,3 +30,19 @@ WHERE a.field='Complaints & appeal' AND a.evidence_status='Not verified';
 -- Distinct system count; never count evidence links as deployments.
 SELECT ai_class, COUNT(DISTINCT system_id) AS selected_systems
 FROM systems GROUP BY ai_class;
+
+-- Fixed coverage frame; documentary association, not administrative ownership.
+SELECT f.institution_name, COUNT(DISTINCT c.system_id) AS included_records,
+       f.coverage_status
+FROM institution_coverage f
+LEFT JOIN coverage_systems c USING(frame_id)
+GROUP BY f.frame_id;
+
+-- Fresh source availability is distinct from cached original extraction.
+SELECT s.title, r.status, r.matched_excerpts, r.total_excerpts,
+       r.cached_retry_matches, r.cached_retry_basis
+FROM source_rechecks r JOIN sources s USING(source_id)
+ORDER BY r.status, s.title;
+
+-- Do not combine clinical deployments and evaluation infrastructure.
+SELECT system_kind, COUNT(*) FROM systems GROUP BY system_kind;

@@ -1,0 +1,16 @@
+CROPIC app and data-safety declarations
+Original: https://play.google.com/store/apps/details?id=com.application.pmfby.cropic&hl=en_US
+Document date: 2026-05-07
+Source type: Government developer app listing
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+CROPIC is an innovative initiative introduced by the Ministry of Agriculture & Farmers Welfare, Government of India, under the umbrella of the Pradhan Mantri Fasal Bima Yojana (PMFBY).
+
+help.agri-insurance@gov.in
+
+Images and basic metadata (location, date, time, crop name) are uploaded through the CROPIC mobile app.
+
+No data collected
+
+These images are analyzed by AI models to detect the type of crop, its current growth stage, and signs of biotic or abiotic stress.

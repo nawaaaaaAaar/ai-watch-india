@@ -1,0 +1,10 @@
+CCTNS 2.0 contemplated AI tools
+Original: https://government.economictimes.indiatimes.com/news/technology/cctns-20-indias-police-network-to-use-ai-for-crime-prediction-and-criminal-profiling/129942598
+Document date: 2026-04-01
+Source type: News report of parliamentary submission
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Another tool that is being contemplated is the integration of automatic prediction tool which can identify acts and section from FIR content using custom trained AI-LLM model
+
+Artificial intelligence tools will be integrated in the under-development second version of the Crime and Criminal Tracking Network & Systems

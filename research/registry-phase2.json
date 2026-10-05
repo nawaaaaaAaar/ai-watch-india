@@ -1,0 +1,3424 @@
+{
+  "sources": [
+    {
+      "source_id": "frame-agri-impact",
+      "title": "Agriculture AI use and impact-assessment parliamentary answer",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2289031&reg=3&lang=1",
+      "source_type": "Official parliamentary explanation",
+      "published_date": "2026-07-24",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "utilizes AI and Machine Learning to detect pest infestation in crop issues, enabling timely intervention for healthier crops.",
+        "This tool, currently used by over 10,000 extension workers, allows farmers to capture images of pests",
+        "At present, it supports 73 crops over 436 pests.",
+        "No specific assessment has been undertaken by the Government to comprehensively evaluate the impact of AI-based technologies.",
+        "At present, BharatVistaar Telephone service is available in 2 languages, i.e. Hindi and English; however, the chatbot, web portal, and mobile application are available in 10 languages.",
+        "As on date, the platform has served over 3 lakh farmers and addressed more than 72 lakh farmer queries."
+      ]
+    },
+    {
+      "source_id": "frame-npss",
+      "title": "NPSS launch and advisory parliamentary explanation",
+      "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2114896",
+      "source_type": "Official parliamentary explanation",
+      "published_date": null,
+      "date_basis": "Exact publication date not established; do not assign retrieval date",
+      "quotes": [
+        "The National Pest Surveillance System (NPSS) has been launched on 15th August, 2024",
+        "It includes a user-friendly mobile app and a portal for identification of pests and disease mitigation.",
+        "NPSS is currently available in four languages namely English, Hindi, Marathi and Punjabi."
+      ]
+    },
+    {
+      "source_id": "frame-npss-project",
+      "title": "NPSS project description",
+      "url": "https://npss.dac.gov.in/app/assets/files/aboutproject.pdf",
+      "source_type": "Institutional project document",
+      "published_date": null,
+      "date_basis": "Exact publication date not established; do not assign retrieval date",
+      "quotes": [
+        "Report Duration : Jan, 2022–Dec, 2024",
+        "Funded by : Department of Agriculture & Farmers Welfare, Ministry Of Agriculture & Farmers Welfare, GOI"
+      ]
+    },
+    {
+      "source_id": "frame-cropic",
+      "title": "CROPIC app and data-safety declarations",
+      "url": "https://play.google.com/store/apps/details?id=com.application.pmfby.cropic&hl=en_US",
+      "source_type": "Government developer app listing",
+      "published_date": "2026-05-07",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "CROPIC is an innovative initiative introduced by the Ministry of Agriculture & Farmers Welfare, Government of India, under the umbrella of the Pradhan Mantri Fasal Bima Yojana (PMFBY).",
+        "These images are analyzed by AI models to detect the type of crop, its current growth stage, and signs of biotic or abiotic stress.",
+        "Images and basic metadata (location, date, time, crop name) are uploaded through the CROPIC mobile app.",
+        "No data collected",
+        "help.agri-insurance@gov.in"
+      ]
+    },
+    {
+      "source_id": "frame-ejaadui",
+      "title": "NCERT e-Jaadui Pitara service portal",
+      "url": "https://ejaaduipitara.ncert.gov.in/",
+      "source_type": "Government service portal",
+      "published_date": null,
+      "date_basis": "Exact publication date not established; do not assign retrieval date",
+      "quotes": [
+        "AI powered Bots that give just in time assistance to parents and teachers in engaging with children.",
+        "Access them on both WhatsApp and Telegram.",
+        "Easy to use Mobile App provides quick and convenient access to a diverse variety of content to Parents and Teachers"
+      ]
+    },
+    {
+      "source_id": "frame-education-current",
+      "title": "AI in Education government backgrounder",
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2234853&reg=3&lang=1",
+      "source_type": "Government backgrounder",
+      "published_date": "2026-03-03",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "DIKSHA (Digital Infrastructure for Knowledge Sharing), a Ministry of Education initiative, uses AI for inclusivity: AI-based keyword search in videos and read-aloud feature for visually impaired students.",
+        "NCERT has incorporated AI content in Class XI Computer Science and Informatics Practices textbooks and used AI/ML to translate Grade 1-2 textbooks into 22 Indian languages.",
+        "There is also student access to the Perplexity website/app through institutional onboarding.",
+        "The purpose of the project is for students to explore how AI tools can support research, innovation and real-world applications."
+      ]
+    },
+    {
+      "source_id": "frame-madhunetrai",
+      "title": "Health AI diagnostics parliamentary explanation",
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2199422&reg=3&lang=1",
+      "source_type": "Official parliamentary explanation",
+      "published_date": "2025-12-05",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "MadhuNetrAI (DR identification solution) is an AI solution developed to enable non-specialist health workers to conduct screenings for Diabetic Retinopathy.",
+        "It classifies DR across standard grades, enabling optimized resource allocation by prioritizing urgent cases for specialist referral.",
+        "The solution has been implemented across 38 facilities in 11 states and provided AI assistance during screening of more than 14,000 retinal images, benefiting 7,100 patients.",
+        "Under the Tuberculosis elimination program, ‘Cough against TB’ (CATB) AI solution is used for screening for pulmonary TB in the community settings.",
+        "In the deployed geographies, the solution has shown an additional yield of 12-16% in TB reported, over patient screenings using conventional methods.",
+        "Between March 2023 and 30th November 2025, CATB solution has been utilized to screen more than 1.62 lakh individuals."
+      ]
+    },
+    {
+      "source_id": "frame-madhunetrai-pilot",
+      "title": "AFMS MadhuNetrAI programme launch",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2204763&reg=3&lang=1",
+      "source_type": "Government programme statement",
+      "published_date": "2025-12-16",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "Anchored by MadhuNetrAI, the programme is a web-based Artificial Intelligence tool developed by the Dr. Rajendra Prasad Centre for Ophthalmic Sciences (RPC).",
+        "As part of the pilot phase, the Armed Forces Medical Services (AFMS) will implement the initiative at seven locations",
+        "cases of vision-threatening Diabetic Retinopathy will be referred to vitreo-retina specialists at designated District Hospitals."
+      ]
+    },
+    {
+      "source_id": "frame-health-parliament",
+      "title": "Public healthcare AI deployment parliamentary answer",
+      "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS186_TDs0LP.pdf?source=lsapps",
+      "source_type": "Official parliamentary answer",
+      "published_date": "2026-07-31",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "Media Disease Surveillance under Integrated Disease Surveillance Program (IDSP) to enable early detection and monitoring of disease outbreaks",
+        "TB Mukt Bharat App, featuring the AI-powered Khushi Chatbot that provides medication reminders, treatment guidance, adherence support, follow-up assistance, and nutritional and psychosocial support for TB patients.",
+        "These AI solutions are operational in collaboration with central and state health institutions across the country.",
+        "Central Drugs Standard Control Organisation (CDSCO) also regulates use of AI in health as medical device software under the Drug & Cosmetic Act of 1940 and Medical Device Rules 2017."
+      ]
+    },
+    {
+      "source_id": "frame-health-sahi",
+      "title": "SAHI and BODH launch",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2229226&reg=3&lang=1",
+      "source_type": "Government programme statement",
+      "published_date": "2026-02-17",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "BODH (Benchmarking Open Data Platform for Health AI), developed by the Indian Institute of Technology Kanpur in collaboration with the National Health Authority, will enable systematic evaluation of AI models using diverse, anonymized real-world health datasets.",
+        "The platform is designed to assess performance, robustness, bias, and generalizability of AI systems before their deployment at population scale."
+      ]
+    },
+    {
+      "source_id": "frame-abhigyan",
+      "title": "NCRB applications and fingerprint conference launch",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2275306&reg=3&lang=1",
+      "source_type": "Government programme statement",
+      "published_date": "2026-06-19",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "NCRB-Abhigyan – This mobile application enables field police personnel to search the National Fingerprint Database from any location using a certified fingerprint scanner to identify a suspect through fingerprint matching.",
+        "CrPI Application – This system integrates facial recognition, iris matching, and DNA matching capabilities."
+      ]
+    },
+    {
+      "source_id": "frame-home-cctns",
+      "title": "CCTNS 2.0 contemplated AI tools",
+      "url": "https://government.economictimes.indiatimes.com/news/technology/cctns-20-indias-police-network-to-use-ai-for-crime-prediction-and-criminal-profiling/129942598",
+      "source_type": "News report of parliamentary submission",
+      "published_date": "2026-04-01",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "Artificial intelligence tools will be integrated in the under-development second version of the Crime and Criminal Tracking Network & Systems",
+        "Another tool that is being contemplated is the integration of automatic prediction tool which can identify acts and section from FIR content using custom trained AI-LLM model"
+      ]
+    },
+    {
+      "source_id": "frame-cctns-timeline",
+      "title": "CCTNS 2.0 government backgrounder",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2275007",
+      "source_type": "Government backgrounder",
+      "published_date": "2026-06-19",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "The revamped CCTNS 2.0 with AI-powered ecosystem that connects all 17,798 police stations across India was launched in the year 2024."
+      ]
+    },
+    {
+      "source_id": "frame-rail-ai-primary",
+      "title": "Railway AI and smart monitoring parliamentary explanation",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2238772&reg=3&lang=2",
+      "source_type": "Official parliamentary explanation",
+      "published_date": "2026-03-12",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "MVIS is an Artificial Intelligence (AI)/ Machine Learning (ML) based system which generates alerts on detecting any hanging, loose or missing components of moving trains.",
+        "Three (03) MVIS have been installed in Northeast Frontier Railway, two (02) in Dedicated Freight Corridor Corporation of India Limited (DFCCIL) and one (01) in South East Central Railway on pilot basis for freight stock.",
+        "The ITMS utilizes machine learning and image processing to monitor and detect defects in railway track components such as rails, sleepers, and fastenings.",
+        "Presently three (03) ITMS are deployed for track recording and monitoring of IR track.",
+        "This system comprises of optical cameras, infra-red camera and ranging devices (e.g. Radar/Lidar) & Al to create a real-time, enhanced vision system for assisting Loco pilots."
+      ]
+    },
+    {
+      "source_id": "frame-rail-security",
+      "title": "Railway AI video surveillance expansion",
+      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2249823&reg=3&lang=1",
+      "source_type": "Government deployment statement",
+      "published_date": "2026-04-07",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "Indian Railways has expanded its Video Surveillance System (VSS) across 1,874 railway stations.",
+        "The system is equipped with advanced AI-based Video Analytics for automated detection of events such as intrusion and loitering, along with Facial Recognition Software for real-time identification and monitoring."
+      ]
+    },
+    {
+      "source_id": "frame-rail-madad",
+      "title": "Railway AI-enabled applications interview",
+      "url": "https://indianexpress.com/article/business/indian-railways-ai-integration-railmadad-railone-coach-mitra-10543224/",
+      "source_type": "News interview with CRIS managing director",
+      "published_date": "2026-02-20",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "It classifies and prioritises the complaints based on urgency and type",
+        "We have integrated Bhashini to convert voice in 12 languages to text.",
+        "It also identifies the complaint trends and gauges the passenger sentiment for proactive action"
+      ]
+    },
+    {
+      "source_id": "frame-susahyak",
+      "title": "Supreme Court SuSahayak service interface",
+      "url": "https://www.sci.gov.in/",
+      "source_type": "Court service portal",
+      "published_date": null,
+      "date_basis": "Exact publication date not established; do not assign retrieval date",
+      "quotes": [
+        "SuSahayak",
+        "AI Assistant Powered by VANI",
+        "Developed by NIC for Supreme Court of India",
+        "All the contents of this Chatbot are only for general information or use. They do not constitute advice and should not be relied upon in making (or refraining from making) any decision.",
+        "In case of any omission or discrepancy, information in the original records will be final and binding."
+      ]
+    },
+    {
+      "source_id": "frame-court-guidelines",
+      "title": "Supreme Court white paper on judicial AI",
+      "url": "https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2025/11/2025112244.pdf",
+      "source_type": "Court research white paper",
+      "published_date": null,
+      "date_basis": "Exact publication date not established; do not assign retrieval date",
+      "quotes": [
+        "AI-based transcription tools are being used in the Supreme Court to automatically capture and convert oral arguments, particularly before Constitution Benches, into real-time text displayed on courtroom screens.",
+        "These live transcripts are then uploaded to the Court’s website, enabling lawyers, litigants, researchers, and the wider public to access an authoritative and contemporaneous record of hearings",
+        "AI-based transcription (TERES)"
+      ]
+    },
+    {
+      "source_id": "frame-court-tender",
+      "title": "Supreme Court AI transcription RFP",
+      "url": "https://main.sci.gov.in/pdf/TN/23052023_062513.pdf",
+      "source_type": "Court procurement specification",
+      "published_date": "2023-05-23",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "The transcription of arguments generated through AI, machine learning and deep learning solution and tools must be proof-read by qualified transcribers as the first line and thereafter by reviewers",
+        "remove any typographical errors, mistakes before forwarding the final version transcription to the Registry."
+      ]
+    },
+    {
+      "source_id": "frame-education-tender",
+      "title": "DIC AI-enabled National Learning Operating System EOI",
+      "url": "https://dic.gov.in/add_tender/expression-of-interest-eoi-for-ai-enabled-edtech-platform-for-national-learning-operating-system/",
+      "source_type": "Government expression of interest",
+      "published_date": "2026-05-14",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "Digital India Corporation (DIC), under the Ministry of Electronics and Information Technology (MeitY), Government of India, invites Expressions of Interest (EoI)-cum-Market Assessment",
+        "development, customization, deployment, and maintenance of an AI-Enabled National Learning Operating System under a Build-Operate-Transfer (BOT) Public-Private Partnership (PPP) model."
+      ]
+    }
+  ],
+  "profiles": [
+    {
+      "system_id": "sys-npss",
+      "name": "National Pest Surveillance System (NPSS)",
+      "owner": "Department of Agriculture and Farmers Welfare",
+      "sector": "Agricultural advisory",
+      "jurisdiction": "India",
+      "stage": "Official use reported",
+      "latest_record_date": null,
+      "ai_basis": "Explicit AI attribution in reviewed source; not independent validation",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "Department of Agriculture and Farmers Welfare; National Pest Surveillance System (NPSS).",
+          "evidence": [
+            {
+              "source_id": "frame-agri-impact",
+              "quote": "utilizes AI and Machine Learning to detect pest infestation in crop issues, enabling timely intervention for healthier crops.",
+              "locator": "Reviewed passage 1: Agriculture AI use and impact-assessment parliamentary answer"
+            },
+            {
+              "source_id": "frame-agri-impact",
+              "quote": "This tool, currently used by over 10,000 extension workers, allows farmers to capture images of pests",
+              "locator": "Reviewed passage 2: Agriculture AI use and impact-assessment parliamentary answer"
+            },
+            {
+              "source_id": "frame-npss",
+              "quote": "It includes a user-friendly mobile app and a portal for identification of pests and disease mitigation.",
+              "locator": "Reviewed passage 2: NPSS launch and advisory parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Crop/pest identification and advisory for farmers and extension workers. Actual adverse-decision and override pathways were not operationally tested.",
+          "evidence": [
+            {
+              "source_id": "frame-agri-impact",
+              "quote": "utilizes AI and Machine Learning to detect pest infestation in crop issues, enabling timely intervention for healthier crops.",
+              "locator": "Reviewed passage 1: Agriculture AI use and impact-assessment parliamentary answer"
+            },
+            {
+              "source_id": "frame-agri-impact",
+              "quote": "This tool, currently used by over 10,000 extension workers, allows farmers to capture images of pests",
+              "locator": "Reviewed passage 2: Agriculture AI use and impact-assessment parliamentary answer"
+            },
+            {
+              "source_id": "frame-npss",
+              "quote": "It includes a user-friendly mobile app and a portal for identification of pests and disease mitigation.",
+              "locator": "Reviewed passage 2: NPSS launch and advisory parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Official use reported; source date is not automatically a precise go-live or evidence of October availability.",
+          "evidence": [
+            {
+              "source_id": "frame-agri-impact",
+              "quote": "utilizes AI and Machine Learning to detect pest infestation in crop issues, enabling timely intervention for healthier crops.",
+              "locator": "Reviewed passage 1: Agriculture AI use and impact-assessment parliamentary answer"
+            },
+            {
+              "source_id": "frame-agri-impact",
+              "quote": "This tool, currently used by over 10,000 extension workers, allows farmers to capture images of pests",
+              "locator": "Reviewed passage 2: Agriculture AI use and impact-assessment parliamentary answer"
+            },
+            {
+              "source_id": "frame-npss",
+              "quote": "It includes a user-friendly mobile app and a portal for identification of pests and disease mitigation.",
+              "locator": "Reviewed passage 2: NPSS launch and advisory parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current executed supplier award and complete processor/subcontractor chain were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "The project identifies DA&FW funding; no system-specific awarded amount/spending established.",
+          "evidence": [
+            {
+              "source_id": "frame-npss-project",
+              "quote": "Funded by : Department of Agriculture & Farmers Welfare, Ministry Of Agriculture & Farmers Welfare, GOI",
+              "locator": "Reviewed passage 2: NPSS project description"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Farmer images, mobile app and pest advisory portal. Current model/version and complete live data-flow not verified.",
+          "evidence": [
+            {
+              "source_id": "frame-agri-impact",
+              "quote": "utilizes AI and Machine Learning to detect pest infestation in crop issues, enabling timely intervention for healthier crops.",
+              "locator": "Reviewed passage 1: Agriculture AI use and impact-assessment parliamentary answer"
+            },
+            {
+              "source_id": "frame-agri-impact",
+              "quote": "This tool, currently used by over 10,000 extension workers, allows farmers to capture images of pests",
+              "locator": "Reviewed passage 2: Agriculture AI use and impact-assessment parliamentary answer"
+            },
+            {
+              "source_id": "frame-npss",
+              "quote": "It includes a user-friendly mobile app and a portal for identification of pests and disease mitigation.",
+              "locator": "Reviewed passage 2: NPSS launch and advisory parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Ministry says no comprehensive AI-impact assessment was undertaken; this is not proof that no NPSS model test exists.",
+          "evidence": [
+            {
+              "source_id": "frame-agri-impact",
+              "quote": "No specific assessment has been undertaken by the Government to comprehensively evaluate the impact of AI-based technologies.",
+              "locator": "Reviewed passage 4: Agriculture AI use and impact-assessment parliamentary answer"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific human-review/override SOP and its implementation not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific data retention/access controls and their enforcement not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific appeal procedure and remedy outcomes not established.",
+          "evidence": []
+        },
+        {
+          "status": "Documented",
+          "statement": "Original institutional/service records linked; full binaries and personal data not mirrored.",
+          "evidence": [
+            {
+              "source_id": "frame-agri-impact",
+              "quote": "utilizes AI and Machine Learning to detect pest infestation in crop issues, enabling timely intervention for healthier crops.",
+              "locator": "Reviewed passage 1: Agriculture AI use and impact-assessment parliamentary answer"
+            },
+            {
+              "source_id": "frame-agri-impact",
+              "quote": "This tool, currently used by over 10,000 extension workers, allows farmers to capture images of pests",
+              "locator": "Reviewed passage 2: Agriculture AI use and impact-assessment parliamentary answer"
+            },
+            {
+              "source_id": "frame-npss",
+              "quote": "It includes a user-friendly mobile app and a portal for identification of pests and disease mitigation.",
+              "locator": "Reviewed passage 2: NPSS launch and advisory parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Documentary attribution only; claims do not establish independent performance, complete rollout or legal compliance.",
+          "evidence": [
+            {
+              "source_id": "frame-agri-impact",
+              "quote": "utilizes AI and Machine Learning to detect pest infestation in crop issues, enabling timely intervention for healthier crops.",
+              "locator": "Reviewed passage 1: Agriculture AI use and impact-assessment parliamentary answer"
+            },
+            {
+              "source_id": "frame-agri-impact",
+              "quote": "This tool, currently used by over 10,000 extension workers, allows farmers to capture images of pests",
+              "locator": "Reviewed passage 2: Agriculture AI use and impact-assessment parliamentary answer"
+            },
+            {
+              "source_id": "frame-npss",
+              "quote": "It includes a user-friendly mobile app and a portal for identification of pests and disease mitigation.",
+              "locator": "Reviewed passage 2: NPSS launch and advisory parliamentary explanation"
+            }
+          ]
+        }
+      ],
+      "frame_id": "frame-agriculture",
+      "system_kind": "Public-service system"
+    },
+    {
+      "system_id": "sys-cropic",
+      "name": "CROPIC",
+      "owner": "Department of Agriculture and Farmers Welfare",
+      "sector": "Crop insurance and monitoring",
+      "jurisdiction": "India",
+      "stage": "Service app listed; actual rollout not independently verified",
+      "latest_record_date": null,
+      "ai_basis": "Explicit AI attribution in reviewed source; not independent validation",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "Department of Agriculture and Farmers Welfare; CROPIC.",
+          "evidence": [
+            {
+              "source_id": "frame-cropic",
+              "quote": "CROPIC is an innovative initiative introduced by the Ministry of Agriculture & Farmers Welfare, Government of India, under the umbrella of the Pradhan Mantri Fasal Bima Yojana (PMFBY).",
+              "locator": "Reviewed passage 1: CROPIC app and data-safety declarations"
+            },
+            {
+              "source_id": "frame-cropic",
+              "quote": "These images are analyzed by AI models to detect the type of crop, its current growth stage, and signs of biotic or abiotic stress.",
+              "locator": "Reviewed passage 2: CROPIC app and data-safety declarations"
+            },
+            {
+              "source_id": "frame-cropic",
+              "quote": "Images and basic metadata (location, date, time, crop name) are uploaded through the CROPIC mobile app.",
+              "locator": "Reviewed passage 3: CROPIC app and data-safety declarations"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Crop monitoring and insurance assessment support; final claim adjudication not established. Actual adverse-decision and override pathways were not operationally tested.",
+          "evidence": [
+            {
+              "source_id": "frame-cropic",
+              "quote": "CROPIC is an innovative initiative introduced by the Ministry of Agriculture & Farmers Welfare, Government of India, under the umbrella of the Pradhan Mantri Fasal Bima Yojana (PMFBY).",
+              "locator": "Reviewed passage 1: CROPIC app and data-safety declarations"
+            },
+            {
+              "source_id": "frame-cropic",
+              "quote": "These images are analyzed by AI models to detect the type of crop, its current growth stage, and signs of biotic or abiotic stress.",
+              "locator": "Reviewed passage 2: CROPIC app and data-safety declarations"
+            },
+            {
+              "source_id": "frame-cropic",
+              "quote": "Images and basic metadata (location, date, time, crop name) are uploaded through the CROPIC mobile app.",
+              "locator": "Reviewed passage 3: CROPIC app and data-safety declarations"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Service app listed; actual rollout not independently verified; source date is not automatically a precise go-live or evidence of October availability.",
+          "evidence": [
+            {
+              "source_id": "frame-cropic",
+              "quote": "CROPIC is an innovative initiative introduced by the Ministry of Agriculture & Farmers Welfare, Government of India, under the umbrella of the Pradhan Mantri Fasal Bima Yojana (PMFBY).",
+              "locator": "Reviewed passage 1: CROPIC app and data-safety declarations"
+            },
+            {
+              "source_id": "frame-cropic",
+              "quote": "These images are analyzed by AI models to detect the type of crop, its current growth stage, and signs of biotic or abiotic stress.",
+              "locator": "Reviewed passage 2: CROPIC app and data-safety declarations"
+            },
+            {
+              "source_id": "frame-cropic",
+              "quote": "Images and basic metadata (location, date, time, crop name) are uploaded through the CROPIC mobile app.",
+              "locator": "Reviewed passage 3: CROPIC app and data-safety declarations"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current executed supplier award and complete processor/subcontractor chain were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific allocation, awarded amount and expenditure not established. Programme totals are not assigned to this system.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Geo-tagged photographs and metadata uploaded for AI crop/growth/stress analysis. Current model/version and complete live data-flow not verified.",
+          "evidence": [
+            {
+              "source_id": "frame-cropic",
+              "quote": "CROPIC is an innovative initiative introduced by the Ministry of Agriculture & Farmers Welfare, Government of India, under the umbrella of the Pradhan Mantri Fasal Bima Yojana (PMFBY).",
+              "locator": "Reviewed passage 1: CROPIC app and data-safety declarations"
+            },
+            {
+              "source_id": "frame-cropic",
+              "quote": "These images are analyzed by AI models to detect the type of crop, its current growth stage, and signs of biotic or abiotic stress.",
+              "locator": "Reviewed passage 2: CROPIC app and data-safety declarations"
+            },
+            {
+              "source_id": "frame-cropic",
+              "quote": "Images and basic metadata (location, date, time, crop name) are uploaded through the CROPIC mobile app.",
+              "locator": "Reviewed passage 3: CROPIC app and data-safety declarations"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; a current-version independent evaluation, error/subgroup distribution and reproducible benchmark were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific human-review/override SOP and its implementation not established.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Listing declares no data collected while describing image/metadata upload; a developer-declaration tension, not a proven privacy violation.",
+          "evidence": [
+            {
+              "source_id": "frame-cropic",
+              "quote": "Images and basic metadata (location, date, time, crop name) are uploaded through the CROPIC mobile app.",
+              "locator": "Reviewed passage 3: CROPIC app and data-safety declarations"
+            },
+            {
+              "source_id": "frame-cropic",
+              "quote": "No data collected",
+              "locator": "Reviewed passage 4: CROPIC app and data-safety declarations"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "App support email published, not an established AI-error appeal or remedy outcome.",
+          "evidence": [
+            {
+              "source_id": "frame-cropic",
+              "quote": "help.agri-insurance@gov.in",
+              "locator": "Reviewed passage 5: CROPIC app and data-safety declarations"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "Original institutional/service records linked; full binaries and personal data not mirrored.",
+          "evidence": [
+            {
+              "source_id": "frame-cropic",
+              "quote": "CROPIC is an innovative initiative introduced by the Ministry of Agriculture & Farmers Welfare, Government of India, under the umbrella of the Pradhan Mantri Fasal Bima Yojana (PMFBY).",
+              "locator": "Reviewed passage 1: CROPIC app and data-safety declarations"
+            },
+            {
+              "source_id": "frame-cropic",
+              "quote": "These images are analyzed by AI models to detect the type of crop, its current growth stage, and signs of biotic or abiotic stress.",
+              "locator": "Reviewed passage 2: CROPIC app and data-safety declarations"
+            },
+            {
+              "source_id": "frame-cropic",
+              "quote": "Images and basic metadata (location, date, time, crop name) are uploaded through the CROPIC mobile app.",
+              "locator": "Reviewed passage 3: CROPIC app and data-safety declarations"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Documentary attribution only; claims do not establish independent performance, complete rollout or legal compliance.",
+          "evidence": [
+            {
+              "source_id": "frame-cropic",
+              "quote": "CROPIC is an innovative initiative introduced by the Ministry of Agriculture & Farmers Welfare, Government of India, under the umbrella of the Pradhan Mantri Fasal Bima Yojana (PMFBY).",
+              "locator": "Reviewed passage 1: CROPIC app and data-safety declarations"
+            },
+            {
+              "source_id": "frame-cropic",
+              "quote": "These images are analyzed by AI models to detect the type of crop, its current growth stage, and signs of biotic or abiotic stress.",
+              "locator": "Reviewed passage 2: CROPIC app and data-safety declarations"
+            },
+            {
+              "source_id": "frame-cropic",
+              "quote": "Images and basic metadata (location, date, time, crop name) are uploaded through the CROPIC mobile app.",
+              "locator": "Reviewed passage 3: CROPIC app and data-safety declarations"
+            }
+          ]
+        }
+      ],
+      "frame_id": "frame-agriculture",
+      "system_kind": "Public-service system"
+    },
+    {
+      "system_id": "sys-ejaadui",
+      "name": "e-Jaadui Pitara AI-bot service",
+      "owner": "National Council of Educational Research and Training",
+      "sector": "Early-childhood education",
+      "jurisdiction": "India",
+      "stage": "Service channels advertised; no interaction submitted",
+      "latest_record_date": null,
+      "ai_basis": "Explicit AI attribution in reviewed source; not independent validation",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "National Council of Educational Research and Training; e-Jaadui Pitara AI-bot service.",
+          "evidence": [
+            {
+              "source_id": "frame-ejaadui",
+              "quote": "AI powered Bots that give just in time assistance to parents and teachers in engaging with children.",
+              "locator": "Reviewed passage 1: NCERT e-Jaadui Pitara service portal"
+            },
+            {
+              "source_id": "frame-ejaadui",
+              "quote": "Access them on both WhatsApp and Telegram.",
+              "locator": "Reviewed passage 2: NCERT e-Jaadui Pitara service portal"
+            },
+            {
+              "source_id": "frame-ejaadui",
+              "quote": "Easy to use Mobile App provides quick and convenient access to a diverse variety of content to Parents and Teachers",
+              "locator": "Reviewed passage 3: NCERT e-Jaadui Pitara service portal"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Parents/teachers engaging with children; not an automated admissions/assessment system. Actual adverse-decision and override pathways were not operationally tested.",
+          "evidence": [
+            {
+              "source_id": "frame-ejaadui",
+              "quote": "AI powered Bots that give just in time assistance to parents and teachers in engaging with children.",
+              "locator": "Reviewed passage 1: NCERT e-Jaadui Pitara service portal"
+            },
+            {
+              "source_id": "frame-ejaadui",
+              "quote": "Access them on both WhatsApp and Telegram.",
+              "locator": "Reviewed passage 2: NCERT e-Jaadui Pitara service portal"
+            },
+            {
+              "source_id": "frame-ejaadui",
+              "quote": "Easy to use Mobile App provides quick and convenient access to a diverse variety of content to Parents and Teachers",
+              "locator": "Reviewed passage 3: NCERT e-Jaadui Pitara service portal"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Service channels advertised; no interaction submitted; source date is not automatically a precise go-live or evidence of October availability.",
+          "evidence": [
+            {
+              "source_id": "frame-ejaadui",
+              "quote": "AI powered Bots that give just in time assistance to parents and teachers in engaging with children.",
+              "locator": "Reviewed passage 1: NCERT e-Jaadui Pitara service portal"
+            },
+            {
+              "source_id": "frame-ejaadui",
+              "quote": "Access them on both WhatsApp and Telegram.",
+              "locator": "Reviewed passage 2: NCERT e-Jaadui Pitara service portal"
+            },
+            {
+              "source_id": "frame-ejaadui",
+              "quote": "Easy to use Mobile App provides quick and convenient access to a diverse variety of content to Parents and Teachers",
+              "locator": "Reviewed passage 3: NCERT e-Jaadui Pitara service portal"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current executed supplier award and complete processor/subcontractor chain were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific allocation, awarded amount and expenditure not established. Programme totals are not assigned to this system.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "WhatsApp/Telegram bots and content app; third-party platform data-processing not verified. Current model/version and complete live data-flow not verified.",
+          "evidence": [
+            {
+              "source_id": "frame-ejaadui",
+              "quote": "AI powered Bots that give just in time assistance to parents and teachers in engaging with children.",
+              "locator": "Reviewed passage 1: NCERT e-Jaadui Pitara service portal"
+            },
+            {
+              "source_id": "frame-ejaadui",
+              "quote": "Access them on both WhatsApp and Telegram.",
+              "locator": "Reviewed passage 2: NCERT e-Jaadui Pitara service portal"
+            },
+            {
+              "source_id": "frame-ejaadui",
+              "quote": "Easy to use Mobile App provides quick and convenient access to a diverse variety of content to Parents and Teachers",
+              "locator": "Reviewed passage 3: NCERT e-Jaadui Pitara service portal"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; a current-version independent evaluation, error/subgroup distribution and reproducible benchmark were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific human-review/override SOP and its implementation not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific data retention/access controls and their enforcement not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific appeal procedure and remedy outcomes not established.",
+          "evidence": []
+        },
+        {
+          "status": "Documented",
+          "statement": "Original institutional/service records linked; full binaries and personal data not mirrored.",
+          "evidence": [
+            {
+              "source_id": "frame-ejaadui",
+              "quote": "AI powered Bots that give just in time assistance to parents and teachers in engaging with children.",
+              "locator": "Reviewed passage 1: NCERT e-Jaadui Pitara service portal"
+            },
+            {
+              "source_id": "frame-ejaadui",
+              "quote": "Access them on both WhatsApp and Telegram.",
+              "locator": "Reviewed passage 2: NCERT e-Jaadui Pitara service portal"
+            },
+            {
+              "source_id": "frame-ejaadui",
+              "quote": "Easy to use Mobile App provides quick and convenient access to a diverse variety of content to Parents and Teachers",
+              "locator": "Reviewed passage 3: NCERT e-Jaadui Pitara service portal"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Documentary attribution only; claims do not establish independent performance, complete rollout or legal compliance.",
+          "evidence": [
+            {
+              "source_id": "frame-ejaadui",
+              "quote": "AI powered Bots that give just in time assistance to parents and teachers in engaging with children.",
+              "locator": "Reviewed passage 1: NCERT e-Jaadui Pitara service portal"
+            },
+            {
+              "source_id": "frame-ejaadui",
+              "quote": "Access them on both WhatsApp and Telegram.",
+              "locator": "Reviewed passage 2: NCERT e-Jaadui Pitara service portal"
+            },
+            {
+              "source_id": "frame-ejaadui",
+              "quote": "Easy to use Mobile App provides quick and convenient access to a diverse variety of content to Parents and Teachers",
+              "locator": "Reviewed passage 3: NCERT e-Jaadui Pitara service portal"
+            }
+          ]
+        }
+      ],
+      "frame_id": "frame-education",
+      "system_kind": "Public-service system"
+    },
+    {
+      "system_id": "sys-diksha",
+      "name": "DIKSHA AI accessibility features",
+      "owner": "Ministry of Education",
+      "sector": "Education accessibility",
+      "jurisdiction": "India",
+      "stage": "Official feature use described",
+      "latest_record_date": null,
+      "ai_basis": "Explicit AI attribution in reviewed source; not independent validation",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "Ministry of Education; DIKSHA AI accessibility features.",
+          "evidence": [
+            {
+              "source_id": "frame-education-current",
+              "quote": "DIKSHA (Digital Infrastructure for Knowledge Sharing), a Ministry of Education initiative, uses AI for inclusivity: AI-based keyword search in videos and read-aloud feature for visually impaired students.",
+              "locator": "Reviewed passage 1: AI in Education government backgrounder"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Video keyword search and read-aloud accessibility for learners. Actual adverse-decision and override pathways were not operationally tested.",
+          "evidence": [
+            {
+              "source_id": "frame-education-current",
+              "quote": "DIKSHA (Digital Infrastructure for Knowledge Sharing), a Ministry of Education initiative, uses AI for inclusivity: AI-based keyword search in videos and read-aloud feature for visually impaired students.",
+              "locator": "Reviewed passage 1: AI in Education government backgrounder"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Official feature use described; source date is not automatically a precise go-live or evidence of October availability.",
+          "evidence": [
+            {
+              "source_id": "frame-education-current",
+              "quote": "DIKSHA (Digital Infrastructure for Knowledge Sharing), a Ministry of Education initiative, uses AI for inclusivity: AI-based keyword search in videos and read-aloud feature for visually impaired students.",
+              "locator": "Reviewed passage 1: AI in Education government backgrounder"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current executed supplier award and complete processor/subcontractor chain were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific allocation, awarded amount and expenditure not established. Programme totals are not assigned to this system.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Specific current search/read-aloud models, language coverage and accessibility tests not established. Current model/version and complete live data-flow not verified.",
+          "evidence": [
+            {
+              "source_id": "frame-education-current",
+              "quote": "DIKSHA (Digital Infrastructure for Knowledge Sharing), a Ministry of Education initiative, uses AI for inclusivity: AI-based keyword search in videos and read-aloud feature for visually impaired students.",
+              "locator": "Reviewed passage 1: AI in Education government backgrounder"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; a current-version independent evaluation, error/subgroup distribution and reproducible benchmark were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific human-review/override SOP and its implementation not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific data retention/access controls and their enforcement not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific appeal procedure and remedy outcomes not established.",
+          "evidence": []
+        },
+        {
+          "status": "Documented",
+          "statement": "Original institutional/service records linked; full binaries and personal data not mirrored.",
+          "evidence": [
+            {
+              "source_id": "frame-education-current",
+              "quote": "DIKSHA (Digital Infrastructure for Knowledge Sharing), a Ministry of Education initiative, uses AI for inclusivity: AI-based keyword search in videos and read-aloud feature for visually impaired students.",
+              "locator": "Reviewed passage 1: AI in Education government backgrounder"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Documentary attribution only; claims do not establish independent performance, complete rollout or legal compliance.",
+          "evidence": [
+            {
+              "source_id": "frame-education-current",
+              "quote": "DIKSHA (Digital Infrastructure for Knowledge Sharing), a Ministry of Education initiative, uses AI for inclusivity: AI-based keyword search in videos and read-aloud feature for visually impaired students.",
+              "locator": "Reviewed passage 1: AI in Education government backgrounder"
+            }
+          ]
+        }
+      ],
+      "frame_id": "frame-education",
+      "system_kind": "Public-service system"
+    },
+    {
+      "system_id": "sys-madhunetrai",
+      "name": "MadhuNetrAI",
+      "owner": "Dr. Rajendra Prasad Centre for Ophthalmic Sciences, AIIMS",
+      "sector": "Retinal screening",
+      "jurisdiction": "India",
+      "stage": "Official screening use and separate pilot reported",
+      "latest_record_date": null,
+      "ai_basis": "Explicit AI attribution in reviewed source; not independent validation",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "Dr. Rajendra Prasad Centre for Ophthalmic Sciences, AIIMS; MadhuNetrAI.",
+          "evidence": [
+            {
+              "source_id": "frame-madhunetrai",
+              "quote": "MadhuNetrAI (DR identification solution) is an AI solution developed to enable non-specialist health workers to conduct screenings for Diabetic Retinopathy.",
+              "locator": "Reviewed passage 1: Health AI diagnostics parliamentary explanation"
+            },
+            {
+              "source_id": "frame-madhunetrai",
+              "quote": "It classifies DR across standard grades, enabling optimized resource allocation by prioritizing urgent cases for specialist referral.",
+              "locator": "Reviewed passage 2: Health AI diagnostics parliamentary explanation"
+            },
+            {
+              "source_id": "frame-madhunetrai-pilot",
+              "quote": "Anchored by MadhuNetrAI, the programme is a web-based Artificial Intelligence tool developed by the Dr. Rajendra Prasad Centre for Ophthalmic Sciences (RPC).",
+              "locator": "Reviewed passage 1: AFMS MadhuNetrAI programme launch"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Retinopathy screening/grading and specialist prioritisation. Actual adverse-decision and override pathways were not operationally tested.",
+          "evidence": [
+            {
+              "source_id": "frame-madhunetrai",
+              "quote": "MadhuNetrAI (DR identification solution) is an AI solution developed to enable non-specialist health workers to conduct screenings for Diabetic Retinopathy.",
+              "locator": "Reviewed passage 1: Health AI diagnostics parliamentary explanation"
+            },
+            {
+              "source_id": "frame-madhunetrai",
+              "quote": "It classifies DR across standard grades, enabling optimized resource allocation by prioritizing urgent cases for specialist referral.",
+              "locator": "Reviewed passage 2: Health AI diagnostics parliamentary explanation"
+            },
+            {
+              "source_id": "frame-madhunetrai-pilot",
+              "quote": "Anchored by MadhuNetrAI, the programme is a web-based Artificial Intelligence tool developed by the Dr. Rajendra Prasad Centre for Ophthalmic Sciences (RPC).",
+              "locator": "Reviewed passage 1: AFMS MadhuNetrAI programme launch"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Official screening use and separate pilot reported; source date is not automatically a precise go-live or evidence of October availability.",
+          "evidence": [
+            {
+              "source_id": "frame-madhunetrai",
+              "quote": "MadhuNetrAI (DR identification solution) is an AI solution developed to enable non-specialist health workers to conduct screenings for Diabetic Retinopathy.",
+              "locator": "Reviewed passage 1: Health AI diagnostics parliamentary explanation"
+            },
+            {
+              "source_id": "frame-madhunetrai",
+              "quote": "It classifies DR across standard grades, enabling optimized resource allocation by prioritizing urgent cases for specialist referral.",
+              "locator": "Reviewed passage 2: Health AI diagnostics parliamentary explanation"
+            },
+            {
+              "source_id": "frame-madhunetrai-pilot",
+              "quote": "Anchored by MadhuNetrAI, the programme is a web-based Artificial Intelligence tool developed by the Dr. Rajendra Prasad Centre for Ophthalmic Sciences (RPC).",
+              "locator": "Reviewed passage 1: AFMS MadhuNetrAI programme launch"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current executed supplier award and complete processor/subcontractor chain were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific allocation, awarded amount and expenditure not established. Programme totals are not assigned to this system.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Retinal fundus images, including handheld-camera workflows. Current model/version and complete live data-flow not verified.",
+          "evidence": [
+            {
+              "source_id": "frame-madhunetrai",
+              "quote": "MadhuNetrAI (DR identification solution) is an AI solution developed to enable non-specialist health workers to conduct screenings for Diabetic Retinopathy.",
+              "locator": "Reviewed passage 1: Health AI diagnostics parliamentary explanation"
+            },
+            {
+              "source_id": "frame-madhunetrai",
+              "quote": "It classifies DR across standard grades, enabling optimized resource allocation by prioritizing urgent cases for specialist referral.",
+              "locator": "Reviewed passage 2: Health AI diagnostics parliamentary explanation"
+            },
+            {
+              "source_id": "frame-madhunetrai-pilot",
+              "quote": "Anchored by MadhuNetrAI, the programme is a web-based Artificial Intelligence tool developed by the Dr. Rajendra Prasad Centre for Ophthalmic Sciences (RPC).",
+              "locator": "Reviewed passage 1: AFMS MadhuNetrAI programme launch"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "38 facilities/11 states and screening counts are usage claims, not an independent diagnostic accuracy benchmark.",
+          "evidence": [
+            {
+              "source_id": "frame-madhunetrai",
+              "quote": "The solution has been implemented across 38 facilities in 11 states and provided AI assistance during screening of more than 14,000 retinal images, benefiting 7,100 patients.",
+              "locator": "Reviewed passage 3: Health AI diagnostics parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "AFMS referral to specialists is described; actual referral completion and model-override SOP not tested.",
+          "evidence": [
+            {
+              "source_id": "frame-madhunetrai-pilot",
+              "quote": "cases of vision-threatening Diabetic Retinopathy will be referred to vitreo-retina specialists at designated District Hospitals.",
+              "locator": "Reviewed passage 3: AFMS MadhuNetrAI programme launch"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific data retention/access controls and their enforcement not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific appeal procedure and remedy outcomes not established.",
+          "evidence": []
+        },
+        {
+          "status": "Documented",
+          "statement": "Original institutional/service records linked; full binaries and personal data not mirrored.",
+          "evidence": [
+            {
+              "source_id": "frame-madhunetrai",
+              "quote": "MadhuNetrAI (DR identification solution) is an AI solution developed to enable non-specialist health workers to conduct screenings for Diabetic Retinopathy.",
+              "locator": "Reviewed passage 1: Health AI diagnostics parliamentary explanation"
+            },
+            {
+              "source_id": "frame-madhunetrai",
+              "quote": "It classifies DR across standard grades, enabling optimized resource allocation by prioritizing urgent cases for specialist referral.",
+              "locator": "Reviewed passage 2: Health AI diagnostics parliamentary explanation"
+            },
+            {
+              "source_id": "frame-madhunetrai-pilot",
+              "quote": "Anchored by MadhuNetrAI, the programme is a web-based Artificial Intelligence tool developed by the Dr. Rajendra Prasad Centre for Ophthalmic Sciences (RPC).",
+              "locator": "Reviewed passage 1: AFMS MadhuNetrAI programme launch"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Documentary attribution only; claims do not establish independent performance, complete rollout or legal compliance.",
+          "evidence": [
+            {
+              "source_id": "frame-madhunetrai",
+              "quote": "MadhuNetrAI (DR identification solution) is an AI solution developed to enable non-specialist health workers to conduct screenings for Diabetic Retinopathy.",
+              "locator": "Reviewed passage 1: Health AI diagnostics parliamentary explanation"
+            },
+            {
+              "source_id": "frame-madhunetrai",
+              "quote": "It classifies DR across standard grades, enabling optimized resource allocation by prioritizing urgent cases for specialist referral.",
+              "locator": "Reviewed passage 2: Health AI diagnostics parliamentary explanation"
+            },
+            {
+              "source_id": "frame-madhunetrai-pilot",
+              "quote": "Anchored by MadhuNetrAI, the programme is a web-based Artificial Intelligence tool developed by the Dr. Rajendra Prasad Centre for Ophthalmic Sciences (RPC).",
+              "locator": "Reviewed passage 1: AFMS MadhuNetrAI programme launch"
+            }
+          ]
+        }
+      ],
+      "frame_id": "frame-health",
+      "system_kind": "Public-service system"
+    },
+    {
+      "system_id": "sys-catb",
+      "name": "Cough Against Tuberculosis (CATB)",
+      "owner": "Ministry of Health and Family Welfare",
+      "sector": "TB screening",
+      "jurisdiction": "India",
+      "stage": "Community screening use reported",
+      "latest_record_date": null,
+      "ai_basis": "Explicit AI attribution in reviewed source; not independent validation",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "Ministry of Health and Family Welfare; Cough Against Tuberculosis (CATB).",
+          "evidence": [
+            {
+              "source_id": "frame-madhunetrai",
+              "quote": "Under the Tuberculosis elimination program, ‘Cough against TB’ (CATB) AI solution is used for screening for pulmonary TB in the community settings.",
+              "locator": "Reviewed passage 4: Health AI diagnostics parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Community pulmonary-TB screening; not confirmed diagnosis solely by AI. Actual adverse-decision and override pathways were not operationally tested.",
+          "evidence": [
+            {
+              "source_id": "frame-madhunetrai",
+              "quote": "Under the Tuberculosis elimination program, ‘Cough against TB’ (CATB) AI solution is used for screening for pulmonary TB in the community settings.",
+              "locator": "Reviewed passage 4: Health AI diagnostics parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Community screening use reported; source date is not automatically a precise go-live or evidence of October availability.",
+          "evidence": [
+            {
+              "source_id": "frame-madhunetrai",
+              "quote": "Under the Tuberculosis elimination program, ‘Cough against TB’ (CATB) AI solution is used for screening for pulmonary TB in the community settings.",
+              "locator": "Reviewed passage 4: Health AI diagnostics parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current executed supplier award and complete processor/subcontractor chain were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific allocation, awarded amount and expenditure not established. Programme totals are not assigned to this system.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Cough-based AI screening solution; current clinical model/settings not established. Current model/version and complete live data-flow not verified.",
+          "evidence": [
+            {
+              "source_id": "frame-madhunetrai",
+              "quote": "Under the Tuberculosis elimination program, ‘Cough against TB’ (CATB) AI solution is used for screening for pulmonary TB in the community settings.",
+              "locator": "Reviewed passage 4: Health AI diagnostics parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Government reports additional yield of 12–16% and screening volume; protocol, comparator and current-version matching were not established.",
+          "evidence": [
+            {
+              "source_id": "frame-madhunetrai",
+              "quote": "In the deployed geographies, the solution has shown an additional yield of 12-16% in TB reported, over patient screenings using conventional methods.",
+              "locator": "Reviewed passage 5: Health AI diagnostics parliamentary explanation"
+            },
+            {
+              "source_id": "frame-madhunetrai",
+              "quote": "Between March 2023 and 30th November 2025, CATB solution has been utilized to screen more than 1.62 lakh individuals.",
+              "locator": "Reviewed passage 6: Health AI diagnostics parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific human-review/override SOP and its implementation not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific data retention/access controls and their enforcement not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific appeal procedure and remedy outcomes not established.",
+          "evidence": []
+        },
+        {
+          "status": "Documented",
+          "statement": "Original institutional/service records linked; full binaries and personal data not mirrored.",
+          "evidence": [
+            {
+              "source_id": "frame-madhunetrai",
+              "quote": "Under the Tuberculosis elimination program, ‘Cough against TB’ (CATB) AI solution is used for screening for pulmonary TB in the community settings.",
+              "locator": "Reviewed passage 4: Health AI diagnostics parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Documentary attribution only; claims do not establish independent performance, complete rollout or legal compliance.",
+          "evidence": [
+            {
+              "source_id": "frame-madhunetrai",
+              "quote": "Under the Tuberculosis elimination program, ‘Cough against TB’ (CATB) AI solution is used for screening for pulmonary TB in the community settings.",
+              "locator": "Reviewed passage 4: Health AI diagnostics parliamentary explanation"
+            }
+          ]
+        }
+      ],
+      "frame_id": "frame-health",
+      "system_kind": "Public-service system"
+    },
+    {
+      "system_id": "sys-khushi",
+      "name": "TB Mukt Bharat Khushi chatbot",
+      "owner": "Ministry of Health and Family Welfare",
+      "sector": "TB treatment support",
+      "jurisdiction": "India",
+      "stage": "Operational use described by ministry",
+      "latest_record_date": null,
+      "ai_basis": "Explicit AI attribution in reviewed source; not independent validation",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "Ministry of Health and Family Welfare; TB Mukt Bharat Khushi chatbot.",
+          "evidence": [
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "TB Mukt Bharat App, featuring the AI-powered Khushi Chatbot that provides medication reminders, treatment guidance, adherence support, follow-up assistance, and nutritional and psychosocial support for TB patients.",
+              "locator": "Reviewed passage 2: Public healthcare AI deployment parliamentary answer"
+            },
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "These AI solutions are operational in collaboration with central and state health institutions across the country.",
+              "locator": "Reviewed passage 3: Public healthcare AI deployment parliamentary answer"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Reminders and adherence/treatment guidance for TB patients; individualized advice quality not tested. Actual adverse-decision and override pathways were not operationally tested.",
+          "evidence": [
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "TB Mukt Bharat App, featuring the AI-powered Khushi Chatbot that provides medication reminders, treatment guidance, adherence support, follow-up assistance, and nutritional and psychosocial support for TB patients.",
+              "locator": "Reviewed passage 2: Public healthcare AI deployment parliamentary answer"
+            },
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "These AI solutions are operational in collaboration with central and state health institutions across the country.",
+              "locator": "Reviewed passage 3: Public healthcare AI deployment parliamentary answer"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Operational use described by ministry; source date is not automatically a precise go-live or evidence of October availability.",
+          "evidence": [
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "TB Mukt Bharat App, featuring the AI-powered Khushi Chatbot that provides medication reminders, treatment guidance, adherence support, follow-up assistance, and nutritional and psychosocial support for TB patients.",
+              "locator": "Reviewed passage 2: Public healthcare AI deployment parliamentary answer"
+            },
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "These AI solutions are operational in collaboration with central and state health institutions across the country.",
+              "locator": "Reviewed passage 3: Public healthcare AI deployment parliamentary answer"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current executed supplier award and complete processor/subcontractor chain were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific allocation, awarded amount and expenditure not established. Programme totals are not assigned to this system.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Patient-support chatbot; personal-data retention and current model not verified. Current model/version and complete live data-flow not verified.",
+          "evidence": [
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "TB Mukt Bharat App, featuring the AI-powered Khushi Chatbot that provides medication reminders, treatment guidance, adherence support, follow-up assistance, and nutritional and psychosocial support for TB patients.",
+              "locator": "Reviewed passage 2: Public healthcare AI deployment parliamentary answer"
+            },
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "These AI solutions are operational in collaboration with central and state health institutions across the country.",
+              "locator": "Reviewed passage 3: Public healthcare AI deployment parliamentary answer"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; a current-version independent evaluation, error/subgroup distribution and reproducible benchmark were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific human-review/override SOP and its implementation not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific data retention/access controls and their enforcement not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific appeal procedure and remedy outcomes not established.",
+          "evidence": []
+        },
+        {
+          "status": "Documented",
+          "statement": "Original institutional/service records linked; full binaries and personal data not mirrored.",
+          "evidence": [
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "TB Mukt Bharat App, featuring the AI-powered Khushi Chatbot that provides medication reminders, treatment guidance, adherence support, follow-up assistance, and nutritional and psychosocial support for TB patients.",
+              "locator": "Reviewed passage 2: Public healthcare AI deployment parliamentary answer"
+            },
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "These AI solutions are operational in collaboration with central and state health institutions across the country.",
+              "locator": "Reviewed passage 3: Public healthcare AI deployment parliamentary answer"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Documentary attribution only; claims do not establish independent performance, complete rollout or legal compliance.",
+          "evidence": [
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "TB Mukt Bharat App, featuring the AI-powered Khushi Chatbot that provides medication reminders, treatment guidance, adherence support, follow-up assistance, and nutritional and psychosocial support for TB patients.",
+              "locator": "Reviewed passage 2: Public healthcare AI deployment parliamentary answer"
+            },
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "These AI solutions are operational in collaboration with central and state health institutions across the country.",
+              "locator": "Reviewed passage 3: Public healthcare AI deployment parliamentary answer"
+            }
+          ]
+        }
+      ],
+      "frame_id": "frame-health",
+      "system_kind": "Public-service system"
+    },
+    {
+      "system_id": "sys-mds",
+      "name": "Media Disease Surveillance under IDSP",
+      "owner": "Ministry of Health and Family Welfare",
+      "sector": "Disease surveillance",
+      "jurisdiction": "India",
+      "stage": "Operational use described by ministry",
+      "latest_record_date": null,
+      "ai_basis": "Explicit AI attribution in reviewed source; not independent validation",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "Ministry of Health and Family Welfare; Media Disease Surveillance under IDSP.",
+          "evidence": [
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "Media Disease Surveillance under Integrated Disease Surveillance Program (IDSP) to enable early detection and monitoring of disease outbreaks",
+              "locator": "Reviewed passage 1: Public healthcare AI deployment parliamentary answer"
+            },
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "These AI solutions are operational in collaboration with central and state health institutions across the country.",
+              "locator": "Reviewed passage 3: Public healthcare AI deployment parliamentary answer"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Early outbreak detection/monitoring; alert-to-intervention decisions not independently inspected. Actual adverse-decision and override pathways were not operationally tested.",
+          "evidence": [
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "Media Disease Surveillance under Integrated Disease Surveillance Program (IDSP) to enable early detection and monitoring of disease outbreaks",
+              "locator": "Reviewed passage 1: Public healthcare AI deployment parliamentary answer"
+            },
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "These AI solutions are operational in collaboration with central and state health institutions across the country.",
+              "locator": "Reviewed passage 3: Public healthcare AI deployment parliamentary answer"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Operational use described by ministry; source date is not automatically a precise go-live or evidence of October availability.",
+          "evidence": [
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "Media Disease Surveillance under Integrated Disease Surveillance Program (IDSP) to enable early detection and monitoring of disease outbreaks",
+              "locator": "Reviewed passage 1: Public healthcare AI deployment parliamentary answer"
+            },
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "These AI solutions are operational in collaboration with central and state health institutions across the country.",
+              "locator": "Reviewed passage 3: Public healthcare AI deployment parliamentary answer"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current executed supplier award and complete processor/subcontractor chain were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific allocation, awarded amount and expenditure not established. Programme totals are not assigned to this system.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Media disease surveillance; input-source/model inventory and error handling not established. Current model/version and complete live data-flow not verified.",
+          "evidence": [
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "Media Disease Surveillance under Integrated Disease Surveillance Program (IDSP) to enable early detection and monitoring of disease outbreaks",
+              "locator": "Reviewed passage 1: Public healthcare AI deployment parliamentary answer"
+            },
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "These AI solutions are operational in collaboration with central and state health institutions across the country.",
+              "locator": "Reviewed passage 3: Public healthcare AI deployment parliamentary answer"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; a current-version independent evaluation, error/subgroup distribution and reproducible benchmark were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific human-review/override SOP and its implementation not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific data retention/access controls and their enforcement not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific appeal procedure and remedy outcomes not established.",
+          "evidence": []
+        },
+        {
+          "status": "Documented",
+          "statement": "Original institutional/service records linked; full binaries and personal data not mirrored.",
+          "evidence": [
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "Media Disease Surveillance under Integrated Disease Surveillance Program (IDSP) to enable early detection and monitoring of disease outbreaks",
+              "locator": "Reviewed passage 1: Public healthcare AI deployment parliamentary answer"
+            },
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "These AI solutions are operational in collaboration with central and state health institutions across the country.",
+              "locator": "Reviewed passage 3: Public healthcare AI deployment parliamentary answer"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Documentary attribution only; claims do not establish independent performance, complete rollout or legal compliance.",
+          "evidence": [
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "Media Disease Surveillance under Integrated Disease Surveillance Program (IDSP) to enable early detection and monitoring of disease outbreaks",
+              "locator": "Reviewed passage 1: Public healthcare AI deployment parliamentary answer"
+            },
+            {
+              "source_id": "frame-health-parliament",
+              "quote": "These AI solutions are operational in collaboration with central and state health institutions across the country.",
+              "locator": "Reviewed passage 3: Public healthcare AI deployment parliamentary answer"
+            }
+          ]
+        }
+      ],
+      "frame_id": "frame-health",
+      "system_kind": "Public-service system"
+    },
+    {
+      "system_id": "sys-bodh",
+      "name": "BODH health-AI benchmarking platform",
+      "owner": "National Health Authority",
+      "sector": "Health AI evaluation infrastructure",
+      "jurisdiction": "India",
+      "stage": "Platform launch/design described; benchmark outputs not verified",
+      "latest_record_date": null,
+      "ai_basis": "Explicit AI attribution in reviewed source; not independent validation",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "National Health Authority; BODH health-AI benchmarking platform.",
+          "evidence": [
+            {
+              "source_id": "frame-health-sahi",
+              "quote": "BODH (Benchmarking Open Data Platform for Health AI), developed by the Indian Institute of Technology Kanpur in collaboration with the National Health Authority, will enable systematic evaluation of AI models using diverse, anonymized real-world health datasets.",
+              "locator": "Reviewed passage 1: SAHI and BODH launch"
+            },
+            {
+              "source_id": "frame-health-sahi",
+              "quote": "The platform is designed to assess performance, robustness, bias, and generalizability of AI systems before their deployment at population scale.",
+              "locator": "Reviewed passage 2: SAHI and BODH launch"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Evaluation infrastructure, not itself a population clinical-diagnostic deployment. Actual adverse-decision and override pathways were not operationally tested.",
+          "evidence": [
+            {
+              "source_id": "frame-health-sahi",
+              "quote": "BODH (Benchmarking Open Data Platform for Health AI), developed by the Indian Institute of Technology Kanpur in collaboration with the National Health Authority, will enable systematic evaluation of AI models using diverse, anonymized real-world health datasets.",
+              "locator": "Reviewed passage 1: SAHI and BODH launch"
+            },
+            {
+              "source_id": "frame-health-sahi",
+              "quote": "The platform is designed to assess performance, robustness, bias, and generalizability of AI systems before their deployment at population scale.",
+              "locator": "Reviewed passage 2: SAHI and BODH launch"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Platform launch/design described; benchmark outputs not verified; source date is not automatically a precise go-live or evidence of October availability.",
+          "evidence": [
+            {
+              "source_id": "frame-health-sahi",
+              "quote": "BODH (Benchmarking Open Data Platform for Health AI), developed by the Indian Institute of Technology Kanpur in collaboration with the National Health Authority, will enable systematic evaluation of AI models using diverse, anonymized real-world health datasets.",
+              "locator": "Reviewed passage 1: SAHI and BODH launch"
+            },
+            {
+              "source_id": "frame-health-sahi",
+              "quote": "The platform is designed to assess performance, robustness, bias, and generalizability of AI systems before their deployment at population scale.",
+              "locator": "Reviewed passage 2: SAHI and BODH launch"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current executed supplier award and complete processor/subcontractor chain were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific allocation, awarded amount and expenditure not established. Programme totals are not assigned to this system.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Anonymized health datasets as described; protocols/access/output inventory not verified. Current model/version and complete live data-flow not verified.",
+          "evidence": [
+            {
+              "source_id": "frame-health-sahi",
+              "quote": "BODH (Benchmarking Open Data Platform for Health AI), developed by the Indian Institute of Technology Kanpur in collaboration with the National Health Authority, will enable systematic evaluation of AI models using diverse, anonymized real-world health datasets.",
+              "locator": "Reviewed passage 1: SAHI and BODH launch"
+            },
+            {
+              "source_id": "frame-health-sahi",
+              "quote": "The platform is designed to assess performance, robustness, bias, and generalizability of AI systems before their deployment at population scale.",
+              "locator": "Reviewed passage 2: SAHI and BODH launch"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; a current-version independent evaluation, error/subgroup distribution and reproducible benchmark were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific human-review/override SOP and its implementation not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific data retention/access controls and their enforcement not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific appeal procedure and remedy outcomes not established.",
+          "evidence": []
+        },
+        {
+          "status": "Documented",
+          "statement": "Original institutional/service records linked; full binaries and personal data not mirrored.",
+          "evidence": [
+            {
+              "source_id": "frame-health-sahi",
+              "quote": "BODH (Benchmarking Open Data Platform for Health AI), developed by the Indian Institute of Technology Kanpur in collaboration with the National Health Authority, will enable systematic evaluation of AI models using diverse, anonymized real-world health datasets.",
+              "locator": "Reviewed passage 1: SAHI and BODH launch"
+            },
+            {
+              "source_id": "frame-health-sahi",
+              "quote": "The platform is designed to assess performance, robustness, bias, and generalizability of AI systems before their deployment at population scale.",
+              "locator": "Reviewed passage 2: SAHI and BODH launch"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Documentary attribution only; claims do not establish independent performance, complete rollout or legal compliance.",
+          "evidence": [
+            {
+              "source_id": "frame-health-sahi",
+              "quote": "BODH (Benchmarking Open Data Platform for Health AI), developed by the Indian Institute of Technology Kanpur in collaboration with the National Health Authority, will enable systematic evaluation of AI models using diverse, anonymized real-world health datasets.",
+              "locator": "Reviewed passage 1: SAHI and BODH launch"
+            },
+            {
+              "source_id": "frame-health-sahi",
+              "quote": "The platform is designed to assess performance, robustness, bias, and generalizability of AI systems before their deployment at population scale.",
+              "locator": "Reviewed passage 2: SAHI and BODH launch"
+            }
+          ]
+        }
+      ],
+      "frame_id": "frame-health",
+      "system_kind": "AI evaluation infrastructure"
+    },
+    {
+      "system_id": "sys-abhigyan",
+      "name": "NCRB-Abhigyan",
+      "owner": "National Crime Records Bureau",
+      "sector": "Police biometric identification",
+      "jurisdiction": "India",
+      "stage": "Application launch reported",
+      "latest_record_date": null,
+      "ai_basis": "Biometric matching described; system-specific AI identification not established",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "National Crime Records Bureau; NCRB-Abhigyan.",
+          "evidence": [
+            {
+              "source_id": "frame-abhigyan",
+              "quote": "NCRB-Abhigyan – This mobile application enables field police personnel to search the National Fingerprint Database from any location using a certified fingerprint scanner to identify a suspect through fingerprint matching.",
+              "locator": "Reviewed passage 1: NCRB applications and fingerprint conference launch"
+            },
+            {
+              "source_id": "frame-abhigyan",
+              "quote": "CrPI Application – This system integrates facial recognition, iris matching, and DNA matching capabilities.",
+              "locator": "Reviewed passage 2: NCRB applications and fingerprint conference launch"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Field fingerprint matching against National Fingerprint Database; a match is not guilt or conviction. Actual adverse-decision and override pathways were not operationally tested.",
+          "evidence": [
+            {
+              "source_id": "frame-abhigyan",
+              "quote": "NCRB-Abhigyan – This mobile application enables field police personnel to search the National Fingerprint Database from any location using a certified fingerprint scanner to identify a suspect through fingerprint matching.",
+              "locator": "Reviewed passage 1: NCRB applications and fingerprint conference launch"
+            },
+            {
+              "source_id": "frame-abhigyan",
+              "quote": "CrPI Application – This system integrates facial recognition, iris matching, and DNA matching capabilities.",
+              "locator": "Reviewed passage 2: NCRB applications and fingerprint conference launch"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Application launch reported; source date is not automatically a precise go-live or evidence of October availability.",
+          "evidence": [
+            {
+              "source_id": "frame-abhigyan",
+              "quote": "NCRB-Abhigyan – This mobile application enables field police personnel to search the National Fingerprint Database from any location using a certified fingerprint scanner to identify a suspect through fingerprint matching.",
+              "locator": "Reviewed passage 1: NCRB applications and fingerprint conference launch"
+            },
+            {
+              "source_id": "frame-abhigyan",
+              "quote": "CrPI Application – This system integrates facial recognition, iris matching, and DNA matching capabilities.",
+              "locator": "Reviewed passage 2: NCRB applications and fingerprint conference launch"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current executed supplier award and complete processor/subcontractor chain were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific allocation, awarded amount and expenditure not established. Programme totals are not assigned to this system.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Certified fingerprint scanner and database; exact current model architecture not established. Current model/version and complete live data-flow not verified.",
+          "evidence": [
+            {
+              "source_id": "frame-abhigyan",
+              "quote": "NCRB-Abhigyan – This mobile application enables field police personnel to search the National Fingerprint Database from any location using a certified fingerprint scanner to identify a suspect through fingerprint matching.",
+              "locator": "Reviewed passage 1: NCRB applications and fingerprint conference launch"
+            },
+            {
+              "source_id": "frame-abhigyan",
+              "quote": "CrPI Application – This system integrates facial recognition, iris matching, and DNA matching capabilities.",
+              "locator": "Reviewed passage 2: NCRB applications and fingerprint conference launch"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; a current-version independent evaluation, error/subgroup distribution and reproducible benchmark were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific human-review/override SOP and its implementation not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific data retention/access controls and their enforcement not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific appeal procedure and remedy outcomes not established.",
+          "evidence": []
+        },
+        {
+          "status": "Documented",
+          "statement": "Original institutional/service records linked; full binaries and personal data not mirrored.",
+          "evidence": [
+            {
+              "source_id": "frame-abhigyan",
+              "quote": "NCRB-Abhigyan – This mobile application enables field police personnel to search the National Fingerprint Database from any location using a certified fingerprint scanner to identify a suspect through fingerprint matching.",
+              "locator": "Reviewed passage 1: NCRB applications and fingerprint conference launch"
+            },
+            {
+              "source_id": "frame-abhigyan",
+              "quote": "CrPI Application – This system integrates facial recognition, iris matching, and DNA matching capabilities.",
+              "locator": "Reviewed passage 2: NCRB applications and fingerprint conference launch"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Documentary attribution only; claims do not establish independent performance, complete rollout or legal compliance.",
+          "evidence": [
+            {
+              "source_id": "frame-abhigyan",
+              "quote": "NCRB-Abhigyan – This mobile application enables field police personnel to search the National Fingerprint Database from any location using a certified fingerprint scanner to identify a suspect through fingerprint matching.",
+              "locator": "Reviewed passage 1: NCRB applications and fingerprint conference launch"
+            },
+            {
+              "source_id": "frame-abhigyan",
+              "quote": "CrPI Application – This system integrates facial recognition, iris matching, and DNA matching capabilities.",
+              "locator": "Reviewed passage 2: NCRB applications and fingerprint conference launch"
+            }
+          ]
+        }
+      ],
+      "frame_id": "frame-home",
+      "system_kind": "Public-service system"
+    },
+    {
+      "system_id": "sys-crpi",
+      "name": "CrPI multimodal biometric application",
+      "owner": "National Crime Records Bureau",
+      "sector": "Police biometric identification",
+      "jurisdiction": "India",
+      "stage": "Application launch reported; model-specific AI unverified",
+      "latest_record_date": null,
+      "ai_basis": "Multimodal biometric matching described; model-specific AI identification not established",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "National Crime Records Bureau; CrPI multimodal biometric application.",
+          "evidence": [
+            {
+              "source_id": "frame-abhigyan",
+              "quote": "CrPI Application – This system integrates facial recognition, iris matching, and DNA matching capabilities.",
+              "locator": "Reviewed passage 2: NCRB applications and fingerprint conference launch"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Multimodal identification and CCTV-based suspect work as described; not a guilt determination. Actual adverse-decision and override pathways were not operationally tested.",
+          "evidence": [
+            {
+              "source_id": "frame-abhigyan",
+              "quote": "CrPI Application – This system integrates facial recognition, iris matching, and DNA matching capabilities.",
+              "locator": "Reviewed passage 2: NCRB applications and fingerprint conference launch"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Application launch reported; model-specific AI unverified; source date is not automatically a precise go-live or evidence of October availability.",
+          "evidence": [
+            {
+              "source_id": "frame-abhigyan",
+              "quote": "CrPI Application – This system integrates facial recognition, iris matching, and DNA matching capabilities.",
+              "locator": "Reviewed passage 2: NCRB applications and fingerprint conference launch"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current executed supplier award and complete processor/subcontractor chain were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific allocation, awarded amount and expenditure not established. Programme totals are not assigned to this system.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Facial recognition, iris and DNA matching; architecture and model identity not established. Current model/version and complete live data-flow not verified.",
+          "evidence": [
+            {
+              "source_id": "frame-abhigyan",
+              "quote": "CrPI Application – This system integrates facial recognition, iris matching, and DNA matching capabilities.",
+              "locator": "Reviewed passage 2: NCRB applications and fingerprint conference launch"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; a current-version independent evaluation, error/subgroup distribution and reproducible benchmark were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific human-review/override SOP and its implementation not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific data retention/access controls and their enforcement not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific appeal procedure and remedy outcomes not established.",
+          "evidence": []
+        },
+        {
+          "status": "Documented",
+          "statement": "Original institutional/service records linked; full binaries and personal data not mirrored.",
+          "evidence": [
+            {
+              "source_id": "frame-abhigyan",
+              "quote": "CrPI Application – This system integrates facial recognition, iris matching, and DNA matching capabilities.",
+              "locator": "Reviewed passage 2: NCRB applications and fingerprint conference launch"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Documentary attribution only; claims do not establish independent performance, complete rollout or legal compliance.",
+          "evidence": [
+            {
+              "source_id": "frame-abhigyan",
+              "quote": "CrPI Application – This system integrates facial recognition, iris matching, and DNA matching capabilities.",
+              "locator": "Reviewed passage 2: NCRB applications and fingerprint conference launch"
+            }
+          ]
+        }
+      ],
+      "frame_id": "frame-home",
+      "system_kind": "Public-service system"
+    },
+    {
+      "system_id": "sys-cctns2",
+      "name": "CCTNS 2.0 AI components",
+      "owner": "National Crime Records Bureau",
+      "sector": "Police analytics",
+      "jurisdiction": "India",
+      "stage": "Conflicting version/timeline descriptions; component rollout unverified",
+      "latest_record_date": null,
+      "ai_basis": "Explicit AI attribution in reviewed source; not independent validation",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "National Crime Records Bureau; CCTNS 2.0 AI components.",
+          "evidence": [
+            {
+              "source_id": "frame-home-cctns",
+              "quote": "Artificial intelligence tools will be integrated in the under-development second version of the Crime and Criminal Tracking Network & Systems",
+              "locator": "Reviewed passage 1: CCTNS 2.0 contemplated AI tools"
+            },
+            {
+              "source_id": "frame-home-cctns",
+              "quote": "Another tool that is being contemplated is the integration of automatic prediction tool which can identify acts and section from FIR content using custom trained AI-LLM model",
+              "locator": "Reviewed passage 2: CCTNS 2.0 contemplated AI tools"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Contemplated FIR analysis, entity resolution and predictive policing; not all deployed functions established. Actual adverse-decision and override pathways were not operationally tested.",
+          "evidence": [
+            {
+              "source_id": "frame-home-cctns",
+              "quote": "Artificial intelligence tools will be integrated in the under-development second version of the Crime and Criminal Tracking Network & Systems",
+              "locator": "Reviewed passage 1: CCTNS 2.0 contemplated AI tools"
+            },
+            {
+              "source_id": "frame-home-cctns",
+              "quote": "Another tool that is being contemplated is the integration of automatic prediction tool which can identify acts and section from FIR content using custom trained AI-LLM model",
+              "locator": "Reviewed passage 2: CCTNS 2.0 contemplated AI tools"
+            }
+          ]
+        },
+        {
+          "status": "Conflicting sources",
+          "statement": "April 2026 report says under development; June government backgrounder says revamped CCTNS 2.0 launched in 2024. Different components/versions may explain this; not reconciled.",
+          "evidence": [
+            {
+              "source_id": "frame-home-cctns",
+              "quote": "Artificial intelligence tools will be integrated in the under-development second version of the Crime and Criminal Tracking Network & Systems",
+              "locator": "Reviewed passage 1: CCTNS 2.0 contemplated AI tools"
+            },
+            {
+              "source_id": "frame-cctns-timeline",
+              "quote": "The revamped CCTNS 2.0 with AI-powered ecosystem that connects all 17,798 police stations across India was launched in the year 2024.",
+              "locator": "Reviewed passage 1: CCTNS 2.0 government backgrounder"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current executed supplier award and complete processor/subcontractor chain were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific allocation, awarded amount and expenditure not established. Programme totals are not assigned to this system.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "FIR/crime records and contemplated AI components; identity/version linkage unresolved. Current model/version and complete live data-flow not verified.",
+          "evidence": [
+            {
+              "source_id": "frame-home-cctns",
+              "quote": "Artificial intelligence tools will be integrated in the under-development second version of the Crime and Criminal Tracking Network & Systems",
+              "locator": "Reviewed passage 1: CCTNS 2.0 contemplated AI tools"
+            },
+            {
+              "source_id": "frame-home-cctns",
+              "quote": "Another tool that is being contemplated is the integration of automatic prediction tool which can identify acts and section from FIR content using custom trained AI-LLM model",
+              "locator": "Reviewed passage 2: CCTNS 2.0 contemplated AI tools"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; a current-version independent evaluation, error/subgroup distribution and reproducible benchmark were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific human-review/override SOP and its implementation not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific data retention/access controls and their enforcement not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific appeal procedure and remedy outcomes not established.",
+          "evidence": []
+        },
+        {
+          "status": "Documented",
+          "statement": "Original institutional/service records linked; full binaries and personal data not mirrored.",
+          "evidence": [
+            {
+              "source_id": "frame-home-cctns",
+              "quote": "Artificial intelligence tools will be integrated in the under-development second version of the Crime and Criminal Tracking Network & Systems",
+              "locator": "Reviewed passage 1: CCTNS 2.0 contemplated AI tools"
+            },
+            {
+              "source_id": "frame-home-cctns",
+              "quote": "Another tool that is being contemplated is the integration of automatic prediction tool which can identify acts and section from FIR content using custom trained AI-LLM model",
+              "locator": "Reviewed passage 2: CCTNS 2.0 contemplated AI tools"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Documentary attribution only; claims do not establish independent performance, complete rollout or legal compliance.",
+          "evidence": [
+            {
+              "source_id": "frame-home-cctns",
+              "quote": "Artificial intelligence tools will be integrated in the under-development second version of the Crime and Criminal Tracking Network & Systems",
+              "locator": "Reviewed passage 1: CCTNS 2.0 contemplated AI tools"
+            },
+            {
+              "source_id": "frame-home-cctns",
+              "quote": "Another tool that is being contemplated is the integration of automatic prediction tool which can identify acts and section from FIR content using custom trained AI-LLM model",
+              "locator": "Reviewed passage 2: CCTNS 2.0 contemplated AI tools"
+            }
+          ]
+        }
+      ],
+      "frame_id": "frame-home",
+      "system_kind": "Public-service system"
+    },
+    {
+      "system_id": "sys-mvis",
+      "name": "Machine Vision Inspection System (MVIS)",
+      "owner": "Ministry of Railways",
+      "sector": "Rail rolling-stock inspection",
+      "jurisdiction": "India",
+      "stage": "Six pilot installations officially reported",
+      "latest_record_date": null,
+      "ai_basis": "Explicit AI attribution in reviewed source; not independent validation",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "Ministry of Railways; Machine Vision Inspection System (MVIS).",
+          "evidence": [
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "MVIS is an Artificial Intelligence (AI)/ Machine Learning (ML) based system which generates alerts on detecting any hanging, loose or missing components of moving trains.",
+              "locator": "Reviewed passage 1: Railway AI and smart monitoring parliamentary explanation"
+            },
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "Three (03) MVIS have been installed in Northeast Frontier Railway, two (02) in Dedicated Freight Corridor Corporation of India Limited (DFCCIL) and one (01) in South East Central Railway on pilot basis for freight stock.",
+              "locator": "Reviewed passage 2: Railway AI and smart monitoring parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Alerting on hanging/loose/missing train components; operator-response logs not reviewed. Actual adverse-decision and override pathways were not operationally tested.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "MVIS is an Artificial Intelligence (AI)/ Machine Learning (ML) based system which generates alerts on detecting any hanging, loose or missing components of moving trains.",
+              "locator": "Reviewed passage 1: Railway AI and smart monitoring parliamentary explanation"
+            },
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "Three (03) MVIS have been installed in Northeast Frontier Railway, two (02) in Dedicated Freight Corridor Corporation of India Limited (DFCCIL) and one (01) in South East Central Railway on pilot basis for freight stock.",
+              "locator": "Reviewed passage 2: Railway AI and smart monitoring parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Six pilot installations officially reported; source date is not automatically a precise go-live or evidence of October availability.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "MVIS is an Artificial Intelligence (AI)/ Machine Learning (ML) based system which generates alerts on detecting any hanging, loose or missing components of moving trains.",
+              "locator": "Reviewed passage 1: Railway AI and smart monitoring parliamentary explanation"
+            },
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "Three (03) MVIS have been installed in Northeast Frontier Railway, two (02) in Dedicated Freight Corridor Corporation of India Limited (DFCCIL) and one (01) in South East Central Railway on pilot basis for freight stock.",
+              "locator": "Reviewed passage 2: Railway AI and smart monitoring parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current executed supplier award and complete processor/subcontractor chain were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific allocation, awarded amount and expenditure not established. Programme totals are not assigned to this system.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "AI/ML visual inspection of moving freight stock. Current model/version and complete live data-flow not verified.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "MVIS is an Artificial Intelligence (AI)/ Machine Learning (ML) based system which generates alerts on detecting any hanging, loose or missing components of moving trains.",
+              "locator": "Reviewed passage 1: Railway AI and smart monitoring parliamentary explanation"
+            },
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "Three (03) MVIS have been installed in Northeast Frontier Railway, two (02) in Dedicated Freight Corridor Corporation of India Limited (DFCCIL) and one (01) in South East Central Railway on pilot basis for freight stock.",
+              "locator": "Reviewed passage 2: Railway AI and smart monitoring parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; a current-version independent evaluation, error/subgroup distribution and reproducible benchmark were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific human-review/override SOP and its implementation not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific data retention/access controls and their enforcement not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific appeal procedure and remedy outcomes not established.",
+          "evidence": []
+        },
+        {
+          "status": "Documented",
+          "statement": "Original institutional/service records linked; full binaries and personal data not mirrored.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "MVIS is an Artificial Intelligence (AI)/ Machine Learning (ML) based system which generates alerts on detecting any hanging, loose or missing components of moving trains.",
+              "locator": "Reviewed passage 1: Railway AI and smart monitoring parliamentary explanation"
+            },
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "Three (03) MVIS have been installed in Northeast Frontier Railway, two (02) in Dedicated Freight Corridor Corporation of India Limited (DFCCIL) and one (01) in South East Central Railway on pilot basis for freight stock.",
+              "locator": "Reviewed passage 2: Railway AI and smart monitoring parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Documentary attribution only; claims do not establish independent performance, complete rollout or legal compliance.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "MVIS is an Artificial Intelligence (AI)/ Machine Learning (ML) based system which generates alerts on detecting any hanging, loose or missing components of moving trains.",
+              "locator": "Reviewed passage 1: Railway AI and smart monitoring parliamentary explanation"
+            },
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "Three (03) MVIS have been installed in Northeast Frontier Railway, two (02) in Dedicated Freight Corridor Corporation of India Limited (DFCCIL) and one (01) in South East Central Railway on pilot basis for freight stock.",
+              "locator": "Reviewed passage 2: Railway AI and smart monitoring parliamentary explanation"
+            }
+          ]
+        }
+      ],
+      "frame_id": "frame-railways",
+      "system_kind": "Public-service system"
+    },
+    {
+      "system_id": "sys-itms",
+      "name": "Integrated Track Monitoring System (ITMS)",
+      "owner": "Ministry of Railways",
+      "sector": "Rail track inspection",
+      "jurisdiction": "India",
+      "stage": "Three deployments officially reported",
+      "latest_record_date": null,
+      "ai_basis": "Explicit AI attribution in reviewed source; not independent validation",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "Ministry of Railways; Integrated Track Monitoring System (ITMS).",
+          "evidence": [
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "The ITMS utilizes machine learning and image processing to monitor and detect defects in railway track components such as rails, sleepers, and fastenings.",
+              "locator": "Reviewed passage 3: Railway AI and smart monitoring parliamentary explanation"
+            },
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "Presently three (03) ITMS are deployed for track recording and monitoring of IR track.",
+              "locator": "Reviewed passage 4: Railway AI and smart monitoring parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Track defect monitoring informs urgent/planned maintenance. Actual adverse-decision and override pathways were not operationally tested.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "The ITMS utilizes machine learning and image processing to monitor and detect defects in railway track components such as rails, sleepers, and fastenings.",
+              "locator": "Reviewed passage 3: Railway AI and smart monitoring parliamentary explanation"
+            },
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "Presently three (03) ITMS are deployed for track recording and monitoring of IR track.",
+              "locator": "Reviewed passage 4: Railway AI and smart monitoring parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Three deployments officially reported; source date is not automatically a precise go-live or evidence of October availability.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "The ITMS utilizes machine learning and image processing to monitor and detect defects in railway track components such as rails, sleepers, and fastenings.",
+              "locator": "Reviewed passage 3: Railway AI and smart monitoring parliamentary explanation"
+            },
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "Presently three (03) ITMS are deployed for track recording and monitoring of IR track.",
+              "locator": "Reviewed passage 4: Railway AI and smart monitoring parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current executed supplier award and complete processor/subcontractor chain were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific allocation, awarded amount and expenditure not established. Programme totals are not assigned to this system.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Machine learning/image processing on rails, sleepers and fastenings. Current model/version and complete live data-flow not verified.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "The ITMS utilizes machine learning and image processing to monitor and detect defects in railway track components such as rails, sleepers, and fastenings.",
+              "locator": "Reviewed passage 3: Railway AI and smart monitoring parliamentary explanation"
+            },
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "Presently three (03) ITMS are deployed for track recording and monitoring of IR track.",
+              "locator": "Reviewed passage 4: Railway AI and smart monitoring parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; a current-version independent evaluation, error/subgroup distribution and reproducible benchmark were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific human-review/override SOP and its implementation not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific data retention/access controls and their enforcement not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific appeal procedure and remedy outcomes not established.",
+          "evidence": []
+        },
+        {
+          "status": "Documented",
+          "statement": "Original institutional/service records linked; full binaries and personal data not mirrored.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "The ITMS utilizes machine learning and image processing to monitor and detect defects in railway track components such as rails, sleepers, and fastenings.",
+              "locator": "Reviewed passage 3: Railway AI and smart monitoring parliamentary explanation"
+            },
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "Presently three (03) ITMS are deployed for track recording and monitoring of IR track.",
+              "locator": "Reviewed passage 4: Railway AI and smart monitoring parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Documentary attribution only; claims do not establish independent performance, complete rollout or legal compliance.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "The ITMS utilizes machine learning and image processing to monitor and detect defects in railway track components such as rails, sleepers, and fastenings.",
+              "locator": "Reviewed passage 3: Railway AI and smart monitoring parliamentary explanation"
+            },
+            {
+              "source_id": "frame-rail-ai-primary",
+              "quote": "Presently three (03) ITMS are deployed for track recording and monitoring of IR track.",
+              "locator": "Reviewed passage 4: Railway AI and smart monitoring parliamentary explanation"
+            }
+          ]
+        }
+      ],
+      "frame_id": "frame-railways",
+      "system_kind": "Public-service system"
+    },
+    {
+      "system_id": "sys-rail-vss",
+      "name": "Railway Video Surveillance System (VSS) AI analytics",
+      "owner": "Ministry of Railways",
+      "sector": "Passenger surveillance",
+      "jurisdiction": "India",
+      "stage": "Official coverage reported; station configuration unverified",
+      "latest_record_date": null,
+      "ai_basis": "Explicit AI attribution in reviewed source; not independent validation",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "Ministry of Railways; Railway Video Surveillance System (VSS) AI analytics.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-security",
+              "quote": "Indian Railways has expanded its Video Surveillance System (VSS) across 1,874 railway stations.",
+              "locator": "Reviewed passage 1: Railway AI video surveillance expansion"
+            },
+            {
+              "source_id": "frame-rail-security",
+              "quote": "The system is equipped with advanced AI-based Video Analytics for automated detection of events such as intrusion and loitering, along with Facial Recognition Software for real-time identification and monitoring.",
+              "locator": "Reviewed passage 2: Railway AI video surveillance expansion"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Intrusion/loitering alerts and facial recognition; match/adverse-action review not established. Actual adverse-decision and override pathways were not operationally tested.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-security",
+              "quote": "Indian Railways has expanded its Video Surveillance System (VSS) across 1,874 railway stations.",
+              "locator": "Reviewed passage 1: Railway AI video surveillance expansion"
+            },
+            {
+              "source_id": "frame-rail-security",
+              "quote": "The system is equipped with advanced AI-based Video Analytics for automated detection of events such as intrusion and loitering, along with Facial Recognition Software for real-time identification and monitoring.",
+              "locator": "Reviewed passage 2: Railway AI video surveillance expansion"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Official coverage reported; station configuration unverified; source date is not automatically a precise go-live or evidence of October availability.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-security",
+              "quote": "Indian Railways has expanded its Video Surveillance System (VSS) across 1,874 railway stations.",
+              "locator": "Reviewed passage 1: Railway AI video surveillance expansion"
+            },
+            {
+              "source_id": "frame-rail-security",
+              "quote": "The system is equipped with advanced AI-based Video Analytics for automated detection of events such as intrusion and loitering, along with Facial Recognition Software for real-time identification and monitoring.",
+              "locator": "Reviewed passage 2: Railway AI video surveillance expansion"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current executed supplier award and complete processor/subcontractor chain were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific allocation, awarded amount and expenditure not established. Programme totals are not assigned to this system.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Station cameras and video analytics; do not infer every AI module present at all 1874 stations. Current model/version and complete live data-flow not verified.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-security",
+              "quote": "Indian Railways has expanded its Video Surveillance System (VSS) across 1,874 railway stations.",
+              "locator": "Reviewed passage 1: Railway AI video surveillance expansion"
+            },
+            {
+              "source_id": "frame-rail-security",
+              "quote": "The system is equipped with advanced AI-based Video Analytics for automated detection of events such as intrusion and loitering, along with Facial Recognition Software for real-time identification and monitoring.",
+              "locator": "Reviewed passage 2: Railway AI video surveillance expansion"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; a current-version independent evaluation, error/subgroup distribution and reproducible benchmark were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific human-review/override SOP and its implementation not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific data retention/access controls and their enforcement not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific appeal procedure and remedy outcomes not established.",
+          "evidence": []
+        },
+        {
+          "status": "Documented",
+          "statement": "Original institutional/service records linked; full binaries and personal data not mirrored.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-security",
+              "quote": "Indian Railways has expanded its Video Surveillance System (VSS) across 1,874 railway stations.",
+              "locator": "Reviewed passage 1: Railway AI video surveillance expansion"
+            },
+            {
+              "source_id": "frame-rail-security",
+              "quote": "The system is equipped with advanced AI-based Video Analytics for automated detection of events such as intrusion and loitering, along with Facial Recognition Software for real-time identification and monitoring.",
+              "locator": "Reviewed passage 2: Railway AI video surveillance expansion"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Documentary attribution only; claims do not establish independent performance, complete rollout or legal compliance.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-security",
+              "quote": "Indian Railways has expanded its Video Surveillance System (VSS) across 1,874 railway stations.",
+              "locator": "Reviewed passage 1: Railway AI video surveillance expansion"
+            },
+            {
+              "source_id": "frame-rail-security",
+              "quote": "The system is equipped with advanced AI-based Video Analytics for automated detection of events such as intrusion and loitering, along with Facial Recognition Software for real-time identification and monitoring.",
+              "locator": "Reviewed passage 2: Railway AI video surveillance expansion"
+            }
+          ]
+        }
+      ],
+      "frame_id": "frame-railways",
+      "system_kind": "Public-service system"
+    },
+    {
+      "system_id": "sys-railmadad",
+      "name": "RailMadad AI complaint prioritisation",
+      "owner": "Centre for Railway Information Systems",
+      "sector": "Rail grievance handling",
+      "jurisdiction": "India",
+      "stage": "Integration reported in CRIS interview",
+      "latest_record_date": null,
+      "ai_basis": "Explicit AI attribution in reviewed source; not independent validation",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "Centre for Railway Information Systems; RailMadad AI complaint prioritisation.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-madad",
+              "quote": "It classifies and prioritises the complaints based on urgency and type",
+              "locator": "Reviewed passage 1: Railway AI-enabled applications interview"
+            },
+            {
+              "source_id": "frame-rail-madad",
+              "quote": "We have integrated Bhashini to convert voice in 12 languages to text.",
+              "locator": "Reviewed passage 2: Railway AI-enabled applications interview"
+            },
+            {
+              "source_id": "frame-rail-madad",
+              "quote": "It also identifies the complaint trends and gauges the passenger sentiment for proactive action",
+              "locator": "Reviewed passage 3: Railway AI-enabled applications interview"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Classifies/prioritises passenger complaints; complaint-resolution success and queue bias not measured. Actual adverse-decision and override pathways were not operationally tested.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-madad",
+              "quote": "It classifies and prioritises the complaints based on urgency and type",
+              "locator": "Reviewed passage 1: Railway AI-enabled applications interview"
+            },
+            {
+              "source_id": "frame-rail-madad",
+              "quote": "We have integrated Bhashini to convert voice in 12 languages to text.",
+              "locator": "Reviewed passage 2: Railway AI-enabled applications interview"
+            },
+            {
+              "source_id": "frame-rail-madad",
+              "quote": "It also identifies the complaint trends and gauges the passenger sentiment for proactive action",
+              "locator": "Reviewed passage 3: Railway AI-enabled applications interview"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Integration reported in CRIS interview; source date is not automatically a precise go-live or evidence of October availability.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-madad",
+              "quote": "It classifies and prioritises the complaints based on urgency and type",
+              "locator": "Reviewed passage 1: Railway AI-enabled applications interview"
+            },
+            {
+              "source_id": "frame-rail-madad",
+              "quote": "We have integrated Bhashini to convert voice in 12 languages to text.",
+              "locator": "Reviewed passage 2: Railway AI-enabled applications interview"
+            },
+            {
+              "source_id": "frame-rail-madad",
+              "quote": "It also identifies the complaint trends and gauges the passenger sentiment for proactive action",
+              "locator": "Reviewed passage 3: Railway AI-enabled applications interview"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current executed supplier award and complete processor/subcontractor chain were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific allocation, awarded amount and expenditure not established. Programme totals are not assigned to this system.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Voice/text complaints, BHASHINI integration and sentiment/trend analysis as reported. Current model/version and complete live data-flow not verified.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-madad",
+              "quote": "It classifies and prioritises the complaints based on urgency and type",
+              "locator": "Reviewed passage 1: Railway AI-enabled applications interview"
+            },
+            {
+              "source_id": "frame-rail-madad",
+              "quote": "We have integrated Bhashini to convert voice in 12 languages to text.",
+              "locator": "Reviewed passage 2: Railway AI-enabled applications interview"
+            },
+            {
+              "source_id": "frame-rail-madad",
+              "quote": "It also identifies the complaint trends and gauges the passenger sentiment for proactive action",
+              "locator": "Reviewed passage 3: Railway AI-enabled applications interview"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; a current-version independent evaluation, error/subgroup distribution and reproducible benchmark were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific human-review/override SOP and its implementation not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific data retention/access controls and their enforcement not established.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "The service handles grievances, but an appeal against AI classification/priority and outcome evidence remain unverified.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-madad",
+              "quote": "It classifies and prioritises the complaints based on urgency and type",
+              "locator": "Reviewed passage 1: Railway AI-enabled applications interview"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "Original institutional/service records linked; full binaries and personal data not mirrored.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-madad",
+              "quote": "It classifies and prioritises the complaints based on urgency and type",
+              "locator": "Reviewed passage 1: Railway AI-enabled applications interview"
+            },
+            {
+              "source_id": "frame-rail-madad",
+              "quote": "We have integrated Bhashini to convert voice in 12 languages to text.",
+              "locator": "Reviewed passage 2: Railway AI-enabled applications interview"
+            },
+            {
+              "source_id": "frame-rail-madad",
+              "quote": "It also identifies the complaint trends and gauges the passenger sentiment for proactive action",
+              "locator": "Reviewed passage 3: Railway AI-enabled applications interview"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Documentary attribution only; claims do not establish independent performance, complete rollout or legal compliance.",
+          "evidence": [
+            {
+              "source_id": "frame-rail-madad",
+              "quote": "It classifies and prioritises the complaints based on urgency and type",
+              "locator": "Reviewed passage 1: Railway AI-enabled applications interview"
+            },
+            {
+              "source_id": "frame-rail-madad",
+              "quote": "We have integrated Bhashini to convert voice in 12 languages to text.",
+              "locator": "Reviewed passage 2: Railway AI-enabled applications interview"
+            },
+            {
+              "source_id": "frame-rail-madad",
+              "quote": "It also identifies the complaint trends and gauges the passenger sentiment for proactive action",
+              "locator": "Reviewed passage 3: Railway AI-enabled applications interview"
+            }
+          ]
+        }
+      ],
+      "frame_id": "frame-railways",
+      "system_kind": "Public-service system"
+    },
+    {
+      "system_id": "sys-susahyak",
+      "name": "SuSahayak court-information chatbot",
+      "owner": "Supreme Court of India",
+      "sector": "Judicial information access",
+      "jurisdiction": "India",
+      "stage": "Service interface observed; no query submitted",
+      "latest_record_date": null,
+      "ai_basis": "Explicit AI attribution in reviewed source; not independent validation",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "Supreme Court of India; SuSahayak court-information chatbot.",
+          "evidence": [
+            {
+              "source_id": "frame-susahyak",
+              "quote": "SuSahayak",
+              "locator": "Reviewed passage 1: Supreme Court SuSahayak service interface"
+            },
+            {
+              "source_id": "frame-susahyak",
+              "quote": "AI Assistant Powered by VANI",
+              "locator": "Reviewed passage 2: Supreme Court SuSahayak service interface"
+            },
+            {
+              "source_id": "frame-susahyak",
+              "quote": "Developed by NIC for Supreme Court of India",
+              "locator": "Reviewed passage 3: Supreme Court SuSahayak service interface"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "General court information, not legal advice or adjudication. Actual adverse-decision and override pathways were not operationally tested.",
+          "evidence": [
+            {
+              "source_id": "frame-susahyak",
+              "quote": "SuSahayak",
+              "locator": "Reviewed passage 1: Supreme Court SuSahayak service interface"
+            },
+            {
+              "source_id": "frame-susahyak",
+              "quote": "AI Assistant Powered by VANI",
+              "locator": "Reviewed passage 2: Supreme Court SuSahayak service interface"
+            },
+            {
+              "source_id": "frame-susahyak",
+              "quote": "Developed by NIC for Supreme Court of India",
+              "locator": "Reviewed passage 3: Supreme Court SuSahayak service interface"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Service interface observed; no query submitted; source date is not automatically a precise go-live or evidence of October availability.",
+          "evidence": [
+            {
+              "source_id": "frame-susahyak",
+              "quote": "SuSahayak",
+              "locator": "Reviewed passage 1: Supreme Court SuSahayak service interface"
+            },
+            {
+              "source_id": "frame-susahyak",
+              "quote": "AI Assistant Powered by VANI",
+              "locator": "Reviewed passage 2: Supreme Court SuSahayak service interface"
+            },
+            {
+              "source_id": "frame-susahyak",
+              "quote": "Developed by NIC for Supreme Court of India",
+              "locator": "Reviewed passage 3: Supreme Court SuSahayak service interface"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current executed supplier award and complete processor/subcontractor chain were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific allocation, awarded amount and expenditure not established. Programme totals are not assigned to this system.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "VANI-powered chatbot identified on court site; current model/version/data lifecycle not verified. Current model/version and complete live data-flow not verified.",
+          "evidence": [
+            {
+              "source_id": "frame-susahyak",
+              "quote": "SuSahayak",
+              "locator": "Reviewed passage 1: Supreme Court SuSahayak service interface"
+            },
+            {
+              "source_id": "frame-susahyak",
+              "quote": "AI Assistant Powered by VANI",
+              "locator": "Reviewed passage 2: Supreme Court SuSahayak service interface"
+            },
+            {
+              "source_id": "frame-susahyak",
+              "quote": "Developed by NIC for Supreme Court of India",
+              "locator": "Reviewed passage 3: Supreme Court SuSahayak service interface"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; a current-version independent evaluation, error/subgroup distribution and reproducible benchmark were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Disclaimer makes original records authoritative; actual verification/handoff process not tested.",
+          "evidence": [
+            {
+              "source_id": "frame-susahyak",
+              "quote": "All the contents of this Chatbot are only for general information or use. They do not constitute advice and should not be relied upon in making (or refraining from making) any decision.",
+              "locator": "Reviewed passage 4: Supreme Court SuSahayak service interface"
+            },
+            {
+              "source_id": "frame-susahyak",
+              "quote": "In case of any omission or discrepancy, information in the original records will be final and binding.",
+              "locator": "Reviewed passage 5: Supreme Court SuSahayak service interface"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific data retention/access controls and their enforcement not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific appeal procedure and remedy outcomes not established.",
+          "evidence": []
+        },
+        {
+          "status": "Documented",
+          "statement": "Original institutional/service records linked; full binaries and personal data not mirrored.",
+          "evidence": [
+            {
+              "source_id": "frame-susahyak",
+              "quote": "SuSahayak",
+              "locator": "Reviewed passage 1: Supreme Court SuSahayak service interface"
+            },
+            {
+              "source_id": "frame-susahyak",
+              "quote": "AI Assistant Powered by VANI",
+              "locator": "Reviewed passage 2: Supreme Court SuSahayak service interface"
+            },
+            {
+              "source_id": "frame-susahyak",
+              "quote": "Developed by NIC for Supreme Court of India",
+              "locator": "Reviewed passage 3: Supreme Court SuSahayak service interface"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Documentary attribution only; claims do not establish independent performance, complete rollout or legal compliance.",
+          "evidence": [
+            {
+              "source_id": "frame-susahyak",
+              "quote": "SuSahayak",
+              "locator": "Reviewed passage 1: Supreme Court SuSahayak service interface"
+            },
+            {
+              "source_id": "frame-susahyak",
+              "quote": "AI Assistant Powered by VANI",
+              "locator": "Reviewed passage 2: Supreme Court SuSahayak service interface"
+            },
+            {
+              "source_id": "frame-susahyak",
+              "quote": "Developed by NIC for Supreme Court of India",
+              "locator": "Reviewed passage 3: Supreme Court SuSahayak service interface"
+            }
+          ]
+        }
+      ],
+      "frame_id": "frame-court",
+      "system_kind": "Public-service system"
+    },
+    {
+      "system_id": "sys-teres",
+      "name": "TERES judicial transcription",
+      "owner": "Supreme Court of India",
+      "sector": "Judicial transcription",
+      "jurisdiction": "India",
+      "stage": "Use described in court white paper",
+      "latest_record_date": null,
+      "ai_basis": "Explicit AI attribution in reviewed source; not independent validation",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "Supreme Court of India; TERES judicial transcription.",
+          "evidence": [
+            {
+              "source_id": "frame-court-guidelines",
+              "quote": "AI-based transcription tools are being used in the Supreme Court to automatically capture and convert oral arguments, particularly before Constitution Benches, into real-time text displayed on courtroom screens.",
+              "locator": "Reviewed passage 1: Supreme Court white paper on judicial AI"
+            },
+            {
+              "source_id": "frame-court-guidelines",
+              "quote": "These live transcripts are then uploaded to the Court’s website, enabling lawyers, litigants, researchers, and the wider public to access an authoritative and contemporaneous record of hearings",
+              "locator": "Reviewed passage 2: Supreme Court white paper on judicial AI"
+            },
+            {
+              "source_id": "frame-court-guidelines",
+              "quote": "AI-based transcription (TERES)",
+              "locator": "Reviewed passage 3: Supreme Court white paper on judicial AI"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Transcribes oral arguments for public access/record-keeping; not a judgment-generation tool. Actual adverse-decision and override pathways were not operationally tested.",
+          "evidence": [
+            {
+              "source_id": "frame-court-guidelines",
+              "quote": "AI-based transcription tools are being used in the Supreme Court to automatically capture and convert oral arguments, particularly before Constitution Benches, into real-time text displayed on courtroom screens.",
+              "locator": "Reviewed passage 1: Supreme Court white paper on judicial AI"
+            },
+            {
+              "source_id": "frame-court-guidelines",
+              "quote": "These live transcripts are then uploaded to the Court’s website, enabling lawyers, litigants, researchers, and the wider public to access an authoritative and contemporaneous record of hearings",
+              "locator": "Reviewed passage 2: Supreme Court white paper on judicial AI"
+            },
+            {
+              "source_id": "frame-court-guidelines",
+              "quote": "AI-based transcription (TERES)",
+              "locator": "Reviewed passage 3: Supreme Court white paper on judicial AI"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Use described in court white paper; source date is not automatically a precise go-live or evidence of October availability.",
+          "evidence": [
+            {
+              "source_id": "frame-court-guidelines",
+              "quote": "AI-based transcription tools are being used in the Supreme Court to automatically capture and convert oral arguments, particularly before Constitution Benches, into real-time text displayed on courtroom screens.",
+              "locator": "Reviewed passage 1: Supreme Court white paper on judicial AI"
+            },
+            {
+              "source_id": "frame-court-guidelines",
+              "quote": "These live transcripts are then uploaded to the Court’s website, enabling lawyers, litigants, researchers, and the wider public to access an authoritative and contemporaneous record of hearings",
+              "locator": "Reviewed passage 2: Supreme Court white paper on judicial AI"
+            },
+            {
+              "source_id": "frame-court-guidelines",
+              "quote": "AI-based transcription (TERES)",
+              "locator": "Reviewed passage 3: Supreme Court white paper on judicial AI"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "2023 transcription RFP retained; an executed award linking it to current TERES was not reviewed.",
+          "evidence": [
+            {
+              "source_id": "frame-court-tender",
+              "quote": "The transcription of arguments generated through AI, machine learning and deep learning solution and tools must be proof-read by qualified transcribers as the first line and thereafter by reviewers",
+              "locator": "Reviewed passage 1: Supreme Court AI transcription RFP"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific allocation, awarded amount and expenditure not established. Programme totals are not assigned to this system.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Hearing speech-to-text; deployed version/supplier agreement not established. Current model/version and complete live data-flow not verified.",
+          "evidence": [
+            {
+              "source_id": "frame-court-guidelines",
+              "quote": "AI-based transcription tools are being used in the Supreme Court to automatically capture and convert oral arguments, particularly before Constitution Benches, into real-time text displayed on courtroom screens.",
+              "locator": "Reviewed passage 1: Supreme Court white paper on judicial AI"
+            },
+            {
+              "source_id": "frame-court-guidelines",
+              "quote": "These live transcripts are then uploaded to the Court’s website, enabling lawyers, litigants, researchers, and the wider public to access an authoritative and contemporaneous record of hearings",
+              "locator": "Reviewed passage 2: Supreme Court white paper on judicial AI"
+            },
+            {
+              "source_id": "frame-court-guidelines",
+              "quote": "AI-based transcription (TERES)",
+              "locator": "Reviewed passage 3: Supreme Court white paper on judicial AI"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; a current-version independent evaluation, error/subgroup distribution and reproducible benchmark were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "RFP requires transcriber then reviewer checking; current implementation and correction outcomes not audited.",
+          "evidence": [
+            {
+              "source_id": "frame-court-tender",
+              "quote": "The transcription of arguments generated through AI, machine learning and deep learning solution and tools must be proof-read by qualified transcribers as the first line and thereafter by reviewers",
+              "locator": "Reviewed passage 1: Supreme Court AI transcription RFP"
+            },
+            {
+              "source_id": "frame-court-tender",
+              "quote": "remove any typographical errors, mistakes before forwarding the final version transcription to the Registry.",
+              "locator": "Reviewed passage 2: Supreme Court AI transcription RFP"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current system-specific data retention/access controls and their enforcement not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific appeal procedure and remedy outcomes not established.",
+          "evidence": []
+        },
+        {
+          "status": "Documented",
+          "statement": "Original institutional/service records linked; full binaries and personal data not mirrored.",
+          "evidence": [
+            {
+              "source_id": "frame-court-guidelines",
+              "quote": "AI-based transcription tools are being used in the Supreme Court to automatically capture and convert oral arguments, particularly before Constitution Benches, into real-time text displayed on courtroom screens.",
+              "locator": "Reviewed passage 1: Supreme Court white paper on judicial AI"
+            },
+            {
+              "source_id": "frame-court-guidelines",
+              "quote": "These live transcripts are then uploaded to the Court’s website, enabling lawyers, litigants, researchers, and the wider public to access an authoritative and contemporaneous record of hearings",
+              "locator": "Reviewed passage 2: Supreme Court white paper on judicial AI"
+            },
+            {
+              "source_id": "frame-court-guidelines",
+              "quote": "AI-based transcription (TERES)",
+              "locator": "Reviewed passage 3: Supreme Court white paper on judicial AI"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Documentary attribution only; claims do not establish independent performance, complete rollout or legal compliance.",
+          "evidence": [
+            {
+              "source_id": "frame-court-guidelines",
+              "quote": "AI-based transcription tools are being used in the Supreme Court to automatically capture and convert oral arguments, particularly before Constitution Benches, into real-time text displayed on courtroom screens.",
+              "locator": "Reviewed passage 1: Supreme Court white paper on judicial AI"
+            },
+            {
+              "source_id": "frame-court-guidelines",
+              "quote": "These live transcripts are then uploaded to the Court’s website, enabling lawyers, litigants, researchers, and the wider public to access an authoritative and contemporaneous record of hearings",
+              "locator": "Reviewed passage 2: Supreme Court white paper on judicial AI"
+            },
+            {
+              "source_id": "frame-court-guidelines",
+              "quote": "AI-based transcription (TERES)",
+              "locator": "Reviewed passage 3: Supreme Court white paper on judicial AI"
+            }
+          ]
+        }
+      ],
+      "frame_id": "frame-court",
+      "system_kind": "Public-service system"
+    }
+  ],
+  "details": [
+    {
+      "table": "deployments",
+      "system_id": "sys-npss",
+      "values": {
+        "event_date": "2024-08-15",
+        "date_precision": "day",
+        "stage": "Launch reported",
+        "place": "India",
+        "description": "Launch date is stated; October site-by-site availability not audited."
+      },
+      "evidence": [
+        {
+          "source_id": "frame-npss",
+          "quote": "The National Pest Surveillance System (NPSS) has been launched on 15th August, 2024",
+          "locator": "Reviewed passage 1: NPSS launch and advisory parliamentary explanation"
+        }
+      ]
+    },
+    {
+      "table": "metrics",
+      "system_id": "sys-npss",
+      "values": {
+        "metric_name": "Reported extension-worker use",
+        "value": 10000,
+        "unit": "extension workers",
+        "metric_kind": "Usage self-report",
+        "measurement_scope": "Over this lower bound as of July reply; not diagnostic accuracy",
+        "denominator": null
+      },
+      "evidence": [
+        {
+          "source_id": "frame-agri-impact",
+          "quote": "This tool, currently used by over 10,000 extension workers, allows farmers to capture images of pests",
+          "locator": "Reviewed passage 2: Agriculture AI use and impact-assessment parliamentary answer"
+        }
+      ]
+    },
+    {
+      "table": "issues",
+      "system_id": "sys-bharat-vistaar",
+      "values": {
+        "issue_type": "New dated channel-specific language evidence",
+        "description": "July reply distinguishes telephone Hindi/English from ten-language web/app/chatbot. The undated 22+ portal remains unreconciled; do not treat every channel as identical."
+      },
+      "evidence": [
+        {
+          "source_id": "frame-agri-impact",
+          "quote": "At present, BharatVistaar Telephone service is available in 2 languages, i.e. Hindi and English; however, the chatbot, web portal, and mobile application are available in 10 languages.",
+          "locator": "Reviewed passage 5: Agriculture AI use and impact-assessment parliamentary answer"
+        }
+      ]
+    },
+    {
+      "table": "deployments",
+      "system_id": "sys-bharat-vistaar",
+      "values": {
+        "event_date": "2026-07-24",
+        "date_precision": "day",
+        "stage": "Channel-specific service use reported",
+        "place": "India",
+        "description": "July reply reports two telephone languages versus ten digital-channel languages."
+      },
+      "evidence": [
+        {
+          "source_id": "frame-agri-impact",
+          "quote": "At present, BharatVistaar Telephone service is available in 2 languages, i.e. Hindi and English; however, the chatbot, web portal, and mobile application are available in 10 languages.",
+          "locator": "Reviewed passage 5: Agriculture AI use and impact-assessment parliamentary answer"
+        },
+        {
+          "source_id": "frame-agri-impact",
+          "quote": "As on date, the platform has served over 3 lakh farmers and addressed more than 72 lakh farmer queries.",
+          "locator": "Reviewed passage 6: Agriculture AI use and impact-assessment parliamentary answer"
+        }
+      ]
+    },
+    {
+      "table": "issues",
+      "system_id": "sys-cropic",
+      "values": {
+        "issue_type": "Data declaration tension",
+        "description": "Described upload of images/location/date/crop metadata versus app-store no-data-collected declaration. SDK/category definitions and actual processing require further verification."
+      },
+      "evidence": [
+        {
+          "source_id": "frame-cropic",
+          "quote": "Images and basic metadata (location, date, time, crop name) are uploaded through the CROPIC mobile app.",
+          "locator": "Reviewed passage 3: CROPIC app and data-safety declarations"
+        },
+        {
+          "source_id": "frame-cropic",
+          "quote": "No data collected",
+          "locator": "Reviewed passage 4: CROPIC app and data-safety declarations"
+        }
+      ]
+    },
+    {
+      "table": "deployments",
+      "system_id": "sys-madhunetrai",
+      "values": {
+        "event_date": "2025-12-16",
+        "date_precision": "day",
+        "stage": "AFMS pilot programme launched; seven sites planned",
+        "place": "AFMS named locations",
+        "description": "Future site implementation not treated as all seven operational."
+      },
+      "evidence": [
+        {
+          "source_id": "frame-madhunetrai-pilot",
+          "quote": "As part of the pilot phase, the Armed Forces Medical Services (AFMS) will implement the initiative at seven locations",
+          "locator": "Reviewed passage 2: AFMS MadhuNetrAI programme launch"
+        }
+      ]
+    },
+    {
+      "table": "metrics",
+      "system_id": "sys-catb",
+      "values": {
+        "metric_name": "Reported additional TB yield range",
+        "value": 12,
+        "value_upper": 16,
+        "unit": "% additional yield",
+        "metric_kind": "Official outcome claim; evaluation protocol unavailable",
+        "measurement_scope": "Not sensitivity/specificity or current version accuracy",
+        "denominator": "Conventional screening comparator not fully specified"
+      },
+      "evidence": [
+        {
+          "source_id": "frame-madhunetrai",
+          "quote": "In the deployed geographies, the solution has shown an additional yield of 12-16% in TB reported, over patient screenings using conventional methods.",
+          "locator": "Reviewed passage 5: Health AI diagnostics parliamentary explanation"
+        }
+      ]
+    },
+    {
+      "table": "system_institutions",
+      "system_id": "sys-bodh",
+      "values": {
+        "name": "Indian Institute of Technology Kanpur",
+        "role": "Platform development collaboration as officially described"
+      },
+      "evidence": [
+        {
+          "source_id": "frame-health-sahi",
+          "quote": "BODH (Benchmarking Open Data Platform for Health AI), developed by the Indian Institute of Technology Kanpur in collaboration with the National Health Authority, will enable systematic evaluation of AI models using diverse, anonymized real-world health datasets.",
+          "locator": "Reviewed passage 1: SAHI and BODH launch"
+        }
+      ]
+    },
+    {
+      "table": "issues",
+      "system_id": "sys-cctns2",
+      "values": {
+        "issue_type": "Version/timeline conflict",
+        "description": "Under-development 2026 description versus launched-in-2024 backgrounder; cannot infer full predictive-policing rollout."
+      },
+      "evidence": [
+        {
+          "source_id": "frame-home-cctns",
+          "quote": "Artificial intelligence tools will be integrated in the under-development second version of the Crime and Criminal Tracking Network & Systems",
+          "locator": "Reviewed passage 1: CCTNS 2.0 contemplated AI tools"
+        },
+        {
+          "source_id": "frame-cctns-timeline",
+          "quote": "The revamped CCTNS 2.0 with AI-powered ecosystem that connects all 17,798 police stations across India was launched in the year 2024.",
+          "locator": "Reviewed passage 1: CCTNS 2.0 government backgrounder"
+        }
+      ]
+    },
+    {
+      "table": "issues",
+      "system_id": "sys-rail-vss",
+      "values": {
+        "issue_type": "Coverage/component boundary",
+        "description": "1874 is reported VSS station coverage; not a verified count of stations running each facial recognition or analytics module."
+      },
+      "evidence": [
+        {
+          "source_id": "frame-rail-security",
+          "quote": "Indian Railways has expanded its Video Surveillance System (VSS) across 1,874 railway stations.",
+          "locator": "Reviewed passage 1: Railway AI video surveillance expansion"
+        },
+        {
+          "source_id": "frame-rail-security",
+          "quote": "The system is equipped with advanced AI-based Video Analytics for automated detection of events such as intrusion and loitering, along with Facial Recognition Software for real-time identification and monitoring.",
+          "locator": "Reviewed passage 2: Railway AI video surveillance expansion"
+        }
+      ]
+    },
+    {
+      "table": "system_links",
+      "system_id": "sys-railmadad",
+      "values": {
+        "target_system_id": "sys-bhashini",
+        "relation": "CRIS interview-reported voice integration",
+        "note": "Not current contract/model verification"
+      },
+      "evidence": [
+        {
+          "source_id": "frame-rail-madad",
+          "quote": "We have integrated Bhashini to convert voice in 12 languages to text.",
+          "locator": "Reviewed passage 2: Railway AI-enabled applications interview"
+        }
+      ]
+    },
+    {
+      "table": "system_institutions",
+      "system_id": "sys-susahyak",
+      "values": {
+        "name": "National Informatics Centre",
+        "role": "Developer attribution on court service site"
+      },
+      "evidence": [
+        {
+          "source_id": "frame-susahyak",
+          "quote": "Developed by NIC for Supreme Court of India",
+          "locator": "Reviewed passage 3: Supreme Court SuSahayak service interface"
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "name": "AI-enabled National Learning Operating System",
+      "frame_id": "frame-education",
+      "decision": "Context / deferred",
+      "reason": "Education-related DIC/MeitY EOI outside this administrative frame; proposed PPP, not an awarded/operational education-ministry deployment.",
+      "evidence": [
+        {
+          "source_id": "frame-education-tender",
+          "quote": "Digital India Corporation (DIC), under the Ministry of Electronics and Information Technology (MeitY), Government of India, invites Expressions of Interest (EoI)-cum-Market Assessment",
+          "locator": "Reviewed passage 1: DIC AI-enabled National Learning Operating System EOI"
+        },
+        {
+          "source_id": "frame-education-tender",
+          "quote": "development, customization, deployment, and maintenance of an AI-Enabled National Learning Operating System under a Build-Operate-Transfer (BOT) Public-Private Partnership (PPP) model.",
+          "locator": "Reviewed passage 2: DIC AI-enabled National Learning Operating System EOI"
+        }
+      ]
+    },
+    {
+      "name": "SAHI",
+      "frame_id": "frame-health",
+      "decision": "Context / deferred",
+      "reason": "Governance strategy, not a clinical/service deployment or a completed evaluation.",
+      "evidence": [
+        {
+          "source_id": "frame-health-sahi",
+          "quote": "BODH (Benchmarking Open Data Platform for Health AI), developed by the Indian Institute of Technology Kanpur in collaboration with the National Health Authority, will enable systematic evaluation of AI models using diverse, anonymized real-world health datasets.",
+          "locator": "Reviewed passage 1: SAHI and BODH launch"
+        },
+        {
+          "source_id": "frame-health-sahi",
+          "quote": "The platform is designed to assess performance, robustness, bias, and generalizability of AI systems before their deployment at population scale.",
+          "locator": "Reviewed passage 2: SAHI and BODH launch"
+        }
+      ]
+    },
+    {
+      "name": "AI health hotspots and handheld X-rays",
+      "frame_id": "frame-health",
+      "decision": "Context / deferred",
+      "reason": "Official generic capability descriptions lack a uniquely resolved service/product/version for this registry unit.",
+      "evidence": [
+        {
+          "source_id": "frame-health-parliament",
+          "quote": "Media Disease Surveillance under Integrated Disease Surveillance Program (IDSP) to enable early detection and monitoring of disease outbreaks",
+          "locator": "Reviewed passage 1: Public healthcare AI deployment parliamentary answer"
+        },
+        {
+          "source_id": "frame-health-parliament",
+          "quote": "TB Mukt Bharat App, featuring the AI-powered Khushi Chatbot that provides medication reminders, treatment guidance, adherence support, follow-up assistance, and nutritional and psychosocial support for TB patients.",
+          "locator": "Reviewed passage 2: Public healthcare AI deployment parliamentary answer"
+        },
+        {
+          "source_id": "frame-health-parliament",
+          "quote": "These AI solutions are operational in collaboration with central and state health institutions across the country.",
+          "locator": "Reviewed passage 3: Public healthcare AI deployment parliamentary answer"
+        },
+        {
+          "source_id": "frame-health-parliament",
+          "quote": "Central Drugs Standard Control Organisation (CDSCO) also regulates use of AI in health as medical device software under the Drug & Cosmetic Act of 1940 and Medical Device Rules 2017.",
+          "locator": "Reviewed passage 4: Public healthcare AI deployment parliamentary answer"
+        }
+      ]
+    },
+    {
+      "name": "AI/ML textbook translation",
+      "frame_id": "frame-education",
+      "decision": "Context / deferred",
+      "reason": "Official use described; a uniquely identified continuing service/version not established in this round.",
+      "evidence": [
+        {
+          "source_id": "frame-education-current",
+          "quote": "NCERT has incorporated AI content in Class XI Computer Science and Informatics Practices textbooks and used AI/ML to translate Grade 1-2 textbooks into 22 Indian languages.",
+          "locator": "Reviewed passage 2: AI in Education government backgrounder"
+        }
+      ]
+    },
+    {
+      "name": "Perplexity–AICTE access partnership",
+      "frame_id": "frame-education",
+      "decision": "Context / deferred",
+      "reason": "Institutional onboarding documented; access/training programme not separately counted as an AI decision-system deployment.",
+      "evidence": [
+        {
+          "source_id": "frame-education-current",
+          "quote": "There is also student access to the Perplexity website/app through institutional onboarding.",
+          "locator": "Reviewed passage 3: AI in Education government backgrounder"
+        },
+        {
+          "source_id": "frame-education-current",
+          "quote": "The purpose of the project is for students to explore how AI tools can support research, innovation and real-world applications.",
+          "locator": "Reviewed passage 4: AI in Education government backgrounder"
+        }
+      ]
+    },
+    {
+      "name": "AI courses, SOAR, SWAYAM and CoEs",
+      "frame_id": "frame-education",
+      "decision": "Context / deferred",
+      "reason": "Teaching AI/capacity building is not evidence that course platforms use AI for public decisions.",
+      "evidence": []
+    },
+    {
+      "name": "TRI-Netra and AI drone OHE inspection",
+      "frame_id": "frame-railways",
+      "decision": "Context / deferred",
+      "reason": "Development descriptions retained in source/candidate register; current operational component identity not resolved in this round.",
+      "evidence": [
+        {
+          "source_id": "frame-rail-ai-primary",
+          "quote": "This system comprises of optical cameras, infra-red camera and ranging devices (e.g. Radar/Lidar) & Al to create a real-time, enhanced vision system for assisting Loco pilots.",
+          "locator": "Reviewed passage 5: Railway AI and smart monitoring parliamentary explanation"
+        }
+      ]
+    },
+    {
+      "name": "WILD and OMRS",
+      "frame_id": "frame-railways",
+      "decision": "Context / deferred",
+      "reason": "Monitoring technology mentioned under broad AI headline; per-system model-specific AI not established, and not every sensor is AI.",
+      "evidence": []
+    },
+    {
+      "name": "RailOne, Coach Mitra, GOAL, CCLMS and Track Management AI",
+      "frame_id": "frame-railways",
+      "decision": "Context / deferred",
+      "reason": "Interview names related applications, but component/provider/version records not sufficiently resolved for additional rows in this round.",
+      "evidence": [
+        {
+          "source_id": "frame-rail-madad",
+          "quote": "It classifies and prioritises the complaints based on urgency and type",
+          "locator": "Reviewed passage 1: Railway AI-enabled applications interview"
+        },
+        {
+          "source_id": "frame-rail-madad",
+          "quote": "We have integrated Bhashini to convert voice in 12 languages to text.",
+          "locator": "Reviewed passage 2: Railway AI-enabled applications interview"
+        },
+        {
+          "source_id": "frame-rail-madad",
+          "quote": "It also identifies the complaint trends and gauges the passenger sentiment for proactive action",
+          "locator": "Reviewed passage 3: Railway AI-enabled applications interview"
+        }
+      ]
+    },
+    {
+      "name": "Court e-filing defect detection, ADALAT AI and LESA",
+      "frame_id": "frame-court",
+      "decision": "Context / deferred",
+      "reason": "Related court/legal-service descriptions; individual deployment scope and institutional identity deferred, not counted as absent.",
+      "evidence": [
+        {
+          "source_id": "frame-court-guidelines",
+          "quote": "AI-based transcription tools are being used in the Supreme Court to automatically capture and convert oral arguments, particularly before Constitution Benches, into real-time text displayed on courtroom screens.",
+          "locator": "Reviewed passage 1: Supreme Court white paper on judicial AI"
+        },
+        {
+          "source_id": "frame-court-guidelines",
+          "quote": "These live transcripts are then uploaded to the Court’s website, enabling lawyers, litigants, researchers, and the wider public to access an authoritative and contemporaneous record of hearings",
+          "locator": "Reviewed passage 2: Supreme Court white paper on judicial AI"
+        },
+        {
+          "source_id": "frame-court-guidelines",
+          "quote": "AI-based transcription (TERES)",
+          "locator": "Reviewed passage 3: Supreme Court white paper on judicial AI"
+        }
+      ]
+    },
+    {
+      "name": "I4C suspect-scoring models",
+      "frame_id": "frame-home",
+      "decision": "Context / deferred",
+      "reason": "Exploratory models mentioned in report, not verified deployments or automatically CyberGuard components.",
+      "evidence": [
+        {
+          "source_id": "frame-home-cctns",
+          "quote": "Artificial intelligence tools will be integrated in the under-development second version of the Crime and Criminal Tracking Network & Systems",
+          "locator": "Reviewed passage 1: CCTNS 2.0 contemplated AI tools"
+        },
+        {
+          "source_id": "frame-home-cctns",
+          "quote": "Another tool that is being contemplated is the integration of automatic prediction tool which can identify acts and section from FIR content using custom trained AI-LLM model",
+          "locator": "Reviewed passage 2: CCTNS 2.0 contemplated AI tools"
+        }
+      ]
+    },
+    {
+      "name": "e-Prosecution 2.0 and e-Forensics 2.0",
+      "frame_id": "frame-home",
+      "decision": "Context / deferred",
+      "reason": "Launched applications are not automatically established AI deployments; do not infer from programme umbrella.",
+      "evidence": [
+        {
+          "source_id": "frame-abhigyan",
+          "quote": "NCRB-Abhigyan – This mobile application enables field police personnel to search the National Fingerprint Database from any location using a certified fingerprint scanner to identify a suspect through fingerprint matching.",
+          "locator": "Reviewed passage 1: NCRB applications and fingerprint conference launch"
+        },
+        {
+          "source_id": "frame-abhigyan",
+          "quote": "CrPI Application – This system integrates facial recognition, iris matching, and DNA matching capabilities.",
+          "locator": "Reviewed passage 2: NCRB applications and fingerprint conference launch"
+        }
+      ]
+    }
+  ]
+}

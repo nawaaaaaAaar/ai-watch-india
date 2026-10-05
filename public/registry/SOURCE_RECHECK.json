@@ -1,0 +1,1427 @@
+[
+  {
+    "recheck_id": "recheck-impl-mission-status",
+    "source_id": "impl-mission-status",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 1,
+    "total_excerpts": 1,
+    "cached_retry_matches": 1,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-82d44a78b9d17324",
+        "matched_clean": false,
+        "matched_html": true
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-bhashini-scale",
+    "source_id": "reg-bhashini-scale",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 1,
+    "total_excerpts": 1,
+    "cached_retry_matches": 1,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-45d027116569bffa",
+        "matched_clean": false,
+        "matched_html": true
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-bhashini-terms",
+    "source_id": "reg-bhashini-terms",
+    "checked_date": "2026-10-05",
+    "status": "Retrieval failed; earlier snapshot retained",
+    "matched_excerpts": 0,
+    "total_excerpts": 4,
+    "cached_retry_matches": 4,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": "error parsing data for \"https://bhashini.gov.in/gyankosh?tab=terms-of-use&fromFooter=true\" in table 'crawler/v2/pages': crawler error broken_content_ip_block: broken_content_ip_block",
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-285eed8756c89ee4",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-4c3db383eb9cb790",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-b2f94dbd54b183e8",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-e904ab38767f58f0",
+        "matched_clean": false,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-cag-bhashini",
+    "source_id": "reg-cag-bhashini",
+    "checked_date": "2026-10-05",
+    "status": "Partial extraction match; not a demonstrated source correction",
+    "matched_excerpts": 3,
+    "total_excerpts": 4,
+    "cached_retry_matches": 4,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth. Three passages match raw HTML; launch passage has punctuation/formatting discrepancy requiring contextual review.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-20f340b524d217c1",
+        "matched_clean": false,
+        "matched_html": true
+      },
+      {
+        "evidence_id": "ev-39616405491b3373",
+        "matched_clean": false,
+        "matched_html": true
+      },
+      {
+        "evidence_id": "ev-5b43df9f223f2f50",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-79134905e5021ec3",
+        "matched_clean": false,
+        "matched_html": true
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-digi-guidelines",
+    "source_id": "reg-digi-guidelines",
+    "checked_date": "2026-10-05",
+    "status": "Retrieval failed; earlier snapshot retained",
+    "matched_excerpts": 0,
+    "total_excerpts": 1,
+    "cached_retry_matches": 1,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": "error parsing data for \"https://www.civilaviation.gov.in/sites/default/files/2024-01/Digi%20Yatra%20Guidelines_1.pdf\" in table 'crawler/v2/pages': crawler error bad_robots_code: bad_robots_code",
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-4c99b89caf09c223",
+        "matched_clean": false,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-digi-parliament",
+    "source_id": "reg-digi-parliament",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 4,
+    "total_excerpts": 4,
+    "cached_retry_matches": null,
+    "cached_retry_basis": null,
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-22e98e4e406224b1",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-3d3634dd61ca2130",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-e92b517f1e210049",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-fc7150a4641be640",
+        "matched_clean": true,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-digi-privacy",
+    "source_id": "reg-digi-privacy",
+    "checked_date": "2026-10-05",
+    "status": "Retrieval failed; earlier snapshot retained",
+    "matched_excerpts": 0,
+    "total_excerpts": 5,
+    "cached_retry_matches": 5,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": "error parsing data for \"https://digiyatrafoundation.com/privacy-policy/\" in table 'crawler/v2/pages': crawler error bad_robots_code: bad_robots_code",
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-2b9c374266cddb28",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-69a6fbf9e8fb81ef",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-861f1b12d0779dfc",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-879969138084e52a",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-e123ede142f1b171",
+        "matched_clean": false,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-digi-scale",
+    "source_id": "reg-digi-scale",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 1,
+    "total_excerpts": 1,
+    "cached_retry_matches": 1,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-db1a12bca8344975",
+        "matched_clean": false,
+        "matched_html": true
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-ids-award-report",
+    "source_id": "reg-ids-award-report",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 1,
+    "total_excerpts": 1,
+    "cached_retry_matches": null,
+    "cached_retry_basis": null,
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-b63b9f5e424312e9",
+        "matched_clean": true,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-ids-specification",
+    "source_id": "reg-ids-specification",
+    "checked_date": "2026-10-05",
+    "status": "Retrieval failed; earlier snapshot retained",
+    "matched_excerpts": 0,
+    "total_excerpts": 2,
+    "cached_retry_matches": 2,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": "error parsing data for \"https://rdso.indianrailways.gov.in/uploads/2024-10-23-Signed%20specification%20EIDS.pdf\" in table 'crawler/v2/pages': crawler error bad_robots_code: bad_robots_code",
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-a9de1bc8fba162e8",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-ca6c7f62018db8c4",
+        "matched_clean": false,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-insight-contract",
+    "source_id": "reg-insight-contract",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 3,
+    "total_excerpts": 3,
+    "cached_retry_matches": null,
+    "cached_retry_basis": null,
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-2e65d9eb29304fe7",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-aefe752e300b1aeb",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-e935c331514a4489",
+        "matched_clean": true,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-insight-portal",
+    "source_id": "reg-insight-portal",
+    "checked_date": "2026-10-05",
+    "status": "Retrieval failed; earlier snapshot retained",
+    "matched_excerpts": 0,
+    "total_excerpts": 3,
+    "cached_retry_matches": 3,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": "error parsing data for \"https://report.insight.gov.in/reporting-webapp/portal/recentArticle\" in table 'crawler/v2/pages': crawler error disallow_by_robots: disallow_by_robots",
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-318a2aa21613c504",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-667760d085e5997c",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-d7c80beb58b4d30c",
+        "matched_clean": false,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-irctc-interface",
+    "source_id": "reg-irctc-interface",
+    "checked_date": "2026-10-05",
+    "status": "Partial extraction match; not a demonstrated source correction",
+    "matched_excerpts": 1,
+    "total_excerpts": 2,
+    "cached_retry_matches": 2,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth. Prior Authorized Partner label not re-located; current affiliation is not inferred from this missing UI label.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-2e93c1cfe417e173",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-a93ff3f506f67cc2",
+        "matched_clean": true,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-irctc-report-mirror",
+    "source_id": "reg-irctc-report-mirror",
+    "checked_date": "2026-10-05",
+    "status": "Retrieval failed; earlier snapshot retained",
+    "matched_excerpts": 0,
+    "total_excerpts": 3,
+    "cached_retry_matches": 3,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": "error parsing data for \"https://www.bseindia.com/xml-data/corpfiling/AttachHis/1f482507-98ed-4566-8323-ea95fc1f82be.pdf\" in table 'crawler/v2/pages': crawler error bad_robots_code: bad_robots_code",
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-1f56f39d407dac72",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-3c01b5d53ad21f43",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-d86efca3d00cac23",
+        "matched_clean": false,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-irctc-terms",
+    "source_id": "reg-irctc-terms",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 1,
+    "total_excerpts": 1,
+    "cached_retry_matches": null,
+    "cached_retry_basis": null,
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-7f93a8bc8f33d3bf",
+        "matched_clean": true,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-kisan",
+    "source_id": "reg-kisan",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 3,
+    "total_excerpts": 3,
+    "cached_retry_matches": 3,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-0ba45b2a7228ebcc",
+        "matched_clean": false,
+        "matched_html": true
+      },
+      {
+        "evidence_id": "ev-4e2f1d08e86e6bbd",
+        "matched_clean": false,
+        "matched_html": true
+      },
+      {
+        "evidence_id": "ev-eed385d616908f10",
+        "matched_clean": false,
+        "matched_html": true
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-kisan-developer",
+    "source_id": "reg-kisan-developer",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 2,
+    "total_excerpts": 2,
+    "cached_retry_matches": null,
+    "cached_retry_basis": null,
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-88f3ead61ad559ca",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-f1136ad2d14b9a97",
+        "matched_clean": true,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-kisan-parliament",
+    "source_id": "reg-kisan-parliament",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 3,
+    "total_excerpts": 3,
+    "cached_retry_matches": null,
+    "cached_retry_basis": null,
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-154e89e1752e44ca",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-5a86ea53e9398800",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-bf497475e1d355d6",
+        "matched_clean": true,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-paarvai-listing",
+    "source_id": "reg-paarvai-listing",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 4,
+    "total_excerpts": 4,
+    "cached_retry_matches": null,
+    "cached_retry_basis": null,
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-4a44ccc331cc7643",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-a9e9c7db8355d490",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-dfa906ce9b4ec9de",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-f1af473908bb710b",
+        "matched_clean": true,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-paarvai-state-case",
+    "source_id": "reg-paarvai-state-case",
+    "checked_date": "2026-10-05",
+    "status": "Retrieval failed; earlier snapshot retained",
+    "matched_excerpts": 0,
+    "total_excerpts": 2,
+    "cached_retry_matches": 2,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": "error parsing data for \"https://abhinavpahal.nic.in/uploads/jiRLj8ssnLClarity%20in%20Governance%20Heralds%20Clear%20Vision.pdf\" in table 'crawler/v2/pages': crawler error disallow_by_robots: disallow_by_robots",
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-1574d6a89bbe4b88",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-8bab26729c57b7c1",
+        "matched_clean": false,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-paarvai-study",
+    "source_id": "reg-paarvai-study",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 4,
+    "total_excerpts": 4,
+    "cached_retry_matches": null,
+    "cached_retry_basis": null,
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-261116eb9ba2578f",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-d806e840048a51b8",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-e257e5bc6b20bd08",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-fc9440ab612eca9e",
+        "matched_clean": true,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-plcs",
+    "source_id": "reg-plcs",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 2,
+    "total_excerpts": 2,
+    "cached_retry_matches": null,
+    "cached_retry_basis": null,
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-2ead04113c7645bb",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-8fd97bf9189638e4",
+        "matched_clean": true,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-plcs-faq",
+    "source_id": "reg-plcs-faq",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 1,
+    "total_excerpts": 1,
+    "cached_retry_matches": null,
+    "cached_retry_basis": null,
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-4b10d9240f4b46b3",
+        "matched_clean": true,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-qxr-bmc",
+    "source_id": "reg-qxr-bmc",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 3,
+    "total_excerpts": 3,
+    "cached_retry_matches": null,
+    "cached_retry_basis": null,
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-378e44768ad10cad",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-abab488d2d1f1551",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-c98a9cb13ac612c0",
+        "matched_clean": true,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-rail-current",
+    "source_id": "reg-rail-current",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 2,
+    "total_excerpts": 2,
+    "cached_retry_matches": 2,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-a81b7e0be2adef1c",
+        "matched_clean": false,
+        "matched_html": true
+      },
+      {
+        "evidence_id": "ev-faac4c7a85628622",
+        "matched_clean": false,
+        "matched_html": true
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-rail-ids",
+    "source_id": "reg-rail-ids",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 3,
+    "total_excerpts": 3,
+    "cached_retry_matches": 3,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-54f5db2c74dd83bb",
+        "matched_clean": false,
+        "matched_html": true
+      },
+      {
+        "evidence_id": "ev-925b71d104ed80e5",
+        "matched_clean": false,
+        "matched_html": true
+      },
+      {
+        "evidence_id": "ev-d1f9029e291102fe",
+        "matched_clean": false,
+        "matched_html": true
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-tax",
+    "source_id": "reg-tax",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 3,
+    "total_excerpts": 3,
+    "cached_retry_matches": 3,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-7a7cd7cd42032eee",
+        "matched_clean": false,
+        "matched_html": true
+      },
+      {
+        "evidence_id": "ev-95689df6ab600f02",
+        "matched_clean": false,
+        "matched_html": true
+      },
+      {
+        "evidence_id": "ev-f285911fa60f7752",
+        "matched_clean": false,
+        "matched_html": true
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-telangana-esd",
+    "source_id": "reg-telangana-esd",
+    "checked_date": "2026-10-05",
+    "status": "Retrieval failed; earlier snapshot retained",
+    "matched_excerpts": 0,
+    "total_excerpts": 4,
+    "cached_retry_matches": 4,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": "error parsing data for \"https://it.telangana.gov.in/initiatives/electronic-services-delivery/\" in table 'crawler/v2/pages': crawler error dns_failed_to_resolve: dns_failed_to_resolve",
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-5420eac33b155cb5",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-6084f7ec98bea16c",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-a08e40dc3ca4c374",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-b132dda612186841",
+        "matched_clean": false,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-vistaar",
+    "source_id": "reg-vistaar",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 4,
+    "total_excerpts": 4,
+    "cached_retry_matches": 4,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-5df18b44f742a6df",
+        "matched_clean": false,
+        "matched_html": true
+      },
+      {
+        "evidence_id": "ev-5ff085c6895d33a6",
+        "matched_clean": false,
+        "matched_html": true
+      },
+      {
+        "evidence_id": "ev-a4f20f11cd1998d8",
+        "matched_clean": false,
+        "matched_html": true
+      },
+      {
+        "evidence_id": "ev-e320b37ef693f93a",
+        "matched_clean": false,
+        "matched_html": true
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-reg-vistaar-portal",
+    "source_id": "reg-vistaar-portal",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 2,
+    "total_excerpts": 2,
+    "cached_retry_matches": null,
+    "cached_retry_basis": null,
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-a2a5619f66005963",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-bb4c5cffe21e438d",
+        "matched_clean": true,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-service-court-draft",
+    "source_id": "service-court-draft",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 2,
+    "total_excerpts": 2,
+    "cached_retry_matches": null,
+    "cached_retry_basis": null,
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-735fbf76e8592e09",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-bd23490bcc07f3f1",
+        "matched_clean": true,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-service-cyber-winners",
+    "source_id": "service-cyber-winners",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 3,
+    "total_excerpts": 3,
+    "cached_retry_matches": 3,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-159bed40f9925743",
+        "matched_clean": false,
+        "matched_html": true
+      },
+      {
+        "evidence_id": "ev-6a525c02845296ed",
+        "matched_clean": false,
+        "matched_html": true
+      },
+      {
+        "evidence_id": "ev-b1c010178bb12be4",
+        "matched_clean": false,
+        "matched_html": true
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-service-health-developer-current",
+    "source_id": "service-health-developer-current",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 1,
+    "total_excerpts": 1,
+    "cached_retry_matches": null,
+    "cached_retry_basis": null,
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-93a4a86dd642b655",
+        "matched_clean": true,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-service-health-developer-submission",
+    "source_id": "service-health-developer-submission",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 2,
+    "total_excerpts": 2,
+    "cached_retry_matches": null,
+    "cached_retry_basis": null,
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-48ca236d36c5d80c",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-b5532b17a394454a",
+        "matched_clean": true,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-service-health-implementation-study",
+    "source_id": "service-health-implementation-study",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 4,
+    "total_excerpts": 4,
+    "cached_retry_matches": null,
+    "cached_retry_basis": null,
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-205c4082c1bfe980",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-666bcb223aa7b959",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-a8fab19feffbd711",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-d5e277100cd038a4",
+        "matched_clean": true,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-service-health-local-study",
+    "source_id": "service-health-local-study",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 1,
+    "total_excerpts": 1,
+    "cached_retry_matches": null,
+    "cached_retry_basis": null,
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-84cbf31f6d303d4b",
+        "matched_clean": true,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-service-health-parliament",
+    "source_id": "service-health-parliament",
+    "checked_date": "2026-10-05",
+    "status": "All excerpts re-located",
+    "matched_excerpts": 3,
+    "total_excerpts": 3,
+    "cached_retry_matches": null,
+    "cached_retry_basis": null,
+    "initial_error": null,
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-360a5f1ff93894e7",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-382a118c71ae0849",
+        "matched_clean": true,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-e93ad9c0f3ef2a7a",
+        "matched_clean": true,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-service-health-platform",
+    "source_id": "service-health-platform",
+    "checked_date": "2026-10-05",
+    "status": "Partial extraction match; not a demonstrated source correction",
+    "matched_excerpts": 0,
+    "total_excerpts": 1,
+    "cached_retry_matches": 1,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": null,
+    "html_error": "fetch failed with status 504",
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth. Current retrieval/fallback did not establish the full clinical platform passage; original selected snapshot remains historical evidence.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-ce731d7569d84b69",
+        "matched_clean": false,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-service-health-practice-guidelines",
+    "source_id": "service-health-practice-guidelines",
+    "checked_date": "2026-10-05",
+    "status": "Retrieval failed; earlier snapshot retained",
+    "matched_excerpts": 0,
+    "total_excerpts": 3,
+    "cached_retry_matches": 3,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": "error parsing data for \"https://esanjeevani.mohfw.gov.in/assets/guidelines/Telemedicine_Practice_Guidelines.pdf\" in table 'crawler/v2/pages': crawler error bad_robots_code: bad_robots_code",
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-8b4f3573504333c8",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-c08bdb05326d6fa3",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-e639674510d2b4ef",
+        "matched_clean": false,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-service-health-privacy",
+    "source_id": "service-health-privacy",
+    "checked_date": "2026-10-05",
+    "status": "Retrieval failed; earlier snapshot retained",
+    "matched_excerpts": 0,
+    "total_excerpts": 4,
+    "cached_retry_matches": 4,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": "error parsing data for \"https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf\" in table 'crawler/v2/pages': crawler error bad_robots_code: bad_robots_code",
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-65dc054edd2a89f8",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-b521e04d171b8489",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-e598a6a145778cd0",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-f02224e421b09d92",
+        "matched_clean": false,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-service-health-report",
+    "source_id": "service-health-report",
+    "checked_date": "2026-10-05",
+    "status": "Retrieval failed; earlier snapshot retained",
+    "matched_excerpts": 0,
+    "total_excerpts": 1,
+    "cached_retry_matches": 1,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": "[408] Request timed out: error sending request for url (https://agent-proxy.perplexity.ai/agent_pass_through/sdk/content/fetch)",
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-f8f21960705d527a",
+        "matched_clean": false,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-service-judiciary",
+    "source_id": "service-judiciary",
+    "checked_date": "2026-10-05",
+    "status": "Retrieval failed; earlier snapshot retained",
+    "matched_excerpts": 0,
+    "total_excerpts": 3,
+    "cached_retry_matches": 3,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": "[408] Request timed out: error sending request for url (https://agent-proxy.perplexity.ai/agent_pass_through/sdk/content/fetch)",
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-7f8f16e2707ab2ac",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-b327582229c6bba5",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-b9fc08c7af393aaa",
+        "matched_clean": false,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-service-police-reporting",
+    "source_id": "service-police-reporting",
+    "checked_date": "2026-10-05",
+    "status": "Retrieval failed; earlier snapshot retained",
+    "matched_excerpts": 0,
+    "total_excerpts": 1,
+    "cached_retry_matches": 1,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": "[408] Request timed out: error sending request for url (https://agent-proxy.perplexity.ai/agent_pass_through/sdk/content/fetch)",
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-3bf6fa3a1f1b583d",
+        "matched_clean": false,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-service-police-summary",
+    "source_id": "service-police-summary",
+    "checked_date": "2026-10-05",
+    "status": "Retrieval failed; earlier snapshot retained",
+    "matched_excerpts": 0,
+    "total_excerpts": 3,
+    "cached_retry_matches": 3,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": "[408] Request timed out: error sending request for url (https://agent-proxy.perplexity.ai/agent_pass_through/sdk/content/fetch)",
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-717b2b9502db52bf",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-9b9bc9c161213e93",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-ca0a9bb4ab112226",
+        "matched_clean": false,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-service-police-vendor",
+    "source_id": "service-police-vendor",
+    "checked_date": "2026-10-05",
+    "status": "Retrieval failed; earlier snapshot retained",
+    "matched_excerpts": 0,
+    "total_excerpts": 2,
+    "cached_retry_matches": 2,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": "[408] Request timed out: error sending request for url (https://agent-proxy.perplexity.ai/agent_pass_through/sdk/content/fetch)",
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-13cba305bb5b627d",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-de9227e8745b99c1",
+        "matched_clean": false,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-service-translation-guidelines",
+    "source_id": "service-translation-guidelines",
+    "checked_date": "2026-10-05",
+    "status": "Retrieval failed; earlier snapshot retained",
+    "matched_excerpts": 0,
+    "total_excerpts": 2,
+    "cached_retry_matches": 2,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": "[408] Request timed out: error sending request for url (https://agent-proxy.perplexity.ai/agent_pass_through/sdk/content/fetch)",
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-3ca4d5cc952cb6a5",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-b2b7150cccca8064",
+        "matched_clean": false,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-service-translation-vetting",
+    "source_id": "service-translation-vetting",
+    "checked_date": "2026-10-05",
+    "status": "Retrieval failed; earlier snapshot retained",
+    "matched_excerpts": 0,
+    "total_excerpts": 4,
+    "cached_retry_matches": 4,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": "[408] Request timed out: error sending request for url (https://agent-proxy.perplexity.ai/agent_pass_through/sdk/content/fetch)",
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-5134d5f61f7713cb",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-9ce5c53af54267de",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-abd9810c76334ba4",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-fde294bc6e9852c7",
+        "matched_clean": false,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-service-upsc-live",
+    "source_id": "service-upsc-live",
+    "checked_date": "2026-10-05",
+    "status": "Retrieval failed; earlier snapshot retained",
+    "matched_excerpts": 0,
+    "total_excerpts": 3,
+    "cached_retry_matches": 3,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": "[408] Request timed out: error sending request for url (https://agent-proxy.perplexity.ai/agent_pass_through/sdk/content/fetch)",
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-02b3567798e30181",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-798315f2c1354ed3",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-f93730bbf8a07e6f",
+        "matched_clean": false,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-service-upsc-october",
+    "source_id": "service-upsc-october",
+    "checked_date": "2026-10-05",
+    "status": "Retrieval failed; earlier snapshot retained",
+    "matched_excerpts": 0,
+    "total_excerpts": 1,
+    "cached_retry_matches": 1,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": "[408] Request timed out: error sending request for url (https://agent-proxy.perplexity.ai/agent_pass_through/sdk/content/fetch)",
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-4e37da6f99ca59fb",
+        "matched_clean": false,
+        "matched_html": false
+      }
+    ]
+  },
+  {
+    "recheck_id": "recheck-service-upsc-tender",
+    "source_id": "service-upsc-tender",
+    "checked_date": "2026-10-05",
+    "status": "Retrieval failed; earlier snapshot retained",
+    "matched_excerpts": 0,
+    "total_excerpts": 3,
+    "cached_retry_matches": 3,
+    "cached_retry_basis": "Cached original extraction; not fresh live verification",
+    "initial_error": "[408] Request timed out: error sending request for url (https://agent-proxy.perplexity.ai/agent_pass_through/sdk/content/fetch)",
+    "html_error": null,
+    "method": "SDK fresh cleaned text, then raw HTML where extraction failed; unresolved originals retried through cache separately",
+    "note": "Automated textual match and availability triage, not independent recoding or verification of institutional truth.",
+    "excerpts": [
+      {
+        "evidence_id": "ev-3e4964b7c9375596",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-9c9aefd9c5a85812",
+        "matched_clean": false,
+        "matched_html": false
+      },
+      {
+        "evidence_id": "ev-b0a3770f681c4921",
+        "matched_clean": false,
+        "matched_html": false
+      }
+    ]
+  }
+]

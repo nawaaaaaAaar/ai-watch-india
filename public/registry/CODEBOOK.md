@@ -1,16 +1,16 @@
 # AI Watch: institution-and-system data codebook
 
-Version 1.0.0, India documentary cutoff 5 October 2026. Read the protocol before drawing inferences; this is a purposive exploratory seed, not a national census.
+Version 1.1.0, India documentary cutoff 5 October 2026. Read the protocol before drawing inferences; this combines a purposive seed with fixed-institution-frame documentary additions, not a national census.
 
 ## Files and identifiers
 
-`data.json` includes metadata plus the seventeen table arrays below. Each corresponding CSV is UTF-8 with a header; blank fields represent null, never zero. SQLite preserves nulls and enforced non-polymorphic foreign keys. JSON is authoritative for native types; CSV formula-like leading strings receive an apostrophe for spreadsheet safety. `schema.json` lists actual columns. Primary keys are the first column of each table.
+`data.json` includes metadata plus twenty-one table arrays. Each corresponding CSV is UTF-8 with a header; blank fields represent null, never zero. SQLite preserves nulls and enforced non-polymorphic foreign keys. JSON is authoritative for native types; CSV formula-like leading strings receive an apostrophe for spreadsheet safety. `schema.json` lists actual columns. Primary keys are the first column of each table.
 
 Stable system identifiers are manual labels; other IDs use deterministic SHA-256 prefixes of the defining text. These are database identifiers, not company numbers or official registration IDs. A changed defining observation can acquire a new ID; do not treat hashes as proof of source truth. `evidence_links` uses a generic record type/key relationship validated by the builder and tests.
 
 ## Core tables
 
-- **systems**: `system_id`, name, owner institution ID, sector, jurisdiction, documentary stage, latest dated record, AI basis/class, checking date and selection/unit notes. Explicit AI attribution includes vendor/editorial sources: it does not mean government or independent validation. Four qualified biometric/analytics contexts lack established system-specific AI identification in the reviewed records. An institution's responsibility is not automatically legal ownership. A stage is documentary attribution, not a site visit. `legacy_id` links the six inherited cases; null for new cases.
+- **systems**: `system_id`, name, owner institution ID, sector, jurisdiction, documentary stage, latest dated record, AI basis/class, checking date and selection/unit notes. Explicit AI attribution includes vendor/editorial sources: it does not mean government or independent validation. Six qualified biometric/analytics contexts lack established system-specific AI identification in the reviewed records; BODH has a separate evaluation-infrastructure class. `frame_id` is a documentary association, not ownership. `system_kind` prevents evaluation infrastructure from masquerading as clinical use. A stage is documentary attribution, not a site visit. `legacy_id` links the six inherited cases; null for new cases.
 - **institutions**: institution ID, name and legal-identity qualifier. Names remain as stated; historical `L & T Infotech Ltd` is not silently replaced by a current corporate successor. Multi-agency responsibility stays in roles rather than being guessed into a single vendor.
 - **system_institutions**: role ID, system ID, institution ID and source-backed role. Technical partnership does not establish an executed current procurement agreement.
 - **system_links**: relation between two included systems, with source and limits. A developer-reported BHASHINI integration is not a reviewed live contract.
@@ -20,7 +20,7 @@ Stable system identifiers are manual labels; other IDs use deterministic SHA-256
 
 - **procurements**: record ID/type, system, reported agreement/award date, amount in INR, amount type, supplier label/institution if established, description and current-deployment linkage limit. Records include an allocation, an announced signed historical contract and a news-reported regional award. These are not three independently verified executed current contracts. `189900000` INR is the disclosed arithmetic sum of 7.85 and 11.14 crore, not a national IDS budget.
 - **evaluations**: record ID, system, evaluation type, sample number/unit, setting, current-version match, result summary and optional evidence status. A specification row explicitly says “not measured”; inherited cases retain evaluation-related descriptions with their gaps. Count or filter actual study types before any study inventory claim.
-- **metrics**: record ID, system, metric name, numeric value, unit, kind, measurement scope, denominator and value qualifier. A “more than” lower bound is not an exact observed value. A maximum specification threshold is not an observed error rate. A study's total sample is not automatically the denominator of every diagnostic metric.
+- **metrics**: record ID, system, metric name, numeric value, optional `value_upper`, unit, kind, measurement scope, denominator and value qualifier. CATB's reported 12–16% range is stored as numeric lower/upper values, not as diagnostic accuracy. A “more than” lower bound is not an exact observed value. A maximum specification threshold is not an observed error rate. A study's total sample is not automatically the denominator of every diagnostic metric.
 - **controls**: source-described safeguard, source/implementation basis, description and optional evidence status. Historical requirements, published grievance contacts and human oversight language are not verified enforcement or successful remedies.
 - **policies**: policy ID/title and documentary status, only for curated direct system documents in this registry. Not an exhaustive law inventory.
 - **system_policy_links**: system-policy relationship with limits and source. Related earlier policy collections remain outside this dataset's system denominator. This table does not assert every provision is applicable or complied with.
@@ -34,7 +34,16 @@ Stable system identifiers are manual labels; other IDs use deterministic SHA-256
 - **issues**: source-backed uncertainty, numerical inconsistency, unresolved scope or evaluation/current-status limit. Missing evidence is not a wrongdoing finding.
 - **candidate_decisions**: included/context/excluded candidate and reason; not a national candidate universe or complete inclusion-flow diagram.
 
-## Accountability fields
+## Institutional coverage and rechecks
+
+- **institution_coverage**: fixed frame ID, institution ID/name, four base-query dimensions, date, completed-search status and boundaries. Five ministries plus the independent Supreme Court, not all government bodies.
+- **coverage_systems**: associative table linking 26 records to the six frame entries. Ten earlier cases remain outside the frame as context. This association is not an ownership or exhaustive-coverage assertion.
+- **source_rechecks**: fifty baseline-source fresh retrieval/text-match attempts, raw HTML fallback and separate cached retries. `matched_excerpts` counts fresh cleaned/raw matches; `cached_retry_matches` does not promote archived extraction to current availability. Nested excerpt decisions retain clean/raw outcomes. Null/error is not a correction finding.
+- **assertion_rechecks**: structural/source-availability triage of all 216 baseline assertion slots, not independent semantic recoding of the expanded 432 fields. Explicit unknowns remain unknown. Claims can retain valid earlier documentary evidence even when current retrieval fails.
+
+`INSTITUTION_SEARCH.json` and `INSTITUTION_RETRIEVAL.json` are thin second-round receipts. `SOURCE_RECHECK.json` duplicates the baseline recheck register as a convenient standalone file. None republishes full original articles or PDFs.
+
+## Accountability field meanings
 
 The fixed order is owner/purpose; decision role/affected people; deployment/date; procurement/supplier; funding/contract; data/integration; evaluation/errors; human review/overrides; privacy/retention; complaint/appeal; public outputs/access; current-status limits. “Documented” establishes the documentary statement as worded, not effectiveness or compliance. “Partial” records a meaningful unresolved limit. “Not verified” means not established in the reviewed material. “Conflicting sources” preserves unreconciled descriptions.
 

@@ -1,6 +1,6 @@
 # AI Watch: Bharat-VISTAAR
 
-India institution-and-system dataset v1.0.0. Checked 2026-10-05; analyst-coded documentary evidence, not an operational audit.
+India institution-and-system dataset v1.1.0. Checked 2026-10-05; analyst-coded documentary evidence, not an operational audit. System kind: Public-service system. Selection: Purposive exploratory seed.
 
 ## Owner & purpose
 
@@ -119,6 +119,19 @@ Evidence status: Partial. Undated portal breadth does not silently overwrite dat
 >
 > [Bharat-VISTAAR rollout parliamentary explanation](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2239788&reg=3&lang=1); Selected passage 2: Bharat-VISTAAR rollout parliamentary explanation.
 
+- **event date**: 2026-07-24
+- **date precision**: day
+- **stage**: Channel-specific service use reported
+- **place**: India
+- **description**: July reply reports two telephone languages versus ten digital-channel languages.
+
+> At present, BharatVistaar Telephone service is available in 2 languages, i.e. Hindi and English; however, the chatbot, web portal, and mobile application are available in 10 languages.
+>
+> [Agriculture AI use and impact-assessment parliamentary answer](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2289031&reg=3&lang=1); Reviewed passage 5: Agriculture AI use and impact-assessment parliamentary answer.
+> As on date, the platform has served over 3 lakh farmers and addressed more than 72 lakh farmer queries.
+>
+> [Agriculture AI use and impact-assessment parliamentary answer](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2289031&reg=3&lang=1); Reviewed passage 6: Agriculture AI use and impact-assessment parliamentary answer.
+
 ## Procurements
 
 - **record type**: Budget allocation statement
@@ -135,6 +148,13 @@ Evidence status: Partial. Undated portal breadth does not silently overwrite dat
 > [Bharat-VISTAAR rollout parliamentary explanation](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2239788&reg=3&lang=1); Selected passage 1: Bharat-VISTAAR rollout parliamentary explanation.
 
 ## Issues
+
+- **issue type**: New dated channel-specific language evidence
+- **description**: July reply distinguishes telephone Hindi/English from ten-language web/app/chatbot. The undated 22+ portal remains unreconciled; do not treat every channel as identical.
+
+> At present, BharatVistaar Telephone service is available in 2 languages, i.e. Hindi and English; however, the chatbot, web portal, and mobile application are available in 10 languages.
+>
+> [Agriculture AI use and impact-assessment parliamentary answer](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2289031&reg=3&lang=1); Reviewed passage 5: Agriculture AI use and impact-assessment parliamentary answer.
 
 - **issue type**: Scope tension
 - **description**: Dated Phase-I Hindi/English versus undated 22+ language portal; later expansion may explain the difference but is not verified.

@@ -1,10 +1,10 @@
 # AI Watch: AskDISHA 2.0
 
-India institution-and-system dataset v1.0.0. Checked 2026-10-05; analyst-coded documentary evidence, not an operational audit.
+India institution-and-system dataset v1.1.0. Checked 2026-10-05; analyst-coded documentary evidence, not an operational audit. System kind: Public-service system. Selection: Purposive exploratory seed.
 
 ## Owner & purpose
 
-Evidence status: Documented. IRCTC's virtual assistant; current interface identifies an authorized partner.
+Evidence status: Documented. IRCTC's historical report identifies the assistant. The earlier captured interface identified an authorized partner, but that label was not re-located during the later extraction recheck; current affiliation is not inferred from its absence.
 
 > IRCTC Authorized Partner
 >

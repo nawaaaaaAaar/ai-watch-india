@@ -1,0 +1,10 @@
+DIC AI-enabled National Learning Operating System EOI
+Original: https://dic.gov.in/add_tender/expression-of-interest-eoi-for-ai-enabled-edtech-platform-for-national-learning-operating-system/
+Document date: 2026-05-14
+Source type: Government expression of interest
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+development, customization, deployment, and maintenance of an AI-Enabled National Learning Operating System under a Build-Operate-Transfer (BOT) Public-Private Partnership (PPP) model.
+
+Digital India Corporation (DIC), under the Ministry of Electronics and Information Technology (MeitY), Government of India, invites Expressions of Interest (EoI)-cum-Market Assessment

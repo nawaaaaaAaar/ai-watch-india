@@ -1,0 +1,217 @@
+assertion_recheck_id,assertion_id,system_id,checked_date,status,method,linked_source_count
+audit-sys-advait-field-01,sys-advait-field-01,sys-advait,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-advait-field-02,sys-advait-field-02,sys-advait,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-advait-field-03,sys-advait-field-03,sys-advait,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-advait-field-04,sys-advait-field-04,sys-advait,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-advait-field-05,sys-advait-field-05,sys-advait,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-advait-field-06,sys-advait-field-06,sys-advait,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-advait-field-07,sys-advait-field-07,sys-advait,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-advait-field-08,sys-advait-field-08,sys-advait,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-advait-field-09,sys-advait-field-09,sys-advait,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-advait-field-10,sys-advait-field-10,sys-advait,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-advait-field-11,sys-advait-field-11,sys-advait,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-advait-field-12,sys-advait-field-12,sys-advait,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-askdisha-field-01,sys-askdisha-field-01,sys-askdisha,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-askdisha-field-02,sys-askdisha-field-02,sys-askdisha,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-askdisha-field-03,sys-askdisha-field-03,sys-askdisha,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-askdisha-field-04,sys-askdisha-field-04,sys-askdisha,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-askdisha-field-05,sys-askdisha-field-05,sys-askdisha,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-askdisha-field-06,sys-askdisha-field-06,sys-askdisha,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-askdisha-field-07,sys-askdisha-field-07,sys-askdisha,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-askdisha-field-08,sys-askdisha-field-08,sys-askdisha,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-askdisha-field-09,sys-askdisha-field-09,sys-askdisha,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-askdisha-field-10,sys-askdisha-field-10,sys-askdisha,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-askdisha-field-11,sys-askdisha-field-11,sys-askdisha,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-askdisha-field-12,sys-askdisha-field-12,sys-askdisha,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-bharat-vistaar-field-01,sys-bharat-vistaar-field-01,sys-bharat-vistaar,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-bharat-vistaar-field-02,sys-bharat-vistaar-field-02,sys-bharat-vistaar,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-bharat-vistaar-field-03,sys-bharat-vistaar-field-03,sys-bharat-vistaar,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-bharat-vistaar-field-04,sys-bharat-vistaar-field-04,sys-bharat-vistaar,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-bharat-vistaar-field-05,sys-bharat-vistaar-field-05,sys-bharat-vistaar,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-bharat-vistaar-field-06,sys-bharat-vistaar-field-06,sys-bharat-vistaar,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-bharat-vistaar-field-07,sys-bharat-vistaar-field-07,sys-bharat-vistaar,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-bharat-vistaar-field-08,sys-bharat-vistaar-field-08,sys-bharat-vistaar,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-bharat-vistaar-field-09,sys-bharat-vistaar-field-09,sys-bharat-vistaar,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-bharat-vistaar-field-10,sys-bharat-vistaar-field-10,sys-bharat-vistaar,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-bharat-vistaar-field-11,sys-bharat-vistaar-field-11,sys-bharat-vistaar,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-bharat-vistaar-field-12,sys-bharat-vistaar-field-12,sys-bharat-vistaar,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-bhashini-field-01,sys-bhashini-field-01,sys-bhashini,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-bhashini-field-02,sys-bhashini-field-02,sys-bhashini,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-bhashini-field-03,sys-bhashini-field-03,sys-bhashini,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-bhashini-field-04,sys-bhashini-field-04,sys-bhashini,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-bhashini-field-05,sys-bhashini-field-05,sys-bhashini,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-bhashini-field-06,sys-bhashini-field-06,sys-bhashini,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-bhashini-field-07,sys-bhashini-field-07,sys-bhashini,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-bhashini-field-08,sys-bhashini-field-08,sys-bhashini,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-bhashini-field-09,sys-bhashini-field-09,sys-bhashini,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-bhashini-field-10,sys-bhashini-field-10,sys-bhashini,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-bhashini-field-11,sys-bhashini-field-11,sys-bhashini,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-bhashini-field-12,sys-bhashini-field-12,sys-bhashini,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-bmc-tb-field-01,sys-bmc-tb-field-01,sys-bmc-tb,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-bmc-tb-field-02,sys-bmc-tb-field-02,sys-bmc-tb,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-bmc-tb-field-03,sys-bmc-tb-field-03,sys-bmc-tb,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-bmc-tb-field-04,sys-bmc-tb-field-04,sys-bmc-tb,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-bmc-tb-field-05,sys-bmc-tb-field-05,sys-bmc-tb,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-bmc-tb-field-06,sys-bmc-tb-field-06,sys-bmc-tb,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-bmc-tb-field-07,sys-bmc-tb-field-07,sys-bmc-tb,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-bmc-tb-field-08,sys-bmc-tb-field-08,sys-bmc-tb,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-bmc-tb-field-09,sys-bmc-tb-field-09,sys-bmc-tb,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-bmc-tb-field-10,sys-bmc-tb-field-10,sys-bmc-tb,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-bmc-tb-field-11,sys-bmc-tb-field-11,sys-bmc-tb,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-bmc-tb-field-12,sys-bmc-tb-field-12,sys-bmc-tb,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-cyberguard-field-01,sys-cyberguard-field-01,sys-cyberguard,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-cyberguard-field-02,sys-cyberguard-field-02,sys-cyberguard,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-cyberguard-field-03,sys-cyberguard-field-03,sys-cyberguard,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-cyberguard-field-04,sys-cyberguard-field-04,sys-cyberguard,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-cyberguard-field-05,sys-cyberguard-field-05,sys-cyberguard,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-cyberguard-field-06,sys-cyberguard-field-06,sys-cyberguard,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-cyberguard-field-07,sys-cyberguard-field-07,sys-cyberguard,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-cyberguard-field-08,sys-cyberguard-field-08,sys-cyberguard,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-cyberguard-field-09,sys-cyberguard-field-09,sys-cyberguard,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-cyberguard-field-10,sys-cyberguard-field-10,sys-cyberguard,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-cyberguard-field-11,sys-cyberguard-field-11,sys-cyberguard,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-cyberguard-field-12,sys-cyberguard-field-12,sys-cyberguard,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-digiyatra-field-01,sys-digiyatra-field-01,sys-digiyatra,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-digiyatra-field-02,sys-digiyatra-field-02,sys-digiyatra,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-digiyatra-field-03,sys-digiyatra-field-03,sys-digiyatra,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-digiyatra-field-04,sys-digiyatra-field-04,sys-digiyatra,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-digiyatra-field-05,sys-digiyatra-field-05,sys-digiyatra,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-digiyatra-field-06,sys-digiyatra-field-06,sys-digiyatra,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-digiyatra-field-07,sys-digiyatra-field-07,sys-digiyatra,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-digiyatra-field-08,sys-digiyatra-field-08,sys-digiyatra,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-digiyatra-field-09,sys-digiyatra-field-09,sys-digiyatra,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-digiyatra-field-10,sys-digiyatra-field-10,sys-digiyatra,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-digiyatra-field-11,sys-digiyatra-field-11,sys-digiyatra,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-digiyatra-field-12,sys-digiyatra-field-12,sys-digiyatra,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-epaarvai-field-01,sys-epaarvai-field-01,sys-epaarvai,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-epaarvai-field-02,sys-epaarvai-field-02,sys-epaarvai,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-epaarvai-field-03,sys-epaarvai-field-03,sys-epaarvai,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-epaarvai-field-04,sys-epaarvai-field-04,sys-epaarvai,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-epaarvai-field-05,sys-epaarvai-field-05,sys-epaarvai,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-epaarvai-field-06,sys-epaarvai-field-06,sys-epaarvai,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-epaarvai-field-07,sys-epaarvai-field-07,sys-epaarvai,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-epaarvai-field-08,sys-epaarvai-field-08,sys-epaarvai,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-epaarvai-field-09,sys-epaarvai-field-09,sys-epaarvai,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-epaarvai-field-10,sys-epaarvai-field-10,sys-epaarvai,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-epaarvai-field-11,sys-epaarvai-field-11,sys-epaarvai,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-epaarvai-field-12,sys-epaarvai-field-12,sys-epaarvai,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-esanjeevani-field-01,sys-esanjeevani-field-01,sys-esanjeevani,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-esanjeevani-field-02,sys-esanjeevani-field-02,sys-esanjeevani,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-esanjeevani-field-03,sys-esanjeevani-field-03,sys-esanjeevani,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-esanjeevani-field-04,sys-esanjeevani-field-04,sys-esanjeevani,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-esanjeevani-field-05,sys-esanjeevani-field-05,sys-esanjeevani,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-esanjeevani-field-06,sys-esanjeevani-field-06,sys-esanjeevani,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,4
+audit-sys-esanjeevani-field-07,sys-esanjeevani-field-07,sys-esanjeevani,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-esanjeevani-field-08,sys-esanjeevani-field-08,sys-esanjeevani,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-esanjeevani-field-09,sys-esanjeevani-field-09,sys-esanjeevani,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-esanjeevani-field-10,sys-esanjeevani-field-10,sys-esanjeevani,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-esanjeevani-field-11,sys-esanjeevani-field-11,sys-esanjeevani,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,4
+audit-sys-esanjeevani-field-12,sys-esanjeevani-field-12,sys-esanjeevani,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-fest-field-01,sys-fest-field-01,sys-fest,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-fest-field-02,sys-fest-field-02,sys-fest,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-fest-field-03,sys-fest-field-03,sys-fest,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-fest-field-04,sys-fest-field-04,sys-fest,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-fest-field-05,sys-fest-field-05,sys-fest,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-fest-field-06,sys-fest-field-06,sys-fest,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-fest-field-07,sys-fest-field-07,sys-fest,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-fest-field-08,sys-fest-field-08,sys-fest,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-fest-field-09,sys-fest-field-09,sys-fest,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-fest-field-10,sys-fest-field-10,sys-fest,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-fest-field-11,sys-fest-field-11,sys-fest,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-fest-field-12,sys-fest-field-12,sys-fest,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-insight-field-01,sys-insight-field-01,sys-insight,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-insight-field-02,sys-insight-field-02,sys-insight,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-insight-field-03,sys-insight-field-03,sys-insight,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-insight-field-04,sys-insight-field-04,sys-insight,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-insight-field-05,sys-insight-field-05,sys-insight,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-insight-field-06,sys-insight-field-06,sys-insight,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-insight-field-07,sys-insight-field-07,sys-insight,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-insight-field-08,sys-insight-field-08,sys-insight,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-insight-field-09,sys-insight-field-09,sys-insight,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-insight-field-10,sys-insight-field-10,sys-insight,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-insight-field-11,sys-insight-field-11,sys-insight,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-insight-field-12,sys-insight-field-12,sys-insight,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-kisan-emitra-field-01,sys-kisan-emitra-field-01,sys-kisan-emitra,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-kisan-emitra-field-02,sys-kisan-emitra-field-02,sys-kisan-emitra,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-kisan-emitra-field-03,sys-kisan-emitra-field-03,sys-kisan-emitra,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-kisan-emitra-field-04,sys-kisan-emitra-field-04,sys-kisan-emitra,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-kisan-emitra-field-05,sys-kisan-emitra-field-05,sys-kisan-emitra,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-kisan-emitra-field-06,sys-kisan-emitra-field-06,sys-kisan-emitra,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-kisan-emitra-field-07,sys-kisan-emitra-field-07,sys-kisan-emitra,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-kisan-emitra-field-08,sys-kisan-emitra-field-08,sys-kisan-emitra,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-kisan-emitra-field-09,sys-kisan-emitra-field-09,sys-kisan-emitra,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-kisan-emitra-field-10,sys-kisan-emitra-field-10,sys-kisan-emitra,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-kisan-emitra-field-11,sys-kisan-emitra-field-11,sys-kisan-emitra,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-kisan-emitra-field-12,sys-kisan-emitra-field-12,sys-kisan-emitra,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-mahacrimeos-field-01,sys-mahacrimeos-field-01,sys-mahacrimeos,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-mahacrimeos-field-02,sys-mahacrimeos-field-02,sys-mahacrimeos,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-mahacrimeos-field-03,sys-mahacrimeos-field-03,sys-mahacrimeos,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,3
+audit-sys-mahacrimeos-field-04,sys-mahacrimeos-field-04,sys-mahacrimeos,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-mahacrimeos-field-05,sys-mahacrimeos-field-05,sys-mahacrimeos,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-mahacrimeos-field-06,sys-mahacrimeos-field-06,sys-mahacrimeos,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-mahacrimeos-field-07,sys-mahacrimeos-field-07,sys-mahacrimeos,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-mahacrimeos-field-08,sys-mahacrimeos-field-08,sys-mahacrimeos,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-mahacrimeos-field-09,sys-mahacrimeos-field-09,sys-mahacrimeos,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-mahacrimeos-field-10,sys-mahacrimeos-field-10,sys-mahacrimeos,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-mahacrimeos-field-11,sys-mahacrimeos-field-11,sys-mahacrimeos,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,3
+audit-sys-mahacrimeos-field-12,sys-mahacrimeos-field-12,sys-mahacrimeos,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-plcs-field-01,sys-plcs-field-01,sys-plcs,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-plcs-field-02,sys-plcs-field-02,sys-plcs,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-plcs-field-03,sys-plcs-field-03,sys-plcs,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-plcs-field-04,sys-plcs-field-04,sys-plcs,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-plcs-field-05,sys-plcs-field-05,sys-plcs,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-plcs-field-06,sys-plcs-field-06,sys-plcs,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-plcs-field-07,sys-plcs-field-07,sys-plcs,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-plcs-field-08,sys-plcs-field-08,sys-plcs,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-plcs-field-09,sys-plcs-field-09,sys-plcs,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-plcs-field-10,sys-plcs-field-10,sys-plcs,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-plcs-field-11,sys-plcs-field-11,sys-plcs,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-plcs-field-12,sys-plcs-field-12,sys-plcs,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-rail-ids-field-01,sys-rail-ids-field-01,sys-rail-ids,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-rail-ids-field-02,sys-rail-ids-field-02,sys-rail-ids,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-rail-ids-field-03,sys-rail-ids-field-03,sys-rail-ids,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-rail-ids-field-04,sys-rail-ids-field-04,sys-rail-ids,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-rail-ids-field-05,sys-rail-ids-field-05,sys-rail-ids,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-rail-ids-field-06,sys-rail-ids-field-06,sys-rail-ids,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-rail-ids-field-07,sys-rail-ids-field-07,sys-rail-ids,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-rail-ids-field-08,sys-rail-ids-field-08,sys-rail-ids,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-rail-ids-field-09,sys-rail-ids-field-09,sys-rail-ids,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-rail-ids-field-10,sys-rail-ids-field-10,sys-rail-ids,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-rail-ids-field-11,sys-rail-ids-field-11,sys-rail-ids,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,3
+audit-sys-rail-ids-field-12,sys-rail-ids-field-12,sys-rail-ids,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-supace-field-01,sys-supace-field-01,sys-supace,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-supace-field-02,sys-supace-field-02,sys-supace,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-supace-field-03,sys-supace-field-03,sys-supace,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-supace-field-04,sys-supace-field-04,sys-supace,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-supace-field-05,sys-supace-field-05,sys-supace,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-supace-field-06,sys-supace-field-06,sys-supace,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-supace-field-07,sys-supace-field-07,sys-supace,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-supace-field-08,sys-supace-field-08,sys-supace,2026-10-05,All linked source excerpts re-located,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-supace-field-09,sys-supace-field-09,sys-supace,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-supace-field-10,sys-supace-field-10,sys-supace,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-supace-field-11,sys-supace-field-11,sys-supace,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-supace-field-12,sys-supace-field-12,sys-supace,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-suvas-field-01,sys-suvas-field-01,sys-suvas,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-suvas-field-02,sys-suvas-field-02,sys-suvas,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-suvas-field-03,sys-suvas-field-03,sys-suvas,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-suvas-field-04,sys-suvas-field-04,sys-suvas,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-suvas-field-05,sys-suvas-field-05,sys-suvas,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-suvas-field-06,sys-suvas-field-06,sys-suvas,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-suvas-field-07,sys-suvas-field-07,sys-suvas,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-suvas-field-08,sys-suvas-field-08,sys-suvas,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,3
+audit-sys-suvas-field-09,sys-suvas-field-09,sys-suvas,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-suvas-field-10,sys-suvas-field-10,sys-suvas,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-suvas-field-11,sys-suvas-field-11,sys-suvas,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-suvas-field-12,sys-suvas-field-12,sys-suvas,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-upsc-field-01,sys-upsc-field-01,sys-upsc,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-upsc-field-02,sys-upsc-field-02,sys-upsc,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-upsc-field-03,sys-upsc-field-03,sys-upsc,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-upsc-field-04,sys-upsc-field-04,sys-upsc,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-upsc-field-05,sys-upsc-field-05,sys-upsc,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-upsc-field-06,sys-upsc-field-06,sys-upsc,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-upsc-field-07,sys-upsc-field-07,sys-upsc,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-upsc-field-08,sys-upsc-field-08,sys-upsc,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-upsc-field-09,sys-upsc-field-09,sys-upsc,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1
+audit-sys-upsc-field-10,sys-upsc-field-10,sys-upsc,2026-10-05,Explicit unknown retained,Automated source-availability/text-match triage; not independent semantic recoding,0
+audit-sys-upsc-field-11,sys-upsc-field-11,sys-upsc,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,2
+audit-sys-upsc-field-12,sys-upsc-field-12,sys-upsc,2026-10-05,Some linked source retrieval/extraction gaps retained,Automated source-availability/text-match triage; not independent semantic recoding,1

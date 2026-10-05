@@ -1,7 +1,11 @@
 issue_id,system_id,issue_type,description
+issues-13f2596b84eaea54,sys-cctns2,Version/timeline conflict,Under-development 2026 description versus launched-in-2024 backgrounder; cannot infer full predictive-policing rollout.
+issues-17890833e6ba1b35,sys-cropic,Data declaration tension,Described upload of images/location/date/crop metadata versus app-store no-data-collected declaration. SDK/category definitions and actual processing require further verification.
+issues-2671d01c4ab8ef96,sys-bharat-vistaar,New dated channel-specific language evidence,July reply distinguishes telephone Hindi/English from ten-language web/app/chatbot. The undated 22+ portal remains unreconciled; do not treat every channel as identical.
 issues-331bad35dc0e6a8c,sys-supace,Current-status limits,n.a. A later final regulation or routine SUPACE deployment was not verified after recency searches. This is not proof that neither exists.
 issues-4484c4bf77706392,sys-mahacrimeos,Current-status limits,n.a. A current government-confirmed rollout inventory and operational audit were not obtained. This is not proof of non-use.
 issues-4b4fa84f7b9c6eb8,sys-supace,Evaluation & error rates,"n.a. Current independent citation, omission and hallucination tests or courtroom outcome evaluations were not verified."
+issues-4cb03b903879901a,sys-rail-vss,Coverage/component boundary,1874 is reported VSS station coverage; not a verified count of stations running each facial recognition or analytics module.
 issues-6530b690b4a3cb0a,sys-esanjeevani,Evaluation & error rates,"A national implementation-study abstract reports expert-clinician validation and implementation, but independent numeric error rates were not established in the retrieved text and full manuscript access was blocked. A separate local 4,401-record study's 90% figure is not the existing national system's score."
 issues-6db2f2952081b10b,sys-esanjeevani,Current-status limits,"The dated response supports reported integrated use, not independent safety certification or all October operational details. The programme utilisation study raises privacy and access recommendations, but is not a deployed-CDSS accuracy study."
 issues-6f6454c9de1cf44b,sys-suvas,Current-status limits,"The reviewed records support assistive translation use, not perfect equivalence or current uniform governance across courts."

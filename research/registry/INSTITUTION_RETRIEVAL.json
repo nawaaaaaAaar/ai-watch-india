@@ -1,0 +1,205 @@
+[
+  {
+    "source_id": "frame-agri-impact",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2289031&reg=3&lang=1",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "07e22959131faced27c611ec97f542c986bd0d188e7e60557d190e400a7027f7"
+  },
+  {
+    "source_id": "frame-agri-current",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298435",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "9264415f390e23a47ddbc43bbcf63c974081fc73faa05575c1bc6685d8c1273a"
+  },
+  {
+    "source_id": "frame-health-sahi",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2229226&reg=3&lang=1",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "3ecba7cf36d574bf665b6d9d30848f7ea1df1f547275ef472aa514a6f5c9b57d"
+  },
+  {
+    "source_id": "frame-health-parliament",
+    "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS186_TDs0LP.pdf?source=lsapps",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "12283200dcd95e3d1ab732cc5bd12b4b0a4e6b158d28b977966c2610ca3f29c9"
+  },
+  {
+    "source_id": "frame-health-safeguards",
+    "url": "https://abdm.gov.in/strapicms/uploads/AU_5581_8_L_Rqef_d938f2704e.pdf",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "7e975480189d13eb56af4f9887fd9cbbe6d98fb4fe5c9b75598043fc2bf44b8c"
+  },
+  {
+    "source_id": "frame-education-current",
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2234853&reg=3&lang=1",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "fdf9b8dc7178af36355b522d65421f5b479059d0c8b5f1113a28873060fa5978"
+  },
+  {
+    "source_id": "frame-education-tender",
+    "url": "https://dic.gov.in/add_tender/expression-of-interest-eoi-for-ai-enabled-edtech-platform-for-national-learning-operating-system/",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "bde42d88930bdf77365bd2937a83e41c155aa5a22d92eaf618090b966cd208f6"
+  },
+  {
+    "source_id": "frame-education-summit",
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2229093&reg=3%20&lang=1",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "9f0dab4737f6329bbfc87123f8ce61f69e955b74874cb77eaa2ea5477b059cea"
+  },
+  {
+    "source_id": "frame-home-cctns",
+    "url": "https://government.economictimes.indiatimes.com/news/technology/cctns-20-indias-police-network-to-use-ai-for-crime-prediction-and-criminal-profiling/129942598",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "e1d137ae309009f6f874dc371fe9fe8c7ee2b3cd8e9e315836efa8039d7e0fb3"
+  },
+  {
+    "source_id": "frame-rail-ai",
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2238772&reg=1&lang=1",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "10e82ccb24e7099a14fb29b5e40c70ed1ce1377791b45e18be2b7545f7a518c8"
+  },
+  {
+    "source_id": "frame-rail-security",
+    "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2249823&reg=3&lang=1",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "09eff6f6a5fff1e1f684bfb54db6f3cc4ccc21fa5d6f1839ed7d661047f30292"
+  },
+  {
+    "source_id": "frame-rail-madad",
+    "url": "https://indianexpress.com/article/business/indian-railways-ai-integration-railmadad-railone-coach-mitra-10543224/",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "c3a5417339c59e3c8e0edbab59e369e2802321579d23b28515840adfab187861"
+  },
+  {
+    "source_id": "frame-rail-madad-history",
+    "url": "https://nceg.gov.in/assets/pdf/Rail%20Madad.pdf",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "c9eae1fff7e4243b880afe41d8d65605976aedb50261ac37afca6fbb6fee51f9"
+  },
+  {
+    "source_id": "frame-court-tender",
+    "url": "https://main.sci.gov.in/pdf/TN/23052023_062513.pdf",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "eedc561568e70c74f68b1dce7b94a6d7c32fa72b4c2e0a8854f30fcf64a40d58"
+  },
+  {
+    "source_id": "frame-court-guidelines",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2025/11/2025112244.pdf",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "96e24030b51e548a99d9526ed4304aa4e385cdf0a02fa84b9ac3d4679bd1d178"
+  },
+  {
+    "source_id": "frame-court-draft",
+    "url": "https://allahabadhighcourt.in/Final_draft_with_Notice_v2.pdf",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "2a9eec63f5e2645aef5876e898d2afbffc1406661db5aaea632b167664df1929"
+  },
+  {
+    "source_id": "frame-npss",
+    "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2114896",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "b8d8458e5b5b3748e824f33d8db2f253cac36affd10d4d516eeb348eb1879a62"
+  },
+  {
+    "source_id": "frame-npss-project",
+    "url": "https://npss.dac.gov.in/app/assets/files/aboutproject.pdf",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "275b52ef00ef640fc1968f9e73414de753bec5e10e2d763617e89ac0c56589e2"
+  },
+  {
+    "source_id": "frame-cropic",
+    "url": "https://play.google.com/store/apps/details?id=com.application.pmfby.cropic&hl=en_US",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "b77f1f0558fdaa2275937a1f2d4d239757557afea268a19d93bf6c70cd00088d"
+  },
+  {
+    "source_id": "frame-ejaadui",
+    "url": "https://ejaaduipitara.ncert.gov.in/",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "c130597ce86483eee60e992982ffd2ea21ade08320bc666c04a02f0fbc994a70"
+  },
+  {
+    "source_id": "frame-madhunetrai",
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2199422&reg=3&lang=1",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "31e7564cbdfb3e1d75866f08b7f0d72d23f841ab7b1c9b68b32c2528e27cfd2c"
+  },
+  {
+    "source_id": "frame-madhunetrai-pilot",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2204763&reg=3&lang=1",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "3bca14883ec0aeb089e2aeedb7a77a41cbce07eb69610e043682d58d2fb02f45"
+  },
+  {
+    "source_id": "frame-cctns-timeline",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2275007",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "7fe8e0c37ac3def4c969ceb8856caa6f620b62e6aa505709b43b0ecfa84d84c8"
+  },
+  {
+    "source_id": "frame-abhigyan",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2275306&reg=3&lang=1",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "c6741a2b621eeafded21ee824a8830d51c440e4197a4547157c335fa27ef8e5e"
+  },
+  {
+    "source_id": "frame-rail-ai-primary",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2238772&reg=3&lang=2",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "0c7b5348b6509caf4e8f99dbebfcf92da006fa9f4688b251e6ee6b0c54ff40ac"
+  },
+  {
+    "source_id": "frame-itms-tech",
+    "url": "https://www.iricen.gov.in/iricen/ipwe_seminar/2017/Nov%202023%20Vol-1/Introduction%20of%20Modern%20Track%20Inspection%20Technology.pdf",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "fd19099eff51dc9de1091f1f1757e804fdd0efb87a050e15a88b4e64c5dc54e1"
+  },
+  {
+    "source_id": "frame-susahyak",
+    "url": "https://www.sci.gov.in/",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "40a6cf4b8829622331a91e00a3e4a44413eb54c483b4e234ab44d5c9bf7537c8"
+  },
+  {
+    "source_id": "frame-susahyak-notice",
+    "url": "https://www.sci.gov.in/notices-and-circulars/",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "55ef9cb6ef700b9f0077741ee08b59af8536a80bbe9d9720917b841895729ec0"
+  },
+  {
+    "source_id": "frame-bodh-update",
+    "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2237406&reg=3&lang=1",
+    "status": "Fetched; content usefulness separately reviewed",
+    "error": null,
+    "text_sha256": "15012d1fd5ef0471eb12c0f21e134d52e9e165cefb40f9b22ee8fbd084e48839"
+  }
+]
