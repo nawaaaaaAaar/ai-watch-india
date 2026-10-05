@@ -1,6 +1,8 @@
-# AI Watch India
+# AI Watch
 
 A complete curated policy-change desk for journalism, governance research and decision preparation. Compare official wording, inspect corrections and uncertainty, and export source-backed working briefs.
+
+The website brand is **AI Watch**, with **India evidence desk** identifying the current research scope. The repository address remains `ai-watch-india`; historical research packages retain their original “AI Watch India” titles and unchanged evidence.
 
 ## Included in this release
 

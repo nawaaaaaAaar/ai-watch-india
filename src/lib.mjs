@@ -32,7 +32,7 @@ export function filterProvisions(records, query='', type='All', actor='All', fam
 }
 export function validateNotebook(raw, validIds) {
   if (!raw || raw.version!==1 || !Array.isArray(raw.selected) || !Array.isArray(raw.reviews) ||
-      typeof raw.title!=='string' || raw.title.length>200) throw new Error('Not a supported AI Watch India notebook.');
+      typeof raw.title!=='string' || raw.title.length>200) throw new Error('Not a supported AI Watch notebook.');
   if(raw.selected.length>validIds.length || new Set(raw.selected).size!==raw.selected.length ||
      !raw.selected.every(id=>validIds.includes(id))) throw new Error('Notebook has invalid or duplicate provision IDs.');
   if(raw.reviews.length>500) throw new Error('Notebook contains too many review events.');

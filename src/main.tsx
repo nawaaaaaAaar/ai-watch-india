@@ -30,7 +30,7 @@ function downloadBlob(name:string, blob:Blob) {
   const a=document.createElement('a');a.href=url;a.download=name;document.body.append(a);a.click();a.remove();
   setTimeout(()=>URL.revokeObjectURL(url),3000);
 }
-function Logo(){return <svg role="img" aria-label="AI Watch India mark" viewBox="0 0 36 36" fill="none"><path d="M7 12h15v18H7zM14 6h15v18H14" stroke="currentColor" strokeWidth="1.8"/><path d="M12 19h5M19 13h5" stroke="currentColor" strokeWidth="1.8"/></svg>}
+function Logo(){return <svg role="img" aria-label="AI Watch mark" viewBox="0 0 36 36" fill="none"><path d="M7 12h15v18H7zM14 6h15v18H14" stroke="currentColor" strokeWidth="1.8"/><path d="M12 19h5M19 13h5" stroke="currentColor" strokeWidth="1.8"/></svg>}
 function Badge({children,kind=''}:{children:React.ReactNode,kind?:string}){return <span className={`badge ${kind}`}>{children}</span>}
 function OutLink({href,children,testid}:{href:string,children:React.ReactNode,testid?:string}){return <a href={href} target="_blank" rel="noopener noreferrer" data-testid={testid}>{children}<ArrowUpRight size={14}/></a>}
 function App(){
@@ -75,7 +75,7 @@ function App(){
   return <div className="shell">
     <a className="skip" href="#main" onClick={e=>{e.preventDefault();document.getElementById('main')?.focus()}}>Skip to content</a>
     <aside className="rail">
-      <Link href="/" className="brand" data-testid="link-brand"><Logo/><span>AI Watch <b>India</b><small>POLICY CHANGE DESK</small></span></Link>
+      <Link href="/" className="brand" data-testid="link-brand"><Logo/><span><b>AI Watch</b><small>INDIA EVIDENCE DESK</small></span></Link>
       <div className="rail-rule"/>
       <p className="rail-label">WORKSPACE</p>
       <nav aria-label="Main navigation">{nav.map(([id,path,label])=>{const Icon=icons[id as keyof typeof icons];return <Link key={id} href={path} className={section===id?'nav active':'nav'} data-testid={`nav-${id}`} aria-current={section===id?'page':undefined}><Icon size={18}/><span>{label}</span>{id==='brief'&&<span className="nav-count">{notebook.selected.length}</span>}</Link>})}</nav>
