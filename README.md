@@ -4,6 +4,16 @@ A complete curated policy-change desk for journalism, governance research and de
 
 ## Included in this release
 
+Curated edition 02 expands the original DPDP release without publishing a public website:
+
+- Three collections, 56 comparisons, 13 official source records and 10 directed English corrections.
+- Synthetic-media/platform duties: 14 units cover all five final amending rules; the comparison distinguishes October draft proposals from later additions using prior-law context.
+- AI Governance Guidelines: 12 thematic units cover all four main parts and map all six consultation recommendations. This is recommendation lineage, not a certified legal redline or proof of implementation.
+- Thirty reusable briefs: the original twelve plus ten SGI and eight AI-governance briefs, individually and in family/all-collection bundles.
+- Collection filters on comparison, contributions, sources and corrections; mixed-family exports retain correct sources, status and comparison kind.
+
+The original release's features remain included:
+
 - Complete DPDP Rules draft/final collection: 30 final provisions, explicit split mappings, four official instruments and eight directed corrections.
 - Twelve distinct downloadable policy-research contributions, each with evidence, interpretation, caveats and follow-up questions.
 - Search, actor/type filters, full provision text, mechanical word highlights and as-printed/as-corrected views.
@@ -39,6 +49,7 @@ The input comparison and coverage register are in `research/`; four extracted pu
 
 ```sh
 python scripts/build_dataset.py
+python scripts/build_expansion.py
 node scripts/package-briefs.mjs
 npm run validate:data
 npm test
@@ -56,6 +67,8 @@ The evidence check date is 4 October 2026. English text was reviewed by a single
 The collection retains the 13/14 November publication-date disagreement and the official relative commencement formulas. It does not turn computed dates into definitive compliance deadlines.
 
 Full sources, findings and limits are in `public/research/study.md`. The broader roadmap and acceptance criteria are in `public/research/specification.md`; P1/P2 monitoring, arbitrary uploads and authenticated multi-user editorial infrastructure are not implied to be part of this curated v1.
+
+The expansion study and coverage register are in `public/research/expansion-study.md`. AI-guideline locators refer to printed pages, not guessed PDF page numbers; automatic lineage highlighting is disabled. SGI corrections are applied to the two directed English locations, not the separate Hindi substitutions. Current court status, all later amendments and institutional implementation are not certified.
 
 ## Privacy and session behavior
 
@@ -76,6 +89,7 @@ shared/schema.ts            Typed data/review model
 src/main.tsx                Seven routed workspace views
 src/lib.mjs                 Filters, validation and exports
 src/data/policy.json        Curated provision/source collection
+src/data/expansion.json     SGI and AI-guidelines collections
 scripts/                   Dataset, brief and validation pipelines
 tests/                     Deterministic data/export/security tests
 public/snapshots/           Extracted source snapshots
@@ -83,4 +97,4 @@ public/briefs/              Twelve briefs and complete bundle
 public/research/            Worked study and product specification
 ```
 
-See `QA.md` for the control/state inventory and `VERIFICATION.md` for executed checks. A public production-domain launch or durable monitoring schedule requires an explicit deployment choice; the application itself is static and self-contained.
+See `QA.md` for the control/state inventory, `VERIFICATION.md` for edition 01 checks and `EXPANSION_VERIFICATION.md` for edition 02 checks. A public production-domain launch or durable monitoring schedule requires an explicit deployment choice; the application itself is static and self-contained.

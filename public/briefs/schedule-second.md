@@ -1,28 +1,28 @@
-# Contribution 07: State and research processing standards
+# Contribution 11: State and research processing standards
 
-Working research brief | Exported 4 October 2026
+Working research brief | Exported 5 October 2026
 
-Collection: Digital Personal Data Protection Rules, 2025. Evidence checked 4 October 2026.
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
 ## Timing and scope
 
-The official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
+DPDP: the official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
 
 ## Second Schedule: State and research processing standards
 
-Type: Scope change. Actor/class: State bodies. Draft counterpart: Second Schedule.
+Collection: dpdp. Comparison: Draft to final. Type: Scope change. Actor/class: State bodies. Earlier context: Second Schedule.
 
 ### Textual observation
 
 Completeness and consistency added alongside accuracy. Quality-standard expansion and updated cross-references. [Draft, p. 41](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=41) [Final, p. 34](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=34)
 
-Draft excerpt (as extracted):
+Earlier excerpt (consultation draft, as extracted):
 
 > (d) Processing is done while making reasonable efforts to ensure the accuracy of personal data;
 
-Final excerpt (as printed, as extracted):
+Later excerpt (final, as printed, as extracted):
 
 > (d) Processing is done while making reasonable efforts to ensure the completeness, accuracy and consistency of personal data;
 

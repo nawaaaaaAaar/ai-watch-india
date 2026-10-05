@@ -1,28 +1,28 @@
 # Contribution 06: Disability and lawful-guardian consent
 
-Working research brief | Exported 4 October 2026
+Working research brief | Exported 5 October 2026
 
-Collection: Digital Personal Data Protection Rules, 2025. Evidence checked 4 October 2026.
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
 ## Timing and scope
 
-The official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
+DPDP: the official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
 
 ## Rule 11: Disability and lawful-guardian consent
 
-Type: Qualification. Actor/class: Persons with disabilities. Draft counterpart: Disability portion of rule 10.
+Collection: dpdp. Comparison: Draft to final. Type: Qualification. Actor/class: Persons with disabilities. Earlier context: Disability portion of rule 10.
 
 ### Textual observation
 
 Separate rule and added inability-despite-support condition in the second definition limb. Split and scope condition. [Draft, p. 33](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=33) [Final, p. 28](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=28)
 
-Draft excerpt (as extracted):
+Earlier excerpt (consultation draft, as extracted):
 
 > 10. Verifiable consent for processing of personal data of child or of person with disability who has lawful guardian.—(1) A Data Fiduciary shall adopt appropriate technical and organisational measures to ensure that verifiable consent of the parent is obtained before the processing of any personal data of a child and shall observe due diligence, for checking that the individual identifying herself as the parent is an adult who is identifiable if required in connection with compliance with any law for the time being in force in India, by reference to— (a) reliable details of identity and age available with the Data Fiduciary; or (b) voluntarily provided details of identity and age or a virtual token mapped to the same, which is issued by an entity entrusted by law or the Central Government or a State Government with the maintenance of such details or a person appointed or permitted by such entity for such issuance, and includes such details or token verified and made available by a Digital Locker service provider. Illustration. C is a child, P is her parent, and DF is a Data Fiduciary
 
-Final excerpt (as printed, as extracted):
+Later excerpt (final, as printed, as extracted):
 
 > 11. Verifiable consent for processing of personal data of person with disability who has lawful guardian. — (1) A Data Fiduciary, while obtaining verifiable consent from an individual identifying herself as the lawful guardian of a person with disability, shall observe due diligence to verify that such guardian is appointed by a court of law, or by a designated authority or by a local level committee, under the law applicable to guardianship. (2) In this rule, the expression— (a) “designated authority” shall mean an authority designated under section 15 of the Rights of Persons with Disabilities Act, 2016 (49 of 2016) to support persons with disabilities in exercise of their legal capacity; (b) “law applicable to guardianship” shall mean, — (i) in relation to an individual who has long term physical, mental, intellectual or sensory impairment which, in interaction with barriers, hinders her full and effective participation in society equally with others and who despite being provided adequate and appropriate support is unable to take legally binding decisions, the provisions of law c
 

@@ -1,28 +1,28 @@
-# Contribution 10: Consent notices
+# Contribution 02: Consent notices
 
-Working research brief | Exported 4 October 2026
+Working research brief | Exported 5 October 2026
 
-Collection: Digital Personal Data Protection Rules, 2025. Evidence checked 4 October 2026.
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
 ## Timing and scope
 
-The official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
+DPDP: the official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
 
 ## Rule 3: Consent notices
 
-Type: Wording. Actor/class: Data Fiduciaries. Draft counterpart: Rule 3.
+Collection: dpdp. Comparison: Draft to final. Type: Wording. Actor/class: Data Fiduciaries. Earlier context: Rule 3.
 
 ### Textual observation
 
 Purpose pluralization and itemised-to-specific service-description wording; data list remains itemised. Wording/scope review. [Draft, p. 28](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=28) [Final, p. 24](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=24)
 
-Draft excerpt (as extracted):
+Earlier excerpt (consultation draft, as extracted):
 
 > 3. Notice given by Data Fiduciary to Data Principal.—The notice given by the Data Fiduciary to the Data Principal shall— (a) be presented and be understandable independently of any other information that has been, is or may be made available by such Data Fiduciary; (b) give, in clear and plain language, a fair account of the details necessary to enable the Data Principal to give specific and informed consent for the processing of her personal data, which shall include, at the minimum,— (i) an itemised description of such personal data; and (ii) the specified purpose of, and an itemised description of the goods or services to be provided or uses to be enabled by, such processing; and (c) the particular communication link for accessing the website or app, or both, of such Data Fiduciary, and a description of other means, if any, using which such Data Principal may— (i) withdraw her consent, with the ease of doing so being comparable to that with which such consent was given; (ii) exercise her rights under the Act; and (iii) make a complaint to the Board.
 
-Final excerpt (as printed, as extracted):
+Later excerpt (final, as printed, as extracted):
 
 > 3. Notice given by Data Fiduciary to Data Principal. —The notice given by the Data Fiduciary to the Data Principal shall— (a) be presented and be understandable independently of any other information that has been, is or may be made available by such Data Fiduciary; (b) give, in clear and plain language, a fair account of the details necessary to enable the Data Principal to give specific and informed consent for the processing of her personal data, which shall include, at the minimum, — (i) an itemised description of such personal data; and (ii) the specified purpose or purposes of, and specific description of the goods or services to be provided or uses to be enabled by, such processing; and (c) give, the particular communication link for accessing the website or app, or both, of such Data Fiduciary, and a description of other means, if any, using which such Data Principal may— (i) withdraw her consent, with the ease of doing so being comparable to that with which such consent was given; (ii) exercise her rights under the Act; and (iii) make a complaint to the Board.
 

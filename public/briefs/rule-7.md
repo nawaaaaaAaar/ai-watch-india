@@ -1,28 +1,28 @@
-# Contribution 05: Personal data breach notices
+# Contribution 04: Personal data breach notices
 
-Working research brief | Exported 4 October 2026
+Working research brief | Exported 5 October 2026
 
-Collection: Digital Personal Data Protection Rules, 2025. Evidence checked 4 October 2026.
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
 ## Timing and scope
 
-The official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
+DPDP: the official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
 
 ## Rule 7: Personal data breach notices
 
-Type: Scope change. Actor/class: Data Fiduciaries. Draft counterpart: Rule 7.
+Collection: dpdp. Comparison: Draft to final. Type: Scope change. Actor/class: Data Fiduciaries. Earlier context: Rule 7.
 
 ### Textual observation
 
 Location removed from individual-notice description, retained for Board; user-account definition relocated. Recipient-specific deletion plus consolidation. [Draft, p. 30](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=30) [Final, p. 26](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=26)
 
-Draft excerpt (as extracted):
+Earlier excerpt (consultation draft, as extracted):
 
 > (a) a description of the breach, including its nature, extent and the timing and location of its occurrence;
 
-Final excerpt (as printed, as extracted):
+Later excerpt (final, as printed, as extracted):
 
 > (a) a description of the breach, including its nature, extent and the timing of its occurrence;
 

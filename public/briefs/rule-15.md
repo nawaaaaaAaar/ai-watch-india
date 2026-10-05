@@ -1,28 +1,28 @@
-# Contribution 11: Cross-border transfers
+# Contribution 09: Cross-border transfers
 
-Working research brief | Exported 4 October 2026
+Working research brief | Exported 5 October 2026
 
-Collection: Digital Personal Data Protection Rules, 2025. Evidence checked 4 October 2026.
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
 ## Timing and scope
 
-The official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
+DPDP: the official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
 
 ## Rule 15: Cross-border transfers
 
-Type: Wording. Actor/class: Data Fiduciaries. Draft counterpart: Rule 14.
+Collection: dpdp. Comparison: Draft to final. Type: Wording. Actor/class: Data Fiduciaries. Earlier context: Rule 14.
 
 ### Textual observation
 
 Transfers rephrased around data processed under Act; foreign-state availability condition retained. Scope/wording review, not automatic liberalization. [Draft, p. 35](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=35) [Final, p. 30](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=30)
 
-Draft excerpt (as extracted):
+Earlier excerpt (consultation draft, as extracted):
 
 > 14. Processing of personal data outside India.—Transfer to any country or territory outside India of personal data processed by a Data Fiduciary— (a) within the territory of India; or (b) outside the territory of India in connection with any activity related to offering of goods or services to Data Principals within the territory of India, is subject to the restriction that the Data Fiduciary shall meet such requirements as the Central Government may, by general or special order, specify in respect of making such personal data available to any foreign State, or to any person or entity under the control of or any agency of such a State.
 
-Final excerpt (as printed, as extracted):
+Later excerpt (final, as printed, as extracted):
 
 > 15. Transfer of personal data outside the territory of India.— Any personal data processed by a Data Fiduciary under the Act may be transferred outside the territory of India subject to the restriction that the Data Fiduciary shall meet such requirements as the Central Government may, by general or special order, specify in respect of making such personal data available to any foreign State, or to any person or entity under the control of or any agency of such a State.
 

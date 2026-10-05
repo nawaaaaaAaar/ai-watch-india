@@ -1,372 +1,32 @@
-# AI Watch India: Twelve Policy Research Contributions
+# AI Watch India: Thirty Policy Research Contributions
 
-Each contribution is a source-linked desk-research brief, not an exclusive discovery or legal opinion.
+Three collections; 18 additional briefs alongside the original 12. These are source-linked desk-research outputs, not exclusive discoveries or legal opinions.
 
-## Contribution 01: Retention and erasure
+## Contribution 01: Phased commencement
 
-Working research brief | Exported 4 October 2026
+Working research brief | Exported 5 October 2026
 
-Collection: Digital Personal Data Protection Rules, 2025. Evidence checked 4 October 2026.
-
-Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
-
-## Timing and scope
-
-The official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
-
-## Rule 8: Retention and erasure
-
-Type: Addition. Actor/class: Data Fiduciaries. Draft counterpart: Rule 8.
-
-### Textual observation
-
-New general retention floor and examples; sub-rule (1) adds “or” and rearranges conditional syntax. Addition; conditional wording requires legal review. [Draft, p. 31](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=31) [Final, p. 27](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=27)
-
-Draft excerpt (as extracted):
-
-> (3) In this rule, “user account” means the online account registered by the Data Principal with the Data Fiduciary, and includes any profiles, pages, handles, email address, mobile number and other similar presences by means of which she is able to access the services of such Data Fiduciary.
-
-Final excerpt (as printed, as extracted):
-
-> (3) Without prejudice to sub-rules (1) and (2), a Data Fiduciary shall retain, in respect of any processing of personal data undertaken by it or on its behalf by a Data Processor, such personal data, associated traffic data and other logs of the processing for a minimum period of one year from the date of such processing, for the purposes as specified in the Seventh Schedule, after which the Data Fiduciary shall cause such personal data and logs to be erased, unless further retention is required for compliance with any other law for the time being in force or notified by the Government.
-
-### Analyst interpretation
-
-A general minimum one-year retention provision is added alongside existing security-purpose retention. Erasure, purpose and lawful exceptions must be read together.
-
-### Limits and follow-up
-
-Rule 8(1)'s changed conditional syntax requires legal review. These duties are in the delayed-commencement group. The draft sub-rule (3) user-account definition moved to final Rule 2; comparing its excerpt with the new retention sub-rule does not mean that definition was abolished.
-
-Reporting question: How will deletion workflows and processor contracts implement the added retention floor?
-
-## Source provenance
-
-- [Consultation draft](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf), G.S.R. 02(E). Document date: 3 January 2025. Publication metadata: Gazette dated 3 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; cc49c9e3174324bb98980a59687c669bbc7b7176dd0d1e443d72e6c75c7a14e2.
-- [Notified final Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf), G.S.R. 846(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; MeitY listing says 14 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; faf626ebfbf12521d23e2fdbecedfcbb3082d795a1f838e57c795cde7cb755a5.
-- [English-text corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf), G.S.R. 892(E). Document date: 10 December 2025. Publication metadata: Gazette dated 11 December; MeitY listing 16 December 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; 5e877853b2fd3438291382ca155144da1ff2d9106072cfba5d37bb13425f25d8.
-- [Act commencement instrument](https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf), G.S.R. 843(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; publication-date basis disputed. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; bda8a4ac77bb5e680376f60685ddd3e1a5c132f54e688c5687e21d8500713ed8.
-
-
----
-
-## Contribution 02: Rights and grievance mechanisms
-
-Working research brief | Exported 4 October 2026
-
-Collection: Digital Personal Data Protection Rules, 2025. Evidence checked 4 October 2026.
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
 ## Timing and scope
 
-The official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
-
-## Rule 14: Rights and grievance mechanisms
-
-Type: Addition. Actor/class: Data Principals. Draft counterpart: Rule 13.
-
-### Textual observation
-
-Prominent publication, broader rights-request wording, ninety-day grievance language, email/mobile identifiers; some “published” particulars become “required” particulars. Several mechanics changes. [Draft, p. 34](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=34) [Final, p. 29](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=29)
-
-Draft excerpt (as extracted):
-
-> (3) Every Data Fiduciary and Consent Manager shall publish on its website or app, or both, as the case may be, the period under its grievance redressal system for responding to the grievances of Data Principals and shall, for ensuring the effectiveness of the system in responding within such period, implement appropriate technical and organisational measures.
-
-Final excerpt (as printed, as extracted):
-
-> (3) Every Data Fiduciary and Consent Manager shall prominently publish on its website or app, or both, as the case may be, within a reasonable period not exceeding ninety days under its grievance redressal system for responding to the grievances of Data Principals and shall, for ensuring the effectiveness of the system in responding within such period, implement appropriate technical and organisational measures.
-
-### Analyst interpretation
-
-The final text introduces ninety-day grievance language and changes rights-request mechanics. The sentence is awkward; practitioner readings concern grievances.
-
-### Limits and follow-up
-
-Do not describe this as a universal ninety-day deadline for every access, correction or erasure request.
-
-Reporting question: How will the grievance mechanism implement the period and escalation?
-
-## Source provenance
-
-- [Consultation draft](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf), G.S.R. 02(E). Document date: 3 January 2025. Publication metadata: Gazette dated 3 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; cc49c9e3174324bb98980a59687c669bbc7b7176dd0d1e443d72e6c75c7a14e2.
-- [Notified final Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf), G.S.R. 846(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; MeitY listing says 14 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; faf626ebfbf12521d23e2fdbecedfcbb3082d795a1f838e57c795cde7cb755a5.
-- [English-text corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf), G.S.R. 892(E). Document date: 10 December 2025. Publication metadata: Gazette dated 11 December; MeitY listing 16 December 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; 5e877853b2fd3438291382ca155144da1ff2d9106072cfba5d37bb13425f25d8.
-- [Act commencement instrument](https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf), G.S.R. 843(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; publication-date basis disputed. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; bda8a4ac77bb5e680376f60685ddd3e1a5c132f54e688c5687e21d8500713ed8.
-
-
----
-
-## Contribution 03: Significant Data Fiduciary duties
-
-Working research brief | Exported 4 October 2026
-
-Collection: Digital Personal Data Protection Rules, 2025. Evidence checked 4 October 2026.
-
-Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
-
-## Timing and scope
-
-The official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
-
-## Rule 13: Significant Data Fiduciary duties
-
-Type: Scope change. Actor/class: Significant Data Fiduciaries. Draft counterpart: Rule 12.
-
-### Textual observation
-
-Technical-measures scope broadened and committee composition specified; audit/DPIA structure retained. Broadened obligation and definition addition. [Draft, p. 34](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=34) [Final, p. 29](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=29)
-
-Draft excerpt (as extracted):
-
-> (3) A Significant Data Fiduciary shall observe due diligence to verify that algorithmic software deployed by it for hosting, display, uploading, modification, publishing, transmission, storage, updating or sharing of personal data processed by it are not likely to pose a risk to the rights of Data Principals.
-
-Final excerpt (as printed, as extracted):
-
-> (3) A Significant Data Fiduciary shall observe due diligence to verify that technical measures including algorithmic software adopted by it for hosting, display, uploading, modification, publishing, transmission, storage, updating or sharing of personal data processed by it are not likely to pose a risk to the rights of Data Principals.
-
-### Analyst interpretation
-
-The obligation now covers technical measures including algorithmic software, and the transfer-related committee has a stated composition.
-
-### Limits and follow-up
-
-This duty concerns Significant Data Fiduciaries; it is not a general AI licensing rule.
-
-Reporting question: What measures and methods will an impact assessment actually examine?
-
-Corrections relevant to this provision: CR-03. Check the [official correcting instrument](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf) and compare as-printed versus corrected text before quoting.
-
-## Source provenance
-
-- [Consultation draft](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf), G.S.R. 02(E). Document date: 3 January 2025. Publication metadata: Gazette dated 3 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; cc49c9e3174324bb98980a59687c669bbc7b7176dd0d1e443d72e6c75c7a14e2.
-- [Notified final Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf), G.S.R. 846(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; MeitY listing says 14 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; faf626ebfbf12521d23e2fdbecedfcbb3082d795a1f838e57c795cde7cb755a5.
-- [English-text corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf), G.S.R. 892(E). Document date: 10 December 2025. Publication metadata: Gazette dated 11 December; MeitY listing 16 December 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; 5e877853b2fd3438291382ca155144da1ff2d9106072cfba5d37bb13425f25d8.
-- [Act commencement instrument](https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf), G.S.R. 843(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; publication-date basis disputed. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; bda8a4ac77bb5e680376f60685ddd3e1a5c132f54e688c5687e21d8500713ed8.
-
-
----
-
-## Contribution 04: Conditional children's-data exemptions
-
-Working research brief | Exported 4 October 2026
-
-Collection: Digital Personal Data Protection Rules, 2025. Evidence checked 4 October 2026.
-
-Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
-
-## Timing and scope
-
-The official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
-
-## Fourth Schedule: Conditional children's-data exemptions
-
-Type: Addition. Actor/class: Children and parents. Draft counterpart: Fourth Schedule.
-
-### Textual observation
-
-Location purpose added; detrimental information scope extends to services/ads; clinical-establishment definition loses express armed-forces extension and incorporates statutory definition; other definition references refined. Material and definition changes. [Draft, p. 44](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=44) [Final, p. 36](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=36)
-
-Draft excerpt (as extracted):
-
-> 4. For ensuring that information likely to cause any detrimental effect on the well- being of a child is not accessible to her Processing is restricted to the extent necessary to ensure that such information is not accessible to the child. 5. For confirmation by the Data Fiduciary that the Data Principal is not a child and observance of due diligence under rule Processing is restricted to the extent necessary for such confirmation or observance.
-
-Final excerpt (as printed, as extracted):
-
-> 4. For the determination of real-time location of a child. Processing is restricted to the tracking of real-time location of such child, in the interest of her safety and protection or security. 5. For ensuring that any information, service or advertisement likely to cause any detrimental effect on the well-being of a child is not accessible to her. Processing is restricted to the extent necessary to ensure that such information, service or advertisement is not accessible to the child. 6. For confirmation by the Data Fiduciary that the Data Principal is not a child and observance of due diligence under rule 10. Processing is restricted to the extent necessary for such confirmation or observance.
-
-### Analyst interpretation
-
-Real-time child-location and expanded protective information/service/advertisement purposes are added conditionally.
-
-### Limits and follow-up
-
-These are exemptions from specified section 9 obligations, not all privacy duties or a general targeted-ad permission.
-
-Reporting question: Who establishes necessity, safety and boundaries for location tracking?
-
-Corrections relevant to this provision: CR-07, CR-08. Check the [official correcting instrument](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf) and compare as-printed versus corrected text before quoting.
-
-## Source provenance
-
-- [Consultation draft](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf), G.S.R. 02(E). Document date: 3 January 2025. Publication metadata: Gazette dated 3 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; cc49c9e3174324bb98980a59687c669bbc7b7176dd0d1e443d72e6c75c7a14e2.
-- [Notified final Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf), G.S.R. 846(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; MeitY listing says 14 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; faf626ebfbf12521d23e2fdbecedfcbb3082d795a1f838e57c795cde7cb755a5.
-- [English-text corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf), G.S.R. 892(E). Document date: 10 December 2025. Publication metadata: Gazette dated 11 December; MeitY listing 16 December 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; 5e877853b2fd3438291382ca155144da1ff2d9106072cfba5d37bb13425f25d8.
-- [Act commencement instrument](https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf), G.S.R. 843(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; publication-date basis disputed. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; bda8a4ac77bb5e680376f60685ddd3e1a5c132f54e688c5687e21d8500713ed8.
-
-
----
-
-## Contribution 05: Personal data breach notices
-
-Working research brief | Exported 4 October 2026
-
-Collection: Digital Personal Data Protection Rules, 2025. Evidence checked 4 October 2026.
-
-Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
-
-## Timing and scope
-
-The official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
-
-## Rule 7: Personal data breach notices
-
-Type: Scope change. Actor/class: Data Fiduciaries. Draft counterpart: Rule 7.
-
-### Textual observation
-
-Location removed from individual-notice description, retained for Board; user-account definition relocated. Recipient-specific deletion plus consolidation. [Draft, p. 30](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=30) [Final, p. 26](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=26)
-
-Draft excerpt (as extracted):
-
-> (a) a description of the breach, including its nature, extent and the timing and location of its occurrence;
-
-Final excerpt (as printed, as extracted):
-
-> (a) a description of the breach, including its nature, extent and the timing of its occurrence;
-
-### Analyst interpretation
-
-Location is removed from individual notice requirements, but remains in the Board notice. The recipient matters.
-
-### Limits and follow-up
-
-The 72-hour detailed Board report is not a 72-hour grace period for every notification.
-
-Reporting question: Why do individual and Board disclosure channels differ?
-
-## Source provenance
-
-- [Consultation draft](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf), G.S.R. 02(E). Document date: 3 January 2025. Publication metadata: Gazette dated 3 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; cc49c9e3174324bb98980a59687c669bbc7b7176dd0d1e443d72e6c75c7a14e2.
-- [Notified final Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf), G.S.R. 846(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; MeitY listing says 14 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; faf626ebfbf12521d23e2fdbecedfcbb3082d795a1f838e57c795cde7cb755a5.
-- [English-text corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf), G.S.R. 892(E). Document date: 10 December 2025. Publication metadata: Gazette dated 11 December; MeitY listing 16 December 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; 5e877853b2fd3438291382ca155144da1ff2d9106072cfba5d37bb13425f25d8.
-- [Act commencement instrument](https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf), G.S.R. 843(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; publication-date basis disputed. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; bda8a4ac77bb5e680376f60685ddd3e1a5c132f54e688c5687e21d8500713ed8.
-
-
----
-
-## Contribution 06: Disability and lawful-guardian consent
-
-Working research brief | Exported 4 October 2026
-
-Collection: Digital Personal Data Protection Rules, 2025. Evidence checked 4 October 2026.
-
-Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
-
-## Timing and scope
-
-The official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
-
-## Rule 11: Disability and lawful-guardian consent
-
-Type: Qualification. Actor/class: Persons with disabilities. Draft counterpart: Disability portion of rule 10.
-
-### Textual observation
-
-Separate rule and added inability-despite-support condition in the second definition limb. Split and scope condition. [Draft, p. 33](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=33) [Final, p. 28](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=28)
-
-Draft excerpt (as extracted):
-
-> 10. Verifiable consent for processing of personal data of child or of person with disability who has lawful guardian.—(1) A Data Fiduciary shall adopt appropriate technical and organisational measures to ensure that verifiable consent of the parent is obtained before the processing of any personal data of a child and shall observe due diligence, for checking that the individual identifying herself as the parent is an adult who is identifiable if required in connection with compliance with any law for the time being in force in India, by reference to— (a) reliable details of identity and age available with the Data Fiduciary; or (b) voluntarily provided details of identity and age or a virtual token mapped to the same, which is issued by an entity entrusted by law or the Central Government or a State Government with the maintenance of such details or a person appointed or permitted by such entity for such issuance, and includes such details or token verified and made available by a Digital Locker service provider. Illustration. C is a child, P is her parent, and DF is a Data Fiduciary
-
-Final excerpt (as printed, as extracted):
-
-> 11. Verifiable consent for processing of personal data of person with disability who has lawful guardian. — (1) A Data Fiduciary, while obtaining verifiable consent from an individual identifying herself as the lawful guardian of a person with disability, shall observe due diligence to verify that such guardian is appointed by a court of law, or by a designated authority or by a local level committee, under the law applicable to guardianship. (2) In this rule, the expression— (a) “designated authority” shall mean an authority designated under section 15 of the Rights of Persons with Disabilities Act, 2016 (49 of 2016) to support persons with disabilities in exercise of their legal capacity; (b) “law applicable to guardianship” shall mean, — (i) in relation to an individual who has long term physical, mental, intellectual or sensory impairment which, in interaction with barriers, hinders her full and effective participation in society equally with others and who despite being provided adequate and appropriate support is unable to take legally binding decisions, the provisions of law c
-
-### Analyst interpretation
-
-A functional inability-despite-support condition is added to the second disability-definition limb.
-
-### Limits and follow-up
-
-A diagnosis alone should not be treated by this tool as a legal-capacity finding. This is a split of draft rule 10.
-
-Reporting question: How will platforms avoid incorrectly requiring guardian consent?
-
-## Source provenance
-
-- [Consultation draft](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf), G.S.R. 02(E). Document date: 3 January 2025. Publication metadata: Gazette dated 3 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; cc49c9e3174324bb98980a59687c669bbc7b7176dd0d1e443d72e6c75c7a14e2.
-- [Notified final Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf), G.S.R. 846(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; MeitY listing says 14 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; faf626ebfbf12521d23e2fdbecedfcbb3082d795a1f838e57c795cde7cb755a5.
-- [English-text corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf), G.S.R. 892(E). Document date: 10 December 2025. Publication metadata: Gazette dated 11 December; MeitY listing 16 December 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; 5e877853b2fd3438291382ca155144da1ff2d9106072cfba5d37bb13425f25d8.
-- [Act commencement instrument](https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf), G.S.R. 843(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; publication-date basis disputed. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; bda8a4ac77bb5e680376f60685ddd3e1a5c132f54e688c5687e21d8500713ed8.
-
-
----
-
-## Contribution 07: State and research processing standards
-
-Working research brief | Exported 4 October 2026
-
-Collection: Digital Personal Data Protection Rules, 2025. Evidence checked 4 October 2026.
-
-Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
-
-## Timing and scope
-
-The official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
-
-## Second Schedule: State and research processing standards
-
-Type: Scope change. Actor/class: State bodies. Draft counterpart: Second Schedule.
-
-### Textual observation
-
-Completeness and consistency added alongside accuracy. Quality-standard expansion and updated cross-references. [Draft, p. 41](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=41) [Final, p. 34](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=34)
-
-Draft excerpt (as extracted):
-
-> (d) Processing is done while making reasonable efforts to ensure the accuracy of personal data;
-
-Final excerpt (as printed, as extracted):
-
-> (d) Processing is done while making reasonable efforts to ensure the completeness, accuracy and consistency of personal data;
-
-### Analyst interpretation
-
-The standard expands from accuracy to completeness, accuracy and consistency.
-
-### Limits and follow-up
-
-This standard does not prove that a particular dataset is faulty.
-
-Reporting question: How are public-sector and research datasets checked for completeness and consistency?
-
-## Source provenance
-
-- [Consultation draft](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf), G.S.R. 02(E). Document date: 3 January 2025. Publication metadata: Gazette dated 3 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; cc49c9e3174324bb98980a59687c669bbc7b7176dd0d1e443d72e6c75c7a14e2.
-- [Notified final Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf), G.S.R. 846(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; MeitY listing says 14 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; faf626ebfbf12521d23e2fdbecedfcbb3082d795a1f838e57c795cde7cb755a5.
-- [English-text corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf), G.S.R. 892(E). Document date: 10 December 2025. Publication metadata: Gazette dated 11 December; MeitY listing 16 December 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; 5e877853b2fd3438291382ca155144da1ff2d9106072cfba5d37bb13425f25d8.
-- [Act commencement instrument](https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf), G.S.R. 843(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; publication-date basis disputed. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; bda8a4ac77bb5e680376f60685ddd3e1a5c132f54e688c5687e21d8500713ed8.
-
-
----
-
-## Contribution 08: Phased commencement
-
-Working research brief | Exported 4 October 2026
-
-Collection: Digital Personal Data Protection Rules, 2025. Evidence checked 4 October 2026.
-
-Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
-
-## Timing and scope
-
-The official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
+DPDP: the official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
 
 ## Rule 1: Phased commencement
 
-Type: Timing. Actor/class: All regulated entities. Draft counterpart: Rule 1.
+Collection: dpdp. Comparison: Draft to final. Type: Timing. Actor/class: All regulated entities. Earlier context: Rule 1.
 
 ### Textual observation
 
 Blank date replaced by phased commencement; later corrigendum affects terminology. Timing change. [Draft, p. 28](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=28) [Final, p. 24](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=24)
 
-Draft excerpt (as extracted):
+Earlier excerpt (consultation draft, as extracted):
 
 > 1. Short title and commencement.—(1) These rules may be called the Digital Personal Data Protection Rules, 2025. (2) Rules 3 to 15, rule 21 and rule 22 shall come into force with effect from __________. (3) These rules, except rules 3 to 15 and rules 21 and 22, shall come into force on the date of their publication in the Official Gazette.
 
-Final excerpt (as printed, as extracted):
+Later excerpt (final, as printed, as extracted):
 
 > 1. Short title and commencement. — (1) These rules may be called the Digital Personal Data Protection Rules, 2025. (2) Rules 1, 2 and 17 to 21 shall come into force on the date of their publication in the Official Gazette. (3) Rule 4 shall come into force one year after the date of publication of this Gazette. (4) Rules 3, 5 to 16, 22 and 23 shall come into force eighteen months after the date of publication of this Gazette.
 
@@ -392,79 +52,31 @@ Corrections relevant to this provision: CR-01, CR-02. Check the [official correc
 
 ---
 
-## Contribution 09: Reasonable security safeguards
+## Contribution 02: Consent notices
 
-Working research brief | Exported 4 October 2026
+Working research brief | Exported 5 October 2026
 
-Collection: Digital Personal Data Protection Rules, 2025. Evidence checked 4 October 2026.
-
-Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
-
-## Timing and scope
-
-The official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
-
-## Rule 6: Reasonable security safeguards
-
-Type: Qualification. Actor/class: Data Fiduciaries. Draft counterpart: Rule 6.
-
-### Textual observation
-
-Applicability qualifiers and illustrative wording added; one-year security-purpose provision retained. Qualified obligation. [Draft, p. 30](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=30) [Final, p. 26](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=26)
-
-Draft excerpt (as extracted):
-
-> 6. Reasonable security safeguards.—(1) A Data Fiduciary shall protect personal data in its possession or under its control, including in respect of any processing undertaken by it or on its behalf by a Data Processor, by taking reasonable security safeguards to prevent personal data breach, which shall include, at the minimum,— (a) appropriate data security measures, including securing of such personal data through its encryption, obfuscation or masking or the use of virtual tokens mapped to that personal data; (b) appropriate measures to control access to the computer resources used by such Data Fiduciary or such a Data Processor; (c) visibility on the accessing of such personal data, through appropriate logs, monitoring and review, for enabling detection of unauthorised access, its investigation and remediation to prevent recurrence; (d) reasonable measures for continued processing in the event of confidentiality, integrity or availability of such personal data being compromised as a result of destruction or loss of access to personal data or otherwise, including by way of data- ba
-
-Final excerpt (as printed, as extracted):
-
-> 6. Reasonable security safeguards. — (1) A Data Fiduciary shall protect personal data in its possession or under its control, including in respect of any processing undertaken by it or on its behalf by a Data Processor, by taking reasonable security safeguards to prevent personal data breach, which shall include, at the minimum, — (a) appropriate data security measures, such as securing of personal data through encryption, obfuscation, masking or the use of virtual tokens mapped to that personal data; (b) appropriate measures to control access to the computer resources used by such Data Fiduciary or such a Data Processor, wherever applicable; (c) visibility on the accessing of such personal data, through appropriate logs, monitoring and review, for enabling detection of unauthorised access, its investigation and remediation to prevent recurrence; (d) reasonable measures for continued processing in the event of confidentiality, integrity or availability of such personal data being compromised as a result of destruction or loss of access to personal data or otherwise, such as by way of
-
-### Analyst interpretation
-
-The access-control and processor-contract clauses acquire applicability qualifiers; the general security duty remains.
-
-### Limits and follow-up
-
-This is not a blanket exemption for small organizations.
-
-Reporting question: What facts make these safeguards applicable to an organization's architecture?
-
-## Source provenance
-
-- [Consultation draft](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf), G.S.R. 02(E). Document date: 3 January 2025. Publication metadata: Gazette dated 3 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; cc49c9e3174324bb98980a59687c669bbc7b7176dd0d1e443d72e6c75c7a14e2.
-- [Notified final Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf), G.S.R. 846(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; MeitY listing says 14 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; faf626ebfbf12521d23e2fdbecedfcbb3082d795a1f838e57c795cde7cb755a5.
-- [English-text corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf), G.S.R. 892(E). Document date: 10 December 2025. Publication metadata: Gazette dated 11 December; MeitY listing 16 December 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; 5e877853b2fd3438291382ca155144da1ff2d9106072cfba5d37bb13425f25d8.
-- [Act commencement instrument](https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf), G.S.R. 843(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; publication-date basis disputed. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; bda8a4ac77bb5e680376f60685ddd3e1a5c132f54e688c5687e21d8500713ed8.
-
-
----
-
-## Contribution 10: Consent notices
-
-Working research brief | Exported 4 October 2026
-
-Collection: Digital Personal Data Protection Rules, 2025. Evidence checked 4 October 2026.
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
 ## Timing and scope
 
-The official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
+DPDP: the official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
 
 ## Rule 3: Consent notices
 
-Type: Wording. Actor/class: Data Fiduciaries. Draft counterpart: Rule 3.
+Collection: dpdp. Comparison: Draft to final. Type: Wording. Actor/class: Data Fiduciaries. Earlier context: Rule 3.
 
 ### Textual observation
 
 Purpose pluralization and itemised-to-specific service-description wording; data list remains itemised. Wording/scope review. [Draft, p. 28](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=28) [Final, p. 24](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=24)
 
-Draft excerpt (as extracted):
+Earlier excerpt (consultation draft, as extracted):
 
 > 3. Notice given by Data Fiduciary to Data Principal.—The notice given by the Data Fiduciary to the Data Principal shall— (a) be presented and be understandable independently of any other information that has been, is or may be made available by such Data Fiduciary; (b) give, in clear and plain language, a fair account of the details necessary to enable the Data Principal to give specific and informed consent for the processing of her personal data, which shall include, at the minimum,— (i) an itemised description of such personal data; and (ii) the specified purpose of, and an itemised description of the goods or services to be provided or uses to be enabled by, such processing; and (c) the particular communication link for accessing the website or app, or both, of such Data Fiduciary, and a description of other means, if any, using which such Data Principal may— (i) withdraw her consent, with the ease of doing so being comparable to that with which such consent was given; (ii) exercise her rights under the Act; and (iii) make a complaint to the Board.
 
-Final excerpt (as printed, as extracted):
+Later excerpt (final, as printed, as extracted):
 
 > 3. Notice given by Data Fiduciary to Data Principal. —The notice given by the Data Fiduciary to the Data Principal shall— (a) be presented and be understandable independently of any other information that has been, is or may be made available by such Data Fiduciary; (b) give, in clear and plain language, a fair account of the details necessary to enable the Data Principal to give specific and informed consent for the processing of her personal data, which shall include, at the minimum, — (i) an itemised description of such personal data; and (ii) the specified purpose or purposes of, and specific description of the goods or services to be provided or uses to be enabled by, such processing; and (c) give, the particular communication link for accessing the website or app, or both, of such Data Fiduciary, and a description of other means, if any, using which such Data Principal may— (i) withdraw her consent, with the ease of doing so being comparable to that with which such consent was given; (ii) exercise her rights under the Act; and (iii) make a complaint to the Board.
 
@@ -488,31 +100,321 @@ Reporting question: How will organizations implement specific notices without bu
 
 ---
 
-## Contribution 11: Cross-border transfers
+## Contribution 03: Reasonable security safeguards
 
-Working research brief | Exported 4 October 2026
+Working research brief | Exported 5 October 2026
 
-Collection: Digital Personal Data Protection Rules, 2025. Evidence checked 4 October 2026.
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
 ## Timing and scope
 
-The official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
+DPDP: the official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
+
+## Rule 6: Reasonable security safeguards
+
+Collection: dpdp. Comparison: Draft to final. Type: Qualification. Actor/class: Data Fiduciaries. Earlier context: Rule 6.
+
+### Textual observation
+
+Applicability qualifiers and illustrative wording added; one-year security-purpose provision retained. Qualified obligation. [Draft, p. 30](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=30) [Final, p. 26](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=26)
+
+Earlier excerpt (consultation draft, as extracted):
+
+> 6. Reasonable security safeguards.—(1) A Data Fiduciary shall protect personal data in its possession or under its control, including in respect of any processing undertaken by it or on its behalf by a Data Processor, by taking reasonable security safeguards to prevent personal data breach, which shall include, at the minimum,— (a) appropriate data security measures, including securing of such personal data through its encryption, obfuscation or masking or the use of virtual tokens mapped to that personal data; (b) appropriate measures to control access to the computer resources used by such Data Fiduciary or such a Data Processor; (c) visibility on the accessing of such personal data, through appropriate logs, monitoring and review, for enabling detection of unauthorised access, its investigation and remediation to prevent recurrence; (d) reasonable measures for continued processing in the event of confidentiality, integrity or availability of such personal data being compromised as a result of destruction or loss of access to personal data or otherwise, including by way of data- ba
+
+Later excerpt (final, as printed, as extracted):
+
+> 6. Reasonable security safeguards. — (1) A Data Fiduciary shall protect personal data in its possession or under its control, including in respect of any processing undertaken by it or on its behalf by a Data Processor, by taking reasonable security safeguards to prevent personal data breach, which shall include, at the minimum, — (a) appropriate data security measures, such as securing of personal data through encryption, obfuscation, masking or the use of virtual tokens mapped to that personal data; (b) appropriate measures to control access to the computer resources used by such Data Fiduciary or such a Data Processor, wherever applicable; (c) visibility on the accessing of such personal data, through appropriate logs, monitoring and review, for enabling detection of unauthorised access, its investigation and remediation to prevent recurrence; (d) reasonable measures for continued processing in the event of confidentiality, integrity or availability of such personal data being compromised as a result of destruction or loss of access to personal data or otherwise, such as by way of
+
+### Analyst interpretation
+
+The access-control and processor-contract clauses acquire applicability qualifiers; the general security duty remains.
+
+### Limits and follow-up
+
+This is not a blanket exemption for small organizations.
+
+Reporting question: What facts make these safeguards applicable to an organization's architecture?
+
+## Source provenance
+
+- [Consultation draft](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf), G.S.R. 02(E). Document date: 3 January 2025. Publication metadata: Gazette dated 3 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; cc49c9e3174324bb98980a59687c669bbc7b7176dd0d1e443d72e6c75c7a14e2.
+- [Notified final Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf), G.S.R. 846(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; MeitY listing says 14 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; faf626ebfbf12521d23e2fdbecedfcbb3082d795a1f838e57c795cde7cb755a5.
+- [English-text corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf), G.S.R. 892(E). Document date: 10 December 2025. Publication metadata: Gazette dated 11 December; MeitY listing 16 December 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; 5e877853b2fd3438291382ca155144da1ff2d9106072cfba5d37bb13425f25d8.
+- [Act commencement instrument](https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf), G.S.R. 843(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; publication-date basis disputed. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; bda8a4ac77bb5e680376f60685ddd3e1a5c132f54e688c5687e21d8500713ed8.
+
+
+---
+
+## Contribution 04: Personal data breach notices
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+DPDP: the official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
+
+## Rule 7: Personal data breach notices
+
+Collection: dpdp. Comparison: Draft to final. Type: Scope change. Actor/class: Data Fiduciaries. Earlier context: Rule 7.
+
+### Textual observation
+
+Location removed from individual-notice description, retained for Board; user-account definition relocated. Recipient-specific deletion plus consolidation. [Draft, p. 30](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=30) [Final, p. 26](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=26)
+
+Earlier excerpt (consultation draft, as extracted):
+
+> (a) a description of the breach, including its nature, extent and the timing and location of its occurrence;
+
+Later excerpt (final, as printed, as extracted):
+
+> (a) a description of the breach, including its nature, extent and the timing of its occurrence;
+
+### Analyst interpretation
+
+Location is removed from individual notice requirements, but remains in the Board notice. The recipient matters.
+
+### Limits and follow-up
+
+The 72-hour detailed Board report is not a 72-hour grace period for every notification.
+
+Reporting question: Why do individual and Board disclosure channels differ?
+
+## Source provenance
+
+- [Consultation draft](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf), G.S.R. 02(E). Document date: 3 January 2025. Publication metadata: Gazette dated 3 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; cc49c9e3174324bb98980a59687c669bbc7b7176dd0d1e443d72e6c75c7a14e2.
+- [Notified final Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf), G.S.R. 846(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; MeitY listing says 14 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; faf626ebfbf12521d23e2fdbecedfcbb3082d795a1f838e57c795cde7cb755a5.
+- [English-text corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf), G.S.R. 892(E). Document date: 10 December 2025. Publication metadata: Gazette dated 11 December; MeitY listing 16 December 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; 5e877853b2fd3438291382ca155144da1ff2d9106072cfba5d37bb13425f25d8.
+- [Act commencement instrument](https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf), G.S.R. 843(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; publication-date basis disputed. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; bda8a4ac77bb5e680376f60685ddd3e1a5c132f54e688c5687e21d8500713ed8.
+
+
+---
+
+## Contribution 05: Retention and erasure
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+DPDP: the official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
+
+## Rule 8: Retention and erasure
+
+Collection: dpdp. Comparison: Draft to final. Type: Addition. Actor/class: Data Fiduciaries. Earlier context: Rule 8.
+
+### Textual observation
+
+New general retention floor and examples; sub-rule (1) adds “or” and rearranges conditional syntax. Addition; conditional wording requires legal review. [Draft, p. 31](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=31) [Final, p. 27](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=27)
+
+Earlier excerpt (consultation draft, as extracted):
+
+> (3) In this rule, “user account” means the online account registered by the Data Principal with the Data Fiduciary, and includes any profiles, pages, handles, email address, mobile number and other similar presences by means of which she is able to access the services of such Data Fiduciary.
+
+Later excerpt (final, as printed, as extracted):
+
+> (3) Without prejudice to sub-rules (1) and (2), a Data Fiduciary shall retain, in respect of any processing of personal data undertaken by it or on its behalf by a Data Processor, such personal data, associated traffic data and other logs of the processing for a minimum period of one year from the date of such processing, for the purposes as specified in the Seventh Schedule, after which the Data Fiduciary shall cause such personal data and logs to be erased, unless further retention is required for compliance with any other law for the time being in force or notified by the Government.
+
+### Analyst interpretation
+
+A general minimum one-year retention provision is added alongside existing security-purpose retention. Erasure, purpose and lawful exceptions must be read together.
+
+### Limits and follow-up
+
+Rule 8(1)'s changed conditional syntax requires legal review. These duties are in the delayed-commencement group. The draft sub-rule (3) user-account definition moved to final Rule 2; comparing its excerpt with the new retention sub-rule does not mean that definition was abolished.
+
+Reporting question: How will deletion workflows and processor contracts implement the added retention floor?
+
+## Source provenance
+
+- [Consultation draft](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf), G.S.R. 02(E). Document date: 3 January 2025. Publication metadata: Gazette dated 3 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; cc49c9e3174324bb98980a59687c669bbc7b7176dd0d1e443d72e6c75c7a14e2.
+- [Notified final Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf), G.S.R. 846(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; MeitY listing says 14 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; faf626ebfbf12521d23e2fdbecedfcbb3082d795a1f838e57c795cde7cb755a5.
+- [English-text corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf), G.S.R. 892(E). Document date: 10 December 2025. Publication metadata: Gazette dated 11 December; MeitY listing 16 December 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; 5e877853b2fd3438291382ca155144da1ff2d9106072cfba5d37bb13425f25d8.
+- [Act commencement instrument](https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf), G.S.R. 843(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; publication-date basis disputed. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; bda8a4ac77bb5e680376f60685ddd3e1a5c132f54e688c5687e21d8500713ed8.
+
+
+---
+
+## Contribution 06: Disability and lawful-guardian consent
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+DPDP: the official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
+
+## Rule 11: Disability and lawful-guardian consent
+
+Collection: dpdp. Comparison: Draft to final. Type: Qualification. Actor/class: Persons with disabilities. Earlier context: Disability portion of rule 10.
+
+### Textual observation
+
+Separate rule and added inability-despite-support condition in the second definition limb. Split and scope condition. [Draft, p. 33](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=33) [Final, p. 28](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=28)
+
+Earlier excerpt (consultation draft, as extracted):
+
+> 10. Verifiable consent for processing of personal data of child or of person with disability who has lawful guardian.—(1) A Data Fiduciary shall adopt appropriate technical and organisational measures to ensure that verifiable consent of the parent is obtained before the processing of any personal data of a child and shall observe due diligence, for checking that the individual identifying herself as the parent is an adult who is identifiable if required in connection with compliance with any law for the time being in force in India, by reference to— (a) reliable details of identity and age available with the Data Fiduciary; or (b) voluntarily provided details of identity and age or a virtual token mapped to the same, which is issued by an entity entrusted by law or the Central Government or a State Government with the maintenance of such details or a person appointed or permitted by such entity for such issuance, and includes such details or token verified and made available by a Digital Locker service provider. Illustration. C is a child, P is her parent, and DF is a Data Fiduciary
+
+Later excerpt (final, as printed, as extracted):
+
+> 11. Verifiable consent for processing of personal data of person with disability who has lawful guardian. — (1) A Data Fiduciary, while obtaining verifiable consent from an individual identifying herself as the lawful guardian of a person with disability, shall observe due diligence to verify that such guardian is appointed by a court of law, or by a designated authority or by a local level committee, under the law applicable to guardianship. (2) In this rule, the expression— (a) “designated authority” shall mean an authority designated under section 15 of the Rights of Persons with Disabilities Act, 2016 (49 of 2016) to support persons with disabilities in exercise of their legal capacity; (b) “law applicable to guardianship” shall mean, — (i) in relation to an individual who has long term physical, mental, intellectual or sensory impairment which, in interaction with barriers, hinders her full and effective participation in society equally with others and who despite being provided adequate and appropriate support is unable to take legally binding decisions, the provisions of law c
+
+### Analyst interpretation
+
+A functional inability-despite-support condition is added to the second disability-definition limb.
+
+### Limits and follow-up
+
+A diagnosis alone should not be treated by this tool as a legal-capacity finding. This is a split of draft rule 10.
+
+Reporting question: How will platforms avoid incorrectly requiring guardian consent?
+
+## Source provenance
+
+- [Consultation draft](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf), G.S.R. 02(E). Document date: 3 January 2025. Publication metadata: Gazette dated 3 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; cc49c9e3174324bb98980a59687c669bbc7b7176dd0d1e443d72e6c75c7a14e2.
+- [Notified final Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf), G.S.R. 846(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; MeitY listing says 14 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; faf626ebfbf12521d23e2fdbecedfcbb3082d795a1f838e57c795cde7cb755a5.
+- [English-text corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf), G.S.R. 892(E). Document date: 10 December 2025. Publication metadata: Gazette dated 11 December; MeitY listing 16 December 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; 5e877853b2fd3438291382ca155144da1ff2d9106072cfba5d37bb13425f25d8.
+- [Act commencement instrument](https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf), G.S.R. 843(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; publication-date basis disputed. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; bda8a4ac77bb5e680376f60685ddd3e1a5c132f54e688c5687e21d8500713ed8.
+
+
+---
+
+## Contribution 07: Significant Data Fiduciary duties
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+DPDP: the official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
+
+## Rule 13: Significant Data Fiduciary duties
+
+Collection: dpdp. Comparison: Draft to final. Type: Scope change. Actor/class: Significant Data Fiduciaries. Earlier context: Rule 12.
+
+### Textual observation
+
+Technical-measures scope broadened and committee composition specified; audit/DPIA structure retained. Broadened obligation and definition addition. [Draft, p. 34](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=34) [Final, p. 29](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=29)
+
+Earlier excerpt (consultation draft, as extracted):
+
+> (3) A Significant Data Fiduciary shall observe due diligence to verify that algorithmic software deployed by it for hosting, display, uploading, modification, publishing, transmission, storage, updating or sharing of personal data processed by it are not likely to pose a risk to the rights of Data Principals.
+
+Later excerpt (final, as printed, as extracted):
+
+> (3) A Significant Data Fiduciary shall observe due diligence to verify that technical measures including algorithmic software adopted by it for hosting, display, uploading, modification, publishing, transmission, storage, updating or sharing of personal data processed by it are not likely to pose a risk to the rights of Data Principals.
+
+### Analyst interpretation
+
+The obligation now covers technical measures including algorithmic software, and the transfer-related committee has a stated composition.
+
+### Limits and follow-up
+
+This duty concerns Significant Data Fiduciaries; it is not a general AI licensing rule.
+
+Reporting question: What measures and methods will an impact assessment actually examine?
+
+Corrections relevant to this provision: CR-03. Check the [official correcting instrument](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf) and compare as-printed versus corrected text before quoting.
+
+## Source provenance
+
+- [Consultation draft](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf), G.S.R. 02(E). Document date: 3 January 2025. Publication metadata: Gazette dated 3 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; cc49c9e3174324bb98980a59687c669bbc7b7176dd0d1e443d72e6c75c7a14e2.
+- [Notified final Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf), G.S.R. 846(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; MeitY listing says 14 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; faf626ebfbf12521d23e2fdbecedfcbb3082d795a1f838e57c795cde7cb755a5.
+- [English-text corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf), G.S.R. 892(E). Document date: 10 December 2025. Publication metadata: Gazette dated 11 December; MeitY listing 16 December 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; 5e877853b2fd3438291382ca155144da1ff2d9106072cfba5d37bb13425f25d8.
+- [Act commencement instrument](https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf), G.S.R. 843(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; publication-date basis disputed. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; bda8a4ac77bb5e680376f60685ddd3e1a5c132f54e688c5687e21d8500713ed8.
+
+
+---
+
+## Contribution 08: Rights and grievance mechanisms
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+DPDP: the official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
+
+## Rule 14: Rights and grievance mechanisms
+
+Collection: dpdp. Comparison: Draft to final. Type: Addition. Actor/class: Data Principals. Earlier context: Rule 13.
+
+### Textual observation
+
+Prominent publication, broader rights-request wording, ninety-day grievance language, email/mobile identifiers; some “published” particulars become “required” particulars. Several mechanics changes. [Draft, p. 34](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=34) [Final, p. 29](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=29)
+
+Earlier excerpt (consultation draft, as extracted):
+
+> (3) Every Data Fiduciary and Consent Manager shall publish on its website or app, or both, as the case may be, the period under its grievance redressal system for responding to the grievances of Data Principals and shall, for ensuring the effectiveness of the system in responding within such period, implement appropriate technical and organisational measures.
+
+Later excerpt (final, as printed, as extracted):
+
+> (3) Every Data Fiduciary and Consent Manager shall prominently publish on its website or app, or both, as the case may be, within a reasonable period not exceeding ninety days under its grievance redressal system for responding to the grievances of Data Principals and shall, for ensuring the effectiveness of the system in responding within such period, implement appropriate technical and organisational measures.
+
+### Analyst interpretation
+
+The final text introduces ninety-day grievance language and changes rights-request mechanics. The sentence is awkward; practitioner readings concern grievances.
+
+### Limits and follow-up
+
+Do not describe this as a universal ninety-day deadline for every access, correction or erasure request.
+
+Reporting question: How will the grievance mechanism implement the period and escalation?
+
+## Source provenance
+
+- [Consultation draft](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf), G.S.R. 02(E). Document date: 3 January 2025. Publication metadata: Gazette dated 3 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; cc49c9e3174324bb98980a59687c669bbc7b7176dd0d1e443d72e6c75c7a14e2.
+- [Notified final Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf), G.S.R. 846(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; MeitY listing says 14 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; faf626ebfbf12521d23e2fdbecedfcbb3082d795a1f838e57c795cde7cb755a5.
+- [English-text corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf), G.S.R. 892(E). Document date: 10 December 2025. Publication metadata: Gazette dated 11 December; MeitY listing 16 December 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; 5e877853b2fd3438291382ca155144da1ff2d9106072cfba5d37bb13425f25d8.
+- [Act commencement instrument](https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf), G.S.R. 843(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; publication-date basis disputed. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; bda8a4ac77bb5e680376f60685ddd3e1a5c132f54e688c5687e21d8500713ed8.
+
+
+---
+
+## Contribution 09: Cross-border transfers
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+DPDP: the official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
 
 ## Rule 15: Cross-border transfers
 
-Type: Wording. Actor/class: Data Fiduciaries. Draft counterpart: Rule 14.
+Collection: dpdp. Comparison: Draft to final. Type: Wording. Actor/class: Data Fiduciaries. Earlier context: Rule 14.
 
 ### Textual observation
 
 Transfers rephrased around data processed under Act; foreign-state availability condition retained. Scope/wording review, not automatic liberalization. [Draft, p. 35](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=35) [Final, p. 30](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=30)
 
-Draft excerpt (as extracted):
+Earlier excerpt (consultation draft, as extracted):
 
 > 14. Processing of personal data outside India.—Transfer to any country or territory outside India of personal data processed by a Data Fiduciary— (a) within the territory of India; or (b) outside the territory of India in connection with any activity related to offering of goods or services to Data Principals within the territory of India, is subject to the restriction that the Data Fiduciary shall meet such requirements as the Central Government may, by general or special order, specify in respect of making such personal data available to any foreign State, or to any person or entity under the control of or any agency of such a State.
 
-Final excerpt (as printed, as extracted):
+Later excerpt (final, as printed, as extracted):
 
 > 15. Transfer of personal data outside the territory of India.— Any personal data processed by a Data Fiduciary under the Act may be transferred outside the territory of India subject to the restriction that the Data Fiduciary shall meet such requirements as the Central Government may, by general or special order, specify in respect of making such personal data available to any foreign State, or to any person or entity under the control of or any agency of such a State.
 
@@ -538,31 +440,31 @@ Parent statute context: [DPDP Act](https://www.meity.gov.in/static/uploads/2024/
 
 ---
 
-## Contribution 12: Information-calling powers
+## Contribution 10: Information-calling powers
 
-Working research brief | Exported 4 October 2026
+Working research brief | Exported 5 October 2026
 
-Collection: Digital Personal Data Protection Rules, 2025. Evidence checked 4 October 2026.
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
 ## Timing and scope
 
-The official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
+DPDP: the official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
 
 ## Rule 23: Information-calling powers
 
-Type: Wording. Actor/class: State bodies. Draft counterpart: Rule 22.
+Collection: dpdp. Comparison: Draft to final. Type: Wording. Actor/class: State bodies. Earlier context: Rule 22.
 
 ### Textual observation
 
 Information-calling mechanism restructured, section 36 sentence deleted and intermediary definition added. Later order-phrase correction. [Draft, p. 37](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=37) [Final, p. 32](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=32)
 
-Draft excerpt (as extracted):
+Earlier excerpt (consultation draft, as extracted):
 
 > 22. Calling for information from Data Fiduciary or intermediary.—(1) The Central Government may, for such purposes of the Act as are specified in Seventh Schedule, acting through the corresponding authorised person specified in the said Schedule, require any Data Fiduciary or intermediary to furnish such information as may be called for, specify the time period within which the same shall be furnished and, where disclosure in this regard is likely to prejudicially affect the sovereignty and integrity of India or security of the State, require the Data Fiduciary or intermediary to not disclose the same except with the previous permission in writing of the authorised person. (2) Provision of information called for under this rule shall be by way of fulfilment of obligation under section 36 of the Act. .
 
-Final excerpt (as printed, as extracted):
+Later excerpt (final, as printed, as extracted):
 
 > 23. Calling for information from Data Fiduciary or intermediary. — (1) The Central Government may, for such purposes of the Act as are specified in Seventh Schedule, acting through the corresponding authorised person specified in the said Schedule, require any Data Fiduciary or intermediary to furnish such information as may be called for, within the specified period as may be given in such. (2) Where the disclosure of furnishing of information as referred to in sub-rule (1) is likely to prejudicially affect the sovereignty and integrity of India or security of the State, the Central Government may require the Data Fiduciary or intermediary to not disclose such furnishing to affected Data Principal or any other person except with the previous permission, in writing, of the authorised person. (3) For the purposes of this rule, the expression “intermediary” shall have the same meaning as assigned to it in the Information Technology Act, 2000 (21 of 2000).
 
@@ -586,3 +488,1015 @@ Parent statute context: [DPDP Act](https://www.meity.gov.in/static/uploads/2024/
 - [Notified final Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf), G.S.R. 846(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; MeitY listing says 14 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; faf626ebfbf12521d23e2fdbecedfcbb3082d795a1f838e57c795cde7cb755a5.
 - [English-text corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf), G.S.R. 892(E). Document date: 10 December 2025. Publication metadata: Gazette dated 11 December; MeitY listing 16 December 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; 5e877853b2fd3438291382ca155144da1ff2d9106072cfba5d37bb13425f25d8.
 - [Act commencement instrument](https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf), G.S.R. 843(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; publication-date basis disputed. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; bda8a4ac77bb5e680376f60685ddd3e1a5c132f54e688c5687e21d8500713ed8.
+
+
+---
+
+## Contribution 11: State and research processing standards
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+DPDP: the official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
+
+## Second Schedule: State and research processing standards
+
+Collection: dpdp. Comparison: Draft to final. Type: Scope change. Actor/class: State bodies. Earlier context: Second Schedule.
+
+### Textual observation
+
+Completeness and consistency added alongside accuracy. Quality-standard expansion and updated cross-references. [Draft, p. 41](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=41) [Final, p. 34](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=34)
+
+Earlier excerpt (consultation draft, as extracted):
+
+> (d) Processing is done while making reasonable efforts to ensure the accuracy of personal data;
+
+Later excerpt (final, as printed, as extracted):
+
+> (d) Processing is done while making reasonable efforts to ensure the completeness, accuracy and consistency of personal data;
+
+### Analyst interpretation
+
+The standard expands from accuracy to completeness, accuracy and consistency.
+
+### Limits and follow-up
+
+This standard does not prove that a particular dataset is faulty.
+
+Reporting question: How are public-sector and research datasets checked for completeness and consistency?
+
+## Source provenance
+
+- [Consultation draft](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf), G.S.R. 02(E). Document date: 3 January 2025. Publication metadata: Gazette dated 3 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; cc49c9e3174324bb98980a59687c669bbc7b7176dd0d1e443d72e6c75c7a14e2.
+- [Notified final Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf), G.S.R. 846(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; MeitY listing says 14 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; faf626ebfbf12521d23e2fdbecedfcbb3082d795a1f838e57c795cde7cb755a5.
+- [English-text corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf), G.S.R. 892(E). Document date: 10 December 2025. Publication metadata: Gazette dated 11 December; MeitY listing 16 December 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; 5e877853b2fd3438291382ca155144da1ff2d9106072cfba5d37bb13425f25d8.
+- [Act commencement instrument](https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf), G.S.R. 843(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; publication-date basis disputed. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; bda8a4ac77bb5e680376f60685ddd3e1a5c132f54e688c5687e21d8500713ed8.
+
+
+---
+
+## Contribution 12: Conditional children's-data exemptions
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+DPDP: the official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
+
+## Fourth Schedule: Conditional children's-data exemptions
+
+Collection: dpdp. Comparison: Draft to final. Type: Addition. Actor/class: Children and parents. Earlier context: Fourth Schedule.
+
+### Textual observation
+
+Location purpose added; detrimental information scope extends to services/ads; clinical-establishment definition loses express armed-forces extension and incorporates statutory definition; other definition references refined. Material and definition changes. [Draft, p. 44](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=44) [Final, p. 36](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=36)
+
+Earlier excerpt (consultation draft, as extracted):
+
+> 4. For ensuring that information likely to cause any detrimental effect on the well- being of a child is not accessible to her Processing is restricted to the extent necessary to ensure that such information is not accessible to the child. 5. For confirmation by the Data Fiduciary that the Data Principal is not a child and observance of due diligence under rule Processing is restricted to the extent necessary for such confirmation or observance.
+
+Later excerpt (final, as printed, as extracted):
+
+> 4. For the determination of real-time location of a child. Processing is restricted to the tracking of real-time location of such child, in the interest of her safety and protection or security. 5. For ensuring that any information, service or advertisement likely to cause any detrimental effect on the well-being of a child is not accessible to her. Processing is restricted to the extent necessary to ensure that such information, service or advertisement is not accessible to the child. 6. For confirmation by the Data Fiduciary that the Data Principal is not a child and observance of due diligence under rule 10. Processing is restricted to the extent necessary for such confirmation or observance.
+
+### Analyst interpretation
+
+Real-time child-location and expanded protective information/service/advertisement purposes are added conditionally.
+
+### Limits and follow-up
+
+These are exemptions from specified section 9 obligations, not all privacy duties or a general targeted-ad permission.
+
+Reporting question: Who establishes necessity, safety and boundaries for location tracking?
+
+Corrections relevant to this provision: CR-07, CR-08. Check the [official correcting instrument](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf) and compare as-printed versus corrected text before quoting.
+
+## Source provenance
+
+- [Consultation draft](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf), G.S.R. 02(E). Document date: 3 January 2025. Publication metadata: Gazette dated 3 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; cc49c9e3174324bb98980a59687c669bbc7b7176dd0d1e443d72e6c75c7a14e2.
+- [Notified final Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf), G.S.R. 846(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; MeitY listing says 14 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; faf626ebfbf12521d23e2fdbecedfcbb3082d795a1f838e57c795cde7cb755a5.
+- [English-text corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf), G.S.R. 892(E). Document date: 10 December 2025. Publication metadata: Gazette dated 11 December; MeitY listing 16 December 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; 5e877853b2fd3438291382ca155144da1ff2d9106072cfba5d37bb13425f25d8.
+- [Act commencement instrument](https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf), G.S.R. 843(E). Document date: 13 November 2025. Publication metadata: Gazette dated 13 November; publication-date basis disputed. Snapshot integrity: SHA-256 of extracted UTF-8 text; not original PDF bytes; bda8a4ac77bb5e680376f60685ddd3e1a5c132f54e688c5687e21d8500713ed8.
+
+
+---
+
+## Contribution 13: SGI narrows to realistic audio and visual media
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+Synthetic media: the [amendment](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf) states commencement on 20 February 2026; English citations were [corrected on 26 February](https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf). This is not exhaustive current court-status certification. Some comparisons use prior consolidated law because the final change was absent from the consultation draft.
+
+## Rule 2(1)(wa): SGI narrows to realistic audio and visual media
+
+Collection: sgi. Comparison: Draft to final. Type: Scope change. Actor/class: Creators and platforms. Earlier context: Draft amendment 2(i).
+
+Status: Notified amendment; operative-date and court-status limits apply.
+
+### Textual observation
+
+The draft covered information generally; the final adds audio/visual forms and a real-person or event resemblance test. [Draft amendment 2(i)](https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf) [Final amendment 2(a)(i)-(ii); Gazette p. 9](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf)
+
+Earlier excerpt (CONSULTATION DRAFT, as extracted):
+
+> information which is artificially or algorithmically created, generated, modified or altered using a computer resource, in a manner that such information reasonably appears to be authentic or true
+
+Later excerpt (NOTIFIED AMENDMENT, as printed, as extracted):
+
+> audio, visual or audio-visual information which is artificially or algorithmically created, generated, modified or altered using a computer resource, in a manner that such information appears to be real, authentic or true and depicts or portrays any individual or event in a manner that is, or is likely to be perceived as indistinguishable from a natural person or real-world event
+
+### Analyst interpretation
+
+A headline about all AI-generated text being covered by this SGI definition would be overbroad. Other laws may still apply to text.
+
+### Limits and follow-up
+
+The final also inserts Rule 2(1)(ca) defining audio/visual information. Scope is not an exemption from other applicable law.
+
+Reporting question: Which content formats and transformations do platform policies classify as SGI?
+
+## Source provenance
+
+- [Synthetic-media consultation draft](https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf), Draft SGI amendments. Document date: 22 October 2025. Publication metadata: 22 October 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; b54dfd61df6a9c8c8e9f584eb437346a9237e293d342f78af44da79ca2507e36.
+- [Notified synthetic-media amendments](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf), G.S.R. 120(E). Document date: 10 February 2026. Publication metadata: 10 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; d31804a7666d165f44ed968fd5e4d10a816cc83602af63b1aa56a65b4a686e68.
+- [Synthetic-media English-text corrigenda](https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf), G.S.R. 148(E). Document date: 26 February 2026. Publication metadata: 26 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; a860908ed1cc7e95db871f483f2bb18de92f87bdf931a94d509537bdd286cb54.
+- [Prior consolidated IT Rules](https://www.meity.gov.in/static/uploads/2025/10/708f6a344c74249c2e1bbb6890342f80.pdf), Consolidated IT Rules. Document date: Updated 22 October 2025. Publication metadata: Updated 22 October 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 182a9b90e2a11fb06522e092e1b542a96f8a52f28f648bab7feb10c2eb3f952f.
+- [IT Rules incorporating the SGI corrigenda](https://www.meity.gov.in/static/uploads/2026/03/0b576f2071694b52e4cd6bb1b6dfab1e.pdf), Consolidated IT Rules. Document date: 26 February 2026 corrigenda. Publication metadata: 26 February 2026 corrigenda. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; b5198b72c51d9d2ae94d38cd8d6f0214241abcca3473228e1aedb6547e722705.
+- [MeitY synthetic-media FAQ](https://www.meity.gov.in/static/uploads/2025/10/065b6deb585441b5ccdf8be42502a49c.pdf), MeitY FAQ. Document date: 10 February 2026. Publication metadata: 10 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 9cce731de8e47b91348581f7d9c751f6fb6cc1d64f8d63a4e2c32b61e82e6011.
+
+
+---
+
+## Contribution 14: Routine editing is conditionally outside the SGI definition
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+Synthetic media: the [amendment](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf) states commencement on 20 February 2026; English citations were [corrected on 26 February](https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf). This is not exhaustive current court-status certification. Some comparisons use prior consolidated law because the final change was absent from the consultation draft.
+
+## Rule 2(1)(wa) proviso: Routine editing is conditionally outside the SGI definition
+
+Collection: sgi. Comparison: Draft to final. Type: Qualification. Actor/class: Journalists and researchers. Earlier context: Draft amendment 2(i); no exclusion limbs.
+
+Status: Notified amendment; operative-date and court-status limits apply.
+
+### Textual observation
+
+The final adds three exclusion limbs for good-faith editing, document preparation and limited accessibility/quality uses. [Draft amendment 2(i); no exclusion limbs](https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf) [Final amendment 2(a)(ii), proviso (a)-(c); Gazette p. 9](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf)
+
+Earlier excerpt (CONSULTATION DRAFT, as extracted):
+
+> information which is artificially or algorithmically created, generated, modified or altered using a computer resource, in a manner that such information reasonably appears to be authentic or true
+
+Later excerpt (NOTIFIED AMENDMENT, as printed, as extracted):
+
+> routine or good-faith editing, formatting, enhancement, technical correction, colour adjustment, noise reduction, transcription, or compression that does not materially alter, distort, or misrepresent the substance, context, or meaning of the underlying audio, visual or audio-visual information
+
+### Analyst interpretation
+
+Routine editing is treated differently from materially misleading alterations. Educational or research content is not unconditionally exempt.
+
+### Limits and follow-up
+
+Read all three limbs: material distortion, false records and material manipulation remain limiting conditions.
+
+Reporting question: Does an organisation document why a transformation qualifies for an exclusion?
+
+## Source provenance
+
+- [Synthetic-media consultation draft](https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf), Draft SGI amendments. Document date: 22 October 2025. Publication metadata: 22 October 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; b54dfd61df6a9c8c8e9f584eb437346a9237e293d342f78af44da79ca2507e36.
+- [Notified synthetic-media amendments](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf), G.S.R. 120(E). Document date: 10 February 2026. Publication metadata: 10 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; d31804a7666d165f44ed968fd5e4d10a816cc83602af63b1aa56a65b4a686e68.
+- [Synthetic-media English-text corrigenda](https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf), G.S.R. 148(E). Document date: 26 February 2026. Publication metadata: 26 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; a860908ed1cc7e95db871f483f2bb18de92f87bdf931a94d509537bdd286cb54.
+- [Prior consolidated IT Rules](https://www.meity.gov.in/static/uploads/2025/10/708f6a344c74249c2e1bbb6890342f80.pdf), Consolidated IT Rules. Document date: Updated 22 October 2025. Publication metadata: Updated 22 October 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 182a9b90e2a11fb06522e092e1b542a96f8a52f28f648bab7feb10c2eb3f952f.
+- [IT Rules incorporating the SGI corrigenda](https://www.meity.gov.in/static/uploads/2026/03/0b576f2071694b52e4cd6bb1b6dfab1e.pdf), Consolidated IT Rules. Document date: 26 February 2026 corrigenda. Publication metadata: 26 February 2026 corrigenda. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; b5198b72c51d9d2ae94d38cd8d6f0214241abcca3473228e1aedb6547e722705.
+- [MeitY synthetic-media FAQ](https://www.meity.gov.in/static/uploads/2025/10/065b6deb585441b5ccdf8be42502a49c.pdf), MeitY FAQ. Document date: 10 February 2026. Publication metadata: 10 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 9cce731de8e47b91348581f7d9c751f6fb6cc1d64f8d63a4e2c32b61e82e6011.
+
+
+---
+
+## Contribution 15: Quarterly notices and SGI-specific consequences
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+Synthetic media: the [amendment](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf) states commencement on 20 February 2026; English citations were [corrected on 26 February](https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf). This is not exhaustive current court-status certification. Some comparisons use prior consolidated law because the final change was absent from the consultation draft.
+
+## Rule 3(1)(c), (ca), (cb): Quarterly notices and SGI-specific consequences
+
+Collection: sgi. Comparison: Prior law to amended law. Type: Scope change. Actor/class: Intermediaries and users. Earlier context: Prior Rule 3(1)(c), updated 22 Oct 2025.
+
+Status: Notified amendment; operative-date and court-status limits apply.
+
+### Textual observation
+
+The final replaces annual reminders with at least quarterly notices and inserts SGI consequence and response clauses. [Prior Rule 3(1)(c), updated 22 Oct 2025](https://www.meity.gov.in/static/uploads/2025/10/708f6a344c74249c2e1bbb6890342f80.pdf) [Final amendment 3(a)(i); Gazette pp. 9-10](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf)
+
+Earlier excerpt (PRIOR CONSOLIDATED RULE, as extracted):
+
+> an intermediary shall periodically inform its users, at least once every year, that in case of non-compliance with rules and regulations, privacy policy or user agreement for access or usage of the computer resource of such intermediary, it has the right to terminate the access or usage rights of the users to the computer resource immediately or remove non-compliant information or both, as the case may be
+
+Later excerpt (NOTIFIED AMENDMENT, as printed, as extracted):
+
+> an intermediary shall periodically inform its users, at least once every three months, in a simple and effective manner through its rules and regulations, privacy policy, user agreement, or any other appropriate means, in English or any language specified in the Eighth Schedule to the Constitution,
+
+### Analyst interpretation
+
+Notifications now describe penalties, account action, evidence preservation, conditional identity disclosure and mandatory-reporting situations. Those are not automatic penalties in every case.
+
+### Limits and follow-up
+
+This is prior-law-to-amended-law context, not an October draft proposal. The two English criminal-law citations were later corrected; identity disclosure is expressly subject to applicable law.
+
+Reporting question: Can users understand the notices and challenge inaccurate classification or account action?
+
+Corrections relevant to this provision: SGI-CR-01, SGI-CR-02. Check the [official correcting instrument](https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf) and compare as-printed versus corrected text before quoting.
+
+## Source provenance
+
+- [Synthetic-media consultation draft](https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf), Draft SGI amendments. Document date: 22 October 2025. Publication metadata: 22 October 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; b54dfd61df6a9c8c8e9f584eb437346a9237e293d342f78af44da79ca2507e36.
+- [Notified synthetic-media amendments](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf), G.S.R. 120(E). Document date: 10 February 2026. Publication metadata: 10 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; d31804a7666d165f44ed968fd5e4d10a816cc83602af63b1aa56a65b4a686e68.
+- [Synthetic-media English-text corrigenda](https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf), G.S.R. 148(E). Document date: 26 February 2026. Publication metadata: 26 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; a860908ed1cc7e95db871f483f2bb18de92f87bdf931a94d509537bdd286cb54.
+- [Prior consolidated IT Rules](https://www.meity.gov.in/static/uploads/2025/10/708f6a344c74249c2e1bbb6890342f80.pdf), Consolidated IT Rules. Document date: Updated 22 October 2025. Publication metadata: Updated 22 October 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 182a9b90e2a11fb06522e092e1b542a96f8a52f28f648bab7feb10c2eb3f952f.
+- [IT Rules incorporating the SGI corrigenda](https://www.meity.gov.in/static/uploads/2026/03/0b576f2071694b52e4cd6bb1b6dfab1e.pdf), Consolidated IT Rules. Document date: 26 February 2026 corrigenda. Publication metadata: 26 February 2026 corrigenda. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; b5198b72c51d9d2ae94d38cd8d6f0214241abcca3473228e1aedb6547e722705.
+- [MeitY synthetic-media FAQ](https://www.meity.gov.in/static/uploads/2025/10/065b6deb585441b5ccdf8be42502a49c.pdf), MeitY FAQ. Document date: 10 February 2026. Publication metadata: 10 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 9cce731de8e47b91348581f7d9c751f6fb6cc1d64f8d63a4e2c32b61e82e6011.
+
+
+---
+
+## Contribution 16: Three-hour ordered takedowns are not a universal complaint clock
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+Synthetic media: the [amendment](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf) states commencement on 20 February 2026; English citations were [corrected on 26 February](https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf). This is not exhaustive current court-status certification. Some comparisons use prior consolidated law because the final change was absent from the consultation draft.
+
+## Rule 3(1)(d): Three-hour ordered takedowns are not a universal complaint clock
+
+Collection: sgi. Comparison: Prior law to amended law. Type: Timing. Actor/class: Intermediaries and public authorities. Earlier context: Prior Rule 3(1)(d), updated 22 Oct 2025.
+
+Status: Notified amendment; operative-date and court-status limits apply.
+
+### Textual observation
+
+The final shortens the actual-knowledge takedown clock and changes authorisation wording and the police rank threshold. [Prior Rule 3(1)(d), updated 22 Oct 2025](https://www.meity.gov.in/static/uploads/2025/10/708f6a344c74249c2e1bbb6890342f80.pdf) [Final amendment 3(a)(ii); Gazette p. 11](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf)
+
+Earlier excerpt (PRIOR CONSOLIDATED RULE, as extracted):
+
+> remove or disable access to such information within thirty-six hours of the receipt of such actual knowledge
+
+Later excerpt (NOTIFIED AMENDMENT, as printed, as extracted):
+
+> for the words “thirty-six hours”, the words “within three hours” shall be substituted
+
+### Analyst interpretation
+
+The three-hour change belongs to Rule 3(1)(d)'s actual-knowledge pathway. Ordinary user grievances have separate clocks.
+
+### Limits and follow-up
+
+The October draft did not propose this change. Read the underlying court/government actual-knowledge conditions; not every complaint starts this clock.
+
+Reporting question: How are authorised notices authenticated, logged and reviewed before accelerated removal?
+
+## Source provenance
+
+- [Synthetic-media consultation draft](https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf), Draft SGI amendments. Document date: 22 October 2025. Publication metadata: 22 October 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; b54dfd61df6a9c8c8e9f584eb437346a9237e293d342f78af44da79ca2507e36.
+- [Notified synthetic-media amendments](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf), G.S.R. 120(E). Document date: 10 February 2026. Publication metadata: 10 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; d31804a7666d165f44ed968fd5e4d10a816cc83602af63b1aa56a65b4a686e68.
+- [Synthetic-media English-text corrigenda](https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf), G.S.R. 148(E). Document date: 26 February 2026. Publication metadata: 26 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; a860908ed1cc7e95db871f483f2bb18de92f87bdf931a94d509537bdd286cb54.
+- [Prior consolidated IT Rules](https://www.meity.gov.in/static/uploads/2025/10/708f6a344c74249c2e1bbb6890342f80.pdf), Consolidated IT Rules. Document date: Updated 22 October 2025. Publication metadata: Updated 22 October 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 182a9b90e2a11fb06522e092e1b542a96f8a52f28f648bab7feb10c2eb3f952f.
+- [IT Rules incorporating the SGI corrigenda](https://www.meity.gov.in/static/uploads/2026/03/0b576f2071694b52e4cd6bb1b6dfab1e.pdf), Consolidated IT Rules. Document date: 26 February 2026 corrigenda. Publication metadata: 26 February 2026 corrigenda. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; b5198b72c51d9d2ae94d38cd8d6f0214241abcca3473228e1aedb6547e722705.
+- [MeitY synthetic-media FAQ](https://www.meity.gov.in/static/uploads/2025/10/065b6deb585441b5ccdf8be42502a49c.pdf), MeitY FAQ. Document date: 10 February 2026. Publication metadata: 10 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 9cce731de8e47b91348581f7d9c751f6fb6cc1d64f8d63a4e2c32b61e82e6011.
+
+
+---
+
+## Contribution 17: Three grievance clocks become shorter
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+Synthetic media: the [amendment](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf) states commencement on 20 February 2026; English citations were [corrected on 26 February](https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf). This is not exhaustive current court-status certification. Some comparisons use prior consolidated law because the final change was absent from the consultation draft.
+
+## Rule 3(2): Three grievance clocks become shorter
+
+Collection: sgi. Comparison: Prior law to amended law. Type: Timing. Actor/class: Complainants and grievance officers. Earlier context: Prior Rule 3(2), updated 22 Oct 2025.
+
+Status: Notified amendment; operative-date and court-status limits apply.
+
+### Textual observation
+
+General resolution becomes seven days, the specified removal-request category becomes 36 hours, and Rule 3(2)(b) becomes two hours. [Prior Rule 3(2), updated 22 Oct 2025](https://www.meity.gov.in/static/uploads/2025/10/708f6a344c74249c2e1bbb6890342f80.pdf) [Final amendment 3(b); Gazette p. 11](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf)
+
+Earlier excerpt (PRIOR CONSOLIDATED RULE, as extracted):
+
+> resolve such complaint within a period of fifteen days from the date of its receipt
+
+Later excerpt (NOTIFIED AMENDMENT, as printed, as extracted):
+
+> for the words “fifteen days”, the words “seven days” shall be substituted
+
+### Analyst interpretation
+
+The clocks refer to different triggers and classes of grievance. A single 'all deepfakes removed in two hours' statement loses these distinctions.
+
+### Limits and follow-up
+
+These substitutions were absent from the October draft. The two-hour category retains the underlying complaint-content requirements; acknowledgement remains a separate matter.
+
+Reporting question: Do complaint channels route intimate-image and impersonation requests to the correct workflow?
+
+## Source provenance
+
+- [Synthetic-media consultation draft](https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf), Draft SGI amendments. Document date: 22 October 2025. Publication metadata: 22 October 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; b54dfd61df6a9c8c8e9f584eb437346a9237e293d342f78af44da79ca2507e36.
+- [Notified synthetic-media amendments](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf), G.S.R. 120(E). Document date: 10 February 2026. Publication metadata: 10 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; d31804a7666d165f44ed968fd5e4d10a816cc83602af63b1aa56a65b4a686e68.
+- [Synthetic-media English-text corrigenda](https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf), G.S.R. 148(E). Document date: 26 February 2026. Publication metadata: 26 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; a860908ed1cc7e95db871f483f2bb18de92f87bdf931a94d509537bdd286cb54.
+- [Prior consolidated IT Rules](https://www.meity.gov.in/static/uploads/2025/10/708f6a344c74249c2e1bbb6890342f80.pdf), Consolidated IT Rules. Document date: Updated 22 October 2025. Publication metadata: Updated 22 October 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 182a9b90e2a11fb06522e092e1b542a96f8a52f28f648bab7feb10c2eb3f952f.
+- [IT Rules incorporating the SGI corrigenda](https://www.meity.gov.in/static/uploads/2026/03/0b576f2071694b52e4cd6bb1b6dfab1e.pdf), Consolidated IT Rules. Document date: 26 February 2026 corrigenda. Publication metadata: 26 February 2026 corrigenda. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; b5198b72c51d9d2ae94d38cd8d6f0214241abcca3473228e1aedb6547e722705.
+- [MeitY synthetic-media FAQ](https://www.meity.gov.in/static/uploads/2025/10/065b6deb585441b5ccdf8be42502a49c.pdf), MeitY FAQ. Document date: 10 February 2026. Publication metadata: 10 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 9cce731de8e47b91348581f7d9c751f6fb6cc1d64f8d63a4e2c32b61e82e6011.
+
+
+---
+
+## Contribution 18: Prevention duties extend beyond a labelling-only draft
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+Synthetic media: the [amendment](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf) states commencement on 20 February 2026; English citations were [corrected on 26 February](https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf). This is not exhaustive current court-status certification. Some comparisons use prior consolidated law because the final change was absent from the consultation draft.
+
+## Rule 3(3)(a)(i): Prevention duties extend beyond a labelling-only draft
+
+Collection: sgi. Comparison: Draft to final. Type: Scope change. Actor/class: SGI-enabling intermediaries. Earlier context: Draft amendment 4, Rule 3(3).
+
+Status: Notified amendment; operative-date and court-status limits apply.
+
+### Textual observation
+
+The final extends covered activities through publication and sharing, and adds technical prevention duties for unlawful SGI. [Draft amendment 4, Rule 3(3)](https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf) [Final amendment 3(c), Rule 3(3)(a)(i); Gazette p. 11](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf)
+
+Earlier excerpt (CONSULTATION DRAFT, as extracted):
+
+> Where an intermediary offers a computer resource which may enable, permit, or facilitate the creation, generation, modification or alteration of information as synthetically generated information,
+
+Later excerpt (NOTIFIED AMENDMENT, as printed, as extracted):
+
+> it deploys reasonable and appropriate technical measures, including automated tools or other suitable mechanisms, to not allow any user to create, generate, modify, alter, publish, transmit, share, or disseminate, as the case may be, any such synthetically generated information that violates any law for the time being in force, including the Act, Bharatiya Nyaya Sanhita, 2023 (45 of 2023), Protection of Children from Sexual Offences Act, 2012 (32 of 2012), Explosive Substances Act, 1908 (6 of 1908),
+
+### Analyst interpretation
+
+The instrument now separates unlawful SGI prevention from labelling other covered SGI. This can affect distribution services, not only generation tools.
+
+### Limits and follow-up
+
+The duties are tied to the final definition and applicable-law context. This desk does not decide whether a particular tool is an intermediary or a particular item is unlawful.
+
+Reporting question: What evidence demonstrates the measures' precision, false positives and appeal safeguards?
+
+## Source provenance
+
+- [Synthetic-media consultation draft](https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf), Draft SGI amendments. Document date: 22 October 2025. Publication metadata: 22 October 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; b54dfd61df6a9c8c8e9f584eb437346a9237e293d342f78af44da79ca2507e36.
+- [Notified synthetic-media amendments](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf), G.S.R. 120(E). Document date: 10 February 2026. Publication metadata: 10 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; d31804a7666d165f44ed968fd5e4d10a816cc83602af63b1aa56a65b4a686e68.
+- [Synthetic-media English-text corrigenda](https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf), G.S.R. 148(E). Document date: 26 February 2026. Publication metadata: 26 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; a860908ed1cc7e95db871f483f2bb18de92f87bdf931a94d509537bdd286cb54.
+- [Prior consolidated IT Rules](https://www.meity.gov.in/static/uploads/2025/10/708f6a344c74249c2e1bbb6890342f80.pdf), Consolidated IT Rules. Document date: Updated 22 October 2025. Publication metadata: Updated 22 October 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 182a9b90e2a11fb06522e092e1b542a96f8a52f28f648bab7feb10c2eb3f952f.
+- [IT Rules incorporating the SGI corrigenda](https://www.meity.gov.in/static/uploads/2026/03/0b576f2071694b52e4cd6bb1b6dfab1e.pdf), Consolidated IT Rules. Document date: 26 February 2026 corrigenda. Publication metadata: 26 February 2026 corrigenda. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; b5198b72c51d9d2ae94d38cd8d6f0214241abcca3473228e1aedb6547e722705.
+- [MeitY synthetic-media FAQ](https://www.meity.gov.in/static/uploads/2025/10/065b6deb585441b5ccdf8be42502a49c.pdf), MeitY FAQ. Document date: 10 February 2026. Publication metadata: 10 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 9cce731de8e47b91348581f7d9c751f6fb6cc1d64f8d63a4e2c32b61e82e6011.
+
+
+---
+
+## Contribution 19: The fixed ten-percent label is replaced
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+Synthetic media: the [amendment](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf) states commencement on 20 February 2026; English citations were [corrected on 26 February](https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf). This is not exhaustive current court-status certification. Some comparisons use prior consolidated law because the final change was absent from the consultation draft.
+
+## Rule 3(3)(a)(ii): The fixed ten-percent label is replaced
+
+Collection: sgi. Comparison: Draft to final. Type: Qualification. Actor/class: Platforms and publishers. Earlier context: Draft amendment 4, Rule 3(3)(a).
+
+Status: Notified amendment; operative-date and court-status limits apply.
+
+### Textual observation
+
+The final removes the draft's ten-percent visual/audio formula in favour of prominent visibility or prefixed audio disclosure. [Draft amendment 4, Rule 3(3)(a)](https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf) [Final amendment 3(c), Rule 3(3)(a)(ii); Gazette p. 11](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf)
+
+Earlier excerpt (CONSULTATION DRAFT, as extracted):
+
+> covering at least ten percent of the surface area of the visual display or, in the case of audio content, during the initial ten percent of its duration
+
+Later excerpt (NOTIFIED AMENDMENT, as printed, as extracted):
+
+> every such information not covered under sub-clause (i) of clause (a) is prominently labelled in a manner that ensures prominent visibility in the visual display that is easily noticeable and adequately perceivable, or, in the case of audio content, through a prominently prefixed audio disclosure, that can be used to immediately identify that such information is synthetically generated information which has been created, generated, modified or altered using a computer resource
+
+### Analyst interpretation
+
+Dropping the numeric formula does not drop the labelling duty. The revised standard leaves practical design and accessibility questions.
+
+### Limits and follow-up
+
+This obligation applies through the defined SGI and covered-service conditions, not every edited asset.
+
+Reporting question: Are labels readily noticeable across cropping, mobile display and audio-only playback?
+
+## Source provenance
+
+- [Synthetic-media consultation draft](https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf), Draft SGI amendments. Document date: 22 October 2025. Publication metadata: 22 October 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; b54dfd61df6a9c8c8e9f584eb437346a9237e293d342f78af44da79ca2507e36.
+- [Notified synthetic-media amendments](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf), G.S.R. 120(E). Document date: 10 February 2026. Publication metadata: 10 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; d31804a7666d165f44ed968fd5e4d10a816cc83602af63b1aa56a65b4a686e68.
+- [Synthetic-media English-text corrigenda](https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf), G.S.R. 148(E). Document date: 26 February 2026. Publication metadata: 26 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; a860908ed1cc7e95db871f483f2bb18de92f87bdf931a94d509537bdd286cb54.
+- [Prior consolidated IT Rules](https://www.meity.gov.in/static/uploads/2025/10/708f6a344c74249c2e1bbb6890342f80.pdf), Consolidated IT Rules. Document date: Updated 22 October 2025. Publication metadata: Updated 22 October 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 182a9b90e2a11fb06522e092e1b542a96f8a52f28f648bab7feb10c2eb3f952f.
+- [IT Rules incorporating the SGI corrigenda](https://www.meity.gov.in/static/uploads/2026/03/0b576f2071694b52e4cd6bb1b6dfab1e.pdf), Consolidated IT Rules. Document date: 26 February 2026 corrigenda. Publication metadata: 26 February 2026 corrigenda. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; b5198b72c51d9d2ae94d38cd8d6f0214241abcca3473228e1aedb6547e722705.
+- [MeitY synthetic-media FAQ](https://www.meity.gov.in/static/uploads/2025/10/065b6deb585441b5ccdf8be42502a49c.pdf), MeitY FAQ. Document date: 10 February 2026. Publication metadata: 10 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 9cce731de8e47b91348581f7d9c751f6fb6cc1d64f8d63a4e2c32b61e82e6011.
+
+
+---
+
+## Contribution 20: Visible labels and feasible provenance are distinct
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+Synthetic media: the [amendment](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf) states commencement on 20 February 2026; English citations were [corrected on 26 February](https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf). This is not exhaustive current court-status certification. Some comparisons use prior consolidated law because the final change was absent from the consultation draft.
+
+## Rule 3(3)(a)(ii), (b): Visible labels and feasible provenance are distinct
+
+Collection: sgi. Comparison: Draft to final. Type: Qualification. Actor/class: Platforms and provenance providers. Earlier context: Draft amendment 4, Rule 3(3)(a)-(b).
+
+Status: Notified amendment; operative-date and court-status limits apply.
+
+### Textual observation
+
+The final uses a visible/audible label plus provenance metadata or another appropriate mechanism, to the extent technically feasible. [Draft amendment 4, Rule 3(3)(a)-(b)](https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf) [Final amendment 3(c); Gazette pp. 11-12](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf)
+
+Earlier excerpt (CONSULTATION DRAFT, as extracted):
+
+> labelled or embedded with a permanent unique metadata or identifier
+
+Later excerpt (NOTIFIED AMENDMENT, as printed, as extracted):
+
+> such information shall be embedded with a permanent metadata or other appropriate technical provenance mechanisms, to the extent technically feasible, including a unique identifier, to identify the computer resource of the intermediary used to create, generate, modify or alter such information; 12 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)]
+
+### Analyst interpretation
+
+The draft's 'or' formulation changes to distinct labelling and provenance requirements. Technical feasibility qualifies provenance, not an unrestricted permission to hide the label.
+
+### Limits and follow-up
+
+The no-removal limb is retained in revised wording. Metadata does not by itself prove that a depicted event is true.
+
+Reporting question: What provenance survives export, reposting and screenshotting, and what is the disclosed feasibility limit?
+
+## Source provenance
+
+- [Synthetic-media consultation draft](https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf), Draft SGI amendments. Document date: 22 October 2025. Publication metadata: 22 October 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; b54dfd61df6a9c8c8e9f584eb437346a9237e293d342f78af44da79ca2507e36.
+- [Notified synthetic-media amendments](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf), G.S.R. 120(E). Document date: 10 February 2026. Publication metadata: 10 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; d31804a7666d165f44ed968fd5e4d10a816cc83602af63b1aa56a65b4a686e68.
+- [Synthetic-media English-text corrigenda](https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf), G.S.R. 148(E). Document date: 26 February 2026. Publication metadata: 26 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; a860908ed1cc7e95db871f483f2bb18de92f87bdf931a94d509537bdd286cb54.
+- [Prior consolidated IT Rules](https://www.meity.gov.in/static/uploads/2025/10/708f6a344c74249c2e1bbb6890342f80.pdf), Consolidated IT Rules. Document date: Updated 22 October 2025. Publication metadata: Updated 22 October 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 182a9b90e2a11fb06522e092e1b542a96f8a52f28f648bab7feb10c2eb3f952f.
+- [IT Rules incorporating the SGI corrigenda](https://www.meity.gov.in/static/uploads/2026/03/0b576f2071694b52e4cd6bb1b6dfab1e.pdf), Consolidated IT Rules. Document date: 26 February 2026 corrigenda. Publication metadata: 26 February 2026 corrigenda. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; b5198b72c51d9d2ae94d38cd8d6f0214241abcca3473228e1aedb6547e722705.
+- [MeitY synthetic-media FAQ](https://www.meity.gov.in/static/uploads/2025/10/065b6deb585441b5ccdf8be42502a49c.pdf), MeitY FAQ. Document date: 10 February 2026. Publication metadata: 10 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 9cce731de8e47b91348581f7d9c751f6fb6cc1d64f8d63a4e2c32b61e82e6011.
+
+
+---
+
+## Contribution 21: Upload declarations survive with revised verification wording
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+Synthetic media: the [amendment](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf) states commencement on 20 February 2026; English citations were [corrected on 26 February](https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf). This is not exhaustive current court-status certification. Some comparisons use prior consolidated law because the final change was absent from the consultation draft.
+
+## Rule 4(1A): Upload declarations survive with revised verification wording
+
+Collection: sgi. Comparison: Draft to final. Type: Qualification. Actor/class: Significant social media intermediaries. Earlier context: Draft amendment 5, Rule 4(1A).
+
+Status: Notified amendment; operative-date and court-status limits apply.
+
+### Textual observation
+
+Declaration, technical verification and prominent notice remain; the operative verification phrase is revised. [Draft amendment 5, Rule 4(1A)](https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf) [Final amendment 4(a); Gazette p. 12](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf)
+
+Earlier excerpt (CONSULTATION DRAFT, as extracted):
+
+> deploy reasonable and appropriate technical measures, including automated tools or other suitable mechanisms
+
+Later excerpt (NOTIFIED AMENDMENT, as printed, as extracted):
+
+> deploy appropriate technical measures, including automated tools or other suitable mechanisms
+
+### Analyst interpretation
+
+This is not removal of the declaration workflow. The explanation still requires reasonable and proportionate verification measures.
+
+### Limits and follow-up
+
+The difference between the operative clause and retained explanation must be read together. Not every intermediary is an SSMI.
+
+Reporting question: How do platforms deal with inaccurate declarations and uncertain detector results?
+
+## Source provenance
+
+- [Synthetic-media consultation draft](https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf), Draft SGI amendments. Document date: 22 October 2025. Publication metadata: 22 October 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; b54dfd61df6a9c8c8e9f584eb437346a9237e293d342f78af44da79ca2507e36.
+- [Notified synthetic-media amendments](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf), G.S.R. 120(E). Document date: 10 February 2026. Publication metadata: 10 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; d31804a7666d165f44ed968fd5e4d10a816cc83602af63b1aa56a65b4a686e68.
+- [Synthetic-media English-text corrigenda](https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf), G.S.R. 148(E). Document date: 26 February 2026. Publication metadata: 26 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; a860908ed1cc7e95db871f483f2bb18de92f87bdf931a94d509537bdd286cb54.
+- [Prior consolidated IT Rules](https://www.meity.gov.in/static/uploads/2025/10/708f6a344c74249c2e1bbb6890342f80.pdf), Consolidated IT Rules. Document date: Updated 22 October 2025. Publication metadata: Updated 22 October 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 182a9b90e2a11fb06522e092e1b542a96f8a52f28f648bab7feb10c2eb3f952f.
+- [IT Rules incorporating the SGI corrigenda](https://www.meity.gov.in/static/uploads/2026/03/0b576f2071694b52e4cd6bb1b6dfab1e.pdf), Consolidated IT Rules. Document date: 26 February 2026 corrigenda. Publication metadata: 26 February 2026 corrigenda. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; b5198b72c51d9d2ae94d38cd8d6f0214241abcca3473228e1aedb6547e722705.
+- [MeitY synthetic-media FAQ](https://www.meity.gov.in/static/uploads/2025/10/065b6deb585441b5ccdf8be42502a49c.pdf), MeitY FAQ. Document date: 10 February 2026. Publication metadata: 10 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 9cce731de8e47b91348581f7d9c751f6fb6cc1d64f8d63a4e2c32b61e82e6011.
+
+
+---
+
+## Contribution 22: Proactive identification changes from endeavour to deploy
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+Synthetic media: the [amendment](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf) states commencement on 20 February 2026; English citations were [corrected on 26 February](https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf). This is not exhaustive current court-status certification. Some comparisons use prior consolidated law because the final change was absent from the consultation draft.
+
+## Rule 4(4): Proactive identification changes from endeavour to deploy
+
+Collection: sgi. Comparison: Prior law to amended law. Type: Scope change. Actor/class: Significant social media intermediaries. Earlier context: Prior Rule 4(4), updated 22 Oct 2025.
+
+Status: Notified amendment; operative-date and court-status limits apply.
+
+### Textual observation
+
+A pre-existing proactive-identification clause shifts from 'endeavour to deploy' to 'deploy'. [Prior Rule 4(4), updated 22 Oct 2025](https://www.meity.gov.in/static/uploads/2025/10/708f6a344c74249c2e1bbb6890342f80.pdf) [Final amendment 4(b); Gazette p. 12](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf)
+
+Earlier excerpt (PRIOR CONSOLIDATED RULE, as extracted):
+
+> endeavour to deploy technology-based measures, including automated tools or other mechanisms
+
+Later excerpt (NOTIFIED AMENDMENT, as printed, as extracted):
+
+> deploy appropriate technical measures, including automated tools or other suitable mechanisms
+
+### Analyst interpretation
+
+The final strengthens the operative wording for the existing categories, rather than introducing unlimited monitoring of every content type.
+
+### Limits and follow-up
+
+Read the unchanged Rule 4(4) category limits and safeguards in the consolidated rules. This was not an October SGI draft amendment.
+
+Reporting question: Are proportionality, privacy and human-oversight safeguards applied alongside the technical deployment?
+
+## Source provenance
+
+- [Synthetic-media consultation draft](https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf), Draft SGI amendments. Document date: 22 October 2025. Publication metadata: 22 October 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; b54dfd61df6a9c8c8e9f584eb437346a9237e293d342f78af44da79ca2507e36.
+- [Notified synthetic-media amendments](https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf), G.S.R. 120(E). Document date: 10 February 2026. Publication metadata: 10 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; d31804a7666d165f44ed968fd5e4d10a816cc83602af63b1aa56a65b4a686e68.
+- [Synthetic-media English-text corrigenda](https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf), G.S.R. 148(E). Document date: 26 February 2026. Publication metadata: 26 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; a860908ed1cc7e95db871f483f2bb18de92f87bdf931a94d509537bdd286cb54.
+- [Prior consolidated IT Rules](https://www.meity.gov.in/static/uploads/2025/10/708f6a344c74249c2e1bbb6890342f80.pdf), Consolidated IT Rules. Document date: Updated 22 October 2025. Publication metadata: Updated 22 October 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 182a9b90e2a11fb06522e092e1b542a96f8a52f28f648bab7feb10c2eb3f952f.
+- [IT Rules incorporating the SGI corrigenda](https://www.meity.gov.in/static/uploads/2026/03/0b576f2071694b52e4cd6bb1b6dfab1e.pdf), Consolidated IT Rules. Document date: 26 February 2026 corrigenda. Publication metadata: 26 February 2026 corrigenda. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; b5198b72c51d9d2ae94d38cd8d6f0214241abcca3473228e1aedb6547e722705.
+- [MeitY synthetic-media FAQ](https://www.meity.gov.in/static/uploads/2025/10/065b6deb585441b5ccdf8be42502a49c.pdf), MeitY FAQ. Document date: 10 February 2026. Publication metadata: 10 February 2026. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 9cce731de8e47b91348581f7d9c751f6fb6cc1d64f8d63a4e2c32b61e82e6011.
+
+
+---
+
+## Contribution 23: Seven principles are reframed as seven sutras
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+AI governance: recommendation lineage, not a one-to-one legal redline. The published guidelines do not themselves enact every recommended mandate, deadline or institution. Later implementation must be separately verified.
+
+## Part 1: Seven principles are reframed as seven sutras
+
+Collection: aig. Comparison: Recommendation lineage. Type: Scope change. Actor/class: AI developers, regulators and public institutions. Earlier context: Consultation report II.A; printed pp. 3-4.
+
+Status: Recommendations; not a new standalone legal mandate.
+
+### Textual observation
+
+The earlier seven-principle list is reorganised into seven sutras, including explicit innovation-over-restraint framing. [Consultation report II.A; printed pp. 3-4](https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf) [Part 1; printed pp. 12-13](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf)
+
+Earlier excerpt (CONSULTATION REPORT, as extracted):
+
+> Transparency: AI systems should be accompanied with meaningful information on their development, processes, capabilities & limitations, and should be interpretable and explainable, as appropriate6. Users should know when they are dealing with AI.
+
+Later excerpt (PUBLISHED GUIDELINES, as printed, as extracted):
+
+> All other things being equal, responsible innovation should be prioritised over cautionary restraint. India AI Governance Guidelines 06 Part 2 – Key Recommendations: This section examines key issues in AI governance from India’s perspective & makes recommendations across six pillars: 01 Infrastructure Enable innovation and adoption of AI by expanding access to foundational resources such as data and compute, attract investments, and leverage the power of digital public infrastructure for scale, impact and, inclusion. 03 Policy & Regulation Adopt balanced, agile, and flexible frameworks that support innovation and mitigate the risks of AI. Review current laws, identify regulatory gaps in relation to AI systems, and address them with targeted amendments. 05 Accountability Adopt a graded liability system based on the function performed, level of risk, and whether due diligence was observed. Applicable laws should be enforced, while guidelines can assist organisations in meeting their obligations Greater transparency is required about how different actors in the AI value chain operate and their compliance with legal obligations. 06 Institutions Adopt a whole of government approach where ministries, sectoral regulators, and other public bodies work together to develop and implement AI governance frameworks. An AI Governance Group (AIGG) should be set up, to be supported by a Technology & Policy Expert Committee (TPEC). The AI Safety Institute (AISI) should be resourced to provide technical expertise on trust and safety issues, while sector regulators continue to exercise enforcement powers. 04 Risk Mitigation Develop an India-specific risk assessment framework that reflects real-world evidence of harm. Encourage compliance through voluntary measures supported by techno-legal solutions as appropriate. Additional obligations for risk mitigation may apply in specific contexts, for e.g. in relation to sensitive applications or to protect vulnerable groups 02 Capacity Building Initiate education, skilling, and training programs to empower people, build trust, and increase awareness about the risks and opportunities of AI. India AI Governance Guidelines 07 Part 3 - Action Plan The Action Plan identifies outcomes mapped to short, medium, and long-term timelines. Timeframe Short-term Key Priorities Establish key governance institutions Develop India-specific risk frameworks Adopt voluntary commitments Suggest legal amendments Develop clear liability regimes Expand access to infrastructure Launch awareness programmes Increase access to AI safety tools Medium-term Long-term Publish common standards Amend laws and regulations Operationalise AI incidents systems Pilot regulatory sandboxes Expand integration of DPI with AI Continue ongoing engagements (capacity building, standard setting, access and adoption, etc.) Review and update governance frameworks to ensure sustainability of the digital ecosystem. Draft new laws based on emerging risks and capabilities High-level body (AI Governance Group) Government agencies (MeitY, MHA, MEA, DoT, etc.) Sectoral regulators (RBI, SEBI, TRAI, CCI, etc.) Advisory bodies (NITI Aayog, Office of PSA, etc.) Standards bodies (BIS, TEC, etc.) An institutional framework to implement the AI governance guidelines has also been suggested. It maps key agencies to their expected role and functions and includes: India AI Governance Guidelines 08 Part 4 – Practical Guidelines This section provides practical guidance for industry actors and regulators to increase clarity, predictability, and accountability in the ecosystem. For industry: ensure compliance with all Indian laws; adopt voluntary frameworks; publish transparency reports; provide grievance redressal mechanisms; mitigate risks with techno-legal solutions. For regulators: support innovation while mitigating real harms; avoid compliance-heavy regimes; promote techno-legal approaches; ensure frameworks are flexible and subject to periodic review. Together, these guidelines create a balanced, agile, flexible, pro-innovation, and future-ready governance framework, enabling India to unlock AI’s benefits for growth, inclusion, and competitiveness, while safeguarding against risks to individuals and society. India AI Governance Guidelines 09 Overview of India’s AI Governance Framework Below are ten points that summarise India’s overall approach to AI governance: The goal is to encourage innovation and adoption, while protecting individuals and society from the risk of harm caused by the development or use of AI. An effective governance framework is one which balances these twin objectives. India’s approach in general is to govern the applications of AI by empowering the relevant sectoral regulators, and not to regulate the underlying technology itself. A balanced, agile, flexible, and pro-innovation approach to AI governance is best suited to India’s goals. The primary goal at this stage is to leverage AI for economic growth, inclusive development, resilience and global competitiveness. Given India’s talent advantage, the wide adoption of AI across sectors can result in productivity gains, which can drive economic growth and create jobs. Further, AI-based applications, with multilingual and voice-based support, are being deployed in agriculture, healthcare, education, disaster management, law, and finance are enabling digital inclusion and creating real positive impact. A balanced framework would help maximise these benefits, while retaining the regulatory agility and flexibility to intervene and mitigate risks as and when they emerge. Governance frameworks should boost awareness, infrastructure, investments and overall domestic capacity. Key sectors such as pharmaceuticals, telecommunications, manufacturing, media and social sectors hold significant potential for AI adoption, but to realize this potential requires a governance framework to enhance awareness, infrastructure, and investments. Initiatives like IndiaAI Mission are steps toward fostering AI adoption. Expanding domestic capacity while accelerating responsible adoption across sectors is critical to advancing India’s goals of inclusive growth and global competitiveness. Mitigating the risks of AI to individuals and society is a key pillar of the governance framework. In general, the risks of AI include malicious use (e.g. misrepresentation through deepfakes), algorithmic discrimination, lack of transparency, systemic risks and threats to national security. These risks are either created or exacerbated by AI. An India-specific risk assessment framework, based on empirical evidence of harm, is critical. Further, industry-led compliance efforts and a combination of different accountability models are useful to mitigate harm. India AI Governance Guidelines 10 Existing regulations can be applied to address many of the risks. Existing laws (for e.g. on information technology, data protection, consumer protection and statutory civil and criminal codes, etc.), can be used to govern AI applications. Therefore, at this stage, a separate law to regulate AI is not needed given the current assessment of risks. However, timely and consistent enforcement of applicable laws is required to build trust and mitigate harm. Legal amendments may be considered to encourage innovation and address gaps. Existing laws on copyright may need to be amended, for example, to enable the large-scale training of AI models, while ensuring adequate protections for copyright holders and data principals. Rules for how digital platforms are classified should also be updated to better describe the unique functions, obligations, and liability regime applicable to different actors in the AI value chain. Similarly, if existing regulations are unable to tackle the emerging risks to individuals, then additional rights or obligations may be introduced. For example, data portability rights could be adopted to give individuals more control over their data. Techno-legal approaches can be applied to support specific policy objectives. Techno-legal solutions can be effective tools of governance. They can be used to give effect to established policy through verifiable methods. While traditional approaches to governance have focused primarily on regulatory instruments, effective AI governance could benefit from technology-enabled solutions in areas such as content authentication, privacy preservation, and bias mitigation. Transparency about the AI value chain can promote accountability. The AI value chain comprises various actors (developers, deployers and users), operating at different layers of the technology stack (data center, models, applications), performing dynamic functions (training, customisation, distribution, etc.) through complex inter-personal relationships. Many aspects of these technical and organisational relationships are dynamic and not fully understood by regulators . Greater transparency about the technical and organisational aspects of AI development and deployment will help regulators design governance mechanisms that are targeted, proportionate and effective. Voluntary measures can help mitigate emerging risks. Voluntary frameworks, if proactively adopted in the form of principles, commitments, or standards, can help build trust. The goal of this approach is to enhance trust and safety without introducing burdensome regulations during the nascent stage of ecosystem development. As the industry matures, some baseline measures may be converted into mandatory requirements, which will be enforced by sectoral regulators. India AI Governance Guidelines 11 A ‘whole of government’ approach is required to coordinate policy actions and prepare for future AI development. Given the cross-sectoral nature of AI, the constraints on regulatory capacity , and the absence of a nodal regulator for emerging technologies, India’s AI governance framework would benefit from a coordinated institutional effort, wherein key agencies, sectoral regulators, and standard setting bodies are involved in the formulation and implementation of policy frameworks to give effect to the objectives of such AI governance frameworks. India AI Governance Guidelines 12 Part 1: Key Principles The Committee recommends that India’s AI governance framework be guided by certain principles or ‘sutras’, applicable across sectors and technologies. A useful set of principles in this regard has been published by a committee set up by the Reserve Bank of India (RBI) in August 2025. The committee to develop a Framework for Responsible and Ethical Enablement of Artificial Intelligence (“FREE-AI Committee”) recommends seven principles or sutras to guide AI development and risk mitigation in the financial sector. These principles have been suitably adapted below to ensure they have cross-sectoral applicability, are technology-neutral, and align with this Committee’s recommendations. 01 02 Trust is essential to support innovation, adoption, and progress, as well as risk mitigation. Without trust, the benefits of artificial intelligence will not be realised at scale. Trust must be embedded across the value chain – i.e. in the underlying technology, the organisations building these tools, the institutions responsible for supervision, and the trust that individuals will use these tools responsibly. Therefore, trust is the foundational principle that guides all AI development and deployment in India. AI governance frameworks should be human-centric. That means AI systems should be designed and deployed in ways that empower individuals and reflect the value systems of the people for whom the technology is built to serve. From a governance perspective, a people-first approach means that humans should, as far as possible, have final control over AI systems, and human oversight is essential to maintain accountability. A people-first approach also prioritises human capacity development, ethical safeguards, trust and safety. Trust is the Foundation People First India AI Governance Guidelines 13 04 A key goal of India’s approach to AI governance is to promote inclusive development. Therefore, AI systems should be designed and tested to ensure that outcomes are fair, unbiased, and do not discriminate against anyone, including those from marginalised communities. AI should be leveraged to promote inclusive development while mitigating risks of exclusion, bias, and discrimination. 05 03 To ensure that India AI’s ecosystem progresses based on trust, AI developers and deployers should remain visible and accountable. Accountability should be clearly assigned based on the function performed, risk of harm, and due diligence conditions imposed. Accountability may be ensured through a variety of policy, technical and market-led mechanisms. 06 Understandability is fundamental to building trust and should be a core design feature, not an afterthought. Though AI systems are probabilistic, they must have clear explanations and disclosures to help users and regulators understand how the system works, what it means for the user, and the likely outcomes intended by the entities deploying them, to the extent technically feasible. 07 AI systems should be designed with safeguards to minimise risks of harm and should be robust and resilient. These systems should have capabilities to detect anomalies and provide early warnings to limit harmful outcomes. AI development efforts should be environmentally responsible and resource-efficient, and the adoption of smaller, resource-efficient ‘lightweight’ models should be encouraged. AI-led innovation is a pathway to achieving national goals, such as socio-economic development, global competitiveness, and resilience. Therefore, AI governance frameworks should actively encourage adoption and serve as a catalyst for impactful innovation. That said, innovation should be carried out responsibly and should aim to maximise overall benefit while reducing potential harm. All other things being equal, responsible innovation should be prioritised over cautionary restraint.
+
+### Analyst interpretation
+
+The new framing is a policy priority, not permission to disregard binding privacy, equality or safety law.
+
+### Limits and follow-up
+
+Recommendation lineage, not a one-to-one legal deletion/insertion. A principle disappearing as a standalone heading does not establish that its substance or legal protection was abolished.
+
+Reporting question: How do procurement and deployment decisions justify the balance between innovation and harm mitigation?
+
+## Source provenance
+
+- [AI Governance Guidelines Development report](https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf), Subcommittee report. Document date: Public consultation: 6 January 2025. Publication metadata: Public consultation: 6 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; a1f117015bd368b688690317f312d4bda110d3f3e42aa904ea487a383b43d347.
+- [India AI Governance Guidelines](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf), IndiaAI framework. Document date: Released 5 November 2025. Publication metadata: Released 5 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 628806e4e519e7d832f270bec2d6ab858aaa3252c6d48dcf8941df01fe82acf4.
+- [Official AI guidelines launch record](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2186639&reg=3&lang=2), PIB release. Document date: 5 November 2025. Publication metadata: 5 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 51c02d35ced11436f674d190d3d32be659354249dcd50cbda1d7a279ce39f276.
+
+
+---
+
+## Contribution 24: A proposed Digital India Act path becomes targeted legal review
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+AI governance: recommendation lineage, not a one-to-one legal redline. The published guidelines do not themselves enact every recommended mandate, deadline or institution. Later implementation must be separately verified.
+
+## Part 2.3: A proposed Digital India Act path becomes targeted legal review
+
+Collection: aig. Comparison: Recommendation lineage. Type: Scope change. Actor/class: AI developers, regulators and public institutions. Earlier context: Consultation recommendation 6; printed p. 19.
+
+Status: Recommendations; not a new standalone legal mandate.
+
+### Textual observation
+
+The final broadens the legal-review approach across existing statutes, classification, liability, copyright, authentication and sectoral gaps. [Consultation recommendation 6; printed p. 19](https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf) [Part 2.3; printed pp. 18-24](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf)
+
+Earlier excerpt (CONSULTATION REPORT, as extracted):
+
+> Form a sub-group to work with MEITY to suggest specific measures that may be considered under the proposed legislation like Digital India Act (DIA) to strengthen and harmonise the legal framework, regulatory and technical capacity and the adjudicatory set-up for the digital industries to ensure effective grievance redressal and ease of doing business.
+
+Later excerpt (PUBLISHED GUIDELINES, as printed, as extracted):
+
+> The Committee’s current assessment is that many of the risks emerging from AI can be addressed through existing laws.
+
+### Analyst interpretation
+
+The guidelines do not themselves enact a standalone AI law, grant a copyright licence or settle intermediary liability.
+
+### Limits and follow-up
+
+Recommendation lineage, not a one-to-one legal deletion/insertion. The November document's DPDP discussion predates the final DPDP Rules. Copyright and other later policy developments require separate current-law checks.
+
+Reporting question: Which recommended amendments have been separately issued, and which remain proposals?
+
+## Source provenance
+
+- [AI Governance Guidelines Development report](https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf), Subcommittee report. Document date: Public consultation: 6 January 2025. Publication metadata: Public consultation: 6 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; a1f117015bd368b688690317f312d4bda110d3f3e42aa904ea487a383b43d347.
+- [India AI Governance Guidelines](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf), IndiaAI framework. Document date: Released 5 November 2025. Publication metadata: Released 5 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 628806e4e519e7d832f270bec2d6ab858aaa3252c6d48dcf8941df01fe82acf4.
+- [Official AI guidelines launch record](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2186639&reg=3&lang=2), PIB release. Document date: 5 November 2025. Publication metadata: 5 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 51c02d35ced11436f674d190d3d32be659354249dcd50cbda1d7a279ce39f276.
+
+
+---
+
+## Contribution 25: Context-sensitive risk analysis becomes an explicit India framework
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+AI governance: recommendation lineage, not a one-to-one legal redline. The published guidelines do not themselves enact every recommended mandate, deadline or institution. Later implementation must be separately verified.
+
+## Part 2.4: Context-sensitive risk analysis becomes an explicit India framework
+
+Collection: aig. Comparison: Recommendation lineage. Type: Scope change. Actor/class: AI developers, regulators and public institutions. Earlier context: Consultation report III.B; printed pp. 11-12.
+
+Status: Recommendations; not a new standalone legal mandate.
+
+### Textual observation
+
+The final sets out risk categories, vulnerable-group concerns and a locally adapted classification framework. [Consultation report III.B; printed pp. 11-12](https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf) [Part 2.4; printed pp. 25-30](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf)
+
+Earlier excerpt (CONSULTATION REPORT, as extracted):
+
+> The risks posed by a system depends not just on their capability, but on the context of deployment as well. The categorisations of systems purely based on computational capacity or data parameters may not be effective.
+
+Later excerpt (PUBLISHED GUIDELINES, as printed, as extracted):
+
+> the Committee recommends that a suitable risk assessment and classification framework be developed for India that accounts for its unique social, economic, and cultural context, on the basis of which appropriate risk mitigation measures can be deployed.
+
+### Analyst interpretation
+
+The recommended response is based on context and harm evidence, not merely model size or computational capacity.
+
+### Limits and follow-up
+
+Recommendation lineage, not a one-to-one legal deletion/insertion. This is a recommended framework, not a verified operational classification system or binding risk-tier schedule.
+
+Reporting question: What local evidence, affected-group participation and validation support the eventual risk taxonomy?
+
+## Source provenance
+
+- [AI Governance Guidelines Development report](https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf), Subcommittee report. Document date: Public consultation: 6 January 2025. Publication metadata: Public consultation: 6 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; a1f117015bd368b688690317f312d4bda110d3f3e42aa904ea487a383b43d347.
+- [India AI Governance Guidelines](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf), IndiaAI framework. Document date: Released 5 November 2025. Publication metadata: Released 5 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 628806e4e519e7d832f270bec2d6ab858aaa3252c6d48dcf8941df01fe82acf4.
+- [Official AI guidelines launch record](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2186639&reg=3&lang=2), PIB release. Document date: 5 November 2025. Publication metadata: 5 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 51c02d35ced11436f674d190d3d32be659354249dcd50cbda1d7a279ce39f276.
+
+
+---
+
+## Contribution 26: An incident repository becomes a federated reporting proposal
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+AI governance: recommendation lineage, not a one-to-one legal redline. The published guidelines do not themselves enact every recommended mandate, deadline or institution. Later implementation must be separately verified.
+
+## Part 2.4: An incident repository becomes a federated reporting proposal
+
+Collection: aig. Comparison: Recommendation lineage. Type: Scope change. Actor/class: AI developers, regulators and public institutions. Earlier context: Consultation recommendation 3; printed pp. 16-17.
+
+Status: Recommendations; not a new standalone legal mandate.
+
+### Textual observation
+
+The final adds a federated national/local architecture, common schemas and wider participation to the earlier incident-database proposal. [Consultation recommendation 3; printed pp. 16-17](https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf) [Part 2.4; printed pp. 26-27](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf)
+
+Earlier excerpt (CONSULTATION REPORT, as extracted):
+
+> the database should receive reports from public sector organisations deploying AI systems (whether directly or through public-private partnerships).
+
+Later excerpt (PUBLISHED GUIDELINES, as printed, as extracted):
+
+> The database should be a national-level centralised system that has the ability to query and collect data from smaller, local databases in a federated manner.
+
+### Analyst interpretation
+
+The design provides useful accountability questions: reporting access, confidentiality, interoperability and feedback into risk assessment.
+
+### Limits and follow-up
+
+Recommendation lineage, not a one-to-one legal deletion/insertion. Both documents discourage punitive reporting design. Recommendations and launch rhetoric do not prove the database is live; grievance channels are separately recommended.
+
+Reporting question: Has a reporting route been launched, and can victims distinguish learning-oriented incident reporting from grievance redress?
+
+## Source provenance
+
+- [AI Governance Guidelines Development report](https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf), Subcommittee report. Document date: Public consultation: 6 January 2025. Publication metadata: Public consultation: 6 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; a1f117015bd368b688690317f312d4bda110d3f3e42aa904ea487a383b43d347.
+- [India AI Governance Guidelines](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf), IndiaAI framework. Document date: Released 5 November 2025. Publication metadata: Released 5 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 628806e4e519e7d832f270bec2d6ab858aaa3252c6d48dcf8941df01fe82acf4.
+- [Official AI guidelines launch record](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2186639&reg=3&lang=2), PIB release. Document date: 5 November 2025. Publication metadata: 5 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 51c02d35ced11436f674d190d3d32be659354249dcd50cbda1d7a279ce39f276.
+
+
+---
+
+## Contribution 27: Voluntary commitments get incentives and a possible mandatory trajectory
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+AI governance: recommendation lineage, not a one-to-one legal redline. The published guidelines do not themselves enact every recommended mandate, deadline or institution. Later implementation must be separately verified.
+
+## Part 2.4: Voluntary commitments get incentives and a possible mandatory trajectory
+
+Collection: aig. Comparison: Recommendation lineage. Type: Scope change. Actor/class: AI developers, regulators and public institutions. Earlier context: Consultation recommendation 4; printed pp. 17-18.
+
+Status: Recommendations; not a new standalone legal mandate.
+
+### Textual observation
+
+The final describes voluntary frameworks as non-binding and says some baseline measures may later become mandatory. [Consultation recommendation 4; printed pp. 17-18](https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf) [Part 2.4; printed pp. 27-28](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf)
+
+Earlier excerpt (CONSULTATION REPORT, as extracted):
+
+> The voluntary commitments are expected to complement the legal framework and should minimise the need for prescriptive/ onerous regulations. The voluntary commitments should provide the requisite flexibility to the industry to commit to measures which are meaningful and implementable while providing the much-needed visibility to the regulators and government to the governance measures being implemented.
+
+Later excerpt (PUBLISHED GUIDELINES, as printed, as extracted):
+
+> Their essential features include optionality, flexibility, adaptability, and lack of legal enforceability or punitive action.
+
+### Analyst interpretation
+
+A future mandatory trajectory should not be misreported as already enforceable obligations imposed by this document.
+
+### Limits and follow-up
+
+Recommendation lineage, not a one-to-one legal deletion/insertion. Any eventual mandatory measure needs its own legal basis and instrument. Adoption and enforcement are not established here.
+
+Reporting question: Which commitments produce public, understandable evidence, and which remain self-certification?
+
+## Source provenance
+
+- [AI Governance Guidelines Development report](https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf), Subcommittee report. Document date: Public consultation: 6 January 2025. Publication metadata: Public consultation: 6 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; a1f117015bd368b688690317f312d4bda110d3f3e42aa904ea487a383b43d347.
+- [India AI Governance Guidelines](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf), IndiaAI framework. Document date: Released 5 November 2025. Publication metadata: Released 5 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 628806e4e519e7d832f270bec2d6ab858aaa3252c6d48dcf8941df01fe82acf4.
+- [Official AI guidelines launch record](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2186639&reg=3&lang=2), PIB release. Document date: 5 November 2025. Publication metadata: 5 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 51c02d35ced11436f674d190d3d32be659354249dcd50cbda1d7a279ce39f276.
+
+
+---
+
+## Contribution 28: Grievance redress is kept separate from incident learning
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+AI governance: recommendation lineage, not a one-to-one legal redline. The published guidelines do not themselves enact every recommended mandate, deadline or institution. Later implementation must be separately verified.
+
+## Part 2.5: Grievance redress is kept separate from incident learning
+
+Collection: aig. Comparison: Recommendation lineage. Type: Scope change. Actor/class: AI developers, regulators and public institutions. Earlier context: Consultation recommendation 6; printed p. 19.
+
+Status: Recommendations; not a new standalone legal mandate.
+
+### Textual observation
+
+The final adds accessible, multilingual grievance recommendations, graded liability and non-statutory accountability mechanisms. [Consultation recommendation 6; printed p. 19](https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf) [Part 2.5; printed pp. 31-33](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf)
+
+Earlier excerpt (CONSULTATION REPORT, as extracted):
+
+> review and strengthen the mechanisms for redress and adjudication of matters concerning digital technologies (including the risks posed by AI applications) keeping in mind the rapid growth in the digital ecosystem and the adoption of digital technologies at scale.
+
+Later excerpt (PUBLISHED GUIDELINES, as printed, as extracted):
+
+> These grievance redressal systems should also be separate from the AI Incidents Database that the Committee has recommended.
+
+### Analyst interpretation
+
+A channel for resolving an individual's harm is not interchangeable with an incident repository for learning.
+
+### Limits and follow-up
+
+Recommendation lineage, not a one-to-one legal deletion/insertion. The report's '9-12 months' possible schedule is not treated as a statutory deadline. Liability and mandatory redress require applicable legal authority.
+
+Reporting question: Can an affected person locate a human-reviewed grievance route and receive a meaningful response?
+
+## Source provenance
+
+- [AI Governance Guidelines Development report](https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf), Subcommittee report. Document date: Public consultation: 6 January 2025. Publication metadata: Public consultation: 6 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; a1f117015bd368b688690317f312d4bda110d3f3e42aa904ea487a383b43d347.
+- [India AI Governance Guidelines](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf), IndiaAI framework. Document date: Released 5 November 2025. Publication metadata: Released 5 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 628806e4e519e7d832f270bec2d6ab858aaa3252c6d48dcf8941df01fe82acf4.
+- [Official AI guidelines launch record](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2186639&reg=3&lang=2), PIB release. Document date: 5 November 2025. Publication metadata: 5 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 51c02d35ced11436f674d190d3d32be659354249dcd50cbda1d7a279ce39f276.
+
+
+---
+
+## Contribution 29: The technical secretariat proposal becomes a broader institutional architecture
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+AI governance: recommendation lineage, not a one-to-one legal redline. The published guidelines do not themselves enact every recommended mandate, deadline or institution. Later implementation must be separately verified.
+
+## Part 2.6: The technical secretariat proposal becomes a broader institutional architecture
+
+Collection: aig. Comparison: Recommendation lineage. Type: Scope change. Actor/class: AI developers, regulators and public institutions. Earlier context: Consultation recommendations 1-2; printed pp. 13-16.
+
+Status: Recommendations; not a new standalone legal mandate.
+
+### Textual observation
+
+The final specifies AIGG coordination, TPEC expert advice and AISI technical functions, rather than repeating the earlier secretariat structure. [Consultation recommendations 1-2; printed pp. 13-16](https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf) [Part 2.6; printed pp. 34-37](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf)
+
+Earlier excerpt (CONSULTATION REPORT, as extracted):
+
+> MeitY should establish and host a technical secretariat that brings in officers on deputation from departments and regulators participating in the Committee/ Group as well as experts from academia and industry.
+
+Later excerpt (PUBLISHED GUIDELINES, as printed, as extracted):
+
+> It should be supported by a Technology & Policy Expert Committee (TPEC), which will advise the group on strategy and implementation.
+
+### Analyst interpretation
+
+The useful reporting task is to trace mandates, membership, budgets and issued decisions, not infer institutional implementation from a recommendation.
+
+### Limits and follow-up
+
+Recommendation lineage, not a one-to-one legal deletion/insertion. Do not call every institution merely proposed: the November report describes AISI as recently established. Current establishment and operational status need separate records.
+
+Reporting question: Which proposed bodies have appointment orders, published terms of reference and actual outputs?
+
+## Source provenance
+
+- [AI Governance Guidelines Development report](https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf), Subcommittee report. Document date: Public consultation: 6 January 2025. Publication metadata: Public consultation: 6 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; a1f117015bd368b688690317f312d4bda110d3f3e42aa904ea487a383b43d347.
+- [India AI Governance Guidelines](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf), IndiaAI framework. Document date: Released 5 November 2025. Publication metadata: Released 5 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 628806e4e519e7d832f270bec2d6ab858aaa3252c6d48dcf8941df01fe82acf4.
+- [Official AI guidelines launch record](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2186639&reg=3&lang=2), PIB release. Document date: 5 November 2025. Publication metadata: 5 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 51c02d35ced11436f674d190d3d32be659354249dcd50cbda1d7a279ce39f276.
+
+
+---
+
+## Contribution 30: The final introduces a staged action plan without exact dates
+
+Working research brief | Exported 5 October 2026
+
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+
+Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
+
+## Timing and scope
+
+AI governance: recommendation lineage, not a one-to-one legal redline. The published guidelines do not themselves enact every recommended mandate, deadline or institution. Later implementation must be separately verified.
+
+## Part 3: The final introduces a staged action plan without exact dates
+
+Collection: aig. Comparison: Recommendation lineage. Type: Addition. Actor/class: AI developers, regulators and public institutions. Earlier context: Consultation report IV; six recommendations.
+
+Status: Recommendations; not a new standalone legal mandate.
+
+### Textual observation
+
+The final groups action items into short-, medium- and long-term stages and illustrates institutional responsibilities. [Consultation report IV; six recommendations](https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf) [Part 3; printed pp. 38-41](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf)
+
+Earlier excerpt (CONSULTATION REPORT, as extracted):
+
+> The committee recommends the following:
+
+Later excerpt (PUBLISHED GUIDELINES, as printed, as extracted):
+
+> The Action Plan below identifies outcomes mapped to short, medium and long-term timelines.
+
+### Analyst interpretation
+
+This creates a useful implementation checklist, but not a precise countdown or proof of completion.
+
+### Limits and follow-up
+
+Recommendation lineage, not a one-to-one legal deletion/insertion. The table's qualitative timelines should not be converted into invented dates. Flattened table extraction is not automatically diff-highlighted.
+
+Reporting question: Which action items have a named owner, milestone, budget and published completion evidence?
+
+## Source provenance
+
+- [AI Governance Guidelines Development report](https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf), Subcommittee report. Document date: Public consultation: 6 January 2025. Publication metadata: Public consultation: 6 January 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; a1f117015bd368b688690317f312d4bda110d3f3e42aa904ea487a383b43d347.
+- [India AI Governance Guidelines](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf), IndiaAI framework. Document date: Released 5 November 2025. Publication metadata: Released 5 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 628806e4e519e7d832f270bec2d6ab858aaa3252c6d48dcf8941df01fe82acf4.
+- [Official AI guidelines launch record](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2186639&reg=3&lang=2), PIB release. Document date: 5 November 2025. Publication metadata: 5 November 2025. Snapshot integrity: SHA-256 of extracted UTF-8 text, not original PDF bytes; 51c02d35ced11436f674d190d3d32be659354249dcd50cbda1d7a279ce39f276.

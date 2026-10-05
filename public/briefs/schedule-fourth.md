@@ -1,28 +1,28 @@
-# Contribution 04: Conditional children's-data exemptions
+# Contribution 12: Conditional children's-data exemptions
 
-Working research brief | Exported 4 October 2026
+Working research brief | Exported 5 October 2026
 
-Collection: Digital Personal Data Protection Rules, 2025. Evidence checked 4 October 2026.
+Collection: Three Indian digital-policy collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
 ## Timing and scope
 
-The official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
+DPDP: the official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) and the [corrigenda](https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf).
 
 ## Fourth Schedule: Conditional children's-data exemptions
 
-Type: Addition. Actor/class: Children and parents. Draft counterpart: Fourth Schedule.
+Collection: dpdp. Comparison: Draft to final. Type: Addition. Actor/class: Children and parents. Earlier context: Fourth Schedule.
 
 ### Textual observation
 
 Location purpose added; detrimental information scope extends to services/ads; clinical-establishment definition loses express armed-forces extension and incorporates statutory definition; other definition references refined. Material and definition changes. [Draft, p. 44](https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=44) [Final, p. 36](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=36)
 
-Draft excerpt (as extracted):
+Earlier excerpt (consultation draft, as extracted):
 
 > 4. For ensuring that information likely to cause any detrimental effect on the well- being of a child is not accessible to her Processing is restricted to the extent necessary to ensure that such information is not accessible to the child. 5. For confirmation by the Data Fiduciary that the Data Principal is not a child and observance of due diligence under rule Processing is restricted to the extent necessary for such confirmation or observance.
 
-Final excerpt (as printed, as extracted):
+Later excerpt (final, as printed, as extracted):
 
 > 4. For the determination of real-time location of a child. Processing is restricted to the tracking of real-time location of such child, in the interest of her safety and protection or security. 5. For ensuring that any information, service or advertisement likely to cause any detrimental effect on the well-being of a child is not accessible to her. Processing is restricted to the extent necessary to ensure that such information, service or advertisement is not accessible to the child. 6. For confirmation by the Data Fiduciary that the Data Principal is not a child and observance of due diligence under rule 10. Processing is restricted to the extent necessary for such confirmation or observance.
 

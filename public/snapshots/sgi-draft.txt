@@ -1,0 +1,111 @@
+SECTION 3, SUB-SECTION (i)] 
+ 
+GOVERNMENT OF INDIA 
+MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY 
+ 
+NOTIFICATION 
+ 
+New Delhi, the ___th October, 2025 
+ 
+G.S.R. ____(E).—In exercise of the powers conferred by sub-section (1), clauses (z)
+
+and (zg) of sub-section (2) of section 87 of the Information Technology Act, 2000 (21 of 
+2000), the Central Government hereby makes the following rules to further amend the 
+Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 
+2021, namely:—
+
+1. (1) These rules may be called the Information Technology (Intermediary Guidelines 
+and Digital Media Ethics Code) Amendment Rules, 2025. 
+(2) They shall come into force on the ___ day of________, 2025. 
+ 
+2. In the Information Technology (Intermediary Guidelines and Digital Media Ethics
+
+Code) Rules, 2021 (hereafter referred to as the said rules), in rule 2,⎯ 
+(i) in sub-rule (1), after clause (w), the following clause shall be inserted, namely:⎯ 
+“(wa) ‘synthetically generated information’ means information which is
+
+artificially or algorithmically created, generated, modified or altered using a 
+computer resource, in a manner that such information reasonably appears to be 
+authentic or true;”. 
+ 
+(ii) after sub-rule (1), the following sub-rule shall be inserted, namely:⎯ 
+“(1A) For the purposes of these rules, any reference to ‘information’ in the
+
+context of information being used to commit an unlawful act, including under 
+clause (b) and (d) of sub-rule (1) of rule 3 and sub-rules (2) and (4) of rule 4, 
+shall be construed to include synthetically generated information, unless the 
+context otherwise requires.”.
+
+3. In the said rules, in rule 3, in sub-rule (1), in clause (b), before the explanation, the 
+following proviso shall be inserted, namely:—  
+“Provided that the removal or disabling of access to any information, including 
+synthetically generated information, data or communication link within the
+
+categories of information specified under this clause as part of reasonable efforts or 
+on the basis of grievances received under sub-rule (2) by such intermediary, shall not 
+amount to a violation of the conditions of clauses (a) or (b) of sub-section (2) of 
+section 79 of the Act;”.
+
+4. In the said rules, in rule 3, after sub-rule (2), the following sub-rule shall be inserted, 
+namely:— 
+“(3) Due diligence in relation to synthetically generated information: (a) Where an 
+intermediary offers a computer resource which may enable, permit, or facilitate the
+
+creation, generation, modification or alteration of information as synthetically 
+generated information, it shall ensure that every such information is prominently 
+labelled or embedded with a permanent unique metadata or identifier, by whatever 
+name called, in a manner that such label, metadata or identifier is visibly displayed or 
+made audible in a prominent manner on or within that synthetically generated
+
+information, covering at least ten percent of the surface area of the visual display or, 
+in the case of audio content, during the initial ten percent of its duration, and can be 
+used to immediately identify that such information is synthetically generated 
+information which has been created, generated, modified or altered using the computer
+
+resource of the intermediary; 
+(b) the intermediary under clause (a) shall not enable the modification, suppression or 
+removal of such label, permanent unique metadata or identifier, by whatever name 
+called.”. 
+5. In the said rules, in rule 4, after sub-rule (1), the following sub-rule shall be inserted,
+
+namely:— 
+“(1A) A significant social media intermediary which enables displaying, uploading, or 
+publishing any information on its computer resource shall, prior to such display, 
+uploading, or publication,— 
+(a) require users to declare whether such information is synthetically generated 
+information; 
+(b) deploy reasonable and appropriate technical measures, including automated
+
+tools or other suitable mechanisms, to verify the accuracy of such declaration, 
+having regard to the nature, format, and source of such information; and 
+(c) where such declaration or technical verification confirms that the information 
+is synthetically generated, ensure that the same is clearly and prominently 
+displayed with an appropriate label or notice, indicating that the content is
+
+synthetically generated: 
+          Provided that where such intermediary becomes aware, or it is otherwise 
+established, that the intermediary knowingly permitted, promoted, or failed to act upon 
+such synthetically generated information in contravention of these rules, such 
+intermediary shall be deemed to have failed to exercise due diligence under this sub-
+
+rule. 
+Explanation.—For the removal of doubts, it is hereby clarified that the responsibility 
+of the significant social media intermediary shall extend to taking reasonable and 
+proportionate technical measures to verify the correctness of user declarations and to 
+ensure that no synthetically generated information is published without such 
+declaration or label.”.
+
+[F. No. …….] 
+ 
+ 
+ 
+……. 
+ 
+ 
+Note.—The principal rules were published in the Gazette of India, Extraordinary, Part 
+II, Section 3, Sub-section (i), vide notification number G.S.R.139(E), dated the 25th February, 
+2021 and subsequently amended vide notification number G.S.R.794(E), dated the 28th
+
+October, 2022 and vide notification number G.S.R.275(E), dated the 6th April, 2023. 
+ 
+..

@@ -1,0 +1,685 @@
+(1) 
+ 
+रजिस्ट्री सं. डी.एल.- 33004/99 
+REGD. No. D. L.-33004/99 
+ 
+ 
+ 
+xxxGIDHxxx 
+xxxGIDExxx 
+असाधारण  
+EXTRAORDINARY 
+भाग II—खण् ड 3—उप-खण् ड (i)
+
+PART II—Section 3—Sub-section (i) 
+प्राजधकार से प्रकाजित 
+PUBLISHED BY AUTHORITY 
+इलेक्ट्रॉनिकी और सूचिा प्रौद्योनिकी मंत्रालय 
+अजधसूचना 
+ नई दिल्ली, 10 फरवरी, 2026 
+सा.का.नि. 120(अ).— केन्‍द रीय सरकार, सूचना प्रौद्योजगकी अजधजनयम, 2000 (2000 का 21) की धारा 87 की
+
+उपधारा (1) और उपधारा (2) के खंड (य) और खंड (यछ) के द्वारा प्रित् त िज‍ तयों का प्रयोग करते हुए, सूचना प्रौद्योजगकी 
+(मध् यवती दििाजनिेि और जडजिटल मीजडया आचार संजिता) जनयम, 2021 का और संिोधन करने के जलए जनम् नजलजखत
+
+जनयम बनाती िै, अर्ात्:— 
+1. संजिप्त नाम और प्रारंभ.—(1) इन जनयमों का संजिप् त नाम सूचना प्रौद्योजगकी (मध् यवती दििाजनिेि और
+
+जडजिटल मीजडया आचार संजिता) संिोधन जनयम, 2026 िै। 
+(2) ये तारीख 20 फ़रवरी, 2026 को प्रवृत् त िोंगें। 
+2. 
+सूचिा प्रौद्योनिकी (मध्यवर्ती दिशानििेश और निनिटल मीनिया आचार संनिर्ता) नियम, 2021 में, नियम
+
+2 के,— 
+(क) उप-नियम (1) में,— 
+(i) खंि (ग) के पश् चात् जनम् नजलजखत खंड अंत:स्ट् र्ाजपत दकए िाएंगें, अर्ात्:— 
+सं.   114]
+
+नई दिल्ली,  मंगलवार, फरवरी 10, 2026/माघ 21, 1947 
+No. 114] 
+NEW DELHI, TUESDAY, FEBRUARY 10, 2026/MAGHA 21, 1947 
+सी.जी.-डी.एल.-अ.-10022026-269993
+CG-DL-E-10022026-269993
+
+2  
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+   [PART II—SEC. 3(i)] 
+“(गक) ‘श्रव्य, िृश्य या श्रव्य-िृश्य सूचिा’ से कोई भी श्रव्य, प्रनर्तबबंब, फोटोग्राफ,
+
+ग्रादफक, वीनियो, िनर्तमाि िृश्य अनभलेख, ध्वनि अनभलेख या कोई अन्य श्रव्य, िृश्य 
+या श्रव्य-िृश्य अंर्तवस्र्तु अनभप्रेर्त िै, चािे वि संिर्त श्रव्य सनिर्त िो या नबिा संिर्त श्रव्य
+
+के, और चािे वि दकसी कंप्यूटर संसाधि के माध्यम से सृनिर्त, िनिर्त, उपांर्तररर्त या 
+पररवर्र्तवर्त की िई िो;”। 
+(ii) खंि (ब) के पश् चात् जनम् नजलजखत खंड अंत:स्ट् र्ाजपत दकए िाएंगें, अर्ात्:—
+
+“(बक) ‘बसंथेरटक रूप से िनिर्त सूचिा’ से ऐसी श्रव्य, िृश्य या श्रव्य-िृश्य सूचिा अनभप्रेर्त 
+िै, िो दकसी कंप्यूटर संसाधि का उपयोि करके कृनत्रम रूप से या एल्िोररनममक रूप से
+
+सृनिर्त, िनिर्त, उपांर्तररर्त या पररवर्र्तवर्त की िई िो, इस प्रकार दक ऐसी सूचिा 
+वास्र्तनवक, प्रामानिक या सत्य प्रर्तीर्त िोर्ती िो और दकसी भी व्यनि या घटिा का इस
+
+प्रकार नचत्रि या नचनत्रर्तीकरि करर्ती िो दक वि दकसी प्राकृनर्तक व्यनि या वास्र्तनवक 
+संसार की घटिा से अभेद्य िोिे के रूप में, या अभेद्य िोिे की संभाविा के रूप में, प्रत्यक्ष
+
+िो अथवा प्रत्यक्ष िोिे की संभाविा िो; 
+ 
+      परंर्तु यि दक इस खंि के प्रयोििों के नलए, दकसी श्रव्य, िृश्य या श्रव्य-िृश्य सूचिा
+
+को ‘बसंथेरटक रूप से िनिर्त सूचिा’ ििीं समझा िाएिा, ििां ऐसी श्रव्य, िृश्य या श्रव्य-
+िृश्य सूचिा जनम्नजलजखत से उत्पन्न िोती िै—
+
+(क) नियनमर्त या सद्भावपूवक संपािि, स्वरूपि, उन्नयि, र्तकिीकी सुधार, 
+रंि समायोिि, शोर न्यूिीकरि, प्रनर्तलेखि, अथवा संपीड़ि से उत्पन्न िोर्ती
+
+िै, निससे मूलभूर्त श्रव्य, िृश्य या श्रव्य-िृश्य सूचिा के र्तत्व, संिभव या अथव में 
+कोई भौनर्तक पररवर्तवि, नवकृनर्त या नममया प्रस्र्तुर्तीकरि ििीं िोर्ता िै; या
+
+(ख) िस्र्तावेिों, प्रस्र्तुनर्तयों, पोटेबल िॉक्ट्यूमेंट फॉमेट (PDF) फाइलों, शैनक्षक 
+या प्रनशक्षि सामनग्रयों, शोध आउटपुट के नियनमर्त या सद्भावपूवक सृिि,
+
+र्तैयारी, स्वरूपि, प्रस्र्तुर्तीकरि या अनभकल्पि से, निसके अन्र्तिवर्त 
+िृष्ांर्तात्मक, काल्पनिक, मसौिा, टेम्पलेट-आधाररर्त या अवधारिात्मक 
+अंर्तवस्र्तु का उपयोि भी शानमल िै, ििां ऐसा सृिि या प्रस्र्तुर्तीकरि दकसी
+
+नममया िस्र्तावेि या दकसी नममया इलेक्ट्रॉनिक अनभलेख के सृिि या ििि का 
+पररिाम ििीं िोर्ता िै; या 
+(ि) पहंचिीयर्ता, स्पष्र्ता, िुिवत्ता, अिुवाि, नववरि, खोििीयर्ता या
+
+अन्वेषिीयर्ता में सुधार करिे के नलए केवल कंप्यूटर संसाधनों के उपयोग से, 
+और मूलभूर्त श्रव्य, िृश्य या श्रव्य-िृश्य सूचिा के दकसी भी भौनर्तक भाि को 
+िनिर्त दकए नबिा, उपांर्तररर्त दकए नबिा, पररवर्र्तवर्त दकए नबिा या 
+अनभचानलर्त दकए नबिा;”।
+
+[भाग II—खण् ड 3(i)] 
+भारत का रािपत्र : असाधारण  
+3 
+(ख) उप-नियम (1) के पश् चात् जनम् नजलजखत उप-नियम अंत:स्ट् र्ाजपत दकए िाएंगें, अर्ात्:—
+
+“(1क) इि नियमों के प्रयोििों के नलए, नवनध-नवरुद्ध कृत्य के काररर्त करिे के नलए प्रयुि की 
+िािे वाली सूचिा के संिभव में ‘सूचिा’ के प्रनर्त कोई भी संिभव, निसके अन्र्तिवर्त नियम 3 के उप-
+
+नियम (1) के खंि (ख) और खंड (घ) र्तथा नियम 4 के उप-नियम (2) और (4) शानमल िैं, र्तब 
+र्तक दक संिभव से अन्यथा अपेनक्षर्त ि िो, बसंथेरटक रूप से िनिर्त सूचिा को भी शानमल करिे के
+
+रूप में अथावनन्वर्त दकया िाएिा। 
+ 
+(1ख) इि नियमों के प्रयोििों के नलए और संिेिों को िूर करिे के नलए, एर्तद्द्वारा यि स्पष् दकया
+
+िार्ता िै दक दकसी मध्यवर्ती द्वारा इि नियमों के अिुपालि में, निसके अन्र्तिवर्त नियम 3 के उप-
+नियम (1), उप-नियम (2) या उप-नियम (3) के अिुसार, या उसके अन्र्तिवर्त दकसी उल्लंघि के
+
+प्रनर्त युनियुि और उपयुि र्तकिीकी उपायों, निसके अन्र्तिवर्त ऑटोमेटेि उपकरि या अन्य 
+उपयुि र्तंत्र भी िैं, को पररनियोनिर्त करके अविर्त िोिे पर, दकसी भी सूचिा, निसके अन्र्तिवर्त
+
+बसंथेरटक रूप से िनिर्त सूचिा, िेटा या संचार बलंक भी िैं, को िटािा या उस र्तक पहंच को 
+असमथव करिा, अनधनियम की धारा 79 की उप-धारा (2) के खंि (क) या खंि (ख) के अधीि
+
+नवनिर्िवष् शर्तों का उल्लंघि ििीं मािा िाएिा।”। 
+3. 
+उ‍ त जनयम के जनयम 3 के,— 
+(क) उप-जनयम (1) में,— 
+(i) खंि (ख) के स्थाि पर निम्ननलनखर्त खंि प्रनर्तस्थानपर्त दकए िाएंिे, अथावर्त्:—
+
+“(ि) कोई मध्यवर्ती, अपिे उपयोिाओं को आवनधक रूप से, कम-से-कम प्रत्येक र्तीि 
+माि में एक बार, अपिे नियमों और नवनियमों, नििर्ता िीनर्त, उपयोिा करार, या
+
+दकसी अन्य उपयुि माध्यम से, सरल एवं प्रभावी र्तरीके से, अंग्रेजी में अथवा संनवधाि 
+की आठवीं अिुसूची में नवनिर्िवष् दकसी भी भाषा में, यि सूनचर्त करेिा दक—
+
+(i) उि नियमों और नवनियमों, नििर्ता िीनर्त या उपयोिा करार, चािे वि 
+दकसी भी िाम से िािा िाए, के अिुपालि में नवफल रििे की नस्थनर्त में, उसे
+
+यि अनधकार िोिा दक वि र्तुरंर्त उपयोिाओं के कंप्यूटर संसाधि र्तक पहुँच 
+या उपयोि के अनधकारों को समाप्त या निलंनबर्त कर िे, या अिुपालि ि करिे
+
+वाली सूचिा को िटाए या उस र्तक पहुँच को असमथव कर िे, या यथानस्थनर्त, 
+िोिों कर िे;  
+(ii) ििाुँ ऐसा अिुपालि-भंि, र्तत्समय प्रवृत्त दकसी नवनध के उल्लंघि में, दकसी
+
+सूचिा के सृिि, ििि, उपांर्तरि, पररवर्तवि, िोबस्टंि, प्रिर्शवर्त करिे, अपलोि 
+करिे, प्रकानशर्त करिे, प्रसाररर्त करिे, संग्रिीर्त करिे, अद्यर्ति करिे, साझा
+
+करिे अथवा अन्यथा प्रचाररर्त करिे से संबंनधर्त िो, विाुँ ऐसे अिुपालि-भंि 
+के नलए उत्तरिायी उपयोिा, अनधनियम के उपबंधों या दकसी अन्य लािू नवनध 
+के अधीि िण्ि या िण्ििीयर्ता का भािी िो सकर्ता िै; और
+
+4  
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+   [PART II—SEC. 3(i)] 
+(iii) ििाुँ ऐसा उल्लंघि, र्तत्समय प्रवृत्त दकसी नवनध के अधीि दकसी अपराध 
+के काररर्त करिे से संबंनधर्त िो, िैसे दक भारर्तीय िािररक सुरक्षा संनिर्ता,
+
+2023 (2023 का 46) अथवा लैंनिक अपराधों से बालकों का संरक्षि 
+अनधनियम, 2012 (2012 का 32) के अधीि ऐसा अपराध, निसका अनिवायव 
+रूप से प्रनर्तवेिि दकया िािा अपेनक्षर्त िै, विाुँ लािू नवनध के उपबंधों के
+
+अिुसार, ऐसे अपराध का समुनचर्त प्रानधकारी को प्रनर्तवेिि दकया िाएिा;   
+(िक) (ि) के उप-खंि (i) और (ii) को प्रनर्तकूल प्रभानवर्त दकए नबिा, ििाुँ उप-नियम
+
+(3) के अधीि संिर्भवर्त कोई मध्यवर्ती ऐसा कंप्यूटर संसाधि उपलब्ध करार्ता िै, िो 
+बसंथेरटक रूप से िनिर्त सूचिा के रूप में सूचिा के सृिि, ििि, उपांर्तरि, पररवर्तवि,
+
+प्रकाशि, प्रेषि, साझा करिे या प्रचाररर्त को सक्षम करर्ता िै, अिुमनर्त िेर्ता िै अथवा 
+सुिम बिार्ता िै, ऐसा मध्यवर्ती, अपिे उपयोिाओं को अनर्तररि रूप से यि भी सूनचर्त
+
+करेिा दक— 
+(i) उप-नियम (3) के खंि (क) के उप-खंि (i) के उल्लंघि में बसंथेरटक रूप से 
+िनिर्त सूचिा के रूप में सूचिा के सृिि, ििि, उपांर्तरि, पररवर्तवि, प्रकाशि,
+
+प्रसाररर्त, साझा करिे या प्रचाररर्त करिे के नलए, मध्यवर्ती के कंप्यूटर संसाधि 
+को नििेनशर्त करिा, अिुिेश िेिा अथवा अन्यथा कारि काररर्त करिा, र्तत्समय
+
+प्रवृत्त दकसी नवनध के अधीि, निसमें अनधनियम, भारर्तीय न्याय संनिर्ता, 
+2023 (2023 का 45), लैंनिक अपराधों से बालकों का संरक्षि अनधनियम, 
+2012 (2012 का 32), लोक प्रनर्तनिनधत्व अनधनियम, 1951 (1951 का
+
+43),  स् त्री अनशष् ट रूपि (प्रनर्तषेध) अनधनियम, 1986 (1986 का 60), 
+मनिलाओं का कायवस्थल पर लैंनिक उत्पीड़ि (निवारि, प्रनर्तषेध और
+
+प्रनर्तर्तोष) अनधनियम, 2013 (2013 का 14) र्तथा अिैनर्तक व्यापार 
+(निवारि) अनधनियम, 1956 (1956 का 104) के उपबंध शानमल िैं, लािू
+
+िोिे वाले िण्ि या िण्ििीयर्ता को आकर्षवर्त कर सकर्ता िै; और 
+(ii) उप-नियम (3) के खंि (क) के उप-खंि (i) का ऐसा कोई उल्लंघि,
+
+निम्ननलनखर्त का कारि िो सकर्ता िै— 
+(I) ऐसी सूचिा र्तक पहुँच को र्तुरंर्त असमथव दकया िािा अथवा ऐसी 
+सूचिा का िटा दिया िािा;
+
+(II) साक्ष्य को दकसी भी प्रकार से अध:प्रभानवर्त दकए नबिा, इस उप-
+नियम का उल्लंघि करिे वाले उपयोिा के उपयोिा एकाउंट का 
+निलंबि या समापि; 
+(III) लािू नवनध के अिुसार, ऐसे उपयोिा की पिचाि र्तथा
+
+उल्लंघिकारी उपयोिा की पिचाि का नशकायर्तकर्ताव को 
+प्रकटीकरि, ििाुँ ऐसा नशकायर्तकर्ताव, ऐसे उल्लंघि का पीनड़र्त िो, 
+अथवा पीनड़र्त की ओर से कायवरर्त कोई व्यनि िो; और
+
+[भाग II—खण् ड 3(i)] 
+भारत का रािपत्र : असाधारण  
+5 
+(IV) ििाुँ ऐसा उल्लंघि, र्तत्समय प्रवृत्त दकसी नवनध के अधीि दकसी 
+अपराध के काररर्त करिे से संबंनधर्त िो, निसमें भारर्तीय िािररक
+
+सुरक्षा संनिर्ता, 2023 (2023 का 46) अथवा लैंनिक अपराधों से 
+बालकों का संरक्षि अनधनियम, 2012 (2012 का 32) के अधीि 
+ऐसा अपराध भी शानमल िै, निसका अनिवायव रूप से प्रनर्तवेिि
+
+दकया िािा अपेनक्षर्त िै, विाुँ लािू नवनध के उपबंधों के अिुसार, ऐसे 
+अपराध का समुनचर्त प्रानधकारी को प्रनर्तवेिि  दकया िािा;
+
+(िख) ििाुँ कोई मध्यवर्ती, स्वप्रेरिा से, अथवा वास्र्तनवक िािकारी प्राप्त िोिे पर, 
+अथवा इि नियमों के अधीि प्राप्त दकसी नशकायर्त, पररवाि या सूचिा के आधार पर,
+
+उप-नियम (3) के दकसी भी उल्लंघि के संबंध में, उप-नियम (3) के खंि (क) के उप-
+खंि (ii) के अंर्तिवर्त आच्छादिर्त बसंथेरटक रूप से िनिर्त सूचिा के रूप में सूचिा के सृिि,
+
+ििि, उपांर्तरि, पररवर्तवि, िोबस्टंि, प्रिर्शवर्त करिे, अपलोि करिे, प्रकानशर्त करिे, 
+प्रसाररर्त करिे, संग्रिीर्त करिे, अद्यर्ति करिे, साझा करिे अथवा अन्यथा प्रचाररर्त करिे
+
+के संबंध में, अविर्त िो िार्ता िै, र्तो वि शीघ्रर्तम एवं उपयुि कारववाई करेिा, निसमें 
+खंि (िक) के उप-खंि (ii) में नवनिर्िवष् कारववाई भी शानमल िै;”।
+
+(ii) खंि (घ) में,— 
+(A) प्रारंनभक भाि में, “छत्तीस घंटों” शब्िों के स्थाि पर “र्तीि घंटों” शब्िों प्रनर्तस्थानपर्त दकए 
+िाएंिे;
+
+(B) उप-खंड (ii) में, मि (I) में,— 
+(I) 
+प्रारंनभक भाि में, “ऐसी सूचिा िारी करिे के प्रयोििाथव प्रानधकृर्त अनधकारी द्वारा 
+िारी” शब्िों के स्थाि पर “ऐसी सूचिा िारी करिे के प्रयोििाथव, नलनखर्त आिेश
+
+द्वारा, प्रानधकृर्त अनधकारी द्वारा िारी” शब्िों प्रनर्तस्थानपर्त दकए िाएंिे; 
+(II) 
+प्रथम परंर्तुक के स्थाि पर निम्ननलनखर्त परंर्तुक प्रनर्तस्थानपर्त दकया िाएिा,
+
+अथावर्त्:— 
+“परंर्तु ििाुँ ऐसी सूचिा पुनलस प्रशासि द्वारा िारी की िािी िो, विाुँ 
+एक या अनधक प्रानधकृर्त अनधकारी िो सकर्ते िैं, नििमें से प्रत्येक पुनलस उप
+
+मिानिरीक्षक के पि से िीचे का ि िो, निसे इस संबंध में नवशेष रूप से समुनचर्त 
+सरकार द्वारा प्रानधकृर्त दकया िया िो:”। 
+ 
+(ख) उप-जनयम (2) में,—
+
+(i) खंि (क) में, उप-खंड (i) में,—  
+(I) 
+प्रारंनभक भाि में, “पंद्रि दििों” शब्िों के स्थाि पर “सार्त दििों” शब्िों प्रनर्तस्थानपर्त दकए 
+िाएंिे; और
+
+6  
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+   [PART II—SEC. 3(i)] 
+(II) 
+प्रर्म परंर्तुक में, “बित्तर घंटों” शब्िों के स्थाि पर “छत्तीस घंटों” शब्िों प्रनर्तस्थानपर्त
+
+दकए िाएंिे; 
+ 
+(ii) खंि (ख) में, “24 घंटे” शब्िों के स्थाि पर “िो घंटे” शब्िों प्रनर्तस्थानपर्त दकए िाएंिे। 
+ 
+(ग) उप-जनयम (2) के पश् चात् जनम् नजलजखत उप-जनयम अंत:स्ट् र्ाजपत दकए िाएंगें, अथावर्त्:—
+
+“(3) बसंथेरटक रूप से िनिर्त सूचिा के संबंध में उनचर्त सावधािी: (क) ििाुँ कोई मध्यवर्ती ऐसा 
+कंप्यूटर संसाधि उपलब्ध करार्ता िै, िो बसंथेरटक रूप से िनिर्त सूचिा के रूप में सूचिा के सृिि,
+
+ििि, उपांर्तरि, पररवर्तवि, प्रकाशि, प्रसाररर्त, साझा करिे या प्रचाररर्त करिे को सक्षम कर 
+सकर्ता िै, अिुमनर्त िे सकर्ता िै अथवा सुिम बिा सकर्ता िै, वि यि सुनिनिर्त करेिा दक,—
+
+(i) वि युनियुि और समुनचर्त र्तकिीकी उपाय, निसके अंर्तिवर्त ऑटोमेटेि उपकरि या 
+अन्य उपयुि र्तंत्र भी िैं, पररनियोनिर्त करे, र्तादक दकसी भी उपयोिा को, यथानस्थनर्त,
+
+ऐसी दकसी भी बसंथेरटक रूप से िनिर्त सूचिा का सृिि, ििि, उपांर्तरि, पररवर्तवि, 
+प्रकाशि, प्रसाररर्त, साझा करिा या प्रचाररर्त करिा अिुमन्य ि िो, िो र्तत्समय प्रवृत्त
+
+दकसी नवनध का उल्लंघि करर्ती िो, निसमें अनधनियम, भारर्तीय न्याय संनिर्ता, 2023 
+(2023 का 45), लैंनिक अपराधों से बालकों का संरक्षि अनधनियम, 2012 (2012 का
+
+32), नवस्फोटक पिाथव अनधनियम, 1908 (1908 का 6) के उपबंध भी शानमल िैं, र्तथा 
+निसमें ऐसी कोई भी बसंथेरटक रूप से िनिर्त सूचिा सनम्मनलर्त िै िो,—
+
+(I) बाल यौि शोषिकारी एवं िुव्यवविार सामग्री, अििुमोदिर्त अंर्तरंि 
+छनवनचत्रि अंर्तवस्र्तु अंतर्वाष्ट करती िै, अथवा अश्लील, कामोद्दीपक, बाल योि
+
+शोषि संबंधी, शारीररक नििर्ता सनिर्त िूसरे की नििर्ता को भंि करिे वाली, 
+अनशष्, असभ्य, अथवा कामुकर्ता व्यि करिे वाली िो; या 
+(II) दकसी नममया िस्र्तावेि या नममया इलैक्ट्रोनिक अनभलेख के सृिि, ििि,
+
+उपांर्तरि या पररवर्तवि का पररिाम िो; या 
+(III) नवस्फोटक सामग्री, आयुध अथवा िोलाबारूि की र्तैयारी, नवकास या 
+प्रानप्त से संबंनधर्त िो; या
+
+(IV) दकसी प्राकृनर्तक व्यनि अथवा वास्र्तनवक संसार की घटिा का नममया 
+नचत्रि या नचनत्रर्तीकरि करे, दकसी व्यनि की पिचाि, स्वर, आचरि, कायव,
+
+कथि, अथवा दकसी घटिा को घरटर्त िोिे के रूप में, धोखा िेिे की संभाविा 
+वाली रीनर्त से िलर्त ढंि से प्रस्र्तुर्त करके, चािे प्राकृनर्तक व्यनि की संलग्नर्ता
+
+सनिर्त या नबिा संलग्नर्ता के; और 
+(ii) खंि (क) के उप-खंि (i) के अंर्तिवर्त आच्छादिर्त ििीं िोिे वाली प्रत्येक ऐसी सूचिा 
+को, इस प्रकार स्पष् रूप से लेबल दकया िाएिा दक िृश्य प्रिशव में उसकी प्रमुख िृश्यर्ता
+
+सुनिनिर्त िो, िो सिि रूप से िृनष्िोचर र्तथा पयावप्त रूप से बोधिम्य िो, या श्रव्य
+
+[भाग II—खण् ड 3(i)] 
+भारत का रािपत्र : असाधारण  
+7 
+अंर्तवस्र्तु की िशा में, प्रमुख रूप से पूवसर्िवर्त श्रव्य प्रकटीकरि के माध्यम से, निससे 
+र्तुरंर्त यि पिचाि दकया िा सके दक ऐसी सूचिा बसंथेरटक रूप से िनिर्त सूचिा िै, निसे
+
+दकसी कंप्यूटर संसाधि का उपयोि करके सृनिर्त, िनिर्त, उपांर्तररर्त या पररवर्र्तवर्त दकया 
+िया िै; और ऐसी सूचिा में, र्तकिीकी रूप से संभव सीमा र्तक, स्थायी मेटािेटा अथवा
+
+अन्य उपयुि र्तकिीकी उद्गम-प्रमाि र्तंत्र, निसमें एक अनद्वर्तीय पिचािकर्ताव भी शानमल 
+िै, अंर्तर्िवनिर्त दकया िाएिा, र्तादक ऐसी सूचिा के सृिि, ििि, उपांर्तरि या पररवर्तवि
+
+के नलए प्रयुि मध्यवर्ती के कंप्यूटर संसाधि की पिचाि की िा सके; 
+(ख) मध्यवर्ती, खंि (क) के उप-खंि (ii) के अिुसार प्रिर्शवर्त अथवा अंर्तर्िवनिर्त दकए िए
+
+लेबल, स्थायी मेटािेटा, निसमें अनद्वर्तीय पिचािकर्ताव भी सनम्मनलर्त िै, के उपांर्तरि, 
+िमि या िटाए िािे को सक्षम ििीं करेिा।”।
+
+4. 
+उ‍ त जनयम के जनयम 4 के,—  
+(क) उप-जनयम (1) के पश् चात् जनम् नजलजखत उप-जनयम अंत:स्ट् र्ाजपत दकए िाएंगें, अथावर्त्:—
+
+“(1क) कोई मित्वपूिव सोशल मीनिया मध्यवर्ती, िो अपिे कंप्यूटर संसाधि पर दकसी भी सूचिा 
+को प्रिर्शवर्त करिे, अपलोि करिे या प्रकानशर्त करिे को सक्षम करर्ता िै, ऐसी सूचिा के प्रिशवि,
+
+अपलोि या प्रकाशि से पूव,— 
+(क) उपयोिाओं से यि घोषिा कराएिा दक क्ट्या ऐसी सूचिा बसंथेरटक रूप से िनिर्त 
+सूचिा िै; 
+(ख) ऐसी घोषिा की शुद्धर्ता का सत्यापि करिे के नलए, ऐसी सूचिा के स्वरूप, प्रारूप
+
+और स्रोर्त को ध्याि में रखर्ते हए, समुनचर्त र्तकिीकी उपाय, निसके अंर्तिवर्त ऑटोमेटेि 
+उपकरि या अन्य उपयुि र्तंत्र भी िैं, पररनियोनिर्त करेिा; और
+
+(ि) ििाुँ ऐसी घोषिा या र्तकिीकी सत्यापि से यि पुनष् िोर्ती िै दक सूचिा बसंथेरटक 
+रूप से िनिर्त िै, विाुँ यि सुनिनिर्त करेिा दक उसी को एक उपयुि लेबल या सूचिा-
+
+पत्र के साथ, यि िशावर्ते हए दक अंर्तवस्र्तु बसंथेरटक रूप से िनिर्त िै, स्पष् रूप से र्तथा 
+प्रमुखर्ता से प्रिर्शवर्त दकया िाए:
+
+परंर्तु यि दक ििाुँ ऐसा मध्यवर्ती अविर्त िो िार्ता िै, या यि अन्यथा स्थानपर्त िो िार्ता 
+िै, दक ऐसे मध्यवर्ती िे, इि नियमों के उल्लंघि में, ऐसी बसंथेरटक रूप से िनिर्त सूचिा को
+
+िािबूझकर अिुमनर्त िी, बढावा दिया, अथवा उसके संबंध में कारववाई करिे में नवफल रिा, र्तो 
+ऐसा मध्यवर्ती इस उप-नियम के अधीि उनचर्त सावधािी बरर्तिे में नवफल मािा िाएिा।
+
+स्पष्ीकरि.— संिेिों को िूर करिे के नलए, एर्तद्द्वारा यि स्पष् दकया िार्ता िै दक 
+मित्त्वपूिव सोशल मीनिया मध्यवर्ती का िानयत्व, उपयोिा घोषिाओं की शुद्धर्ता का सत्यापि
+
+8  
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+   [PART II—SEC. 3(i)] 
+करिे िेर्तु युनियुि और समािुपार्ती र्तकिीकी उपाय करिे र्तक र्तथा यि सुनिनिर्त करिे र्तक
+
+नवस्र्तृर्त िोिा दक दकसी भी बसंथेरटक रूप से िनिर्त सूचिा का, ऐसी घोषिा या लेबल के नबिा, 
+प्रकाशि ि दकया िाए।”। 
+(ख) उप-जनयम (4) में “प्रौद्योनिकी आधाररर्त उपाय, निसके अन्र्तिवर्त उस सूचिा िो चािे सुव्यि िो या
+
+नववनक्षर्त, बलात्कार, बच्चों का लैंनिक शोषि या आचरि को दकसी भी रूप में नचनत्रर्त करिे वाले दकसी 
+कृत्य या अिुरुपि या कोई अन्य सूचिा िो उस सूचिा की अन्र्तवस्र्तु के ठीक समाि िै निसे नियम 3 के
+
+उप-नियम (1) के खंि (घ) के अधीि ऐसे मध्यवर्ती के कम्प्यूटर संसाधि पर पूव में िटा दिया िया िै या 
+उस र्तक पहंच को असमथव दकया िया िै, को नचनत्रर्त करिे वाली पूव सदिय सूचिा को पिचाििे वाले
+
+ऑटोमेटेि उपकरि या अन्य र्तंत्र भी िैं, करिे का प्रयत्न करेिा” शब्िों के स्थाि पर “समुनचर्त र्तकिीकी 
+उपाय, निसके अन्र्तिवर्त उस सूचिा िो चािे सुव्यि िो या नववनक्षर्त, बलात्कार, बच्चों का लैंनिक शोषि
+
+या आचरि को दकसी भी रूप में नचनत्रर्त करिे वाले दकसी कृत्य या अिुरुपि या कोई अन्य सूचिा िो उस 
+सूचिा की अन्र्तवस्र्तु के ठीक समाि िै निसे नियम 3 के उप-नियम (1) के खंि (घ) के अधीि ऐसे मध्यवर्ती
+
+के कम्प्यूटर संसाधि पर पूव में िटा दिया िया िै या उस र्तक पहंच को असमथव दकया िया िै, को नचनत्रर्त 
+करिे वाली पूव सदिय सूचिा को पिचाििे वाले ऑटोमेटेि उपकरि या अन्य उपयुि र्तंत्र भी िैं,
+
+पररनियोनिर्त करेिा” शब्िों रखे िाएंगें। 
+5. 
+उक्ट् र्त नियम के नियम 7 में “भारर्तीय िंि उपबंध” शब्िों के स्थाि पर “भारर्तीय न्याय संनिर्ता, 2023
+
+(2023 का 45)” िब्िों, अंक और कोष्ठकों रखे िाएंिें। 
+[फा. सं. 2(5)/2025-साइबर लॉज] 
+अिीर्त कुमार, संयुि सनचव  
+रटप्पि: मूल नियम भारर्त के रािपत्र, असाधारि, भाि II, खंि 3, उप-खंि (i) में अनधसूचिा संखयांक सा.का.नि. 139(अ),
+
+र्तारीख 25 फरवरी, 2021 द्वारा प्रकानशर्त दकए िए थे और र्तत्पिार्त् अनधसूचिा संखयांक सा.का.नि. 794(अ), 
+र्तारीख 28 अक्ट्टूबर, 2022; सा.का.नि. 275(अ), र्तारीख 6 अप्रैल, 2023; और सा.का.नि. 775(अ),
+
+र्तारीख 22 अक्ट्टूबर, 2025 द्वारा संशोनधर्त दकए िए थे।  
+ 
+MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY 
+NOTIFICATION 
+New Delhi, the 10th February, 2026 
+G.S.R.  120(E).–– In exercise of the powers conferred by sub-section (1), clauses (z) and (zg) of sub-section
+
+(2) of section 87 of the Information Technology Act, 2000 (21 of 2000), the Central Government hereby makes the 
+following rules to further amend the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) 
+Rules, 2021, namely:— 
+1. Short Title and Commencement.—(1) These rules may be called the Information Technology (Intermediary
+
+Guidelines and Digital Media Ethics Code) Amendment Rules, 2026. 
+(2) They shall come into force on the 20 th day of February, 2026. 
+2. In the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 
+2021(hereafter referred to as the said rules), in rule 2,⎯ 
+(a) in sub-rule (1),⎯ 
+(i)  after clause (c), the following clause shall be inserted, namely:⎯
+
+[भाग II—खण् ड 3(i)] 
+भारत का रािपत्र : असाधारण  
+9 
+“(ca) ‘audio, visual or audio-visual information’ means any audio, image, photograph, 
+graphic, video, moving visual recording, sound recording or any other audio, visual or
+
+audio-visual content, with or without accompanying audio, whether created, 
+generated, modified or altered through any computer resource;”. 
+(ii) after clause (w), the following clause shall be inserted, namely:⎯ 
+“(wa) ‘synthetically generated information’ means audio, visual or audio-visual
+
+information which is artificially or algorithmically created, generated, modified or 
+altered using a computer resource, in a manner that such information appears to be real, 
+authentic or true and depicts or portrays any individual or event in a manner that is, or 
+is likely to be perceived as indistinguishable from a natural person or real-world event;
+
+Provided that the purposes of this clause, an audio, visual or audio-visual 
+information shall not be deemed to be ‘synthetically generated information’, where such 
+audio, visual or audio-visual information arises from⎯ 
+(a) routine or good-faith editing, formatting, enhancement, technical correction, 
+colour adjustment, noise reduction, transcription, or compression that does not
+
+materially alter, distort, or misrepresent the substance, context, or meaning of the 
+underlying audio, visual or audio-visual information; or 
+(b) the routine or good-faith creation, preparation, formatting, presentation or 
+design of documents, presentations, portable document format (PDF) files, 
+educational or training materials, research outputs, including the use of illustrative,
+
+hypothetical, draft, template-based or conceptual content, where such creation or 
+presentation does not result in the creation or generation of any false document or 
+false electronic record; or 
+(c) the use of computer resources solely for improving accessibility, clarity, quality, 
+translation, description, searchability, or discoverability, without generating,
+
+altering, or manipulating any material part of the underlying audio, visual or audio-
+visual information;”. 
+(b) after sub-rule (1), the following sub-rules shall be inserted, namely:⎯ 
+“(1A) For the purposes of these rules, any reference to ‘information’ in the context of
+
+information being used to commit an unlawful act, including under clauses (b) and (d) of 
+sub-rule (1) of rule 3 and sub-rules (2) and (4) of rule 4, shall be construed to include 
+synthetically generated information, unless the context otherwise requires. 
+ 
+(1B) For the purposes of these rules and for the removal of doubts, it is hereby clarified that
+
+the removal of, or disabling of access to, any information, including synthetically generated 
+information, data or communication link, by an intermediary in compliance with these rules, 
+including in accordance with sub-rule (1), sub-rule (2) or sub-rule (3) of rule 3, or upon 
+becoming aware of any violation thereunder by deploying reasonable and appropriate
+
+technical measures, including automated tools or other suitable mechanisms, shall not 
+amount to a violation of the conditions specified under clauses (a) or (b) of sub-section (2) 
+of section 79 of the Act.”. 
+ 
+3. In the said rules, in rule 3,— 
+(a) in sub-rule (1),—
+
+(i) for clause (c), the following clauses shall be substituted, namely:— 
+“(c) an intermediary shall periodically inform its users, at least once every three months, in 
+a simple and effective manner through its rules and regulations, privacy policy, user 
+agreement, or any other appropriate means, in English or any language specified in the
+
+Eighth Schedule to the Constitution, that— 
+(i) 
+in case of non-compliance with such rules and regulations, privacy policy or 
+user agreement, by whatever name called, it has the right to terminate or 
+suspend the access or usage rights of the users to the computer resource
+
+10  
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+   [PART II—SEC. 3(i)] 
+immediately, or to remove or disable access to non-compliant information, or 
+both, as the case may be;  
+(ii) where such non-compliance relates to the creation, generation, modification,
+
+alteration, hosting, displaying, uploading, publishing, transmitting, storing, 
+updating, sharing or otherwise disseminating of information in contravention 
+of any law for the time being in force, the user who is responsible for such non-
+compliance may be liable to penalty or punishment under the provisions of the
+
+Act or any other applicable law; and 
+(iii) where such violation relates to the commission of an offence under any law for 
+the time being in force, such as the Bharatiya Nagarik Suraksha Sanhita, 2023 
+(46 of 2023) or the Protection of Children from Sexual Offences Act, 2012 (32
+
+of 2012) which requires such offence to be mandatorily reported, reporting of 
+such offence to the appropriate authority in accordance with the provisions of 
+the applicable law; 
+(ca) without prejudice to sub-clauses (i) and (ii) of clause (c), where an intermediary referred 
+to under sub-rule (3) offers a computer resource which enables, permits or facilitates
+
+the creation, generation, modification, alteration, publication, transmission, sharing, or 
+dissemination of information as synthetically generated information, such intermediary 
+shall additionally inform its users that— 
+(i) 
+directing, instructing or otherwise causing the computer resource of the 
+intermediary for creation, generation, modification, alteration publication,
+
+transmission, sharing, or dissemination of information as synthetically 
+generated information in contravention of sub-clause (i) of clause (a) of sub-
+rule (3) may attract penalty or punishment as may be applicable under any law 
+for the time being in force, including the provisions of the Act, the Bharatiya
+
+Nyaya Sanhita, 2023 (45 of 2023), the Protection of Children from Sexual 
+Offences Act, 2012 (32 of 2012), the Representation of the People Act, 1951 
+(43 of 1951), the Indecent Representation of Women (Prohibition) Act, 1986
+
+(60 of 1986), the Sexual Harassment of Women at Workplace (Prevention, 
+Prohibition And Redressal) Act, 2013 (14 of 2013), and the Immoral Traffic 
+(Prevention) Act, 1956 (104 of 1956); and 
+(ii) any such contravention of sub-clause (i) of clause (a) of sub-rule (3) may lead
+
+to— 
+(I) 
+the immediate disabling of access to or removal of such information; 
+(II) suspension or termination of the user account of the user who violates 
+this sub-rule without vitiating the evidence; 
+(III) in accordance with applicable law, identification of such user and 
+disclosure of the identity of the violating user to the complainant, where
+
+such complainant is a victim of, or an individual acting on behalf of a 
+victim of, such contravention; and 
+(IV) where such violation relates to the commission of an offence under any 
+law for the time being in force, including the Bharatiya Nagarik Suraksha 
+Sanhita, 2023 (46 of 2023) or the Protection of Children from Sexual
+
+Offences Act, 2012 (32 of 2012) which requires such offence to be 
+mandatorily reported, reporting of such offence to the appropriate 
+authority in accordance with the provisions of the applicable law; 
+(cb) where an intermediary becomes aware, either on its own accord or upon receipt of actual
+
+knowledge or on the basis of any grievance, complaint or information received under 
+these rules, of any violation of sub-rule (3), in relation to the creation, generation, 
+modification, alteration, hosting, displaying, uploading, publishing, transmitting, 
+storing, updating, sharing or otherwise dissemination of information as synthetically 
+generated information covered under sub-clause (ii) of clause (a), it shall take 
+expeditious and appropriate action, including those specified in sub-clause (ii) of clause 
+(ca);”.
+
+[भाग II—खण् ड 3(i)] 
+भारत का रािपत्र : असाधारण  
+11 
+(ii) in clause (d),— 
+(A) in the opening portion, for the words “thirty-six hours”, the words “within three hours” 
+shall be substituted; 
+(B) in sub-clause (ii), in item (I),—
+
+(I) in the opening portion, for the words “issued by an officer authorised for the purpose 
+of issuing such intimation”, the words “issued by an officer authorised, by order in 
+writing, for the purpose of issuing such intimation” shall be substituted; 
+(II) for the first proviso, the following proviso shall be substituted, namely:—
+
+“Provided that where such intimation is to be issued by the police administration, 
+there may be one or more authorised officers, each not below the rank of Deputy 
+Inspector General of Police, especially authorised by the Appropriate Government in 
+this behalf:”. 
+(b) in sub-rule (2),— 
+(i) in clause (a), in sub-clause (i),—
+
+(I) in the opening portion, for the words “fifteen days”, the words “seven days” shall be 
+substituted; and 
+(II) in the first proviso, for the words “seventy-two hours”, the words “thirty-six hours” shall 
+be substituted; 
+(ii) in clause (b), for the words “twenty-four hours”, the words “two hours” shall be substituted.
+
+(c) after sub-rule (2), the following sub-rule shall be inserted, namely:— 
+“(3) Due diligence in relation to synthetically generated information: (a) Where an intermediary offers 
+a computer resource which may enable, permit, or facilitate the creation, generation, modification, 
+alteration, publication, transmission, sharing, or dissemination of information as synthetically generated
+
+information, it shall ensure that,— 
+(i) it deploys reasonable and appropriate technical measures, including automated tools or other 
+suitable mechanisms, to not allow any user to create, generate, modify, alter, publish, transmit, 
+share, or disseminate, as the case may be, any such synthetically generated information that violates
+
+any law for the time being in force, including the Act, Bharatiya Nyaya Sanhita, 2023 (45 of 2023), 
+Protection of Children from Sexual Offences Act, 2012 (32 of 2012), Explosive Substances Act, 
+1908 (6 of 1908), and includes any such synthetically generated information that,—
+
+(I) 
+contains child sexual exploitative and abuse material, non-consensual intimate imagery 
+content, or is obscene, pornographic, paedophilic, invasive of another person’s privacy, 
+including bodily privacy, vulgar, indecent or sexually explicit; or  
+(II) 
+results in the creation, generation, modification or alteration of any false document or
+
+false electronic record; or  
+(III) 
+relates to the preparation, development or procurement of explosive material, arms or 
+ammunition; or  
+(IV) 
+falsely depicts or portrays a natural person or real-world event by misrepresenting, in a 
+manner that is likely to deceive, such person’s identity, voice, conduct, action, statement,
+
+or such event as having occurred, with or without the involvement of natural person; and 
+ 
+(ii) 
+every such information not covered under sub-clause (i) of clause (a) is prominently labelled in 
+a manner that ensures prominent visibility in the visual display that is easily noticeable and 
+adequately perceivable, or, in the case of audio content, through a prominently prefixed audio
+
+disclosure, that can be used to immediately identify that such information is synthetically 
+generated information which has been created, generated, modified or altered using a computer 
+resource and such information shall be embedded with a permanent metadata or other appropriate 
+technical provenance mechanisms, to the extent technically feasible, including a unique 
+identifier, to identify the computer resource of the intermediary used to create, generate, modify 
+or alter such information;
+
+12  
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+   [PART II—SEC. 3(i)] 
+(b) the intermediary shall not enable the modification, suppression or removal of the label, permanent 
+metadata, including the unique identifier, displayed or embedded in accordance with sub-clause (ii) of
+
+clause (a).”. 
+4. In the said rules, in rule 4,— 
+(a) after sub-rule (1), the following sub-rule shall be inserted, namely:— 
+“(1A) A significant social media intermediary which enables displaying, uploading, or publishing 
+any information on its computer resource shall, prior to such display, uploading, or publication,—
+
+(a) require users to declare whether such information is synthetically generated 
+information; 
+(b) deploy appropriate technical measures, including automated tools or other suitable 
+mechanisms, to verify the accuracy of such declaration, having regard to the nature, 
+format, and source of such information; and 
+(c) where such declaration or technical verification confirms that the information is
+
+synthetically generated, ensure that the same is clearly and prominently displayed with 
+an appropriate label or notice, indicating that the content is synthetically generated: 
+Provided that where such intermediary becomes aware, or it is otherwise established, 
+that the intermediary knowingly permitted, promoted, or failed to act upon such synthetically 
+generated information in contravention of these rules, such intermediary shall be deemed to have
+
+failed to exercise due diligence under this sub-rule. 
+Explanation.—For the removal of doubts, it is hereby clarified that the responsibility of the 
+significant social media intermediary shall extend to taking reasonable and proportionate 
+technical measures to verify the correctness of user declarations and to ensure that no 
+synthetically generated information is published without such declaration or label.”.
+
+(b) in sub-rule (4), for the words “endeavour to deploy technology-based measures, including automated tools 
+or other mechanisms”, the words “deploy appropriate technical measures, including automated tools or other 
+suitable mechanisms” shall be substituted. 
+ 
+5. In the said rules, in rule 7, for the words “the Indian Penal Code”, the words, figures and brackets “the
+
+Bharatiya Nyaya Sanhita, 2023 (45 of 2023)” shall be substituted. 
+[F. No. 2(5)/2025-CyberLaws] 
+AJIT KUMAR, Jt. Secy. 
+Note: The principal rules were published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide
+
+notification number G.S.R. 139(E), dated the 25th February, 2021 and subsequently amended vide notification 
+number G.S.R. 794(E), dated the 28th October, 2022; G.S.R. 275(E), dated the 6th April, 2023; and G.S.R. 775(E),
+
+dated the 22nd October, 2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064 
+and Published by the Controller of Publications, Delhi-110054.  GORAKHA NATH
+
+YADAVA
+Digitally signed by GORAKHA 
+NATH YADAVA 
+Date: 2026.02.10 15:37:51 +05'30'

@@ -2,16 +2,38 @@ export const DRAFT_URL = 'https://www.meity.gov.in/static/uploads/2025/02/f8a8e9
 export const FINAL_URL = 'https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf';
 export const ACT_URL = 'https://www.meity.gov.in/static/uploads/2024/06/2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf';
 export const CORRECTION_URL = 'https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf';
+export const SGI_FINAL='https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf';
+export const SGI_CORRECTION='https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf';
 export const REPO = 'https://github.com/nawaaaaaAaar/ai-watch-india';
-export function filterProvisions(records, query='', type='All', actor='All') {
+export const ORIGINAL_CONTRIBUTIONS=['rule-8','rule-14','rule-13','schedule-fourth','rule-7','rule-11','schedule-second','rule-1','rule-6','rule-3','rule-15','rule-23'];
+export function mergeCollections(original, expansion) {
+  const families=[{id:'dpdp',title:'Digital Personal Data Protection Rules, 2025',shortTitle:'DPDP Rules',
+    status:'Notified rules + corrigenda',description:'Consultation draft to final rules, preserving correction and timing uncertainty.',
+    coverage:'All 23 final rules and seven schedules; eight directed English corrections.',count:30,
+    contributionCount:12,defaultId:'rule-8',scope:'Complete final-provision inventory, not current court-status or later-amendment certification.',
+    timeline:[{date:'03 Jan 2025',title:'Consultation draft',detail:'22 rules and seven schedules'},
+      {date:'13 Nov 2025',title:'Notified final',detail:'13/14 Nov publication basis flagged'},
+      {date:'10 Dec 2025',title:'Corrigenda',detail:'Eight substitutions; Gazette dated 11 Dec'}]},...expansion.families];
+  return {title:'Three Indian digital-policy collections',checked:'DPDP: 4 October 2026; expansion: 5 October 2026',
+    families,sources:[...original.sources,...expansion.sources],
+    provisions:[...original.provisions.map(p=>({...p,familyId:'dpdp',comparisonKind:'Draft to final',contribution:ORIGINAL_CONTRIBUTIONS.includes(p.id)})),...expansion.provisions],
+    corrections:[...original.corrections.map(c=>({...c,familyId:'dpdp',sourceUrl:CORRECTION_URL})),...expansion.corrections]};
+}
+export function evidenceLinks(p) {
+  return {before:p.draftUrl||`${DRAFT_URL}#page=${p.draftPage}`,
+    after:p.finalUrl||`${FINAL_URL}#page=${p.finalPage}`,
+    beforeLocator:p.draftLocator||`Draft, p. ${p.draftPage}`,
+    afterLocator:p.finalLocator||`Final, p. ${p.finalPage}`};
+}
+export function filterProvisions(records, query='', type='All', actor='All', family='All') {
   const terms=query.toLowerCase().trim().split(/\s+/).filter(Boolean);
-  return records.filter(p => (type==='All'||p.type===type) && (actor==='All'||p.actor===actor) &&
-    terms.every(t=>`${p.label} ${p.title} ${p.summary} ${p.interpretation} ${p.actor} ${p.draftLabel}`.toLowerCase().includes(t)));
+  return records.filter(p => (family==='All'||p.familyId===family)&&(type==='All'||p.type===type)&&(actor==='All'||p.actor===actor)&&
+    terms.every(t=>`${p.id} ${p.label} ${p.title} ${p.summary} ${p.interpretation} ${p.actor} ${p.draftLabel} ${p.familyId||''} ${p.question} ${p.caution} ${p.draftText} ${p.finalText}`.toLowerCase().includes(t)));
 }
 export function validateNotebook(raw, validIds) {
   if (!raw || raw.version!==1 || !Array.isArray(raw.selected) || !Array.isArray(raw.reviews) ||
       typeof raw.title!=='string' || raw.title.length>200) throw new Error('Not a supported AI Watch India notebook.');
-  if(raw.selected.length>30 || new Set(raw.selected).size!==raw.selected.length ||
+  if(raw.selected.length>validIds.length || new Set(raw.selected).size!==raw.selected.length ||
      !raw.selected.every(id=>validIds.includes(id))) throw new Error('Notebook has invalid or duplicate provision IDs.');
   if(raw.reviews.length>500) throw new Error('Notebook contains too many review events.');
   for(const r of raw.reviews) {
@@ -27,23 +49,30 @@ export function createBrief(data, notebook, date=new Date().toISOString()) {
   const title=notebook.title.trim()||'Policy change brief';
   let out=`# ${title}\n\nWorking research brief | Exported ${date}\n\nCollection: ${data.title}. Evidence checked ${data.checked}.\n\n`;
   out+='Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.\n\n';
-  out+='## Timing and scope\n\nThe official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules]('+FINAL_URL+') and the [corrigenda]('+CORRECTION_URL+').\n\n';
+  out+='## Timing and scope\n\n';
+  if(records.some(p=>!p.familyId||p.familyId==='dpdp'))out+='DPDP: the official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules]('+FINAL_URL+') and the [corrigenda]('+CORRECTION_URL+').\n\n';
+  if(records.some(p=>p.familyId==='sgi'))out+='Synthetic media: the [amendment]('+SGI_FINAL+') states commencement on 20 February 2026; English citations were [corrected on 26 February]('+SGI_CORRECTION+'). This is not exhaustive current court-status certification. Some comparisons use prior consolidated law because the final change was absent from the consultation draft.\n\n';
+  if(records.some(p=>p.familyId==='aig'))out+='AI governance: recommendation lineage, not a one-to-one legal redline. The published guidelines do not themselves enact every recommended mandate, deadline or institution. Later implementation must be separately verified.\n\n';
   for(const p of records) {
-    out+=`## ${p.label}: ${p.title}\n\nType: ${p.type}. Actor/class: ${p.actor}. Draft counterpart: ${p.draftLabel}.\n\n`;
-    out+=`### Textual observation\n\n${p.summary} [Draft, p. ${p.draftPage}](${DRAFT_URL}#page=${p.draftPage}) [Final, p. ${p.finalPage}](${FINAL_URL}#page=${p.finalPage})\n\n`;
-    out+=`Draft excerpt (as extracted):\n\n> ${p.beforeExcerpt}\n\nFinal excerpt (as printed, as extracted):\n\n> ${p.afterExcerpt}\n\n`;
+    const links=evidenceLinks(p);
+    out+=`## ${p.label}: ${p.title}\n\nCollection: ${p.familyId||'dpdp'}. Comparison: ${p.comparisonKind||'Draft to final'}. Type: ${p.type}. Actor/class: ${p.actor}. Earlier context: ${p.draftLabel}.\n\n`;
+    if(p.legalStatus)out+=`Status: ${p.legalStatus}.\n\n`;
+    out+=`### Textual observation\n\n${p.summary} [${links.beforeLocator}](${links.before}) [${links.afterLocator}](${links.after})\n\n`;
+    out+=`Earlier excerpt (${p.beforeLabel||'consultation draft'}, as extracted):\n\n> ${p.beforeExcerpt}\n\nLater excerpt (${p.afterLabel||'final'}, as printed, as extracted):\n\n> ${p.afterExcerpt}\n\n`;
     out+=`### Analyst interpretation\n\n${p.interpretation}\n\n### Limits and follow-up\n\n${p.caution}\n\nReporting question: ${p.question}\n\n`;
-    if(p.correctionIds.length) out+=`Corrections relevant to this provision: ${p.correctionIds.join(', ')}. Check the [official correcting instrument](${CORRECTION_URL}) and compare as-printed versus corrected text before quoting.\n\n`;
+    if(p.correctionIds.length) out+=`Corrections relevant to this provision: ${p.correctionIds.join(', ')}. Check the [official correcting instrument](${p.familyId==='sgi'?SGI_CORRECTION:CORRECTION_URL}) and compare as-printed versus corrected text before quoting.\n\n`;
     if(['rule-5','rule-15','rule-16','rule-23'].includes(p.id)) out+=`Parent statute context: [DPDP Act](${ACT_URL}). Read statutory limits as well as the rule.\n\n`;
     const reviews=notebook.reviews.filter(r=>r.provisionId===p.id);
     if(reviews.length) out+='### Local review history\n\n'+reviews.map(r=>`- ${r.timestamp} | ${r.status} | ${r.reviewer}: ${r.note}`).join('\n')+'\n\n';
   }
-  out+='## Source provenance\n\n'+data.sources.map(s=>`- [${s.title}](${s.url}), ${s.instrument}. Document date: ${s.documentDate}. Publication metadata: ${s.publication}. Snapshot integrity: ${s.hashType}; ${s.hash}.`).join('\n')+'\n';
+  const usedFamilies=new Set(records.map(p=>p.familyId||'dpdp'));
+  const relevantSources=data.sources.filter(s=>usedFamilies.has(s.id.startsWith('sgi-')?'sgi':s.id.startsWith('aig-')?'aig':'dpdp'));
+  out+='## Source provenance\n\n'+relevantSources.map(s=>`- [${s.title}](${s.url}), ${s.instrument}. Document date: ${s.documentDate}. Publication metadata: ${s.publication}. Snapshot integrity: ${s.hashType}; ${s.hash}.`).join('\n')+'\n';
   return out;
 }
 export function csv(records) {
-  const rows=[['ID','Final provision','Draft counterpart','Title','Type','Actor','Observation','Interpretation','Caution','Draft URL','Final URL']];
-  for(const p of records) rows.push([p.id,p.label,p.draftLabel,p.title,p.type,p.actor,p.summary,p.interpretation,p.caution,DRAFT_URL,FINAL_URL]);
+  const rows=[['ID','Final provision','Earlier counterpart','Title','Type','Actor','Observation','Interpretation','Caution','Earlier URL','Later URL','Collection','Comparison kind','Legal status']];
+  for(const p of records){const links=evidenceLinks(p);rows.push([p.id,p.label,p.draftLabel,p.title,p.type,p.actor,p.summary,p.interpretation,p.caution,links.before,links.after,p.familyId||'dpdp',p.comparisonKind||'Draft to final',p.legalStatus||'Notified rules; timing limits apply']);}
   return rows.map(row=>row.map(value=>{
     let str=String(value);
     if(/^[=+@\-\t\r]/.test(str)) str="'"+str;

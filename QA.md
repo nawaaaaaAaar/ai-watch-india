@@ -33,3 +33,23 @@ This inventory covers the complete curated release and the user's request for at
 ## Status
 
 Functional, visual and responsive checks were executed. All 12 automated tests and 57 explicit browser assertions passed; the scope, results and remaining boundaries appear in `VERIFICATION.md`.
+
+## Edition 02 expansion inventory
+
+The following controls and claims require new execution rather than being inferred from edition 01:
+
+- Three collection cards, lineage disclosures and collection-specific deep links.
+- 56 total comparison records; family scopes of 30/14/12.
+- 30 total contribution cards; family scopes of 12/10/8 and corresponding downloads.
+- 13 source records; family scopes of 4/6/3, correct official URLs and snapshots.
+- Ten English corrections; family scopes of 8/2/0 and explicit empty state.
+- Prior-law comparisons labelled correctly, with prior-law rather than draft URLs.
+- AI recommendation status, printed-page locators, disabled automatic diff and no invented corrected-version control.
+- SGI original/corrected/full/focused cycles with both directed citations.
+- Mixed-family selection, review, reordering, Markdown/CSV export and notebook round-trip; older notebook compatibility.
+- Search across evidence, combined filters, no-match state and reset.
+- Packaged file-download success, simulated failure fallback and notice dismissal.
+- Desktop/mobile captures for all routes, dark theme, enlarged layout, keyboard modal cycling and no horizontal overflow.
+- No observed runtime errors or private-content POSTs.
+
+Edition 02 execution passed 30 automated tests and 169 explicit development-browser assertions. Detailed results and boundaries are recorded in `EXPANSION_VERIFICATION.md`; production-preview checks are recorded separately there.
