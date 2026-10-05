@@ -1,0 +1,698 @@
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": "ANALYSIS.pplx.md",
+      "bytes": 6740,
+      "sha256": "b5fcacef9476b3c03c3c6abfc08914b60a2efd6825f858dc17605f913f553290"
+    },
+    {
+      "path": "CODEBOOK.md",
+      "bytes": 6289,
+      "sha256": "5c8a6e30cd101917eca1cdfe9fac879cd80b9c1f5108b6ff38edf375f002c526"
+    },
+    {
+      "path": "METHOD.md",
+      "bytes": 10365,
+      "sha256": "92cc259b4a97378c5f9eb3cd61196c0dcec91e949218df85d92ca1af523e10cd"
+    },
+    {
+      "path": "REPRODUCE.md",
+      "bytes": 521,
+      "sha256": "61cb3f02ccaa8edc2bb1e12edc0c1433420819aaff1a54aa9956e73928d529fe"
+    },
+    {
+      "path": "analysis.json",
+      "bytes": 1417,
+      "sha256": "8fd5f839b02403ccdef97ab99b4e070f454ed5d4a8a71ead2bdd6d46cae7afd0"
+    },
+    {
+      "path": "baseline-registry.json",
+      "bytes": 54621,
+      "sha256": "634ee2b5dafc88474bbe9cebdd5bef0f9895b36dcf12ec09d632af65c6404e2f"
+    },
+    {
+      "path": "build_governance.py",
+      "bytes": 12097,
+      "sha256": "3ee43d5a05584233ae01272ff832209024cede7a655cd273eff1f1bc61f0706b"
+    },
+    {
+      "path": "candidate_decisions.csv",
+      "bytes": 2055,
+      "sha256": "7b0dc07454621cad9e6b9b05f711a32bedd5538659d7d54137f479a20314b159"
+    },
+    {
+      "path": "curation.json",
+      "bytes": 693304,
+      "sha256": "879adc4842e332d3aab169738e89cb8f9178d8aa1d29d9a6e42ed3aeec2512ed"
+    },
+    {
+      "path": "data.json",
+      "bytes": 735628,
+      "sha256": "d231c33fb616a3204207c692fdaae2b7eef2c525d3e5d5be33a1f0d00c10632c"
+    },
+    {
+      "path": "dataset.sqlite",
+      "bytes": 651264,
+      "sha256": "cc55320e68fde019ae88129487094704ede63268b235a2c25b445ef6cbd117a8"
+    },
+    {
+      "path": "dossiers/gov-aadhaar-regulations.md",
+      "bytes": 6012,
+      "sha256": "b3900ec676e4a13ca30c32d3fd56967d8ae60956ba71849c9d6040d35e9ce6e1"
+    },
+    {
+      "path": "dossiers/gov-ai-consultation.md",
+      "bytes": 5691,
+      "sha256": "3098099de6bdce204d9a126a76bc09903e39341633f15b3df4faa4fd2f4cf55d"
+    },
+    {
+      "path": "dossiers/gov-ai-guidelines.md",
+      "bytes": 9881,
+      "sha256": "bc9af14ee52e90c1b817ad3b0529daa864abce2bc373067c6e5a1f1ad17830a7"
+    },
+    {
+      "path": "dossiers/gov-aigeg-order.md",
+      "bytes": 4961,
+      "sha256": "393e8e1c8c6ee1775c4dc520e66453eca4268ce822aef358bb1319d744d78ea9"
+    },
+    {
+      "path": "dossiers/gov-ap-court-order.md",
+      "bytes": 5449,
+      "sha256": "6728d41739e00a00af02eb8e79938714e83d9096e019ef6550d7c840a0b607f0"
+    },
+    {
+      "path": "dossiers/gov-cag-ai-eoi.md",
+      "bytes": 7140,
+      "sha256": "a79148cd7d8690263b3eb9706896990612df85d12633525ad6d2dab036fa81ba"
+    },
+    {
+      "path": "dossiers/gov-cert-aibom.md",
+      "bytes": 6981,
+      "sha256": "e11834f9239d8414dbd443ff917f7356b9fb4404054e9c1fd3fb187bb09218fc"
+    },
+    {
+      "path": "dossiers/gov-cert-directions.md",
+      "bytes": 6933,
+      "sha256": "69bd48f99e22f9dc415163fedaf63058fde6488f29c7eefc21a0c5b4c6dfff4f"
+    },
+    {
+      "path": "dossiers/gov-cert-extension.md",
+      "bytes": 4335,
+      "sha256": "838bd7d503faa7fc1b2dd7186bd4f91b86dae0009eaa53fb28671c65f0ade344"
+    },
+    {
+      "path": "dossiers/gov-dpdp-act.md",
+      "bytes": 9634,
+      "sha256": "238452856476b4230e0439a215527b4fae7c99b3969eb797df05925be44dca7c"
+    },
+    {
+      "path": "dossiers/gov-dpdp-commencement.md",
+      "bytes": 3960,
+      "sha256": "ecb28e8e40978ef78a1484613e8cb1f267d892dddfd82ea99258a1be52e99498"
+    },
+    {
+      "path": "dossiers/gov-dpdp-correction.md",
+      "bytes": 3772,
+      "sha256": "4bb84b28f6d78eb6cd0216fa7c36be544b5a07479c710315f06c2987884c7e91"
+    },
+    {
+      "path": "dossiers/gov-dpdp-draft.md",
+      "bytes": 5568,
+      "sha256": "45410319585a471ed2fd9c43e62c8d3ae52cfbc1dd7492ee69d9185c7e1910d9"
+    },
+    {
+      "path": "dossiers/gov-dpdp-rules.md",
+      "bytes": 9944,
+      "sha256": "9b882e9b207722cf4b08c52b0e5f950cd7014e476242762671f1d8d4bb40a55b"
+    },
+    {
+      "path": "dossiers/gov-frt-approach.md",
+      "bytes": 10580,
+      "sha256": "9d1614ba53397f7ad072bbc46aac48205109ebf7d27a97a388d2aac761f8d937"
+    },
+    {
+      "path": "dossiers/gov-gfr-procurement.md",
+      "bytes": 8700,
+      "sha256": "4d778199b94f6fe0b073361792cc3e8247310848d71a7c0364897340ca2593b9"
+    },
+    {
+      "path": "dossiers/gov-goa-draft.md",
+      "bytes": 6967,
+      "sha256": "a4548645cf3035c627146a82a89484b13b6704a1d53daace9a796552e2afb1bd"
+    },
+    {
+      "path": "dossiers/gov-gujarat-taskforce.md",
+      "bytes": 6696,
+      "sha256": "30e6fe11e0625562ed60ae199bbf4545ef5bac59ed2f8bd5c17cbac6909b1da3"
+    },
+    {
+      "path": "dossiers/gov-icmr-ai.md",
+      "bytes": 7199,
+      "sha256": "a6fb955df06b175e4ed87251e228dacf8f51ec55dc4403c347304aa86596baa7"
+    },
+    {
+      "path": "dossiers/gov-indiaai-mission.md",
+      "bytes": 6787,
+      "sha256": "3c258966b910c32a167d8cac749cb5f65ee655895e178fd28a2edf1b04737611"
+    },
+    {
+      "path": "dossiers/gov-it-rules-consolidated.md",
+      "bytes": 5797,
+      "sha256": "719fba91041d65004f7e179ddb08a58db6d9114b479bb21ac7cbf9c0c967a2b8"
+    },
+    {
+      "path": "dossiers/gov-jharkhand-draft.md",
+      "bytes": 5265,
+      "sha256": "c670a615a60adfa1ac14d37bad60d1e463c119e2e38f8daab52d2bdf3c5dee6d"
+    },
+    {
+      "path": "dossiers/gov-jk-framework.md",
+      "bytes": 4849,
+      "sha256": "18ad2d5ccd71f6b2aa5ba7670abc52d80ea2a513f10f8e09b18aa56adcb91a1f"
+    },
+    {
+      "path": "dossiers/gov-kerala-it.md",
+      "bytes": 7126,
+      "sha256": "2ccf8571d29894e2d57a610710dda0f1d04f526a0c38b082ee398e30accb625d"
+    },
+    {
+      "path": "dossiers/gov-maharashtra-ai.md",
+      "bytes": 10392,
+      "sha256": "81a26788ae4cfb98251a7c06e5688402647a209fcc1e2d9c295a787d41a78a8b"
+    },
+    {
+      "path": "dossiers/gov-medical-software.md",
+      "bytes": 9304,
+      "sha256": "f9555af82cbf70b4bac079702dd9748f83a862e1ffc16bc14b07dbf3a6db9e84"
+    },
+    {
+      "path": "dossiers/gov-meghalaya-it.md",
+      "bytes": 5065,
+      "sha256": "629c14e3c7e6980a37d8787b00d1f42f8d59dc3ab5473ddd5eb2bac7e1109e87"
+    },
+    {
+      "path": "dossiers/gov-national-strategy.md",
+      "bytes": 5344,
+      "sha256": "67b6f1485941737fd8e95848586fc50c12ff43500fa5b0312782439a0b8886f3"
+    },
+    {
+      "path": "dossiers/gov-ndgf-draft.md",
+      "bytes": 3613,
+      "sha256": "3439fcfbc0bf7d5e3c0fd07b286b69c444d4810ae334be6b6dad81a224d1b817"
+    },
+    {
+      "path": "dossiers/gov-new-delhi-declaration.md",
+      "bytes": 4146,
+      "sha256": "3102c21dcce2cccadd27bafd3c6ecc346d578a0d6bb3d990e00c2a93312bbcfb"
+    },
+    {
+      "path": "dossiers/gov-odisha-ai.md",
+      "bytes": 7740,
+      "sha256": "16a1930d2f2992b8b68e063c76ec36d7c330dca990b2041ff5114d8636f0e722"
+    },
+    {
+      "path": "dossiers/gov-rai-operational.md",
+      "bytes": 5493,
+      "sha256": "593f6bbbd8e035044ed9cc7194820133b3aedb6bfe138287ff5cdf1b44df3d2a"
+    },
+    {
+      "path": "dossiers/gov-rai-principles.md",
+      "bytes": 5507,
+      "sha256": "0c172209f472e5b830daee4d076bf0b44392f930a74d064ac4f7d8ef7605dc19"
+    },
+    {
+      "path": "dossiers/gov-rajasthan-ai.md",
+      "bytes": 7233,
+      "sha256": "73f5eba97b23882605d377ccf0c7126f9324185f053b6f631974d3e3ef9288f0"
+    },
+    {
+      "path": "dossiers/gov-rbi-freeai.md",
+      "bytes": 10093,
+      "sha256": "b3db4fa78ef3976d4a87276204b5701f95d35226dabb8c00148f363699dfd804"
+    },
+    {
+      "path": "dossiers/gov-rbi-model-risk-draft.md",
+      "bytes": 9251,
+      "sha256": "0b48637f1b50ab10b7efdc08f800f5f7f82c97f60c1756245a254e34bbbe0e3d"
+    },
+    {
+      "path": "dossiers/gov-sebi-consultation.md",
+      "bytes": 6075,
+      "sha256": "b95a7a43298e9c11ed65475a4281fe593856bccdf3951064b1d104eaf3cc6df0"
+    },
+    {
+      "path": "dossiers/gov-sebi-cyber-advisory.md",
+      "bytes": 5642,
+      "sha256": "450345bd4d3bcd4971fb4e272cb35fb38a9eec4c6768cbfb9046d865813dabfe"
+    },
+    {
+      "path": "dossiers/gov-sebi-funds.md",
+      "bytes": 5395,
+      "sha256": "f9d2224b0295f32b27bf86c74f8d1ad01e82acf5787410d7d96410af5fcf9783"
+    },
+    {
+      "path": "dossiers/gov-sebi-reporting.md",
+      "bytes": 5194,
+      "sha256": "4c5502bcd8e0df921f1ab0d73a14bfde2d84f9bf2e874863c65eebe53c63be0d"
+    },
+    {
+      "path": "dossiers/gov-sebi-responsibility.md",
+      "bytes": 5099,
+      "sha256": "27f0848f02f35992a94f0f922ee54695c0a82c1e12c9d9250dbd02411bca96ee"
+    },
+    {
+      "path": "dossiers/gov-sgi-amendment.md",
+      "bytes": 5736,
+      "sha256": "5ab0f0cfa1ec2ba33fe4418849750596f9ca54af836a3058f54109003af97ca3"
+    },
+    {
+      "path": "dossiers/gov-sgi-correction.md",
+      "bytes": 3694,
+      "sha256": "cf39db1950314033fc0101640a6788bbe92f84277ade40479c2b8f588ac4cf1a"
+    },
+    {
+      "path": "dossiers/gov-sgi-draft.md",
+      "bytes": 5050,
+      "sha256": "50863029007ca4ef383528fadfc8c614435974321acce14415cc4aa8e079a7d8"
+    },
+    {
+      "path": "dossiers/gov-sikkim-draft.md",
+      "bytes": 5413,
+      "sha256": "746a06402c8707f6df09f21fcaeb0b3c7549ee6a218d54f1ff13d44bafc75ce6"
+    },
+    {
+      "path": "dossiers/gov-supreme-court-draft.md",
+      "bytes": 8413,
+      "sha256": "f38ee1736e292cc073d21704b8c861b5925f9031ec17cbd097adab5860448e88"
+    },
+    {
+      "path": "dossiers/gov-telangana-strategy.md",
+      "bytes": 9426,
+      "sha256": "9141d617aedfccebc5c701a6a6a79fb42a59d70536b0cae8f9de963e7a40d155"
+    },
+    {
+      "path": "dossiers/gov-telemedicine.md",
+      "bytes": 6828,
+      "sha256": "9ed0d2d6e0d13d919e9f7d52d2dfaadfbda97b4ae8f7c17ee425e2a3b843c584"
+    },
+    {
+      "path": "dossiers/gov-tn-ethical.md",
+      "bytes": 8682,
+      "sha256": "4df39d20d2ea07590e6a65ad2b568bde2b7a44d92f7405401ffdda32e3333743"
+    },
+    {
+      "path": "dossiers/gov-tn-mission.md",
+      "bytes": 6805,
+      "sha256": "ab8ef24fc735b000fce49ad415d51c6f0b105b41e5252f959b505f33955c4ba9"
+    },
+    {
+      "path": "dossiers/gov-tpec-constitution.md",
+      "bytes": 4335,
+      "sha256": "7e7700690ee31cbee57595f40004333845ec95b4c8cfd253bd020cd91ae0887b"
+    },
+    {
+      "path": "dossiers/gov-uttarakhand-mission.md",
+      "bytes": 3952,
+      "sha256": "ee32904d88dbee0f10950844b09f914e56083f44d11e2ef44ae96f99a2874652"
+    },
+    {
+      "path": "evidence.csv",
+      "bytes": 73550,
+      "sha256": "28a29b5b24d89f47e64ae3134e4b72f88cfdff14cccb807777333ecfb28e1b96"
+    },
+    {
+      "path": "instrument_domains.csv",
+      "bytes": 48835,
+      "sha256": "4442ca333a6fff26836dc6221b24ea602a9d151caa36801e03cd6cd4ba072ead"
+    },
+    {
+      "path": "instrument_relationships.csv",
+      "bytes": 3381,
+      "sha256": "2bbd97bd211218eac4d46ad73f2c3c4e5030c98dedf13038afcd4cdd414e11d1"
+    },
+    {
+      "path": "instrument_sources.csv",
+      "bytes": 5298,
+      "sha256": "3edee9f0167c853af92bd086b398b42a0de591885d4cb78bf7084f6070944fdb"
+    },
+    {
+      "path": "instruments.csv",
+      "bytes": 86153,
+      "sha256": "e0a98210edb171e20bbd3a263131d5da1e715f6a65fd58c173c6caaed064afb9"
+    },
+    {
+      "path": "jurisdiction_coverage.csv",
+      "bytes": 20706,
+      "sha256": "616857e25339f31314501e15910b0016df8860367e2aa8aa0e0f4965138ca746"
+    },
+    {
+      "path": "provisions.csv",
+      "bytes": 115093,
+      "sha256": "f2808e01ace4e338b0b82d95327b65968144837b01a4ef1f73220b2fff3ca988"
+    },
+    {
+      "path": "queries.sql",
+      "bytes": 1697,
+      "sha256": "890ac752cd61f5b845456f9c23d3e668bafa2c485a0dba9205be2a463f7d9af5"
+    },
+    {
+      "path": "quote-audit.json",
+      "bytes": 29798,
+      "sha256": "cccd473f7c15b4d03e381295419c4c98f66254acbaa28ba9e5f2456b2e9a19dd"
+    },
+    {
+      "path": "retrieval-log.json",
+      "bytes": 64992,
+      "sha256": "bee678151bca107248c290e7b15229396e16bd1e302f719bd801acf78dadde8c"
+    },
+    {
+      "path": "schema.json",
+      "bytes": 5630,
+      "sha256": "77d77c26148f325ffbd798c0320aa510091286a2648503d8bc215eed0cdd60cf"
+    },
+    {
+      "path": "schema.sql",
+      "bytes": 3929,
+      "sha256": "f02812a50a628b468fdba6640e887460751b8845798f4652b348fcbcc62eaac8"
+    },
+    {
+      "path": "search-leads.json",
+      "bytes": 291577,
+      "sha256": "d2a37fabf7e838f5a5a05ec02d6597b19f098041f73d58d2167eb04ae9663d49"
+    },
+    {
+      "path": "search-log.json",
+      "bytes": 22393,
+      "sha256": "330faf5e5888eebef93d9e42de892bfec2f2aec35958cc69994ec49e364bf2c7"
+    },
+    {
+      "path": "sources/govsrc-016360a029aec1ed.md",
+      "bytes": 2176,
+      "sha256": "8c1766edfec78f6c20cbcb5a2051c2652c2750f8edcf0bc7a7064857e4153784"
+    },
+    {
+      "path": "sources/govsrc-08c44cd72d3ce694.md",
+      "bytes": 836,
+      "sha256": "ff5e6a77fd5f068c9cc8d42cd7cfac5a026b3a68cf99294c36b0c9b14b6d8b4e"
+    },
+    {
+      "path": "sources/govsrc-0ecb5371c65f2c8f.md",
+      "bytes": 2757,
+      "sha256": "bdd31472d2c4ee527a17c5337e842efe6653ead8bb50f8470dbbd5e5ade7faf3"
+    },
+    {
+      "path": "sources/govsrc-1091c838d2ab4ac9.md",
+      "bytes": 1126,
+      "sha256": "92311cee9206b33eb86f82b4de65a6df01427dc7215d968a8dbff9511b19d81c"
+    },
+    {
+      "path": "sources/govsrc-187bfaaa93161359.md",
+      "bytes": 912,
+      "sha256": "59d6f30cde0074c371d62b6a12e5cfe25fa07159c330c6c77d742ae0ca6c647b"
+    },
+    {
+      "path": "sources/govsrc-1898bfc61c2db32b.md",
+      "bytes": 1718,
+      "sha256": "5161200ac05fd9f9f065ed3398f4b5b612a74913bd98c07c4f34fb1908405303"
+    },
+    {
+      "path": "sources/govsrc-1fa3861a01ecd072.md",
+      "bytes": 3114,
+      "sha256": "ac27aa16b8e680564881f4190dd93257f7cab2605ef1aa23f69cf73a5ca4d274"
+    },
+    {
+      "path": "sources/govsrc-2166ba1dbb677a10.md",
+      "bytes": 1024,
+      "sha256": "9b63cb4b3db80f89a1db78577fa663aa95413d6b835dfcde9c31a1b8f985b692"
+    },
+    {
+      "path": "sources/govsrc-237de5fdfdb14826.md",
+      "bytes": 1293,
+      "sha256": "c8cbc57d47756d775d381b80fca07883a41a1170142869f24ce73f4a8735e42f"
+    },
+    {
+      "path": "sources/govsrc-27da8308446e4d2c.md",
+      "bytes": 2547,
+      "sha256": "31bc867ef3d610f4263a25794e1dd956645107c9a1a062631f5c23d8efcfe5ec"
+    },
+    {
+      "path": "sources/govsrc-2e6f22e2653285d9.md",
+      "bytes": 3210,
+      "sha256": "3947db3b16de7071b810044dc1c982c5a91a462f2b25ef49adfe819a78f80596"
+    },
+    {
+      "path": "sources/govsrc-2e800bcbb1e7e824.md",
+      "bytes": 2320,
+      "sha256": "5f3a27668d2d86e45f86727b7441931bbb7f4b348ec15f354176d06b0d80ee72"
+    },
+    {
+      "path": "sources/govsrc-35445437af206a94.md",
+      "bytes": 2001,
+      "sha256": "bdf09fabbf988d983bd5b31ec91ed262d1fcf0e35f2a5cc871a9d46e09433456"
+    },
+    {
+      "path": "sources/govsrc-3ec6155eb48cd541.md",
+      "bytes": 1946,
+      "sha256": "2a19ba040f3fafbb3072e215c03957444cba9a93ed91f721465ded7659946f2c"
+    },
+    {
+      "path": "sources/govsrc-43e8a665360c732d.md",
+      "bytes": 980,
+      "sha256": "27b4175be0531317b1e7338ff9e30716a7eb6d95768e0ab1f930de000cacfb5c"
+    },
+    {
+      "path": "sources/govsrc-44a3679573cd8e18.md",
+      "bytes": 1943,
+      "sha256": "36cb86712a44714304dadf4c296892fbf22e826168561c78375b4450278a9f7c"
+    },
+    {
+      "path": "sources/govsrc-45167c1e39a57c29.md",
+      "bytes": 2417,
+      "sha256": "3aad5bf7c9626a64a900b4d5bb4415622b90bf2c1f9bd8d73c098448848b5f95"
+    },
+    {
+      "path": "sources/govsrc-46464492e589affc.md",
+      "bytes": 2117,
+      "sha256": "51c59a62db0ac667be8a71fe4f93aeda6bdc49ce13d9fd3a6c24d2b4e5214a20"
+    },
+    {
+      "path": "sources/govsrc-4729aee562e871c9.md",
+      "bytes": 2662,
+      "sha256": "c140ea2f46c13d4e09c5fd910b75be2aad6277ee24d74a2a5351ce4f18b753bb"
+    },
+    {
+      "path": "sources/govsrc-4adb1d3646d68c6a.md",
+      "bytes": 774,
+      "sha256": "6eeb5633082dcbe2232c9ceb6ed4be6b2ea38e529f8bab680dea501c4c2f557d"
+    },
+    {
+      "path": "sources/govsrc-4e1902732135828f.md",
+      "bytes": 2328,
+      "sha256": "09b01425dbce42f7bae1249c4020996e06f38dba19d7677a5fc6d2b5b5055c84"
+    },
+    {
+      "path": "sources/govsrc-4eeff4dfc7498bf6.md",
+      "bytes": 2595,
+      "sha256": "ce033f88e656dddc5d0db74a9f399af49406cca1153863b16ebf5e9b5ac44cb8"
+    },
+    {
+      "path": "sources/govsrc-569d2cc75dfb3e9f.md",
+      "bytes": 2212,
+      "sha256": "8dc84c354c72c3d0b09d29e46f108ae4f3ae64932fc0cdeb9f219caad99778f1"
+    },
+    {
+      "path": "sources/govsrc-5a98fb4d9c47d0cc.md",
+      "bytes": 2930,
+      "sha256": "94a49b9af0224de89bc5b4661c64a1a857f2612d0572deb6a362ccd8b6dfee3d"
+    },
+    {
+      "path": "sources/govsrc-5b037ed8d974be63.md",
+      "bytes": 2424,
+      "sha256": "435ad20ac3803d0be20fe53d9be99cc9b967d227c4eb9cfa478586bbb1edfaf4"
+    },
+    {
+      "path": "sources/govsrc-5d28f4aa0893d572.md",
+      "bytes": 2277,
+      "sha256": "7d80333bd70640ea6dd204eae6a3f1767777df8bcbd45f8c302344a9c5ae8ca7"
+    },
+    {
+      "path": "sources/govsrc-5eba31f239b24919.md",
+      "bytes": 2408,
+      "sha256": "e3fd8f1119a42c2698d9abef016ee812fc0254b916b699b5cae112f587bf7c07"
+    },
+    {
+      "path": "sources/govsrc-6b97c8246581a9b0.md",
+      "bytes": 2138,
+      "sha256": "9a604ac491b145a2d5bfa30c8243b2f1d94331a5d3e5a4add1cb5c1138f4a137"
+    },
+    {
+      "path": "sources/govsrc-6c52dcc0115a1b5a.md",
+      "bytes": 2819,
+      "sha256": "31efe97865169c7624d7e3fbceef5e6a8e70e8c3c0a898b7f8b9ff1e08c3aaad"
+    },
+    {
+      "path": "sources/govsrc-73b24f340d15cf23.md",
+      "bytes": 3019,
+      "sha256": "d24b30524aa8bfd2cd02f7de8b39801c31770f3831429cf183afb14f41d579e6"
+    },
+    {
+      "path": "sources/govsrc-765c44063e18762b.md",
+      "bytes": 2028,
+      "sha256": "1218f61682ac8b26a521464dea1b4f570c8a97fd25723eef14d5201876123369"
+    },
+    {
+      "path": "sources/govsrc-7931c87970eece57.md",
+      "bytes": 2292,
+      "sha256": "d80a36d89d9b0dfbccfcd3f72ade80acf9d93b4395087c88f0129f1e26d668d6"
+    },
+    {
+      "path": "sources/govsrc-7d5c821cbd4d99a0.md",
+      "bytes": 2571,
+      "sha256": "b8d560e3120da97509af251fe8a718ea8620d23cb5ce8aed0858a136fa729a80"
+    },
+    {
+      "path": "sources/govsrc-7edad807cdde66c7.md",
+      "bytes": 2305,
+      "sha256": "2c01433bfdc2bf6310e93b6035ad345ef41398f9316caeedc32b5b6d545885f9"
+    },
+    {
+      "path": "sources/govsrc-8612442c39d5f850.md",
+      "bytes": 2403,
+      "sha256": "41fc444c65fa6170070a0d2526aa2ab22fa40fe8f7d055b2f5779a35b24ca074"
+    },
+    {
+      "path": "sources/govsrc-8b8c4d1f5fe82b42.md",
+      "bytes": 2062,
+      "sha256": "1ab8ce5fb67aae19c069f8a6c0c1bbb9e70ab892fb66c99d58b896a3b93ade70"
+    },
+    {
+      "path": "sources/govsrc-8f6a15786771c15d.md",
+      "bytes": 2751,
+      "sha256": "37ef0d9ccdf96472e5eb2fc0e02da5a60eb3fcd7b9b99396c7dc91c4bd1b8a87"
+    },
+    {
+      "path": "sources/govsrc-907a3b1248416291.md",
+      "bytes": 2573,
+      "sha256": "332427378c18d3ce9e64212d3953788a2a4e2d2ae043096e099b526229674038"
+    },
+    {
+      "path": "sources/govsrc-930d62850557facf.md",
+      "bytes": 2036,
+      "sha256": "ae75739ac16eb7c49cc856ae75dbfac698ef72f82e6d64a76cd461304b707905"
+    },
+    {
+      "path": "sources/govsrc-944996a581177c67.md",
+      "bytes": 774,
+      "sha256": "f90b692c18cc6d5bd8ccfe6bfe4412a969bfcd95fa9bf27a2ac6f13649a9d13f"
+    },
+    {
+      "path": "sources/govsrc-95273940e8153101.md",
+      "bytes": 2660,
+      "sha256": "41634c9b8a205d804eb03f18753c38534aa85bf9f4f3fc410eeef321255dd83d"
+    },
+    {
+      "path": "sources/govsrc-97d49cd8eb508473.md",
+      "bytes": 2494,
+      "sha256": "63a57d115ba1dc4df93c2f3a424cb7816199aae29453647d09e8b209198cbee6"
+    },
+    {
+      "path": "sources/govsrc-9801a4d0c997ad7e.md",
+      "bytes": 2407,
+      "sha256": "525f58cdd64266c9d70e16df312a4df56b8c52f722d406837a45de9c50dfb67e"
+    },
+    {
+      "path": "sources/govsrc-a1e711bb0afc39cc.md",
+      "bytes": 3001,
+      "sha256": "03b6a609a1811c6574dfcbab35c38743e97d5ab1382568b5fccfd8c813c8d9bd"
+    },
+    {
+      "path": "sources/govsrc-a44e74c889ae10eb.md",
+      "bytes": 2148,
+      "sha256": "a75d061b1328956981aae9c9fa8648d5b7de2a5cd342add8ae0b1be779747258"
+    },
+    {
+      "path": "sources/govsrc-b49add35547558e3.md",
+      "bytes": 2984,
+      "sha256": "92a3f84e3dc1becb71d14cb013919b614b83f90594f2d082153198b8def65038"
+    },
+    {
+      "path": "sources/govsrc-b87b4f0e52af1384.md",
+      "bytes": 2908,
+      "sha256": "1392ccb7cfac926e73593a94c27ab58f20fdebef45fae0d724798ce1bb56082a"
+    },
+    {
+      "path": "sources/govsrc-be55e7913d18ad46.md",
+      "bytes": 2143,
+      "sha256": "efcfd82b11f273da9b793ef0e82ef35499419d5d956eda264108de2d901217c4"
+    },
+    {
+      "path": "sources/govsrc-c51b075e014bf8e7.md",
+      "bytes": 2944,
+      "sha256": "f7ef3e49a56321d3083e5e299aeaeba072ff28cd0bbf983b3d0cace6315c0d4e"
+    },
+    {
+      "path": "sources/govsrc-d36ee5b660ada3ed.md",
+      "bytes": 2266,
+      "sha256": "3fdb7f5e19021ed2b04cea3da1d0b511d29a108b13355c0f86fd24de1e561d24"
+    },
+    {
+      "path": "sources/govsrc-da3af52f5aa2daea.md",
+      "bytes": 2331,
+      "sha256": "a087a1a17cfa2bd36aeed12bfd203d7e10562a3433cbfd326c2c6cab79401c48"
+    },
+    {
+      "path": "sources/govsrc-e37354c90e076f28.md",
+      "bytes": 2878,
+      "sha256": "f0703ca8a796b9f85716a7e680e896fcf41924146cf936d71346997b9941a721"
+    },
+    {
+      "path": "sources/govsrc-ef1a2c7c8e7e732e.md",
+      "bytes": 1445,
+      "sha256": "3a0be5fded00083ae35d8421f0fcad29a2a329af7ec900856bed8d2aeec27b68"
+    },
+    {
+      "path": "sources/govsrc-f45281b451df9bec.md",
+      "bytes": 686,
+      "sha256": "49d0ee42613e6701543cd23590031a5082c10b82a0ec30948ff9a1dc7ef4fd1b"
+    },
+    {
+      "path": "sources/govsrc-fb8ebf6a306a261c.md",
+      "bytes": 1482,
+      "sha256": "95ab99aab825dd1f829b76e9f263cff9b3e424ea31e6295b5cf6eeea50264e68"
+    },
+    {
+      "path": "sources/govsrc-fdb85473d7ef4dc6.md",
+      "bytes": 1048,
+      "sha256": "05e8f3853763df7137cca9aba592bd8f1470079be88dfc3908afec02781f3906"
+    },
+    {
+      "path": "sources.csv",
+      "bytes": 20678,
+      "sha256": "e4af5b8f4584a81c6ebba12ff3c1b49a280f0df73fbfd977dc03a7dc603b8104"
+    },
+    {
+      "path": "system_keys.csv",
+      "bytes": 15916,
+      "sha256": "0730396305de6f00632b2c8e6a391c929159a7faf239062dd69fdd4234d5165b"
+    },
+    {
+      "path": "system_links.csv",
+      "bytes": 65749,
+      "sha256": "c86e66d5a0e30abf2167e51da53d7ea8140eafc8d63891dade410e984e2cdc05"
+    }
+  ],
+  "counts": {
+    "instruments": 52,
+    "instrument_domains": 320,
+    "provisions": 260,
+    "sources": 56,
+    "instrument_sources": 56,
+    "evidence": 289,
+    "system_links": 95,
+    "instrument_relationships": 14,
+    "jurisdiction_coverage": 37,
+    "candidate_decisions": 13,
+    "system_keys": 144
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "counts": {
+    "instruments": 52,
+    "instrument_domains": 320,
+    "provisions": 260,
+    "sources": 56,
+    "instrument_sources": 56,
+    "evidence": 289,
+    "system_links": 95,
+    "instrument_relationships": 14,
+    "jurisdiction_coverage": 37,
+    "candidate_decisions": 13,
+    "system_keys": 144
+  },
+  "status_counts": {
+    "Adopted / formally constituted": 7,
+    "Draft / consultation": 8,
+    "Enacted / notified": 13,
+    "Historical / predecessor": 4,
+    "Historical mandate / renewal unverified": 1,
+    "Issued regulatory advisory / circular": 1,
+    "Official launch / full text unreviewed": 1,
+    "Procurement requirements / award unverified": 1,
+    "Proposed framework / adoption unverified": 1,
+    "Published policy / adoption unverified": 1,
+    "Published policy / commencement unverified": 1,
+    "Published professional guidelines": 1,
+    "Published recommendations / guidance": 9,
+    "Published state policy": 1,
+    "Published state policy / notification date unverified": 1,
+    "Published state strategy": 1
+  },
+  "linked_systems": 54,
+  "linked_instruments": 26,
+  "instrument_families": 44,
+  "subnational_jurisdictions": 14,
+  "search_queries": 157,
+  "search_hits": 948,
+  "retrieval_receipts": 136,
+  "independently_verified_implementation": 0,
+  "interpretation": "Selected-document counts, not national prevalence, compliance scores or verified deployment coverage"
+}

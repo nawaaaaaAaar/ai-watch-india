@@ -1,0 +1,14 @@
+decision_id,candidate,decision,reason
+decision-1,UGC AI guidelines URL,Deferred,"Retrieved maintenance/access-denied page, not substantive guidelines."
+decision-2,Rajasthan Policy2026 presentation,Context only,Official presentation is not full policy; linked scanned full document retrieved separately and OCR-reviewed.
+decision-3,ICMR AI PDF error page,Deferred full-text coding,Official publication outline retained; failed PDF content not treated as guidelines.
+decision-4,March 2024 MeitY AI advisories,Deferred primary text,"Secondary accounts and non-official mirrors found; original issuing-government text not established, so no inferred current approval obligation."
+decision-5,CBSE AI curriculum circular,Excluded from deployment-accountability core,"Formal curriculum introduction, not general governance of institutional AI deployment."
+decision-6,AP startup/industrial policy,Context only,General investment/startup instruments not included merely for AI references.
+decision-7,Digital Agriculture Mission,Context only,Official mission approval reviewed; programme digitisation not automatically AI-specific accountability instrument.
+decision-8,Karnataka AI/IT policy,Deferred primary text,Official/catalogue leads preserved; no adopted full text reviewed.
+decision-9,West Bengal AI/ML guidelines,Deferred primary text,Official catalogue title without substantive source text.
+decision-10,Maharashtra English Draft annexure,Included with conflict qualification,Covering government resolution promulgates annexures; internal Draft label retained as version-control limitation.
+decision-11,Sikkim hereby adopts wording,Included as draft,Official dated consultation invitation controls; draft preamble cannot establish adoption.
+decision-12,Gujarat one-year AI Taskforce,Included as historical mandate,Renewal/continued operations after initial term not established.
+decision-13,SEBI own SEVA/SUDARSAN tools,No automatic instrument link,Regulated-person/intermediary AI obligations are not automatically duties governing regulator's own tools.

@@ -1,0 +1,33 @@
+# What the linked AI governance layer reveals
+
+AI Watch can now connect governance texts to selected system records without collapsing recommendations, legal duties and implementation evidence into a single “governed” label. The release contains 52 document/version records, 95 typed system associations and 260 complete coding slots; these are descriptive counts of this curated collection, not national prevalence or a measure of compliance.
+
+## Publication is not the same as an operative obligation
+
+India's AI Governance Guidelines describe a flexible, principle-based framework rather than a prescriptive set of new obligations; their oversight recommendations therefore cannot be read as verified audits of the systems linked to them ([official guidelines](https://www.psa.gov.in/CMS/web/sites/default/files/publication/India%20Al%20Governance%20Guidelines%205%C2%A0Nov%C2%A02025.pdf)). The DPDP final Rules separately state staged commencement: several rules commence on publication, rule 4 after one year, and another group after eighteen months, so publication of the entire document does not make every included duty immediately operative ([notified Rules](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf)).
+
+The RBI's newer model-risk material is explicitly draft guidance, even though it describes board oversight, independent validation and third-party model controls in considerable detail ([draft guidance](https://rbidocs.rbi.org.in/rdocs/Content/PDFs/DRAFTGUIDANCE24062026FF12A4FF7BC84E8887009D5C5365F8BF.PDF)). Its links to selected banking systems are questions about conditional scope, not claims that those systems already have the proposed controls. Researchers need both a document-status filter and commencement wording before generating a list of apparent duties.
+
+## The useful next question is whether promised controls leave records
+
+Tamil Nadu's ethical AI policy describes assessment frameworks, procurement considerations and a monitoring committee, which creates concrete records a researcher can seek rather than merely a general commitment to “responsible AI” ([ethical AI policy](https://it.tn.gov.in/sites/default/files/2021-06/TN_Safe_Ethical_AI_policy_2020.pdf)). The layer does not establish that a particular linked system has an assessment score, completed vendor checklist or committee review. Those are implementation-evidence gaps, not findings that the procedures never occurred.
+
+The Andhra Pradesh High Court order is much more directly linked: it requires Adalat AI use from 1 October 2026, permits documented technical exceptions and calls for reporting ([court order](https://aphc.gov.in/docs/notification_1785225296_0.pdf)). That supports a named-system direction, but not a verified count of complying courtrooms, accurate transcripts or effective appeals. Keeping direct directions apart from state-policy relevance prevents a stronger link from lending false certainty to weaker ones.
+
+## Procurement can connect policy to inspectable technical evidence
+
+Rajasthan's AI/ML policy calls for AI-component transparency through AI bills of materials and refers to CERT-In guidance, alongside review and accountability mechanisms ([Rajasthan policy](https://ai.rajasthan.gov.in/policy/AI%20ML%20POLICY.pdf)). CERT-In's technical document provides AI BOM recommendations addressing model components, data provenance and other information useful for review ([technical guidance, version 2](https://www.cert-in.org.in/PDF/TechnicalGuidelines-on-SBOM,QBOM&CBOM,AIBOM_and_HBOM_ver2.0.pdf)). The documented reference is useful for tracing procurement requirements, but it does not make every CERT-In recommendation an independently established statutory duty or prove any vendor supplied a usable inventory.
+
+CAG's AI-platform EOI names PARAS and PARAKH functions, specifies human final authority and proposes proof-of-concept evaluation and selection procedures ([CAG EOI](https://cag.gov.in/uploads/tenders/tenders-EOI-for-Establishment-of-Sovereign-AI-Platform-for-CAG-of-India-069fb031304a1b8-89068885.pdf)). This gives the existing system dossiers a procurement-stage governance anchor; the next missing evidence is the award, executed terms, test results and actual operation, not another repetition of the announcement. An EOI's proposed evaluation is not an evaluation result.
+
+## Covering records and scope matter more than confident labels
+
+Maharashtra's covering resolution adopts its policy even though an English annexure retains a draft label, making the covering act important to status coding ([official resolution and annexures](https://cdnbbsr.s3waas.gov.in/s3ffedf5be3a86e2ee281d54cdc97bc1cf/uploads/2026/07/202607071486006862.pdf)). Conversely, Sikkim's official invitation describes public consultation on a draft despite adoption-like wording within the text ([official consultation record](https://www.sikkim.gov.in/beinvolved/information-technology-department/20006)). A title, internal “shall” or upload year is insufficient to determine adoption.
+
+SEBI's AI responsibility regulation addresses regulated persons using AI, while its cybersecurity advisory is directed to regulated entities; neither is automatically a rule governing SEBI's own research assistants or grievance chatbot ([responsibility regulation](https://www.sebi.gov.in/sebi_data/attachdocs/feb-2025/1739276753544.pdf), [cybersecurity advisory](https://cybersuraksha-ai.sebi.gov.in/documents/48365173/0/Advisory+on+AI.pdf/0ccb30be-015d-f7dc-2b28-8741bf260556?t=1786862751961)). The absence of those automatic links is a methodological safeguard, not missing website functionality.
+
+## What this enables, and what remains unproven
+
+The practical contribution is a reproducible way to ask which selected systems have directly named requirements, which have only jurisdictional or domain relevance, which linked controls are still draft, and which implementation records would be needed to test compliance. The SQL examples preserve these distinctions instead of returning a misleading national accountability score.
+
+The geographical screen covers the Centre, all states and all union territories, but included subnational documents represent only 14 jurisdictions. Four instruments remain official-outline-only, retrieval recovery includes cached material, and the coding has one analyst rather than independent reviewers. The major gap is not simply more policies: it is verified links from textual commitments to completed assessments, procurement performance, oversight activity and remedies actually available to affected people. Independent recoding and targeted institution-level evidence collection should precede stronger comparative conclusions.

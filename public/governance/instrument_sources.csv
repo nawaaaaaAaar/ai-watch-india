@@ -1,0 +1,57 @@
+instrument_source_id,instrument_id,source_id,role
+gov-aadhaar-regulations-primary,gov-aadhaar-regulations,govsrc-7edad807cdde66c7,Primary reviewed text
+gov-ai-consultation-primary,gov-ai-consultation,govsrc-4e1902732135828f,Primary reviewed text
+gov-ai-guidelines-primary,gov-ai-guidelines,govsrc-2e6f22e2653285d9,Primary reviewed text
+gov-ai-guidelines-status-source,gov-ai-guidelines,govsrc-944996a581177c67,Official publication/consultation status evidence
+gov-aigeg-order-primary,gov-aigeg-order,govsrc-930d62850557facf,Primary reviewed text
+gov-ap-court-order-primary,gov-ap-court-order,govsrc-569d2cc75dfb3e9f,Primary reviewed text
+gov-cag-ai-eoi-primary,gov-cag-ai-eoi,govsrc-8f6a15786771c15d,Primary reviewed text
+gov-cert-aibom-primary,gov-cert-aibom,govsrc-907a3b1248416291,Primary reviewed text
+gov-cert-directions-primary,gov-cert-directions,govsrc-44a3679573cd8e18,Primary reviewed text
+gov-cert-extension-primary,gov-cert-extension,govsrc-fb8ebf6a306a261c,Primary reviewed text
+gov-dpdp-act-primary,gov-dpdp-act,govsrc-45167c1e39a57c29,Primary reviewed text
+gov-dpdp-commencement-primary,gov-dpdp-commencement,govsrc-43e8a665360c732d,Primary reviewed text
+gov-dpdp-correction-primary,gov-dpdp-correction,govsrc-fdb85473d7ef4dc6,Primary reviewed text
+gov-dpdp-draft-primary,gov-dpdp-draft,govsrc-5d28f4aa0893d572,Primary reviewed text
+gov-dpdp-rules-primary,gov-dpdp-rules,govsrc-765c44063e18762b,Primary reviewed text
+gov-frt-approach-primary,gov-frt-approach,govsrc-5a98fb4d9c47d0cc,Primary reviewed text
+gov-gfr-procurement-primary,gov-gfr-procurement,govsrc-73b24f340d15cf23,Primary reviewed text
+gov-goa-draft-primary,gov-goa-draft,govsrc-8612442c39d5f850,Primary reviewed text
+gov-goa-draft-status-source,gov-goa-draft,govsrc-f45281b451df9bec,Official publication/consultation status evidence
+gov-gujarat-taskforce-primary,gov-gujarat-taskforce,govsrc-a1e711bb0afc39cc,Primary reviewed text
+gov-icmr-ai-primary,gov-icmr-ai,govsrc-1898bfc61c2db32b,Primary reviewed text
+gov-indiaai-mission-primary,gov-indiaai-mission,govsrc-5b037ed8d974be63,Primary reviewed text
+gov-it-rules-consolidated-primary,gov-it-rules-consolidated,govsrc-d36ee5b660ada3ed,Primary reviewed text
+gov-jharkhand-draft-primary,gov-jharkhand-draft,govsrc-2e800bcbb1e7e824,Primary reviewed text
+gov-jharkhand-draft-status-source,gov-jharkhand-draft,govsrc-08c44cd72d3ce694,Official publication/consultation status evidence
+gov-jk-framework-primary,gov-jk-framework,govsrc-35445437af206a94,Primary reviewed text
+gov-kerala-it-primary,gov-kerala-it,govsrc-6b97c8246581a9b0,Primary reviewed text
+gov-maharashtra-ai-primary,gov-maharashtra-ai,govsrc-97d49cd8eb508473,Primary reviewed text
+gov-medical-software-primary,gov-medical-software,govsrc-b49add35547558e3,Primary reviewed text
+gov-meghalaya-it-primary,gov-meghalaya-it,govsrc-016360a029aec1ed,Primary reviewed text
+gov-national-strategy-primary,gov-national-strategy,govsrc-95273940e8153101,Primary reviewed text
+gov-ndgf-draft-primary,gov-ndgf-draft,govsrc-187bfaaa93161359,Primary reviewed text
+gov-new-delhi-declaration-primary,gov-new-delhi-declaration,govsrc-237de5fdfdb14826,Primary reviewed text
+gov-odisha-ai-primary,gov-odisha-ai,govsrc-8b8c4d1f5fe82b42,Primary reviewed text
+gov-rai-operational-primary,gov-rai-operational,govsrc-4729aee562e871c9,Primary reviewed text
+gov-rai-principles-primary,gov-rai-principles,govsrc-6c52dcc0115a1b5a,Primary reviewed text
+gov-rajasthan-ai-primary,gov-rajasthan-ai,govsrc-7d5c821cbd4d99a0,Primary reviewed text
+gov-rbi-freeai-primary,gov-rbi-freeai,govsrc-e37354c90e076f28,Primary reviewed text
+gov-rbi-model-risk-draft-primary,gov-rbi-model-risk-draft,govsrc-0ecb5371c65f2c8f,Primary reviewed text
+gov-sebi-consultation-primary,gov-sebi-consultation,govsrc-b87b4f0e52af1384,Primary reviewed text
+gov-sebi-cyber-advisory-primary,gov-sebi-cyber-advisory,govsrc-be55e7913d18ad46,Primary reviewed text
+gov-sebi-funds-primary,gov-sebi-funds,govsrc-5eba31f239b24919,Primary reviewed text
+gov-sebi-reporting-primary,gov-sebi-reporting,govsrc-da3af52f5aa2daea,Primary reviewed text
+gov-sebi-responsibility-primary,gov-sebi-responsibility,govsrc-a44e74c889ae10eb,Primary reviewed text
+gov-sgi-amendment-primary,gov-sgi-amendment,govsrc-27da8308446e4d2c,Primary reviewed text
+gov-sgi-correction-primary,gov-sgi-correction,govsrc-2166ba1dbb677a10,Primary reviewed text
+gov-sgi-draft-primary,gov-sgi-draft,govsrc-3ec6155eb48cd541,Primary reviewed text
+gov-sikkim-draft-primary,gov-sikkim-draft,govsrc-9801a4d0c997ad7e,Primary reviewed text
+gov-sikkim-draft-status-source,gov-sikkim-draft,govsrc-4adb1d3646d68c6a,Official publication/consultation status evidence
+gov-supreme-court-draft-primary,gov-supreme-court-draft,govsrc-c51b075e014bf8e7,Primary reviewed text
+gov-telangana-strategy-primary,gov-telangana-strategy,govsrc-1fa3861a01ecd072,Primary reviewed text
+gov-telemedicine-primary,gov-telemedicine,govsrc-4eeff4dfc7498bf6,Primary reviewed text
+gov-tn-ethical-primary,gov-tn-ethical,govsrc-7931c87970eece57,Primary reviewed text
+gov-tn-mission-primary,gov-tn-mission,govsrc-46464492e589affc,Primary reviewed text
+gov-tpec-constitution-primary,gov-tpec-constitution,govsrc-ef1a2c7c8e7e732e,Primary reviewed text
+gov-uttarakhand-mission-primary,gov-uttarakhand-mission,govsrc-1091c838d2ab4ac9,Primary reviewed text

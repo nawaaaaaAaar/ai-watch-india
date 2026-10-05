@@ -1,0 +1,321 @@
+domain_id,instrument_id,domain,basis
+gov-aadhaar-regulations-d1,gov-aadhaar-regulations,Aadhaar authentication,Analyst classification of expressly described scope; not applicability certification
+gov-aadhaar-regulations-d2,gov-aadhaar-regulations,Offline identity verification,Analyst classification of expressly described scope; not applicability certification
+gov-aadhaar-regulations-d3,gov-aadhaar-regulations,Identity data protection,Analyst classification of expressly described scope; not applicability certification
+gov-ai-consultation-d1,gov-ai-consultation,Whole-of-government AI governance,Analyst classification of expressly described scope; not applicability certification
+gov-ai-consultation-d2,gov-ai-consultation,AI lifecycle and ecosystem governance,Analyst classification of expressly described scope; not applicability certification
+gov-ai-consultation-d3,gov-ai-consultation,Transparency and responsibility,Analyst classification of expressly described scope; not applicability certification
+gov-ai-consultation-d4,gov-ai-consultation,AI incident reporting,Analyst classification of expressly described scope; not applicability certification
+gov-ai-consultation-d5,gov-ai-consultation,Risk assessment and testing,Analyst classification of expressly described scope; not applicability certification
+gov-ai-consultation-d6,gov-ai-consultation,Synthetic media and deepfakes,Analyst classification of expressly described scope; not applicability certification
+gov-ai-consultation-d7,gov-ai-consultation,Cybersecurity,Analyst classification of expressly described scope; not applicability certification
+gov-ai-consultation-d8,gov-ai-consultation,Intellectual property,Analyst classification of expressly described scope; not applicability certification
+gov-ai-consultation-d9,gov-ai-consultation,Bias and discrimination,Analyst classification of expressly described scope; not applicability certification
+gov-ai-consultation-d10,gov-ai-consultation,Grievance redress and adjudication,Analyst classification of expressly described scope; not applicability certification
+gov-ai-guidelines-d1,gov-ai-guidelines,Infrastructure,Analyst classification of expressly described scope; not applicability certification
+gov-ai-guidelines-d2,gov-ai-guidelines,Capacity building,Analyst classification of expressly described scope; not applicability certification
+gov-ai-guidelines-d3,gov-ai-guidelines,Policy and regulation,Analyst classification of expressly described scope; not applicability certification
+gov-ai-guidelines-d4,gov-ai-guidelines,Risk mitigation,Analyst classification of expressly described scope; not applicability certification
+gov-ai-guidelines-d5,gov-ai-guidelines,Accountability,Analyst classification of expressly described scope; not applicability certification
+gov-ai-guidelines-d6,gov-ai-guidelines,Institutions,Analyst classification of expressly described scope; not applicability certification
+gov-aigeg-order-d1,gov-aigeg-order,AI governance,Analyst classification of expressly described scope; not applicability certification
+gov-aigeg-order-d2,gov-aigeg-order,Cross-ministry and sectoral coordination,Analyst classification of expressly described scope; not applicability certification
+gov-aigeg-order-d3,gov-aigeg-order,Responsible AI innovation and deployment,Analyst classification of expressly described scope; not applicability certification
+gov-aigeg-order-d4,gov-aigeg-order,AI risks and regulatory gaps,Analyst classification of expressly described scope; not applicability certification
+gov-aigeg-order-d5,gov-aigeg-order,Labour-market impacts of AI,Analyst classification of expressly described scope; not applicability certification
+gov-ap-court-order-d1,gov-ap-court-order,Judicial proceedings,Analyst classification of expressly described scope; not applicability certification
+gov-ap-court-order-d2,gov-ap-court-order,Court evidence recording,Analyst classification of expressly described scope; not applicability certification
+gov-ap-court-order-d3,gov-ap-court-order,Orders and judgments,Analyst classification of expressly described scope; not applicability certification
+gov-ap-court-order-d4,gov-ap-court-order,Court administration technology,Analyst classification of expressly described scope; not applicability certification
+gov-cag-ai-eoi-d1,gov-cag-ai-eoi,Government audit,Analyst classification of expressly described scope; not applicability certification
+gov-cag-ai-eoi-d2,gov-cag-ai-eoi,Pension processing,Analyst classification of expressly described scope; not applicability certification
+gov-cag-ai-eoi-d3,gov-cag-ai-eoi,Income tax audit,Analyst classification of expressly described scope; not applicability certification
+gov-cag-ai-eoi-d4,gov-cag-ai-eoi,Supplementary financial audit,Analyst classification of expressly described scope; not applicability certification
+gov-cag-ai-eoi-d5,gov-cag-ai-eoi,Commercial financial audit,Analyst classification of expressly described scope; not applicability certification
+gov-cag-ai-eoi-d6,gov-cag-ai-eoi,Sovereign AI and data infrastructure,Analyst classification of expressly described scope; not applicability certification
+gov-cert-aibom-d1,gov-cert-aibom,AI system and model transparency,Analyst classification of expressly described scope; not applicability certification
+gov-cert-aibom-d2,gov-cert-aibom,AI supply-chain and component inventory,Analyst classification of expressly described scope; not applicability certification
+gov-cert-aibom-d3,gov-cert-aibom,Cybersecurity and vulnerability management,Analyst classification of expressly described scope; not applicability certification
+gov-cert-aibom-d4,gov-cert-aibom,AI-related procurement,Analyst classification of expressly described scope; not applicability certification
+gov-cert-aibom-d5,gov-cert-aibom,Dataset and model lineage documentation,Analyst classification of expressly described scope; not applicability certification
+gov-cert-directions-d1,gov-cert-directions,Cyber incident reporting and response,Analyst classification of expressly described scope; not applicability certification
+gov-cert-directions-d2,gov-cert-directions,ICT time synchronization and log retention,Analyst classification of expressly described scope; not applicability certification
+gov-cert-directions-d3,gov-cert-directions,"Subscriber records for data-centre, VPS, cloud and VPN services",Analyst classification of expressly described scope; not applicability certification
+gov-cert-directions-d4,gov-cert-directions,Virtual-asset KYC and transaction records,Analyst classification of expressly described scope; not applicability certification
+gov-cert-extension-d1,gov-cert-extension,Cyber security,Analyst classification of expressly described scope; not applicability certification
+gov-cert-extension-d2,gov-cert-extension,"Micro, Small and Medium Enterprises",Analyst classification of expressly described scope; not applicability certification
+gov-cert-extension-d3,gov-cert-extension,Data centres,Analyst classification of expressly described scope; not applicability certification
+gov-cert-extension-d4,gov-cert-extension,Virtual Private Server providers,Analyst classification of expressly described scope; not applicability certification
+gov-cert-extension-d5,gov-cert-extension,Cloud service providers,Analyst classification of expressly described scope; not applicability certification
+gov-cert-extension-d6,gov-cert-extension,Virtual Private Network service providers,Analyst classification of expressly described scope; not applicability certification
+gov-cert-extension-d7,gov-cert-extension,Subscriber/customer validation,Analyst classification of expressly described scope; not applicability certification
+gov-dpdp-act-d1,gov-dpdp-act,Digital personal data processing,Analyst classification of expressly described scope; not applicability certification
+gov-dpdp-act-d2,gov-dpdp-act,Data fiduciary and processor obligations,Analyst classification of expressly described scope; not applicability certification
+gov-dpdp-act-d3,gov-dpdp-act,Individual data rights,Analyst classification of expressly described scope; not applicability certification
+gov-dpdp-act-d4,gov-dpdp-act,Data Protection Board oversight,Analyst classification of expressly described scope; not applicability certification
+gov-dpdp-act-d5,gov-dpdp-act,Personal data breach safeguards and penalties,Analyst classification of expressly described scope; not applicability certification
+gov-dpdp-commencement-d1,gov-dpdp-commencement,Digital personal data protection,Analyst classification of expressly described scope; not applicability certification
+gov-dpdp-commencement-d2,gov-dpdp-commencement,Commencement of legislation,Analyst classification of expressly described scope; not applicability certification
+gov-dpdp-draft-d1,gov-dpdp-draft,Personal data protection,Analyst classification of expressly described scope; not applicability certification
+gov-dpdp-draft-d2,gov-dpdp-draft,Consent management and data-principal rights,Analyst classification of expressly described scope; not applicability certification
+gov-dpdp-draft-d3,gov-dpdp-draft,Data security and breach notification,Analyst classification of expressly described scope; not applicability certification
+gov-dpdp-draft-d4,gov-dpdp-draft,Children's personal data,Analyst classification of expressly described scope; not applicability certification
+gov-dpdp-draft-d5,gov-dpdp-draft,Data Protection Board governance and procedure,Analyst classification of expressly described scope; not applicability certification
+gov-dpdp-rules-d1,gov-dpdp-rules,Digital personal data protection,Analyst classification of expressly described scope; not applicability certification
+gov-dpdp-rules-d2,gov-dpdp-rules,Data governance and regulatory oversight,Analyst classification of expressly described scope; not applicability certification
+gov-dpdp-rules-d3,gov-dpdp-rules,Information security and breach response,Analyst classification of expressly described scope; not applicability certification
+gov-dpdp-rules-d4,gov-dpdp-rules,Data-principal rights and grievance redress,Analyst classification of expressly described scope; not applicability certification
+gov-dpdp-rules-d5,gov-dpdp-rules,Children's personal data,Analyst classification of expressly described scope; not applicability certification
+gov-dpdp-rules-d6,gov-dpdp-rules,Cross-border data transfers,Analyst classification of expressly described scope; not applicability certification
+gov-frt-approach-d1,gov-frt-approach,Facial recognition technology,Analyst classification of expressly described scope; not applicability certification
+gov-frt-approach-d2,gov-frt-approach,Artificial intelligence governance,Analyst classification of expressly described scope; not applicability certification
+gov-frt-approach-d3,gov-frt-approach,Biometric and facial data,Analyst classification of expressly described scope; not applicability certification
+gov-frt-approach-d4,gov-frt-approach,Digi Yatra and airport passenger processing,Analyst classification of expressly described scope; not applicability certification
+gov-frt-approach-d5,gov-frt-approach,Public-sector technology procurement and deployment,Analyst classification of expressly described scope; not applicability certification
+gov-frt-approach-d6,gov-frt-approach,"Privacy, equality, transparency, and accountability",Analyst classification of expressly described scope; not applicability certification
+gov-gfr-procurement-d1,gov-gfr-procurement,Public procurement,Analyst classification of expressly described scope; not applicability certification
+gov-gfr-procurement-d2,gov-gfr-procurement,Procurement of goods and services,Analyst classification of expressly described scope; not applicability certification
+gov-gfr-procurement-d3,gov-gfr-procurement,Public works,Analyst classification of expressly described scope; not applicability certification
+gov-gfr-procurement-d4,gov-gfr-procurement,Contract management,Analyst classification of expressly described scope; not applicability certification
+gov-gfr-procurement-d5,gov-gfr-procurement,Inventory management,Analyst classification of expressly described scope; not applicability certification
+gov-goa-draft-d1,gov-goa-draft,AI governance and risk classification,Analyst classification of expressly described scope; not applicability certification
+gov-goa-draft-d2,gov-goa-draft,Public procurement and government services,Analyst classification of expressly described scope; not applicability certification
+gov-goa-draft-d3,gov-goa-draft,"Data governance, privacy, and compute infrastructure",Analyst classification of expressly described scope; not applicability certification
+gov-goa-draft-d4,gov-goa-draft,Education and workforce skilling,Analyst classification of expressly described scope; not applicability certification
+gov-goa-draft-d5,gov-goa-draft,"Startups, MSMEs, and innovation",Analyst classification of expressly described scope; not applicability certification
+gov-goa-draft-d6,gov-goa-draft,Research and academia,Analyst classification of expressly described scope; not applicability certification
+gov-goa-draft-d7,gov-goa-draft,"Responsible AI, ethics, and cybersecurity",Analyst classification of expressly described scope; not applicability certification
+gov-goa-draft-d8,gov-goa-draft,Deepfakes and synthetic media,Analyst classification of expressly described scope; not applicability certification
+gov-goa-draft-d9,gov-goa-draft,Fisheries and blue economy,Analyst classification of expressly described scope; not applicability certification
+gov-goa-draft-d10,gov-goa-draft,Tourism and hospitality,Analyst classification of expressly described scope; not applicability certification
+gov-goa-draft-d11,gov-goa-draft,Healthcare and life sciences,Analyst classification of expressly described scope; not applicability certification
+gov-goa-draft-d12,gov-goa-draft,Agriculture and horticulture,Analyst classification of expressly described scope; not applicability certification
+gov-goa-draft-d13,gov-goa-draft,Urban management and infrastructure,Analyst classification of expressly described scope; not applicability certification
+gov-goa-draft-d14,gov-goa-draft,Mining and environment,Analyst classification of expressly described scope; not applicability certification
+gov-gujarat-taskforce-d1,gov-gujarat-taskforce,Governance,Analyst classification of expressly described scope; not applicability certification
+gov-gujarat-taskforce-d2,gov-gujarat-taskforce,Healthcare,Analyst classification of expressly described scope; not applicability certification
+gov-gujarat-taskforce-d3,gov-gujarat-taskforce,Agriculture,Analyst classification of expressly described scope; not applicability certification
+gov-gujarat-taskforce-d4,gov-gujarat-taskforce,Education,Analyst classification of expressly described scope; not applicability certification
+gov-gujarat-taskforce-d5,gov-gujarat-taskforce,Manufacturing,Analyst classification of expressly described scope; not applicability certification
+gov-gujarat-taskforce-d6,gov-gujarat-taskforce,Government and non-government sectors,Analyst classification of expressly described scope; not applicability certification
+gov-gujarat-taskforce-d7,gov-gujarat-taskforce,"AI infrastructure, including the AI-enabled State Data Center",Analyst classification of expressly described scope; not applicability certification
+gov-icmr-ai-d1,gov-icmr-ai,Artificial intelligence,Analyst classification of expressly described scope; not applicability certification
+gov-icmr-ai-d2,gov-icmr-ai,Biomedical research,Analyst classification of expressly described scope; not applicability certification
+gov-icmr-ai-d3,gov-icmr-ai,Healthcare,Analyst classification of expressly described scope; not applicability certification
+gov-indiaai-mission-d1,gov-indiaai-mission,Artificial intelligence innovation,Analyst classification of expressly described scope; not applicability certification
+gov-indiaai-mission-d2,gov-indiaai-mission,AI compute infrastructure,Analyst classification of expressly described scope; not applicability certification
+gov-indiaai-mission-d3,gov-indiaai-mission,Foundational models,Analyst classification of expressly described scope; not applicability certification
+gov-indiaai-mission-d4,gov-indiaai-mission,Non-personal datasets,Analyst classification of expressly described scope; not applicability certification
+gov-indiaai-mission-d5,gov-indiaai-mission,AI applications,Analyst classification of expressly described scope; not applicability certification
+gov-indiaai-mission-d6,gov-indiaai-mission,AI skills and training,Analyst classification of expressly described scope; not applicability certification
+gov-indiaai-mission-d7,gov-indiaai-mission,AI startup financing,Analyst classification of expressly described scope; not applicability certification
+gov-indiaai-mission-d8,gov-indiaai-mission,Responsible AI,Analyst classification of expressly described scope; not applicability certification
+gov-it-rules-consolidated-d1,gov-it-rules-consolidated,Digital intermediaries,Analyst classification of expressly described scope; not applicability certification
+gov-it-rules-consolidated-d2,gov-it-rules-consolidated,Social media,Analyst classification of expressly described scope; not applicability certification
+gov-it-rules-consolidated-d3,gov-it-rules-consolidated,Online gaming,Analyst classification of expressly described scope; not applicability certification
+gov-it-rules-consolidated-d4,gov-it-rules-consolidated,Digital media publishing,Analyst classification of expressly described scope; not applicability certification
+gov-it-rules-consolidated-d5,gov-it-rules-consolidated,Synthetically generated information,Analyst classification of expressly described scope; not applicability certification
+gov-jharkhand-draft-d1,gov-jharkhand-draft,Governance,Analyst classification of expressly described scope; not applicability certification
+gov-jharkhand-draft-d2,gov-jharkhand-draft,Agriculture,Analyst classification of expressly described scope; not applicability certification
+gov-jharkhand-draft-d3,gov-jharkhand-draft,Healthcare,Analyst classification of expressly described scope; not applicability certification
+gov-jharkhand-draft-d4,gov-jharkhand-draft,Education,Analyst classification of expressly described scope; not applicability certification
+gov-jharkhand-draft-d5,gov-jharkhand-draft,Skills,Analyst classification of expressly described scope; not applicability certification
+gov-jharkhand-draft-d6,gov-jharkhand-draft,Urban services,Analyst classification of expressly described scope; not applicability certification
+gov-jharkhand-draft-d7,gov-jharkhand-draft,Rural development,Analyst classification of expressly described scope; not applicability certification
+gov-jharkhand-draft-d8,gov-jharkhand-draft,Social protection,Analyst classification of expressly described scope; not applicability certification
+gov-jharkhand-draft-d9,gov-jharkhand-draft,Mineral administration,Analyst classification of expressly described scope; not applicability certification
+gov-jharkhand-draft-d10,gov-jharkhand-draft,Environment,Analyst classification of expressly described scope; not applicability certification
+gov-jharkhand-draft-d11,gov-jharkhand-draft,Logistics,Analyst classification of expressly described scope; not applicability certification
+gov-jharkhand-draft-d12,gov-jharkhand-draft,Law enforcement support systems,Analyst classification of expressly described scope; not applicability certification
+gov-jharkhand-draft-d13,gov-jharkhand-draft,Citizen service delivery,Analyst classification of expressly described scope; not applicability certification
+gov-jharkhand-draft-d14,gov-jharkhand-draft,Datasets,Analyst classification of expressly described scope; not applicability certification
+gov-jharkhand-draft-d15,gov-jharkhand-draft,Compute,Analyst classification of expressly described scope; not applicability certification
+gov-jharkhand-draft-d16,gov-jharkhand-draft,Cyber safeguards,Analyst classification of expressly described scope; not applicability certification
+gov-jharkhand-draft-d17,gov-jharkhand-draft,Skilling,Analyst classification of expressly described scope; not applicability certification
+gov-jharkhand-draft-d18,gov-jharkhand-draft,Procurement standards,Analyst classification of expressly described scope; not applicability certification
+gov-jharkhand-draft-d19,gov-jharkhand-draft,Monitoring frameworks,Analyst classification of expressly described scope; not applicability certification
+gov-jk-framework-d1,gov-jk-framework,Data exchange and HPAIC,Analyst classification of expressly described scope; not applicability certification
+gov-jk-framework-d2,gov-jk-framework,Skilling and education,Analyst classification of expressly described scope; not applicability certification
+gov-jk-framework-d3,gov-jk-framework,"Governance, ethics and privacy",Analyst classification of expressly described scope; not applicability certification
+gov-jk-framework-d4,gov-jk-framework,Research and innovation,Analyst classification of expressly described scope; not applicability certification
+gov-jk-framework-d5,gov-jk-framework,Security in AI,Analyst classification of expressly described scope; not applicability certification
+gov-kerala-it-d1,gov-kerala-it,Artificial Intelligence,Analyst classification of expressly described scope; not applicability certification
+gov-kerala-it-d2,gov-kerala-it,Big Data Analytics,Analyst classification of expressly described scope; not applicability certification
+gov-kerala-it-d3,gov-kerala-it,Blockchain Technologies,Analyst classification of expressly described scope; not applicability certification
+gov-kerala-it-d4,gov-kerala-it,Quantum Computing,Analyst classification of expressly described scope; not applicability certification
+gov-kerala-it-d5,gov-kerala-it,"Animation, Visual Effects, Gaming, Comics and Extended Reality",Analyst classification of expressly described scope; not applicability certification
+gov-kerala-it-d6,gov-kerala-it,Genomics and Bioinformatics,Analyst classification of expressly described scope; not applicability certification
+gov-maharashtra-ai-d1,gov-maharashtra-ai,Government administration and public services,Analyst classification of expressly described scope; not applicability certification
+gov-maharashtra-ai-d2,gov-maharashtra-ai,Agriculture,Analyst classification of expressly described scope; not applicability certification
+gov-maharashtra-ai-d3,gov-maharashtra-ai,Healthcare,Analyst classification of expressly described scope; not applicability certification
+gov-maharashtra-ai-d4,gov-maharashtra-ai,Education,Analyst classification of expressly described scope; not applicability certification
+gov-maharashtra-ai-d5,gov-maharashtra-ai,Urban governance,Analyst classification of expressly described scope; not applicability certification
+gov-maharashtra-ai-d6,gov-maharashtra-ai,Transport,Analyst classification of expressly described scope; not applicability certification
+gov-maharashtra-ai-d7,gov-maharashtra-ai,Environment,Analyst classification of expressly described scope; not applicability certification
+gov-maharashtra-ai-d8,gov-maharashtra-ai,Skills and workforce development,Analyst classification of expressly described scope; not applicability certification
+gov-maharashtra-ai-d9,gov-maharashtra-ai,Finance and revenue,Analyst classification of expressly described scope; not applicability certification
+gov-maharashtra-ai-d10,gov-maharashtra-ai,Culture and Marathi language,Analyst classification of expressly described scope; not applicability certification
+gov-maharashtra-ai-d11,gov-maharashtra-ai,Geospatial technology,Analyst classification of expressly described scope; not applicability certification
+gov-maharashtra-ai-d12,gov-maharashtra-ai,Manufacturing and other industry,Analyst classification of expressly described scope; not applicability certification
+gov-maharashtra-ai-d13,gov-maharashtra-ai,Startups and MSMEs,Analyst classification of expressly described scope; not applicability certification
+gov-medical-software-d1,gov-medical-software,"Medical Device Software, including IVD medical device software",Analyst classification of expressly described scope; not applicability certification
+gov-medical-software-d2,gov-medical-software,"Medical-device regulation, licensing, manufacture and import",Analyst classification of expressly described scope; not applicability certification
+gov-medical-software-d3,gov-medical-software,Clinical evaluation and post-market surveillance,Analyst classification of expressly described scope; not applicability certification
+gov-medical-software-d4,gov-medical-software,"Software lifecycle, cybersecurity and health data",Analyst classification of expressly described scope; not applicability certification
+gov-meghalaya-it-d1,gov-meghalaya-it,Artificial Intelligence,Analyst classification of expressly described scope; not applicability certification
+gov-national-strategy-d1,gov-national-strategy,Healthcare,Analyst classification of expressly described scope; not applicability certification
+gov-national-strategy-d2,gov-national-strategy,Agriculture,Analyst classification of expressly described scope; not applicability certification
+gov-national-strategy-d3,gov-national-strategy,Education,Analyst classification of expressly described scope; not applicability certification
+gov-national-strategy-d4,gov-national-strategy,Smart Cities and Infrastructure,Analyst classification of expressly described scope; not applicability certification
+gov-national-strategy-d5,gov-national-strategy,Smart Mobility and Transportation,Analyst classification of expressly described scope; not applicability certification
+gov-national-strategy-d6,gov-national-strategy,AI research and development,Analyst classification of expressly described scope; not applicability certification
+gov-national-strategy-d7,gov-national-strategy,Skills and reskilling,Analyst classification of expressly described scope; not applicability certification
+gov-national-strategy-d8,gov-national-strategy,AI adoption,Analyst classification of expressly described scope; not applicability certification
+gov-national-strategy-d9,gov-national-strategy,"Ethics, privacy, security, and intellectual property",Analyst classification of expressly described scope; not applicability certification
+gov-ndgf-draft-d1,gov-ndgf-draft,Data governance (identified by title only),Analyst classification of expressly described scope; not applicability certification
+gov-new-delhi-declaration-d1,gov-new-delhi-declaration,Human capital,Analyst classification of expressly described scope; not applicability certification
+gov-new-delhi-declaration-d2,gov-new-delhi-declaration,Access for social empowerment,Analyst classification of expressly described scope; not applicability certification
+gov-new-delhi-declaration-d3,gov-new-delhi-declaration,Trustworthiness of AI systems,Analyst classification of expressly described scope; not applicability certification
+gov-new-delhi-declaration-d4,gov-new-delhi-declaration,Energy efficiency and resilience of AI systems,Analyst classification of expressly described scope; not applicability certification
+gov-new-delhi-declaration-d5,gov-new-delhi-declaration,Use of AI in science,Analyst classification of expressly described scope; not applicability certification
+gov-new-delhi-declaration-d6,gov-new-delhi-declaration,Democratizing AI resources,Analyst classification of expressly described scope; not applicability certification
+gov-new-delhi-declaration-d7,gov-new-delhi-declaration,Economic growth and social good,Analyst classification of expressly described scope; not applicability certification
+gov-odisha-ai-d1,gov-odisha-ai,Governance,Analyst classification of expressly described scope; not applicability certification
+gov-odisha-ai-d2,gov-odisha-ai,Education,Analyst classification of expressly described scope; not applicability certification
+gov-odisha-ai-d3,gov-odisha-ai,Healthcare,Analyst classification of expressly described scope; not applicability certification
+gov-odisha-ai-d4,gov-odisha-ai,Agriculture and farmer empowerment,Analyst classification of expressly described scope; not applicability certification
+gov-odisha-ai-d5,gov-odisha-ai,Climate change and disaster management,Analyst classification of expressly described scope; not applicability certification
+gov-odisha-ai-d6,gov-odisha-ai,Internet connectivity and digital infrastructure,Analyst classification of expressly described scope; not applicability certification
+gov-odisha-ai-d7,gov-odisha-ai,Compute and data infrastructure,Analyst classification of expressly described scope; not applicability certification
+gov-odisha-ai-d8,gov-odisha-ai,AI innovation and application development,Analyst classification of expressly described scope; not applicability certification
+gov-odisha-ai-d9,gov-odisha-ai,Workforce and government-official skilling,Analyst classification of expressly described scope; not applicability certification
+gov-odisha-ai-d10,gov-odisha-ai,Clean energy,Analyst classification of expressly described scope; not applicability certification
+gov-odisha-ai-d11,gov-odisha-ai,Ethical AI,Analyst classification of expressly described scope; not applicability certification
+gov-odisha-ai-d12,gov-odisha-ai,Cybersecurity,Analyst classification of expressly described scope; not applicability certification
+gov-odisha-ai-d13,gov-odisha-ai,Research and intellectual property,Analyst classification of expressly described scope; not applicability certification
+gov-rai-operational-d1,gov-rai-operational,Safety and reliability,Analyst classification of expressly described scope; not applicability certification
+gov-rai-operational-d2,gov-rai-operational,Equality,Analyst classification of expressly described scope; not applicability certification
+gov-rai-operational-d3,gov-rai-operational,Inclusivity and non-discrimination,Analyst classification of expressly described scope; not applicability certification
+gov-rai-operational-d4,gov-rai-operational,Privacy and security,Analyst classification of expressly described scope; not applicability certification
+gov-rai-operational-d5,gov-rai-operational,Transparency,Analyst classification of expressly described scope; not applicability certification
+gov-rai-operational-d6,gov-rai-operational,Accountability,Analyst classification of expressly described scope; not applicability certification
+gov-rai-operational-d7,gov-rai-operational,Protection and reinforcement of positive human values,Analyst classification of expressly described scope; not applicability certification
+gov-rai-principles-d1,gov-rai-principles,Safety and Reliability,Analyst classification of expressly described scope; not applicability certification
+gov-rai-principles-d2,gov-rai-principles,Equality,Analyst classification of expressly described scope; not applicability certification
+gov-rai-principles-d3,gov-rai-principles,Inclusivity and Non-discrimination,Analyst classification of expressly described scope; not applicability certification
+gov-rai-principles-d4,gov-rai-principles,Privacy and security,Analyst classification of expressly described scope; not applicability certification
+gov-rai-principles-d5,gov-rai-principles,Transparency,Analyst classification of expressly described scope; not applicability certification
+gov-rai-principles-d6,gov-rai-principles,Accountability,Analyst classification of expressly described scope; not applicability certification
+gov-rai-principles-d7,gov-rai-principles,Protection and reinforcement of positive human values,Analyst classification of expressly described scope; not applicability certification
+gov-rajasthan-ai-d1,gov-rajasthan-ai,Governance and public services,Analyst classification of expressly described scope; not applicability certification
+gov-rajasthan-ai-d2,gov-rajasthan-ai,Agriculture,Analyst classification of expressly described scope; not applicability certification
+gov-rajasthan-ai-d3,gov-rajasthan-ai,Healthcare,Analyst classification of expressly described scope; not applicability certification
+gov-rajasthan-ai-d4,gov-rajasthan-ai,Education,Analyst classification of expressly described scope; not applicability certification
+gov-rajasthan-ai-d5,gov-rajasthan-ai,Tourism,Analyst classification of expressly described scope; not applicability certification
+gov-rajasthan-ai-d6,gov-rajasthan-ai,Environment,Analyst classification of expressly described scope; not applicability certification
+gov-rajasthan-ai-d7,gov-rajasthan-ai,Industry and startups,Analyst classification of expressly described scope; not applicability certification
+gov-rajasthan-ai-d8,gov-rajasthan-ai,Research and development,Analyst classification of expressly described scope; not applicability certification
+gov-rajasthan-ai-d9,gov-rajasthan-ai,Skills and employment,Analyst classification of expressly described scope; not applicability certification
+gov-rajasthan-ai-d10,gov-rajasthan-ai,Transport and disaster management,Analyst classification of expressly described scope; not applicability certification
+gov-rbi-freeai-d1,gov-rbi-freeai,Financial services,Analyst classification of expressly described scope; not applicability certification
+gov-rbi-freeai-d2,gov-rbi-freeai,Banks and other regulated entities,Analyst classification of expressly described scope; not applicability certification
+gov-rbi-freeai-d3,gov-rbi-freeai,NBFCs and All India Financial Institutions,Analyst classification of expressly described scope; not applicability certification
+gov-rbi-freeai-d4,gov-rbi-freeai,FinTechs and technology service providers,Analyst classification of expressly described scope; not applicability certification
+gov-rbi-freeai-d5,gov-rbi-freeai,AI governance and risk management,Analyst classification of expressly described scope; not applicability certification
+gov-rbi-model-risk-draft-d1,gov-rbi-model-risk-draft,Model governance and oversight,Analyst classification of expressly described scope; not applicability certification
+gov-rbi-model-risk-draft-d2,gov-rbi-model-risk-draft,Model validation and performance evaluation,Analyst classification of expressly described scope; not applicability certification
+gov-rbi-model-risk-draft-d3,gov-rbi-model-risk-draft,Third-party model acquisition and oversight,Analyst classification of expressly described scope; not applicability certification
+gov-rbi-model-risk-draft-d4,gov-rbi-model-risk-draft,Consumer protection and grievance redressal,Analyst classification of expressly described scope; not applicability certification
+gov-rbi-model-risk-draft-d5,gov-rbi-model-risk-draft,Accountability and data governance,Analyst classification of expressly described scope; not applicability certification
+gov-rbi-model-risk-draft-d6,gov-rbi-model-risk-draft,AI/ML model risk management,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-consultation-d1,gov-sebi-consultation,Model governance,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-consultation-d2,gov-sebi-consultation,Investor protection and disclosure,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-consultation-d3,gov-sebi-consultation,Testing framework,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-consultation-d4,gov-sebi-consultation,Fairness and bias,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-consultation-d5,gov-sebi-consultation,Data privacy and cybersecurity,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-consultation-d6,gov-sebi-consultation,Third-party vendors,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-consultation-d7,gov-sebi-consultation,Operational resilience,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-cyber-advisory-d1,gov-sebi-cyber-advisory,Cybersecurity,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-cyber-advisory-d2,gov-sebi-cyber-advisory,AI-enabled vulnerability detection,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-cyber-advisory-d3,gov-sebi-cyber-advisory,Vulnerability management,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-cyber-advisory-d4,gov-sebi-cyber-advisory,Risk assessment,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-cyber-advisory-d5,gov-sebi-cyber-advisory,Third-party service providers,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-cyber-advisory-d6,gov-sebi-cyber-advisory,Data confidentiality,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-cyber-advisory-d7,gov-sebi-cyber-advisory,API security,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-cyber-advisory-d8,gov-sebi-cyber-advisory,Security operations monitoring,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-funds-d1,gov-sebi-funds,Mutual funds,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-funds-d2,gov-sebi-funds,AI and machine learning applications and systems,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-funds-d3,gov-sebi-funds,Investing and trading,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-funds-d4,gov-sebi-funds,Investment advice and strategies,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-funds-d5,gov-sebi-funds,Order execution,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-funds-d6,gov-sebi-funds,KYC and AML,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-funds-d7,gov-sebi-funds,Surveillance,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-funds-d8,gov-sebi-funds,Compliance and operations,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-funds-d9,gov-sebi-funds,Cybersecurity,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-funds-d10,gov-sebi-funds,FinTech and RegTech,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-reporting-d1,gov-sebi-reporting,Securities markets,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-reporting-d2,gov-sebi-reporting,Market intermediaries,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-reporting-d3,gov-sebi-reporting,Artificial intelligence and machine learning reporting,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-responsibility-d1,gov-sebi-responsibility,Artificial intelligence and machine learning tools and techniques,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-responsibility-d2,gov-sebi-responsibility,"Investor and stakeholder data privacy, security, and integrity",Analyst classification of expressly described scope; not applicability certification
+gov-sebi-responsibility-d3,gov-sebi-responsibility,Outputs relied upon or acted on,Analyst classification of expressly described scope; not applicability certification
+gov-sebi-responsibility-d4,gov-sebi-responsibility,Compliance with applicable laws,Analyst classification of expressly described scope; not applicability certification
+gov-sgi-amendment-d1,gov-sgi-amendment,Intermediary governance,Analyst classification of expressly described scope; not applicability certification
+gov-sgi-amendment-d2,gov-sgi-amendment,Synthetically generated information,Analyst classification of expressly described scope; not applicability certification
+gov-sgi-amendment-d3,gov-sgi-amendment,Content moderation and labeling,Analyst classification of expressly described scope; not applicability certification
+gov-sgi-amendment-d4,gov-sgi-amendment,Technical verification and provenance,Analyst classification of expressly described scope; not applicability certification
+gov-sgi-amendment-d5,gov-sgi-amendment,User notices and enforcement,Analyst classification of expressly described scope; not applicability certification
+gov-sgi-correction-d1,gov-sgi-correction,Intermediary guidelines and digital media ethics,Analyst classification of expressly described scope; not applicability certification
+gov-sgi-draft-d1,gov-sgi-draft,Intermediary regulation,Analyst classification of expressly described scope; not applicability certification
+gov-sgi-draft-d2,gov-sgi-draft,Synthetically generated information,Analyst classification of expressly described scope; not applicability certification
+gov-sgi-draft-d3,gov-sgi-draft,Content labeling and metadata,Analyst classification of expressly described scope; not applicability certification
+gov-sgi-draft-d4,gov-sgi-draft,Significant social media intermediaries,Analyst classification of expressly described scope; not applicability certification
+gov-sgi-draft-d5,gov-sgi-draft,Content removal and grievances,Analyst classification of expressly described scope; not applicability certification
+gov-sikkim-draft-d1,gov-sikkim-draft,Disaster resilience and early warnings,Analyst classification of expressly described scope; not applicability certification
+gov-sikkim-draft-d2,gov-sikkim-draft,Remote public-service access,Analyst classification of expressly described scope; not applicability certification
+gov-sikkim-draft-d3,gov-sikkim-draft,Ecological sustainability and cultural preservation,Analyst classification of expressly described scope; not applicability certification
+gov-sikkim-draft-d4,gov-sikkim-draft,Healthcare,Analyst classification of expressly described scope; not applicability certification
+gov-sikkim-draft-d5,gov-sikkim-draft,Agriculture,Analyst classification of expressly described scope; not applicability certification
+gov-sikkim-draft-d6,gov-sikkim-draft,Education and skills,Analyst classification of expressly described scope; not applicability certification
+gov-sikkim-draft-d7,gov-sikkim-draft,Tourism and cultural heritage,Analyst classification of expressly described scope; not applicability certification
+gov-sikkim-draft-d8,gov-sikkim-draft,Law enforcement,Analyst classification of expressly described scope; not applicability certification
+gov-sikkim-draft-d9,gov-sikkim-draft,Mobility and transportation,Analyst classification of expressly described scope; not applicability certification
+gov-sikkim-draft-d10,gov-sikkim-draft,Energy and infrastructure,Analyst classification of expressly described scope; not applicability certification
+gov-supreme-court-draft-d1,gov-supreme-court-draft,Judicial administration,Analyst classification of expressly described scope; not applicability certification
+gov-supreme-court-draft-d2,gov-supreme-court-draft,Artificial intelligence governance,Analyst classification of expressly described scope; not applicability certification
+gov-supreme-court-draft-d3,gov-supreme-court-draft,Public procurement,Analyst classification of expressly described scope; not applicability certification
+gov-supreme-court-draft-d4,gov-supreme-court-draft,Data protection and cybersecurity,Analyst classification of expressly described scope; not applicability certification
+gov-supreme-court-draft-d5,gov-supreme-court-draft,Grievance redress,Analyst classification of expressly described scope; not applicability certification
+gov-telangana-strategy-d1,gov-telangana-strategy,Governance and public services,Analyst classification of expressly described scope; not applicability certification
+gov-telangana-strategy-d2,gov-telangana-strategy,Healthcare and public health,Analyst classification of expressly described scope; not applicability certification
+gov-telangana-strategy-d3,gov-telangana-strategy,Education,Analyst classification of expressly described scope; not applicability certification
+gov-telangana-strategy-d4,gov-telangana-strategy,Agriculture,Analyst classification of expressly described scope; not applicability certification
+gov-telangana-strategy-d5,gov-telangana-strategy,Urban mobility and traffic,Analyst classification of expressly described scope; not applicability certification
+gov-telangana-strategy-d6,gov-telangana-strategy,Climate change,Analyst classification of expressly described scope; not applicability certification
+gov-telemedicine-d1,gov-telemedicine,Telemedicine and clinical practice,Analyst classification of expressly described scope; not applicability certification
+gov-telemedicine-d2,gov-telemedicine,Professional oversight,Analyst classification of expressly described scope; not applicability certification
+gov-telemedicine-d3,gov-telemedicine,Patient evaluation and care,Analyst classification of expressly described scope; not applicability certification
+gov-telemedicine-d4,gov-telemedicine,Technology platforms,Analyst classification of expressly described scope; not applicability certification
+gov-telemedicine-d5,gov-telemedicine,"Privacy, confidentiality, and records",Analyst classification of expressly described scope; not applicability certification
+gov-tn-ethical-d1,gov-tn-ethical,Government use of artificial intelligence,Analyst classification of expressly described scope; not applicability certification
+gov-tn-ethical-d2,gov-tn-ethical,AI evaluation and safety,Analyst classification of expressly described scope; not applicability certification
+gov-tn-ethical-d3,gov-tn-ethical,Public-sector AI procurement,Analyst classification of expressly described scope; not applicability certification
+gov-tn-ethical-d4,gov-tn-ethical,AI oversight,Analyst classification of expressly described scope; not applicability certification
+gov-tn-ethical-d5,gov-tn-ethical,Privacy and data protection,Analyst classification of expressly described scope; not applicability certification
+gov-tn-mission-d1,gov-tn-mission,Governance and public-service delivery,Analyst classification of expressly described scope; not applicability certification
+gov-tn-mission-d2,gov-tn-mission,Data-driven policymaking,Analyst classification of expressly described scope; not applicability certification
+gov-tn-mission-d3,gov-tn-mission,Healthcare,Analyst classification of expressly described scope; not applicability certification
+gov-tn-mission-d4,gov-tn-mission,Security and public safety,Analyst classification of expressly described scope; not applicability certification
+gov-tn-mission-d5,gov-tn-mission,Education and skills,Analyst classification of expressly described scope; not applicability certification
+gov-tn-mission-d6,gov-tn-mission,"Industry, research, and innovation",Analyst classification of expressly described scope; not applicability certification
+gov-tn-mission-d7,gov-tn-mission,Agriculture and water-resource management,Analyst classification of expressly described scope; not applicability certification
+gov-tpec-constitution-d1,gov-tpec-constitution,AI governance,Analyst classification of expressly described scope; not applicability certification
+gov-tpec-constitution-d2,gov-tpec-constitution,Technical expertise,Analyst classification of expressly described scope; not applicability certification
+gov-tpec-constitution-d3,gov-tpec-constitution,Policy design,Analyst classification of expressly described scope; not applicability certification
+gov-tpec-constitution-d4,gov-tpec-constitution,Regulatory measures,Analyst classification of expressly described scope; not applicability certification
+gov-tpec-constitution-d5,gov-tpec-constitution,International AI-governance engagements,Analyst classification of expressly described scope; not applicability certification
+gov-uttarakhand-mission-d1,gov-uttarakhand-mission,Artificial intelligence,Analyst classification of expressly described scope; not applicability certification
+gov-uttarakhand-mission-d2,gov-uttarakhand-mission,Satellite data and real-time digital solutions,Analyst classification of expressly described scope; not applicability certification
+gov-uttarakhand-mission-d3,gov-uttarakhand-mission,Healthcare,Analyst classification of expressly described scope; not applicability certification
+gov-uttarakhand-mission-d4,gov-uttarakhand-mission,Startups and research institutions,Analyst classification of expressly described scope; not applicability certification
+gov-uttarakhand-mission-d5,gov-uttarakhand-mission,Himalayan-state adaptation,Analyst classification of expressly described scope; not applicability certification

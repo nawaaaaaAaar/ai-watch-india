@@ -1,0 +1,244 @@
+{
+  "instruments": {
+    "primary_key": "instrument_id",
+    "columns": {
+      "instrument_id": "TEXT",
+      "title": "TEXT",
+      "jurisdiction": "TEXT",
+      "jurisdiction_level": "TEXT",
+      "issuing_body": "TEXT",
+      "instrument_type": "TEXT",
+      "instrument_date": "TEXT",
+      "date_precision": "TEXT",
+      "date_text": "TEXT",
+      "date_basis": "TEXT",
+      "document_status": "TEXT",
+      "legal_effect": "TEXT",
+      "status_detail": "TEXT",
+      "scope": "TEXT",
+      "implementation_status": "TEXT",
+      "primary_source_id": "TEXT",
+      "primary_source_url": "TEXT",
+      "review_depth": "TEXT",
+      "current_status_limit": "TEXT",
+      "checked_date": "TEXT",
+      "coding_method": "TEXT",
+      "instrument_family": "TEXT",
+      "operative_status": "TEXT",
+      "commencement_text": "TEXT"
+    },
+    "foreign_keys": {
+      "primary_source_id": [
+        "sources",
+        "source_id"
+      ]
+    },
+    "array_columns": []
+  },
+  "instrument_domains": {
+    "primary_key": "domain_id",
+    "columns": {
+      "domain_id": "TEXT",
+      "instrument_id": "TEXT",
+      "domain": "TEXT",
+      "basis": "TEXT"
+    },
+    "foreign_keys": {
+      "instrument_id": [
+        "instruments",
+        "instrument_id"
+      ]
+    },
+    "array_columns": []
+  },
+  "provisions": {
+    "primary_key": "provision_id",
+    "columns": {
+      "provision_id": "TEXT",
+      "instrument_id": "TEXT",
+      "dimension": "TEXT",
+      "presence": "TEXT",
+      "summary": "TEXT",
+      "provision_force": "TEXT",
+      "locator": "TEXT",
+      "source_id": "TEXT",
+      "evidence_id": "TEXT",
+      "unknown_basis": "TEXT",
+      "implementation_verified": "INTEGER"
+    },
+    "foreign_keys": {
+      "instrument_id": [
+        "instruments",
+        "instrument_id"
+      ],
+      "source_id": [
+        "sources",
+        "source_id"
+      ],
+      "evidence_id": [
+        "evidence",
+        "evidence_id"
+      ]
+    },
+    "array_columns": []
+  },
+  "sources": {
+    "primary_key": "source_id",
+    "columns": {
+      "source_id": "TEXT",
+      "title": "TEXT",
+      "url": "TEXT",
+      "source_type": "TEXT",
+      "is_cached": "INTEGER",
+      "retrieval_basis": "TEXT",
+      "reviewed_text_sha256": "TEXT",
+      "retrieved_characters": "TEXT",
+      "snapshot": "TEXT"
+    },
+    "foreign_keys": {},
+    "array_columns": []
+  },
+  "instrument_sources": {
+    "primary_key": "instrument_source_id",
+    "columns": {
+      "instrument_source_id": "TEXT",
+      "instrument_id": "TEXT",
+      "source_id": "TEXT",
+      "role": "TEXT"
+    },
+    "foreign_keys": {
+      "instrument_id": [
+        "instruments",
+        "instrument_id"
+      ],
+      "source_id": [
+        "sources",
+        "source_id"
+      ]
+    },
+    "array_columns": []
+  },
+  "evidence": {
+    "primary_key": "evidence_id",
+    "columns": {
+      "evidence_id": "TEXT",
+      "instrument_id": "TEXT",
+      "provision_id": "TEXT",
+      "source_id": "TEXT",
+      "quote": "TEXT",
+      "locator": "TEXT",
+      "supports": "TEXT"
+    },
+    "foreign_keys": {
+      "instrument_id": [
+        "instruments",
+        "instrument_id"
+      ],
+      "source_id": [
+        "sources",
+        "source_id"
+      ],
+      "provision_id": [
+        "provisions",
+        "provision_id"
+      ]
+    },
+    "array_columns": []
+  },
+  "system_links": {
+    "primary_key": "system_link_id",
+    "columns": {
+      "system_link_id": "TEXT",
+      "instrument_id": "TEXT",
+      "system_id": "TEXT",
+      "link_type": "TEXT",
+      "rationale": "TEXT",
+      "instrument_evidence_ids": "TEXT",
+      "system_assertion_ids": "TEXT",
+      "system_source_ids": "TEXT",
+      "system_source_urls": "TEXT",
+      "applicability_determination": "TEXT",
+      "checked_date": "TEXT"
+    },
+    "foreign_keys": {
+      "instrument_id": [
+        "instruments",
+        "instrument_id"
+      ],
+      "system_id": [
+        "system_keys",
+        "system_id"
+      ]
+    },
+    "array_columns": [
+      "instrument_evidence_ids",
+      "system_assertion_ids",
+      "system_source_ids",
+      "system_source_urls"
+    ]
+  },
+  "instrument_relationships": {
+    "primary_key": "relationship_id",
+    "columns": {
+      "relationship_id": "TEXT",
+      "instrument_id": "TEXT",
+      "related_instrument_id": "TEXT",
+      "relation_type": "TEXT",
+      "basis": "TEXT",
+      "legal_consequence": "TEXT"
+    },
+    "foreign_keys": {
+      "instrument_id": [
+        "instruments",
+        "instrument_id"
+      ],
+      "related_instrument_id": [
+        "instruments",
+        "instrument_id"
+      ]
+    },
+    "array_columns": []
+  },
+  "jurisdiction_coverage": {
+    "primary_key": "coverage_id",
+    "columns": {
+      "coverage_id": "TEXT",
+      "jurisdiction": "TEXT",
+      "jurisdiction_level": "TEXT",
+      "queries": "TEXT",
+      "screening_status": "TEXT",
+      "included_instrument_ids": "TEXT",
+      "coverage_limit": "TEXT",
+      "checked_date": "TEXT"
+    },
+    "foreign_keys": {},
+    "array_columns": [
+      "queries",
+      "included_instrument_ids"
+    ]
+  },
+  "candidate_decisions": {
+    "primary_key": "decision_id",
+    "columns": {
+      "decision_id": "TEXT",
+      "candidate": "TEXT",
+      "decision": "TEXT",
+      "reason": "TEXT"
+    },
+    "foreign_keys": {},
+    "array_columns": []
+  },
+  "system_keys": {
+    "primary_key": "system_id",
+    "columns": {
+      "system_id": "TEXT",
+      "name": "TEXT",
+      "sector": "TEXT",
+      "jurisdiction": "TEXT",
+      "owner_institution_id": "TEXT",
+      "registry_version": "TEXT"
+    },
+    "foreign_keys": {},
+    "array_columns": []
+  }
+}

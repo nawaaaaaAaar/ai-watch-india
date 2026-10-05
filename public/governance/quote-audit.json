@@ -1,0 +1,562 @@
+[
+  {
+    "source_id": "govsrc-7edad807cdde66c7",
+    "url": "https://uidai.gov.in/images/The_Aadhaar_Authentication_and_Offline_Verifications_Regulations_2021-_Clean_copy-30122025.pdf",
+    "reviewed_text_sha256": "a7ea58cfed9dc23a1f4e879940eaff5ef31c4b2f1711b6924a2ab20f26be36b0",
+    "selected_passages_match": true,
+    "selected_words": 94,
+    "retrieval_basis": "additional-recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-4e1902732135828f",
+    "url": "https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf",
+    "reviewed_text_sha256": "a1f117015bd368b688690317f312d4bda110d3f3e42aa904ea487a383b43d347",
+    "selected_passages_match": true,
+    "selected_words": 86,
+    "retrieval_basis": "complete",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-2e6f22e2653285d9",
+    "url": "https://www.psa.gov.in/CMS/web/sites/default/files/publication/India%20Al%20Governance%20Guidelines%205%C2%A0Nov%C2%A02025.pdf",
+    "reviewed_text_sha256": "628806e4e519e7d832f270bec2d6ab858aaa3252c6d48dcf8941df01fe82acf4",
+    "selected_passages_match": true,
+    "selected_words": 135,
+    "retrieval_basis": "recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-944996a581177c67",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2206769&reg=3&lang=1",
+    "reviewed_text_sha256": "9be752bd6caceec1b8dbace9bea49424ac8fb1a47487d87b99876400990e6ee5",
+    "selected_passages_match": true,
+    "selected_words": 11,
+    "retrieval_basis": "complete",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-930d62850557facf",
+    "url": "https://www.meity.gov.in/static/uploads/2026/04/43a4ec455c26b0f061cc7cca98770a45.pdf",
+    "reviewed_text_sha256": "6f8a582c7a3a88cfe2ffa640e3abf478774a362231b745adba137371c3ec4dae",
+    "selected_passages_match": true,
+    "selected_words": 78,
+    "retrieval_basis": "initial",
+    "is_cached": false,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-569d2cc75dfb3e9f",
+    "url": "https://aphc.gov.in/docs/notification_1785225296_0.pdf",
+    "reviewed_text_sha256": "cd4389bc7fa22f570327135d7ec562fa22abb6502aa40f955ebf6ce56d766e86",
+    "selected_passages_match": true,
+    "selected_words": 110,
+    "retrieval_basis": "recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-8f6a15786771c15d",
+    "url": "https://cag.gov.in/uploads/tenders/tenders-EOI-for-Establishment-of-Sovereign-AI-Platform-for-CAG-of-India-069fb031304a1b8-89068885.pdf",
+    "reviewed_text_sha256": "b1433e22071e12c6f79fbd5ba8cc0f19bab73afbdaef02f7e0dce53a948c9b10",
+    "selected_passages_match": true,
+    "selected_words": 114,
+    "retrieval_basis": "sector",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-907a3b1248416291",
+    "url": "https://www.cert-in.org.in/PDF/TechnicalGuidelines-on-SBOM,QBOM&CBOM,AIBOM_and_HBOM_ver2.0.pdf",
+    "reviewed_text_sha256": "aade9e4c97376d24d598e2758bb7161a8c9a304aac464b432b71db8614b1c2d5",
+    "selected_passages_match": true,
+    "selected_words": 92,
+    "retrieval_basis": "sector-final",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-44a3679573cd8e18",
+    "url": "https://www.cert-in.org.in/PDF/CERT-In_Directions_70B_28.04.2022.pdf",
+    "reviewed_text_sha256": "7b5c2b023e5c083b65084ccd84d56fdc37a6bca7f08420e13ca9f61364c6170c",
+    "selected_passages_match": true,
+    "selected_words": 98,
+    "retrieval_basis": "complete",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-fb8ebf6a306a261c",
+    "url": "https://www.cert-in.org.in/PDF/CERT-In_directions_extension_MSMEs_and_validation_27.06.2022.pdf",
+    "reviewed_text_sha256": "9e36c36c7263a87ba781b58b37c3f8e1569fb4cfb7809c4fae39f5292a00f4b5",
+    "selected_passages_match": true,
+    "selected_words": 51,
+    "retrieval_basis": "complete",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-45167c1e39a57c29",
+    "url": "https://www.meity.gov.in/static/uploads/2024/06/2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf",
+    "reviewed_text_sha256": "4ec8b7bba359d6c2a8d10e51a4b2886ac9f89c31dd194b790a535cf583e42b29",
+    "selected_passages_match": true,
+    "selected_words": 107,
+    "retrieval_basis": "recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-43e8a665360c732d",
+    "url": "https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf",
+    "reviewed_text_sha256": "bda8a4ac77bb5e680376f60685ddd3e1a5c132f54e688c5687e21d8500713ed8",
+    "selected_passages_match": true,
+    "selected_words": 16,
+    "retrieval_basis": "complete",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-fdb85473d7ef4dc6",
+    "url": "https://www.meity.gov.in/static/uploads/2025/12/3c7ebbae0e5456f493f486e6845df86b.pdf",
+    "reviewed_text_sha256": "169a7e2b2e919fd37cc023761f7e892a1b7f166c9cf4acfa8e40ab9c9a122194",
+    "selected_passages_match": true,
+    "selected_words": 36,
+    "retrieval_basis": "initial",
+    "is_cached": false,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-5d28f4aa0893d572",
+    "url": "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf",
+    "reviewed_text_sha256": "cc49c9e3174324bb98980a59687c669bbc7b7176dd0d1e443d72e6c75c7a14e2",
+    "selected_passages_match": true,
+    "selected_words": 116,
+    "retrieval_basis": "complete",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-765c44063e18762b",
+    "url": "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf",
+    "reviewed_text_sha256": "ae5f12a43475cf8bbbb6ec8e84549f45bc8b5dc1f6011ec30ac49f0e913edbef",
+    "selected_passages_match": true,
+    "selected_words": 76,
+    "retrieval_basis": "initial",
+    "is_cached": false,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-5a98fb4d9c47d0cc",
+    "url": "https://www.niti.gov.in/sites/default/files/2022-11/Ai_for_All_2022_02112022.pdf",
+    "reviewed_text_sha256": "c197145b254612f3303f0bc5c6ff4e2bb95b7c72e89cc791074e8e75724dd5cc",
+    "selected_passages_match": true,
+    "selected_words": 144,
+    "retrieval_basis": "recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-73b24f340d15cf23",
+    "url": "https://cdnbbsr.s3waas.gov.in/s316026d60ff9b54410b3435b403afd226/uploads/2024/08/202408121698012541.pdf",
+    "reviewed_text_sha256": "1d5a0ffd14979049ec42f33ba2273336f59a3549a06af46d88a8a05a230dc2b9",
+    "selected_passages_match": true,
+    "selected_words": 161,
+    "retrieval_basis": "initial",
+    "is_cached": false,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-8612442c39d5f850",
+    "url": "https://dit.goa.gov.in/assets/books/goa_ai_policy_draft.pdf",
+    "reviewed_text_sha256": "8c568eb7061b7bfe0d39da84b7e4ed8fd62bd0fb3625979498fcc89de0051180",
+    "selected_passages_match": true,
+    "selected_words": 123,
+    "retrieval_basis": "recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-f45281b451df9bec",
+    "url": "https://dip.goa.gov.in/it-department-releases-draft-ai-policy/",
+    "reviewed_text_sha256": "1fc11aa0b86a86f4c9dbd12b899ea08079c24594f1cd572bec453566fcacb47d",
+    "selected_passages_match": true,
+    "selected_words": 7,
+    "retrieval_basis": "initial",
+    "is_cached": false,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-a1e711bb0afc39cc",
+    "url": "https://dst.gujarat.gov.in/ViewFile?fileName=wKb4HJPjE81gwZNiRxKFzIylsKQNavbyz93vz9J0eK48ly4kdrF1K5xEPdz%E2%9C%BFXnihIyzOm%E2%9C%BFxBn3EMDjT%E2%9C%BFzMyI79bPQ9TIAmaW2BUmOsa2EW3A6Ll2c23BwQp6A758XXZyzoImmdGN4iWtDtgzUFZSmg%E2%99%AC%E2%99%AC",
+    "reviewed_text_sha256": "34dd5fdbd6bac1722530bf9d079cd7e25948442782a60ea1302f951c7a502a55",
+    "selected_passages_match": true,
+    "selected_words": 89,
+    "retrieval_basis": "additional",
+    "is_cached": false,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-1898bfc61c2db32b",
+    "url": "https://www.icmr.gov.in/ethical-guidelines-for-application-of-artificial-intelligence-in-biomedical-research-and-healthcare",
+    "reviewed_text_sha256": "9711e487c162435d129a9a2cac0c94985bd150e3f0dfa3977f0077cb5eb4c18d",
+    "selected_passages_match": true,
+    "selected_words": 50,
+    "retrieval_basis": "complete",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-5b037ed8d974be63",
+    "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-ambitious-indiaai-mission-to-strengthen-the-ai-innovation-ecosystem/",
+    "reviewed_text_sha256": "935a1acb12560f577ad53a34380cdb9cae4df49b0861650bc50b19fe47eecf0a",
+    "selected_passages_match": true,
+    "selected_words": 95,
+    "retrieval_basis": "recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-d36ee5b660ada3ed",
+    "url": "https://www.meity.gov.in/static/uploads/2026/03/0b576f2071694b52e4cd6bb1b6dfab1e.pdf",
+    "reviewed_text_sha256": "b5198b72c51d9d2ae94d38cd8d6f0214241abcca3473228e1aedb6547e722705",
+    "selected_passages_match": true,
+    "selected_words": 96,
+    "retrieval_basis": "final",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-2e800bcbb1e7e824",
+    "url": "https://www.jharkhand.gov.in/PDepartment/ViewDoc?id=D016DO002SD00205072026052600249",
+    "reviewed_text_sha256": "522ebae7a8517717d5ee6117da4fb48d9046cd4efd9b2599f3458a33ffaeaa95",
+    "selected_passages_match": true,
+    "selected_words": 95,
+    "retrieval_basis": "initial",
+    "is_cached": false,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-08c44cd72d3ce694",
+    "url": "https://cm.jharkhand.gov.in/sites/default/files/press-release/2026-07/Press_Release-1-09-07-2026(English).pdf",
+    "reviewed_text_sha256": "db683a1a9dac4d94382059e5981e989966eb98f9decc747b378eadc1cbbe3685",
+    "selected_passages_match": true,
+    "selected_words": 15,
+    "retrieval_basis": "recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-35445437af206a94",
+    "url": "https://obps.jk.gov.in/BPAMSClient/HomePageHtml/AIFramework.pdf",
+    "reviewed_text_sha256": "95c1ba5a1c096445fdc389c98decab02fcf9cc557e32c811e02fefbcd0f5f846",
+    "selected_passages_match": true,
+    "selected_words": 101,
+    "retrieval_basis": "initial",
+    "is_cached": false,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-6b97c8246581a9b0",
+    "url": "https://kfon.kerala.gov.in/wp-content/uploads/2026/02/IT_policy_2026_Kerala.pdf",
+    "reviewed_text_sha256": "1d6ca780396a25d2c5b49450f81916717db2b705989974e97302421f93070a42",
+    "selected_passages_match": true,
+    "selected_words": 110,
+    "retrieval_basis": "recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-97d49cd8eb508473",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ffedf5be3a86e2ee281d54cdc97bc1cf/uploads/2026/07/202607071486006862.pdf",
+    "reviewed_text_sha256": "d5eb2a320491a8fc55738de1de33c244e5bcc25fc9e9119a5178f1bcf7c6dc34",
+    "selected_passages_match": true,
+    "selected_words": 107,
+    "retrieval_basis": "initial",
+    "is_cached": false,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-b49add35547558e3",
+    "url": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-document-on-Medical-Device-Software-under-MDR-2017.pdf",
+    "reviewed_text_sha256": "f002e5753f1a59d9911dfe61323b8838efc4ec39d6044afacb2a08efb2c81700",
+    "selected_passages_match": true,
+    "selected_words": 114,
+    "retrieval_basis": "recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-016360a029aec1ed",
+    "url": "https://investmeghalaya.gov.in/resources/homePage/17/megeodb/policies/it2024.pdf",
+    "reviewed_text_sha256": "027d56b2cc63291c995f27a9fdcb5555184121a4d7862a7f841ecd6411c8343d",
+    "selected_passages_match": true,
+    "selected_words": 91,
+    "retrieval_basis": "recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-95273940e8153101",
+    "url": "https://www.niti.gov.in/sites/default/files/2023-03/National-Strategy-for-Artificial-Intelligence.pdf",
+    "reviewed_text_sha256": "01a556700143f563187838f12f0ff7a939b1db44772bc783b0870a8c57706f5d",
+    "selected_passages_match": true,
+    "selected_words": 126,
+    "retrieval_basis": "recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-187bfaaa93161359",
+    "url": "https://www.meity.gov.in/content/draft-national-data-governance-framework-policy-0",
+    "reviewed_text_sha256": "9c51ed236ace1549d1d14001be524bdaf2fe615e39564488964c5a8ea2386e8e",
+    "selected_passages_match": true,
+    "selected_words": 6,
+    "retrieval_basis": "additional-recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-237de5fdfdb14826",
+    "url": "https://www.mea.gov.in/bilateral-documents?dtl/40809",
+    "reviewed_text_sha256": "e08e8ea26075b8a8530916a01ff69dc4bd271d9e3d742c90198b21283b734dc8",
+    "selected_passages_match": true,
+    "selected_words": 52,
+    "retrieval_basis": "initial",
+    "is_cached": false,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-8b8c4d1f5fe82b42",
+    "url": "https://it.odisha.gov.in/sites/default/files/2026-01/4602-E&IT%20Deptt.pdf",
+    "reviewed_text_sha256": "95f6a4466aa5cd1d0371ad003a3363cd11e6798978777594bfa0cc5c73f7ef3f",
+    "selected_passages_match": true,
+    "selected_words": 85,
+    "retrieval_basis": "recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-4729aee562e871c9",
+    "url": "https://www.niti.gov.in/sites/default/files/2021-08/Part2-Responsible-AI-12082021.pdf",
+    "reviewed_text_sha256": "4dd7a96d69cf375d729933cc496e55821be254ed4ff8bd4bf5316fca9e631631",
+    "selected_passages_match": true,
+    "selected_words": 115,
+    "retrieval_basis": "recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-6c52dcc0115a1b5a",
+    "url": "https://www.niti.gov.in/sites/default/files/2021-02/Responsible-AI-22022021.pdf",
+    "reviewed_text_sha256": "9f2ec796b42eeb7649d67251c4be6ac2a9cd1f91d66a3c19ed8696ef5549a752",
+    "selected_passages_match": true,
+    "selected_words": 158,
+    "retrieval_basis": "recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-7d5c821cbd4d99a0",
+    "url": "https://ai.rajasthan.gov.in/policy/AI%20ML%20POLICY.pdf",
+    "reviewed_text_sha256": "e819947a23ab41cf60e5fbfdd79e546b9ec6ffa9bf0cffb2c35ee91fd5d5d21e",
+    "selected_passages_match": true,
+    "selected_words": 122,
+    "retrieval_basis": "Official binary fallback and OCR after supported fetch failed",
+    "is_cached": false,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-e37354c90e076f28",
+    "url": "https://rbidocs.rbi.org.in/rdocs/PublicationReport/Pdfs/FREEAIR130820250A24FF2D4578453F824C72ED9F5D5851.PDF",
+    "reviewed_text_sha256": "d90de6565445704eb94c8ec63a412d62e9629c8e6994aa512db11539a62d4a21",
+    "selected_passages_match": true,
+    "selected_words": 124,
+    "retrieval_basis": "additional-recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-0ecb5371c65f2c8f",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/PDFs/DRAFTGUIDANCE24062026FF12A4FF7BC84E8887009D5C5365F8BF.PDF",
+    "reviewed_text_sha256": "3baaf660988f0cbfaf69afb7f31cc423a0c02ce8e7bc1c22d87ea5c9fdd3ee53",
+    "selected_passages_match": true,
+    "selected_words": 119,
+    "retrieval_basis": "sector-final",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-b87b4f0e52af1384",
+    "url": "https://www.sebi.gov.in/sebi_data/attachdocs/jun-2025/1750415065695.pdf",
+    "reviewed_text_sha256": "4f8446351e04de96ee935794d080807a33179b2b6a806e625145df9ec363c30b",
+    "selected_passages_match": true,
+    "selected_words": 161,
+    "retrieval_basis": "additional-recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-be55e7913d18ad46",
+    "url": "https://cybersuraksha-ai.sebi.gov.in/documents/48365173/0/Advisory+on+AI.pdf/0ccb30be-015d-f7dc-2b28-8741bf260556?t=1786862751961",
+    "reviewed_text_sha256": "4b62ea1a1d4a7ae02fa41b010544cd804e2b44365d691b29f64bb6a6034ac64a",
+    "selected_passages_match": true,
+    "selected_words": 54,
+    "retrieval_basis": "sector",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-5eba31f239b24919",
+    "url": "https://www.sebi.gov.in/sebi_data/attachdocs/may-2019/1557381806499.pdf",
+    "reviewed_text_sha256": "ca8a35a164d9ccb2034fe2dc35809044c8c177dd675b889fe3a4dc3a084cd480",
+    "selected_passages_match": true,
+    "selected_words": 118,
+    "retrieval_basis": "additional-recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-da3af52f5aa2daea",
+    "url": "https://www.sebi.gov.in/sebi_data/attachdocs/jan-2019/1546611637895.pdf",
+    "reviewed_text_sha256": "a2123114903dbca5e6279f47d864abcc33617c0f098fc4794ba6c74e0ea662e8",
+    "selected_passages_match": true,
+    "selected_words": 122,
+    "retrieval_basis": "recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-a44e74c889ae10eb",
+    "url": "https://www.sebi.gov.in/sebi_data/attachdocs/feb-2025/1739276753544.pdf",
+    "reviewed_text_sha256": "e8e33147c06abf1ff05a31a0001ef9f4497443a2eb8c2adad7e6c451e0eaa008",
+    "selected_passages_match": true,
+    "selected_words": 112,
+    "retrieval_basis": "additional-recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-27da8308446e4d2c",
+    "url": "https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf",
+    "reviewed_text_sha256": "d31804a7666d165f44ed968fd5e4d10a816cc83602af63b1aa56a65b4a686e68",
+    "selected_passages_match": true,
+    "selected_words": 135,
+    "retrieval_basis": "final",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-2166ba1dbb677a10",
+    "url": "https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf",
+    "reviewed_text_sha256": "a860908ed1cc7e95db871f483f2bb18de92f87bdf931a94d509537bdd286cb54",
+    "selected_passages_match": true,
+    "selected_words": 33,
+    "retrieval_basis": "final",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-3ec6155eb48cd541",
+    "url": "https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf",
+    "reviewed_text_sha256": "b54dfd61df6a9c8c8e9f584eb437346a9237e293d342f78af44da79ca2507e36",
+    "selected_passages_match": true,
+    "selected_words": 76,
+    "retrieval_basis": "complete",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-9801a4d0c997ad7e",
+    "url": "https://www.sikkim.gov.in/uploads/DeptUploads/Draft_AI_Policy_2025_20260313.pdf",
+    "reviewed_text_sha256": "0f7a5581445b65dab9084496e87d2e7928944118215c80e2c609e05a4823cf25",
+    "selected_passages_match": true,
+    "selected_words": 86,
+    "retrieval_basis": "initial",
+    "is_cached": false,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-4adb1d3646d68c6a",
+    "url": "https://www.sikkim.gov.in/beinvolved/information-technology-department/20006",
+    "reviewed_text_sha256": "9d7b47da95efcc41fbb0741c4a568dc827c4faf75c2c39074b6036b9499fec71",
+    "selected_passages_match": true,
+    "selected_words": 11,
+    "retrieval_basis": "additional",
+    "is_cached": false,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-c51b075e014bf8e7",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/06/2026060342.pdf",
+    "reviewed_text_sha256": "539541d20c031d07b858036942884614974f8b62687da77e375cc5db7cd4f7fb",
+    "selected_passages_match": true,
+    "selected_words": 148,
+    "retrieval_basis": "complete",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-1fa3861a01ecd072",
+    "url": "https://it.telangana.gov.in/wp-content/uploads/2024/09/AI-Powered-Telangana-Strategy-Document-and-Implementation-Roadmap.pdf",
+    "reviewed_text_sha256": "01de9e66fea51494d048b102b43e77fec0ce10fb403f4e9ef1a2da28a1ecc8be",
+    "selected_passages_match": true,
+    "selected_words": 140,
+    "retrieval_basis": "recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-4eeff4dfc7498bf6",
+    "url": "https://health.odisha.gov.in/sites/default/files/2021-12/Telemedicine-practice-guidelines.pdf",
+    "reviewed_text_sha256": "fe202f3ea8ab249229c2f84aa29f7fda5a1ba4404f3806e751af63fc5389ab71",
+    "selected_passages_match": true,
+    "selected_words": 139,
+    "retrieval_basis": "recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-7931c87970eece57",
+    "url": "https://it.tn.gov.in/sites/default/files/2021-06/TN_Safe_Ethical_AI_policy_2020.pdf",
+    "reviewed_text_sha256": "c297dc7ac1eb149fb2e1466ed20259cc2d57f4327166105e2b34ad9a66450f7c",
+    "selected_passages_match": true,
+    "selected_words": 116,
+    "retrieval_basis": "recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-46464492e589affc",
+    "url": "https://cms.tn.gov.in/cms_migrated/document/GO/it_e_25_2024_Ms.pdf",
+    "reviewed_text_sha256": "e3f816fb30b02b5dc4f24a4cc321135684538f698e37101bfcc7ef3d2360a20e",
+    "selected_passages_match": true,
+    "selected_words": 91,
+    "retrieval_basis": "recovery",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-ef1a2c7c8e7e732e",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253322&reg=1&lang=1",
+    "reviewed_text_sha256": "13eb1267f72810c12e303353326639b35c2876ea9bc5b8773cdfbec2b3918ef5",
+    "selected_passages_match": true,
+    "selected_words": 50,
+    "retrieval_basis": "complete",
+    "is_cached": true,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  },
+  {
+    "source_id": "govsrc-1091c838d2ab4ac9",
+    "url": "https://governoruk.gov.in/26-11-2025-governor-launched-the-uttarakhand-ai-mission-2025-policy-at-raj-bhawan/",
+    "reviewed_text_sha256": "e2115834bb625e65eb8c3f80259fe748f8437b5558ba4dcbeed308fc2e30117a",
+    "selected_passages_match": true,
+    "selected_words": 36,
+    "retrieval_basis": "initial",
+    "is_cached": false,
+    "review": "Normalized exact quote membership checked after single-analyst review; not original-byte authentication or independent legal verification"
+  }
+]

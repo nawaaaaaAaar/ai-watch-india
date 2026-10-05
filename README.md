@@ -6,6 +6,10 @@ The website brand is **AI Watch**, with **India evidence desk** identifying the 
 
 ## Included in this release
 
+The new governance layer v1.0.0 adds **52 official document/version records**, 260 complete provision slots, 56 source records, 289 selected excerpts and 95 typed associations to 54 existing system families. **The system registry remains at 144**, and every earlier registry payload is byte-preserved. The 37-jurisdiction screen covers the Centre, all states and all union territories; included subnational documents come from 14 jurisdictions, not a national policy census.
+
+Start with `research/governance/ANALYSIS.pplx.md`, then `METHOD.md` and `CODEBOOK.md`. Use the linked governance view or download `public/governance/complete-governance.zip`, JSON, SQLite and eleven CSV tables. `npm run package:governance` reproduces the separate layer offline; `queries.sql` demonstrates status-aware joins. Draft, adopted, enacted, historical and unverified implementation remain distinct. Four records are outline-only, and a system association is not a compliance determination. The selected 13 candidate decisions and complete search/retrieval receipts expose important gaps; no independent recoding is claimed.
+
 Dataset v1.3.0 doubles the previous 72-record release to 144 named system/service families, with 133 institution labels, 197 source records and all 1,728 accountability slots across 21 linked tables. The 72 additions cover public banking, welfare authentication, courts, education, environmental warnings, state-service assistance, policy analytics, government enabling infrastructure and public-sector capabilities.
 
 This round logs 591 queries, 2,511 leads and 228 retrieval receipts including 41 explicit failed receipts; recovered/incomplete attempts remain visible. All 78 used new source selections were checked against fetched text. Cached recovery and fresh requests are distinguished. The archive retains all 144 dossiers, source excerpts, JSON, SQLite, 21 CSVs, SQL, studies, methods, receipts and checksums.
