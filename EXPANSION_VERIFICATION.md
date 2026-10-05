@@ -61,4 +61,8 @@ No paid services, interviews, information requests, correction submissions or pu
 
 ## Repository and preview verification
 
-Clean-checkout and hosted-preview results are recorded after execution below.
+A fresh local clone of expansion commit `6e2f735b3b3b546df3a6e7175f305b434db5cee9` passed dependency installation, expansion regeneration, brief packaging, both validators, all 30 tests and the production build. Regeneration left its tracked working tree clean. The implementation was pushed to [the repository](https://github.com/nawaaaaaAaar/ai-watch-india/commit/6e2f735b3b3b546df3a6e7175f305b434db5cee9).
+
+The existing private preview was updated in place, not launched publicly. Sixteen additional hosted-browser assertions passed: three family cards, SGI scope, AI status and disabled diff, mixed selection and source-linked export, all-brief and family downloads, snapshot integrity, expansion-study download, correction scopes, mobile fit, dark mode, no runtime errors and no observed POST requests. Hosted captures were taken at desktop and mobile widths.
+
+The development count is 169 successful assertions and the hosted count is 16. These are explicit browser checks, not 185 independently designed automated test cases or an accessibility certification.
