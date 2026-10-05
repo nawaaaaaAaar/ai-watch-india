@@ -64,7 +64,11 @@ npm test
 npm run build
 ```
 
-Fresh-checkout and hosted-preview results will be recorded below after verification. The existing preview is private; no public-domain launch or paid resource is authorized.
+The implementation was committed as `56d98ec8798dc5c4a296f30e64372936e6a4b9df` and pushed to `main`. A fresh local checkout ran every command above successfully, passed all 66 tests and rebuilt with no tracked-file changes. Its production JavaScript SHA-256 matched the working build exactly: `b6dd1944f7bc2010f6af7b89117ada7725d4d5650dcec0418d0bbf6c991316c9`.
+
+The existing private preview was updated in place, without a public-domain launch. Twenty-three hosted Chromium assertions passed: six cards; experimental stage; filtered/full accountability CSV; bundle/study/search-log downloads; twelve clinical fields; benchmark and retention limits; disabled diff; dynamic full-matrix Markdown; conflicting police count; UPSC contract boundary; fifteen typed source cards; vendor label; downloaded snapshot hash; complete 72/40 structured inventory; no invented corrections; mobile fit; dark theme; no application page errors; and no observed POSTs.
+
+Release signoff: 66 automated tests, 319 development-browser assertions, 23 hosted assertions and a clean-checkout reproduction. No paid services, public launch, agency enquiry or external complaint was undertaken. These checks verify the release, not the systems' real-world performance or the completeness of Indian deployment coverage.
 
 ## Remaining limits
 

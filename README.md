@@ -64,7 +64,7 @@ Deploy the `dist/` directory on a static host. Relative assets and hash routes s
 
 ## Reproduce the curated data
 
-The input comparison and coverage register are in `research/`; four extracted public-document snapshots are in `public/snapshots/`. Rebuild the curated dataset and the twelve briefs:
+The input comparisons and research templates are in `research/`; versioned extracted-source snapshots are in `public/snapshots/`. Rebuild all curated datasets, 46 briefs, the full case study and coverage register:
 
 ```sh
 python scripts/build_dataset.py
