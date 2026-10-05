@@ -4,6 +4,16 @@ A complete curated policy-change desk for journalism, governance research and de
 
 ## Included in this release
 
+Curated edition 05 makes every stored field accessible through the complete data room:
+
+- All 72 record dossiers, not only the 46 selected contribution briefs; 46 catalogued source snapshots, ten corrections and all 72 case-dimension slots.
+- Flat coverage, source, evidence and limitation registers, plus exact JSONL record objects, full dataset JSON and original DPDP raw research registers.
+- A deterministic complete-data ZIP with a per-file size/SHA-256 manifest and separate manifest/archive checksums.
+- 185 evidence items and 140 overlapping limitation/record-queue entries, explicitly not independent findings or risk scores.
+- Five follow-up public-service sources and the contextual DPDP parent Act. National clinical-study abstract, developer dates, historical clinical guidance and court translation guidance remain bounded by their actual scope.
+- Full-manuscript and current-support-page access failures are documented. No clinical accuracy score, current working grievance route or completed nationwide rollout is invented.
+- No public launch, paid service or outbound enquiry. “Complete” means this five-collection corpus, not a census of Indian AI.
+
 Curated edition 04 adds six complete public-service case files without a public launch:
 
 - Five collections: 72 evidence units, 46 substantive briefs, 40 source records and ten directed English corrections.
@@ -64,15 +74,13 @@ Deploy the `dist/` directory on a static host. Relative assets and hash routes s
 
 ## Reproduce the curated data
 
-The input comparisons and research templates are in `research/`; versioned extracted-source snapshots are in `public/snapshots/`. Rebuild all curated datasets, 46 briefs, the full case study and coverage register:
+The input comparisons and research templates are in `research/`; versioned extracted-source snapshots are in `public/snapshots/`. Rebuild all curated datasets, 46 briefs, the full case study, all 72 dossiers, registers and the checksummed archive:
 
 ```sh
 python scripts/build_dataset.py
 python scripts/build_expansion.py
 python scripts/build_implementation.py
-python scripts/build_public_services.py
-node scripts/package-briefs.mjs
-node scripts/package-service-study.mjs
+npm run package:data
 npm run validate:data
 npm test
 npm run build
@@ -81,6 +89,8 @@ npm run build
 The script contains curated classifications and interpretations; it does not infer authoritative legal conclusions from token differences. Word highlighting is mechanical. Table comparisons avoid automated highlighting because flattened reading order can create false changes.
 
 Original PDF binaries are linked at official sources, not mirrored here. Snapshot hashes verify extracted UTF-8 text only; they do not verify original PDF bytes.
+
+The complete-data archive does not include application source/dependencies or private notebook notes; application source and tests remain in this repository. Third-party material retains its original rights, and the bundle does not grant a blanket reuse licence. Read `public/data-room/README.md` and `public/research/data-completeness-study.md` before redistributing evidence.
 
 ## Editorial limits
 

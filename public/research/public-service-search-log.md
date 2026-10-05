@@ -57,3 +57,27 @@ No tenders were treated as awards, no winners as contracted suppliers, no progra
 The repository preserves the curated source selection, exact normalized quotations, source URLs, source types, dates, locators, selected-excerpt snapshots and hashes. Run `python scripts/build_public_services.py`, then `node scripts/package-briefs.mjs`, `npm run validate:data` and `npm test`. The builder asserts quote membership and retains every dimension.
 
 The new snapshots are selected excerpts, not full copyrighted page archives or PDF binaries. Hashes authenticate these extracted UTF-8 snapshot files only; they do not certify source authenticity, original PDF bytes or the truth of a source's claims.
+
+## Edition 05 completeness follow-up
+
+Eleven additional focused searches returned 64 distinct discovery URLs. The thin discovery register retains query, title and URL rather than treating search excerpts as verified source text.
+
+- UPSC face authentication mismatch SOP 2026
+- UPSC face authentication mobile privacy retention policy
+- CyberGuard I4C production evaluation model 2026
+- I4C CyberGuard procurement award tender
+- SUPACE Supreme Court deployment final AI regulations 2026
+- SUVAS translated judgments disclaimer correction process
+- eSanjeevani clinical decision support accuracy evaluation
+- eSanjeevani patient grievance complaint clinical consultation
+- MahaCrimeOS government order procurement contract
+- MahaCrimeOS police rollout September 2026
+- India AI public services model cards appeal audit
+
+A title/DOI follow-up located the national clinical implementation-study abstract and declarations. Five additional public-service sources were read and added: that abstract, two developer accounts, circulated translation guidance and historical telemedicine practice guidance. The parent DPDP Act was separately retrieved as contextual extracted text, not another case or contribution.
+
+The full clinical manuscript was blocked through the content-fetch route and its article page was blocked in a browser. The current eSanjeevani support page was blocked through both routes. No functioning form, full manuscript, independent numeric accuracy or current remedy was inferred from the partial retrieval.
+
+The new case fields preserve the March/April integration descriptions, study-funding versus deployment-budget boundary, historical versus current safeguard boundary and local versus national validation distinction. The full case register remains six cases and twelve dimensions per case; the source count rises from fifteen to twenty public-service records.
+
+Read `data-completeness-study.md`, `completeness-retrieval.csv` and `completeness-discovery.jsonl` alongside this historical initial search log. Run `npm run package:data` to regenerate current briefs, dossiers, registers and the archive, then validation, tests and build.

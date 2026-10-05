@@ -738,6 +738,102 @@
       "snapshot": "snapshots/service-police-reporting.txt",
       "hash": "25a6211442c4e765724c7b74725b5ccb57f3c46add1816b2bb4d774e37b35129",
       "hashType": "SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes"
+    },
+    {
+      "id": "service-health-implementation-study",
+      "title": "National eSanjeevani CDSS implementation-study abstract",
+      "url": "https://doi.org/10.1101/2025.11.22.25340800",
+      "documentDate": "DOI version 2025.11.22; exact publication day not certified",
+      "publication": "DOI version 2025.11.22; exact publication day not certified",
+      "status": "Research abstract; full manuscript not reviewed",
+      "instrument": "National eSanjeevani CDSS implementation-study abstract",
+      "sourceType": "Research abstract; full manuscript not reviewed",
+      "snapshotKind": "Selected excerpts",
+      "description": "Selected source excerpts used by the case; open the original for the complete record. Not an independent audit.",
+      "checked": "5 October 2026",
+      "snapshot": "snapshots/service-health-implementation-study.txt",
+      "hash": "a1952697f30eb35a276197fb4547ec2659e750dd1a6919f71b3d6ee16f1aa3f1",
+      "hashType": "SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes"
+    },
+    {
+      "id": "service-health-developer-submission",
+      "title": "Wadhwani AI eSanjeevani developer submission",
+      "url": "https://solve.mit.edu/solutions/73043",
+      "documentDate": "2023 programme context; page date not certified",
+      "publication": "2023 programme context; page date not certified",
+      "status": "Developer account",
+      "instrument": "Wadhwani AI eSanjeevani developer submission",
+      "sourceType": "Developer account",
+      "snapshotKind": "Selected excerpts",
+      "description": "Selected source excerpts used by the case; open the original for the complete record. Not an independent audit.",
+      "checked": "5 October 2026",
+      "snapshot": "snapshots/service-health-developer-submission.txt",
+      "hash": "3e4891cd5e2ade8c4f77aa2c64dfb2edbb59cbcb0fb5ac83801a9d216348480d",
+      "hashType": "SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes"
+    },
+    {
+      "id": "service-health-developer-current",
+      "title": "Wadhwani AI healthcare programme page",
+      "url": "https://www.wadhwaniai.org/impact/healthcare/",
+      "documentDate": "Undated page; checked 5 October 2026",
+      "publication": "Undated page; checked 5 October 2026",
+      "status": "Developer account",
+      "instrument": "Wadhwani AI healthcare programme page",
+      "sourceType": "Developer account",
+      "snapshotKind": "Selected excerpts",
+      "description": "Selected source excerpts used by the case; open the original for the complete record. Not an independent audit.",
+      "checked": "5 October 2026",
+      "snapshot": "snapshots/service-health-developer-current.txt",
+      "hash": "7f54f436044fe843e592f72b49a0d501ea8de5575a2546eb96d7bcaeaeea54b8",
+      "hashType": "SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes"
+    },
+    {
+      "id": "service-translation-guidelines",
+      "title": "Court translation scheme and Supreme Court AI Committee guidelines",
+      "url": "https://cdnbbsr.s3waas.gov.in/s3ec03ac73001b1d44f4925449ce09d9f5/uploads/2023/09/2023092013.pdf",
+      "documentDate": "Guidelines dated 21 August 2023; historical circulated annexure",
+      "publication": "Guidelines dated 21 August 2023; historical circulated annexure",
+      "status": "Court administrative guidance",
+      "instrument": "Court translation scheme and Supreme Court AI Committee guidelines",
+      "sourceType": "Court administrative guidance",
+      "snapshotKind": "Selected excerpts",
+      "description": "Selected source excerpts used by the case; open the original for the complete record. Not an independent audit.",
+      "checked": "5 October 2026",
+      "snapshot": "snapshots/service-translation-guidelines.txt",
+      "hash": "488d3fb22c1d1c79e3113b768cadec5a623a18c6f49b558534d1f340479188d8",
+      "hashType": "SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes"
+    },
+    {
+      "id": "service-health-practice-guidelines",
+      "title": "Telemedicine Practice Guidelines",
+      "url": "https://esanjeevani.mohfw.gov.in/assets/guidelines/Telemedicine_Practice_Guidelines.pdf",
+      "documentDate": "25 March 2020; later-current status not exhaustively certified",
+      "publication": "25 March 2020; later-current status not exhaustively certified",
+      "status": "Professional practice guidelines; historical text",
+      "instrument": "Telemedicine Practice Guidelines",
+      "sourceType": "Professional practice guidelines; historical text",
+      "snapshotKind": "Selected excerpts",
+      "description": "Selected source excerpts used by the case; open the original for the complete record. Not an independent audit.",
+      "checked": "5 October 2026",
+      "snapshot": "snapshots/service-health-practice-guidelines.txt",
+      "hash": "a3b894e4d924552925d1c514fd8a80a2d03d59de2c07e393f0b27e2fafd9496c",
+      "hashType": "SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes"
+    },
+    {
+      "id": "context-dpdp-act",
+      "title": "Digital Personal Data Protection Act, 2023",
+      "instrument": "Parent statute",
+      "documentDate": "11 August 2023; Gazette code dated 12 August",
+      "publication": "Gazette statute, not a certification of all current commencement or court status",
+      "status": "Parent statute; contextual source",
+      "url": "https://www.meity.gov.in/static/uploads/2024/06/2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf",
+      "snapshot": "snapshots/context-dpdp-act.txt",
+      "hash": "4ec8b7bba359d6c2a8d10e51a4b2886ac9f89c31dd194b790a535cf583e42b29",
+      "hashType": "SHA-256 of extracted UTF-8 text, not PDF bytes",
+      "sourceType": "Official statute",
+      "snapshotKind": "Extracted source text",
+      "checked": "5 October 2026",
+      "description": "The parent Act linked by the DPDP briefs is now included as extracted text. This is a contextual document, not an additional comparison or contribution."
     }
   ],
   "provisions": [
@@ -3626,7 +3722,7 @@
         {
           "name": "Funding & contract",
           "status": "Partial",
-          "statement": "The historical Allahabad notice quotes Re. 1 per English-source word for vetting; this is not a national software budget.",
+          "statement": "The historical Allahabad notice quotes Re. 1 per English-source word. Circulated scheme guidance describes High Court grants sanctioned by State Governments for translator remuneration; neither is a national software budget or verified expenditure.",
           "evidence": [
             {
               "sourceId": "service-translation-vetting",
@@ -3634,6 +3730,13 @@
               "url": "https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf",
               "quote": "The remuneration for vetting & correction of the software generated translation of the judgments of this Court will be paid at the rate of Re. 1/- per word of the English version.",
               "locator": "Allahabad notice, remuneration"
+            },
+            {
+              "sourceId": "service-translation-guidelines",
+              "title": "Court translation scheme and Supreme Court AI Committee guidelines",
+              "url": "https://cdnbbsr.s3waas.gov.in/s3ec03ac73001b1d44f4925449ce09d9f5/uploads/2023/09/2023092013.pdf",
+              "quote": "Amounts required for paying reasonable remuneration to the panel of translators shall be from grants sought for by the High Court and sanctioned by the State Government.",
+              "locator": "Annexure A, guideline 10"
             }
           ]
         },
@@ -3660,7 +3763,7 @@
         {
           "name": "Human review & overrides",
           "status": "Documented",
-          "statement": "Translation committees are described, and the Allahabad notice requires vetting/correction and certification. Coverage of that process is local, not universal.",
+          "statement": "Translation committees are described; circulated 2023 scheme guidance requires correctness checks by translators/reviewers. Allahabad's separate certification process is local, not universal. Current implementation across all courts is not audited.",
           "evidence": [
             {
               "sourceId": "service-judiciary",
@@ -3675,6 +3778,13 @@
               "url": "https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf",
               "quote": "After due vetting & corrections, the said Vetters shall return the same, certifying the correctness of the translation.",
               "locator": "Allahabad notice, condition 2"
+            },
+            {
+              "sourceId": "service-translation-guidelines",
+              "title": "Court translation scheme and Supreme Court AI Committee guidelines",
+              "url": "https://cdnbbsr.s3waas.gov.in/s3ec03ac73001b1d44f4925449ce09d9f5/uploads/2023/09/2023092013.pdf",
+              "quote": "Care should be taken by verifying the correctness of translation through the translators/reviewers (retired or in-service translators or retired judicial officers).",
+              "locator": "Annexure A, guideline 4"
             }
           ]
         },
@@ -3778,11 +3888,25 @@
           "locator": "Allahabad notice, remuneration"
         },
         {
+          "sourceId": "service-translation-guidelines",
+          "title": "Court translation scheme and Supreme Court AI Committee guidelines",
+          "url": "https://cdnbbsr.s3waas.gov.in/s3ec03ac73001b1d44f4925449ce09d9f5/uploads/2023/09/2023092013.pdf",
+          "quote": "Amounts required for paying reasonable remuneration to the panel of translators shall be from grants sought for by the High Court and sanctioned by the State Government.",
+          "locator": "Annexure A, guideline 10"
+        },
+        {
           "sourceId": "service-translation-vetting",
           "title": "Allahabad translation-vetting notice",
           "url": "https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf",
           "quote": "After due vetting & corrections, the said Vetters shall return the same, certifying the correctness of the translation.",
           "locator": "Allahabad notice, condition 2"
+        },
+        {
+          "sourceId": "service-translation-guidelines",
+          "title": "Court translation scheme and Supreme Court AI Committee guidelines",
+          "url": "https://cdnbbsr.s3waas.gov.in/s3ec03ac73001b1d44f4925449ce09d9f5/uploads/2023/09/2023092013.pdf",
+          "quote": "Care should be taken by verifying the correctness of translation through the translators/reviewers (retired or in-service translators or retired judicial officers).",
+          "locator": "Annexure A, guideline 4"
         },
         {
           "sourceId": "service-translation-vetting",
@@ -4082,8 +4206,8 @@
         },
         {
           "name": "Deployment & date",
-          "status": "Documented",
-          "statement": "The response dates integration to April 2023 and reports usage through July 2026.",
+          "status": "Conflicting sources",
+          "statement": "The parliamentary response dates integration to April 2023 and usage through July 2026; the developer page says March 2023. These descriptions may refer to different components/stages; they are not silently reconciled.",
           "evidence": [
             {
               "sourceId": "service-health-parliament",
@@ -4091,13 +4215,20 @@
               "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
               "quote": "Since its integration in April, 2023 till July, 2026, nearly 30.4 crore eSanjeevani consultations across all States/UTs have been benefited from standardized data capture and nearly 2.13 crore AI based differential diagnosis, ensuring consistency across health and wellness centres.",
               "locator": "April 2023 integration and July 2026 usage"
+            },
+            {
+              "sourceId": "service-health-developer-current",
+              "title": "Wadhwani AI healthcare programme page",
+              "url": "https://www.wadhwaniai.org/impact/healthcare/",
+              "quote": "CDSS structures telemedicine patient data via eSanjeevani, suggesting diagnoses and treatments in real time. Integrated since March 2023, it supports 350,000 daily consultations across 31 conditions.",
+              "locator": "Developer programme page, March integration claim"
             }
           ]
         },
         {
           "name": "Procurement & supplier",
           "status": "Partial",
-          "statement": "The platform developer is identified, but CDSS component suppliers, model provenance and procurement awards were not verified.",
+          "statement": "C-DAC is the platform developer; Wadhwani AI describes collaboration on the CDSS in a developer submission. Executed component contracts, production version and full supplier chain were not verified.",
           "evidence": [
             {
               "sourceId": "service-health-platform",
@@ -4105,19 +4236,34 @@
               "url": "https://cdac.in/index.aspx?id=product_details&productId=eSanjeevaniNationalTelemedicineService",
               "quote": "eSanjeevani is an indigenous, cloud-native telemedicine platform developed by C-DAC Mohali to address critical healthcare accessibility challenges, including the shortage and uneven distribution of healthcare professionals, limited access to specialist care in rural and remote areas, and gaps in continuity of care.",
               "locator": "Product brief"
+            },
+            {
+              "sourceId": "service-health-developer-submission",
+              "title": "Wadhwani AI eSanjeevani developer submission",
+              "url": "https://solve.mit.edu/solutions/73043",
+              "quote": "We also collaborate closely with C-DAC, the technology service provider for the eSanjeevani platform, to ensure that our code is easy to integrate with the existing platform and meets the high standards required for deployment in public healthcare.",
+              "locator": "Developer submission, C-DAC collaboration"
             }
           ]
         },
         {
           "name": "Funding & contract",
-          "status": "Not verified",
-          "statement": "n.a. CDSS-specific contract, budget, licensing and maintenance expenditure were not verified.",
-          "evidence": []
+          "status": "Partial",
+          "statement": "The retrieved study declares no funding for that study; this is not a zero-cost deployment claim. CDSS-specific contract, licensing, budget and maintenance expenditure remain unverified.",
+          "evidence": [
+            {
+              "sourceId": "service-health-implementation-study",
+              "title": "National eSanjeevani CDSS implementation-study abstract",
+              "url": "https://doi.org/10.1101/2025.11.22.25340800",
+              "quote": "This study did not receive any funding.",
+              "locator": "Research funding declaration, not deployment budget"
+            }
+          ]
         },
         {
           "name": "Data & integration",
           "status": "Documented",
-          "statement": "Patient assistance forms collect symptoms; the privacy policy lists identifying and health records stored on a C-DAC-managed server.",
+          "statement": "Patient assistance forms collect symptoms; the privacy policy identifies a C-DAC-managed server. Developer and study descriptions identify a rule-based/knowledge-based form; all deployed components are not thereby identified.",
           "evidence": [
             {
               "sourceId": "service-health-parliament",
@@ -4132,14 +4278,49 @@
               "url": "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf",
               "quote": "When the Community Health Officer registers patient on eSanjeevani, the following information besides the users' information is collected from the patient and stored on a server operated and managed by C-DAC Mohali – name, gender, age, address, mobile number, Email ID, health records, etc.",
               "locator": "Privacy policy clause 1(a)"
+            },
+            {
+              "sourceId": "service-health-implementation-study",
+              "title": "National eSanjeevani CDSS implementation-study abstract",
+              "url": "https://doi.org/10.1101/2025.11.22.25340800",
+              "quote": "This study, conducted between 2022–2024 by an AI Centre of Excellence of the Government of India, focused on developing, validating, and implementing a knowledge-based CDSS symptom entry Physician Assistance Form (PAF) within eSanjeevani—India’s national teleconsultation platform.",
+              "locator": "Retrieved research abstract, methods"
+            },
+            {
+              "sourceId": "service-health-developer-submission",
+              "title": "Wadhwani AI eSanjeevani developer submission",
+              "url": "https://solve.mit.edu/solutions/73043",
+              "quote": "The SIPF uses a rule-based logical workflow to enable the accurate collection of chief complaints by engaging patients with relevant questions.",
+              "locator": "Developer submission, rule-based form"
             }
           ]
         },
         {
           "name": "Evaluation & error rates",
-          "status": "Not verified",
-          "statement": "n.a. National deployed-CDSS accuracy was not verified. A separate local 4,401-record study recommends integration into eSanjeevani; its 90% figure is not the existing national system's score.",
+          "status": "Partial",
+          "statement": "A national implementation-study abstract reports expert-clinician validation and implementation, but independent numeric error rates were not established in the retrieved text and full manuscript access was blocked. A separate local 4,401-record study's 90% figure is not the existing national system's score.",
           "evidence": [
+            {
+              "sourceId": "service-health-implementation-study",
+              "title": "National eSanjeevani CDSS implementation-study abstract",
+              "url": "https://doi.org/10.1101/2025.11.22.25340800",
+              "quote": "This study, conducted between 2022–2024 by an AI Centre of Excellence of the Government of India, focused on developing, validating, and implementing a knowledge-based CDSS symptom entry Physician Assistance Form (PAF) within eSanjeevani—India’s national teleconsultation platform.",
+              "locator": "Retrieved research abstract, methods"
+            },
+            {
+              "sourceId": "service-health-implementation-study",
+              "title": "National eSanjeevani CDSS implementation-study abstract",
+              "url": "https://doi.org/10.1101/2025.11.22.25340800",
+              "quote": "Expert clinicians validated the symptom repository, logic flow, and AI-generated diagnoses.",
+              "locator": "Retrieved research abstract, phase 2"
+            },
+            {
+              "sourceId": "service-health-implementation-study",
+              "title": "National eSanjeevani CDSS implementation-study abstract",
+              "url": "https://doi.org/10.1101/2025.11.22.25340800",
+              "quote": "The validated CDSS was implemented in eSanjeevani 2.0, providing real-time differential diagnosis and departmental recommendations during assisted and non-assisted teleconsultations.",
+              "locator": "Retrieved research abstract, phase 3"
+            },
             {
               "sourceId": "service-health-local-study",
               "title": "ICMR local telemedicine research brief",
@@ -4152,7 +4333,7 @@
         {
           "name": "Human review & overrides",
           "status": "Partial",
-          "statement": "Differential diagnosis is supplied to the hub doctor. Mandatory override, escalation and safety-monitoring procedures were not verified.",
+          "statement": "Differential diagnosis is supplied to a hub doctor. Historical practice guidance reserves final prescribing/counselling to an RMP and prohibits AI/ML platforms from independently doing it; actual override, escalation and safety-monitoring SOPs remain unverified.",
           "evidence": [
             {
               "sourceId": "service-health-parliament",
@@ -4160,6 +4341,20 @@
               "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
               "quote": "It also makes recommendation of a specialist doctor through a ‘rule engine’ and offers a differential diagnosis of possible diseases to the doctor at the hub end, thus facilitating connect of the patients with specialists as well as aiding consultations.",
               "locator": "Rule engine and hub-doctor workflow"
+            },
+            {
+              "sourceId": "service-health-practice-guidelines",
+              "title": "Telemedicine Practice Guidelines",
+              "url": "https://esanjeevani.mohfw.gov.in/assets/guidelines/Telemedicine_Practice_Guidelines.pdf",
+              "quote": "Technology platforms based on Artificial Intelligence/Machine Learning are not allowed to counsel the patients or prescribe any medicines to a patient.",
+              "locator": "Practice Guidelines section 5.4, AI/ML platforms"
+            },
+            {
+              "sourceId": "service-health-practice-guidelines",
+              "title": "Telemedicine Practice Guidelines",
+              "url": "https://esanjeevani.mohfw.gov.in/assets/guidelines/Telemedicine_Practice_Guidelines.pdf",
+              "quote": "the final prescription or counseling has to be directly delivered by the RMP",
+              "locator": "Practice Guidelines section 5.4, RMP final delivery"
             }
           ]
         },
@@ -4187,7 +4382,7 @@
         {
           "name": "Complaints & appeal",
           "status": "Partial",
-          "statement": "The privacy policy provides a contact for privacy concerns; a CDSS clinical-error review/remedy procedure was not verified.",
+          "statement": "The privacy policy has a privacy contact, and historical practice guidance calls for platform grievance mechanisms. A functioning current support form or CDSS clinical-error review/remedy procedure was not verified; the platform support page was blocked during this review.",
           "evidence": [
             {
               "sourceId": "service-health-privacy",
@@ -4195,13 +4390,20 @@
               "url": "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf",
               "quote": "If you have any suggestions, concerns or queries in relation to this Privacy Policy, you may address them at esanjeevaniopd@cdac.in",
               "locator": "Privacy policy clause 10"
+            },
+            {
+              "sourceId": "service-health-practice-guidelines",
+              "title": "Telemedicine Practice Guidelines",
+              "url": "https://esanjeevani.mohfw.gov.in/assets/guidelines/Telemedicine_Practice_Guidelines.pdf",
+              "quote": "Technology Platform must ensure that there is a proper mechanism in place to address any queries or grievances that the end-customer may have",
+              "locator": "Practice Guidelines section 5.6, grievance mechanism"
             }
           ]
         },
         {
           "name": "Public outputs & access",
           "status": "Partial",
-          "statement": "Developer, parliamentary and privacy records are public; no national CDSS model card or clinical validation dossier was verified.",
+          "statement": "Developer, parliamentary and privacy records and a national implementation-study abstract are public; no complete national CDSS model card or independent validation dossier was verified.",
           "evidence": [
             {
               "sourceId": "service-health-platform",
@@ -4223,6 +4425,13 @@
               "url": "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf",
               "quote": "If you have any suggestions, concerns or queries in relation to this Privacy Policy, you may address them at esanjeevaniopd@cdac.in",
               "locator": "Privacy policy clause 10"
+            },
+            {
+              "sourceId": "service-health-implementation-study",
+              "title": "National eSanjeevani CDSS implementation-study abstract",
+              "url": "https://doi.org/10.1101/2025.11.22.25340800",
+              "quote": "This study, conducted between 2022–2024 by an AI Centre of Excellence of the Government of India, focused on developing, validating, and implementing a knowledge-based CDSS symptom entry Physician Assistance Form (PAF) within eSanjeevani—India’s national teleconsultation platform.",
+              "locator": "Retrieved research abstract, methods"
             }
           ]
         },
@@ -4251,7 +4460,7 @@
       "checked": "5 October 2026",
       "summary": "Government reporting describes an AI-labelled CDSS integrated in April 2023, with specialist recommendations through a rule engine and differential diagnoses supplied to a doctor.",
       "interpretation": "This is clinician support, not evidence of an autonomous diagnosis. Consultation counts are not safety or diagnostic-accuracy results, and a local CDSS study proposing later integration cannot validate the existing national component.",
-      "caution": "Not clinical advice. The records do not establish every CDSS component is machine learning. The privacy policy is undated, and its medical-output carve-out must not be omitted when quoting retention.",
+      "caution": "Not clinical advice. Components are not all established as machine learning. The study abstract was retrieved, but full manuscript access was blocked; no independent numeric accuracy is assigned. March/April integration wording is retained. The undated privacy policy's treatment-output carve-out matters; historical practice guidance is not certification of current compliance.",
       "question": "Which decision can this system influence, what evidence supports its use, and how can a person obtain human review?",
       "draftLabel": "Product brief",
       "draftLocator": "Product brief",
@@ -4299,6 +4508,27 @@
           "locator": "April 2023 integration and July 2026 usage"
         },
         {
+          "sourceId": "service-health-developer-current",
+          "title": "Wadhwani AI healthcare programme page",
+          "url": "https://www.wadhwaniai.org/impact/healthcare/",
+          "quote": "CDSS structures telemedicine patient data via eSanjeevani, suggesting diagnoses and treatments in real time. Integrated since March 2023, it supports 350,000 daily consultations across 31 conditions.",
+          "locator": "Developer programme page, March integration claim"
+        },
+        {
+          "sourceId": "service-health-developer-submission",
+          "title": "Wadhwani AI eSanjeevani developer submission",
+          "url": "https://solve.mit.edu/solutions/73043",
+          "quote": "We also collaborate closely with C-DAC, the technology service provider for the eSanjeevani platform, to ensure that our code is easy to integrate with the existing platform and meets the high standards required for deployment in public healthcare.",
+          "locator": "Developer submission, C-DAC collaboration"
+        },
+        {
+          "sourceId": "service-health-implementation-study",
+          "title": "National eSanjeevani CDSS implementation-study abstract",
+          "url": "https://doi.org/10.1101/2025.11.22.25340800",
+          "quote": "This study did not receive any funding.",
+          "locator": "Research funding declaration, not deployment budget"
+        },
+        {
           "sourceId": "service-health-privacy",
           "title": "eSanjeevani privacy policy",
           "url": "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf",
@@ -4306,11 +4536,53 @@
           "locator": "Privacy policy clause 1(a)"
         },
         {
+          "sourceId": "service-health-implementation-study",
+          "title": "National eSanjeevani CDSS implementation-study abstract",
+          "url": "https://doi.org/10.1101/2025.11.22.25340800",
+          "quote": "This study, conducted between 2022–2024 by an AI Centre of Excellence of the Government of India, focused on developing, validating, and implementing a knowledge-based CDSS symptom entry Physician Assistance Form (PAF) within eSanjeevani—India’s national teleconsultation platform.",
+          "locator": "Retrieved research abstract, methods"
+        },
+        {
+          "sourceId": "service-health-developer-submission",
+          "title": "Wadhwani AI eSanjeevani developer submission",
+          "url": "https://solve.mit.edu/solutions/73043",
+          "quote": "The SIPF uses a rule-based logical workflow to enable the accurate collection of chief complaints by engaging patients with relevant questions.",
+          "locator": "Developer submission, rule-based form"
+        },
+        {
+          "sourceId": "service-health-implementation-study",
+          "title": "National eSanjeevani CDSS implementation-study abstract",
+          "url": "https://doi.org/10.1101/2025.11.22.25340800",
+          "quote": "Expert clinicians validated the symptom repository, logic flow, and AI-generated diagnoses.",
+          "locator": "Retrieved research abstract, phase 2"
+        },
+        {
+          "sourceId": "service-health-implementation-study",
+          "title": "National eSanjeevani CDSS implementation-study abstract",
+          "url": "https://doi.org/10.1101/2025.11.22.25340800",
+          "quote": "The validated CDSS was implemented in eSanjeevani 2.0, providing real-time differential diagnosis and departmental recommendations during assisted and non-assisted teleconsultations.",
+          "locator": "Retrieved research abstract, phase 3"
+        },
+        {
           "sourceId": "service-health-local-study",
           "title": "ICMR local telemedicine research brief",
           "url": "https://nihrjodhpur.icmr.org.in/uploads/policybriefs/1782386587_1.PolicyBrief_Telemedicine.pdf",
           "quote": "the AI-driven Clinical Decision Support System (AI-CDSS), which has achieved 90% validation accuracy using 4,401 locally sourced patient records, should be integrated into the eSanjeevani platform",
           "locator": "Local study recommendation, integration proposal"
+        },
+        {
+          "sourceId": "service-health-practice-guidelines",
+          "title": "Telemedicine Practice Guidelines",
+          "url": "https://esanjeevani.mohfw.gov.in/assets/guidelines/Telemedicine_Practice_Guidelines.pdf",
+          "quote": "Technology platforms based on Artificial Intelligence/Machine Learning are not allowed to counsel the patients or prescribe any medicines to a patient.",
+          "locator": "Practice Guidelines section 5.4, AI/ML platforms"
+        },
+        {
+          "sourceId": "service-health-practice-guidelines",
+          "title": "Telemedicine Practice Guidelines",
+          "url": "https://esanjeevani.mohfw.gov.in/assets/guidelines/Telemedicine_Practice_Guidelines.pdf",
+          "quote": "the final prescription or counseling has to be directly delivered by the RMP",
+          "locator": "Practice Guidelines section 5.4, RMP final delivery"
         },
         {
           "sourceId": "service-health-privacy",
@@ -4332,6 +4604,13 @@
           "url": "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf",
           "quote": "If you have any suggestions, concerns or queries in relation to this Privacy Policy, you may address them at esanjeevaniopd@cdac.in",
           "locator": "Privacy policy clause 10"
+        },
+        {
+          "sourceId": "service-health-practice-guidelines",
+          "title": "Telemedicine Practice Guidelines",
+          "url": "https://esanjeevani.mohfw.gov.in/assets/guidelines/Telemedicine_Practice_Guidelines.pdf",
+          "quote": "Technology Platform must ensure that there is a proper mechanism in place to address any queries or grievances that the end-customer may have",
+          "locator": "Practice Guidelines section 5.6, grievance mechanism"
         },
         {
           "sourceId": "service-health-report",

@@ -106,5 +106,6 @@ test('full notebook inventory and combined export match 66-unit application data
   const book={version:1,title:'All',selected:data.provisions.map(p=>p.id),reviews:[]};
   assert.equal(validateNotebook(book,book.selected).selected.length,66);
   const service=JSON.parse(readFileSync(new URL('../src/data/public-services.json',import.meta.url)));
-  assert.deepEqual(JSON.parse(readFileSync(new URL('../public/combined-data.json',import.meta.url))),mergeCollections(original,expansion,implementation,service));
+  const context=JSON.parse(readFileSync(new URL('../src/data/context.json',import.meta.url)));
+  assert.deepEqual(JSON.parse(readFileSync(new URL('../public/combined-data.json',import.meta.url))),mergeCollections(original,expansion,implementation,service,context));
 });

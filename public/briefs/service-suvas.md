@@ -86,11 +86,15 @@ No supporting record verified in the documented search scope.
 
 Evidence status: Partial.
 
-The historical Allahabad notice quotes Re. 1 per English-source word for vetting; this is not a national software budget.
+The historical Allahabad notice quotes Re. 1 per English-source word. Circulated scheme guidance describes High Court grants sanctioned by State Governments for translator remuneration; neither is a national software budget or verified expenditure.
 
 [Allahabad translation-vetting notice: Allahabad notice, remuneration](https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf)
 
 > The remuneration for vetting & correction of the software generated translation of the judgments of this Court will be paid at the rate of Re. 1/- per word of the English version.
+
+[Court translation scheme and Supreme Court AI Committee guidelines: Annexure A, guideline 10](https://cdnbbsr.s3waas.gov.in/s3ec03ac73001b1d44f4925449ce09d9f5/uploads/2023/09/2023092013.pdf)
+
+> Amounts required for paying reasonable remuneration to the panel of translators shall be from grants sought for by the High Court and sanctioned by the State Government.
 
 #### Data & integration
 
@@ -114,7 +118,7 @@ No supporting record verified in the documented search scope.
 
 Evidence status: Documented.
 
-Translation committees are described, and the Allahabad notice requires vetting/correction and certification. Coverage of that process is local, not universal.
+Translation committees are described; circulated 2023 scheme guidance requires correctness checks by translators/reviewers. Allahabad's separate certification process is local, not universal. Current implementation across all courts is not audited.
 
 [Official judicial AI backgrounder: Translation committee oversight](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2)
 
@@ -123,6 +127,10 @@ Translation committees are described, and the Allahabad notice requires vetting/
 [Allahabad translation-vetting notice: Allahabad notice, condition 2](https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf)
 
 > After due vetting & corrections, the said Vetters shall return the same, certifying the correctness of the translation.
+
+[Court translation scheme and Supreme Court AI Committee guidelines: Annexure A, guideline 4](https://cdnbbsr.s3waas.gov.in/s3ec03ac73001b1d44f4925449ce09d9f5/uploads/2023/09/2023092013.pdf)
+
+> Care should be taken by verifying the correctness of translation through the translators/reviewers (retired or in-service translators or retired judicial officers).
 
 #### Privacy & retention
 
@@ -180,9 +188,17 @@ The reviewed records support assistive translation use, not perfect equivalence 
 
 > The remuneration for vetting & correction of the software generated translation of the judgments of this Court will be paid at the rate of Re. 1/- per word of the English version.
 
+[Court translation scheme and Supreme Court AI Committee guidelines: Annexure A, guideline 10](https://cdnbbsr.s3waas.gov.in/s3ec03ac73001b1d44f4925449ce09d9f5/uploads/2023/09/2023092013.pdf)
+
+> Amounts required for paying reasonable remuneration to the panel of translators shall be from grants sought for by the High Court and sanctioned by the State Government.
+
 [Allahabad translation-vetting notice: Allahabad notice, condition 2](https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf)
 
 > After due vetting & corrections, the said Vetters shall return the same, certifying the correctness of the translation.
+
+[Court translation scheme and Supreme Court AI Committee guidelines: Annexure A, guideline 4](https://cdnbbsr.s3waas.gov.in/s3ec03ac73001b1d44f4925449ce09d9f5/uploads/2023/09/2023092013.pdf)
+
+> Care should be taken by verifying the correctness of translation through the translators/reviewers (retired or in-service translators or retired judicial officers).
 
 [Allahabad translation-vetting notice: Allahabad notice, condition 4](https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf)
 
@@ -205,3 +221,4 @@ This is a research checklist, not a filed information request or a determination
 
 - [Official judicial AI backgrounder](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2), Official judicial AI backgrounder. Document date: 11 February 2026. Publication metadata: 11 February 2026. Snapshot integrity: SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes; 788ba76efaad8b4ad1ab5643e45a76efc9125dc51b8d92acc532ce6ea9def21f.
 - [Allahabad translation-vetting notice](https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf), Allahabad translation-vetting notice. Document date: September 2023; deadline 22 September 2023. Publication metadata: September 2023; deadline 22 September 2023. Snapshot integrity: SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes; e2f8b8aaaad032f4b14e57e25e03db53f5f627a014701d81786aa5e1c40c3e34.
+- [Court translation scheme and Supreme Court AI Committee guidelines](https://cdnbbsr.s3waas.gov.in/s3ec03ac73001b1d44f4925449ce09d9f5/uploads/2023/09/2023092013.pdf), Court translation scheme and Supreme Court AI Committee guidelines. Document date: Guidelines dated 21 August 2023; historical circulated annexure. Publication metadata: Guidelines dated 21 August 2023; historical circulated annexure. Snapshot integrity: SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes; 488d3fb22c1d1c79e3113b768cadec5a623a18c6f49b558534d1f340479188d8.

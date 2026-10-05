@@ -1,0 +1,2575 @@
+[
+  {
+    "id": "rule-1-limit",
+    "recordId": "rule-1",
+    "family": "dpdp",
+    "label": "Rule 1",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "13 versus 14 November appears in official metadata and explanations. Do not treat a computed compliance date as settled.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=28",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=24"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "rule-2-limit",
+    "recordId": "rule-2",
+    "family": "dpdp",
+    "label": "Rule 2",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Analyst review is not legal advice. No claim of actual compliance or real-world harm is made.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=28",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=24"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "rule-3-limit",
+    "recordId": "rule-3",
+    "family": "dpdp",
+    "label": "Rule 3",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Wording change alone does not establish unlimited bundled consent.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=28",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=24"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "rule-4-limit",
+    "recordId": "rule-4",
+    "family": "dpdp",
+    "label": "Rule 4",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Analyst review is not legal advice. No claim of actual compliance or real-world harm is made.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=29",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=25"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "rule-5-limit",
+    "recordId": "rule-5",
+    "family": "dpdp",
+    "label": "Rule 5",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Do not infer unrestricted state processing from a shortened rule.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=29",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=25"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "rule-6-limit",
+    "recordId": "rule-6",
+    "family": "dpdp",
+    "label": "Rule 6",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "This is not a blanket exemption for small organizations.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=30",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=26"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "rule-7-limit",
+    "recordId": "rule-7",
+    "family": "dpdp",
+    "label": "Rule 7",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "The 72-hour detailed Board report is not a 72-hour grace period for every notification.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=30",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=26"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "rule-8-limit",
+    "recordId": "rule-8",
+    "family": "dpdp",
+    "label": "Rule 8",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Rule 8(1)'s changed conditional syntax requires legal review. These duties are in the delayed-commencement group. The draft sub-rule (3) user-account definition moved to final Rule 2; comparing its excerpt with the new retention sub-rule does not mean that definition was abolished.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=31",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=27"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "rule-9-limit",
+    "recordId": "rule-9",
+    "family": "dpdp",
+    "label": "Rule 9",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Analyst review is not legal advice. No claim of actual compliance or real-world harm is made.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=32",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=27"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "rule-10-limit",
+    "recordId": "rule-10",
+    "family": "dpdp",
+    "label": "Rule 10",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "The draft source rule contains both children and disability provisions; the final splits them.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=32",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=27"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "rule-11-limit",
+    "recordId": "rule-11",
+    "family": "dpdp",
+    "label": "Rule 11",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "A diagnosis alone should not be treated by this tool as a legal-capacity finding. This is a split of draft rule 10.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=33",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=28"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "rule-12-limit",
+    "recordId": "rule-12",
+    "family": "dpdp",
+    "label": "Rule 12",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Analyst review is not legal advice. No claim of actual compliance or real-world harm is made.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=34",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=29"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "rule-13-limit",
+    "recordId": "rule-13",
+    "family": "dpdp",
+    "label": "Rule 13",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "This duty concerns Significant Data Fiduciaries; it is not a general AI licensing rule.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=34",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=29"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "rule-14-limit",
+    "recordId": "rule-14",
+    "family": "dpdp",
+    "label": "Rule 14",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Do not describe this as a universal ninety-day deadline for every access, correction or erasure request.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=34",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=29"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "rule-15-limit",
+    "recordId": "rule-15",
+    "family": "dpdp",
+    "label": "Rule 15",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Read section 16 of the Act. This is not proof of unrestricted international transfers.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=35",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=30"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "rule-16-limit",
+    "recordId": "rule-16",
+    "family": "dpdp",
+    "label": "Rule 16",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Read section 17(2)(b) of the Act and the changed Second Schedule.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=35",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=30"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "rule-17-limit",
+    "recordId": "rule-17",
+    "family": "dpdp",
+    "label": "Rule 17",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Analyst review is not legal advice. No claim of actual compliance or real-world harm is made.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=35",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=30"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "rule-18-limit",
+    "recordId": "rule-18",
+    "family": "dpdp",
+    "label": "Rule 18",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Analyst review is not legal advice. No claim of actual compliance or real-world harm is made.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=36",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=30"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "rule-19-limit",
+    "recordId": "rule-19",
+    "family": "dpdp",
+    "label": "Rule 19",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Analyst review is not legal advice. No claim of actual compliance or real-world harm is made.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=36",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=30"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "rule-20-limit",
+    "recordId": "rule-20",
+    "family": "dpdp",
+    "label": "Rule 20",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Analyst review is not legal advice. No claim of actual compliance or real-world harm is made.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=36",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=31"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "rule-21-limit",
+    "recordId": "rule-21",
+    "family": "dpdp",
+    "label": "Rule 21",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Analyst review is not legal advice. No claim of actual compliance or real-world harm is made.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=37",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=31"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "rule-22-limit",
+    "recordId": "rule-22",
+    "family": "dpdp",
+    "label": "Rule 22",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Analyst review is not legal advice. No claim of actual compliance or real-world harm is made.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=37",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=31"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "rule-23-limit",
+    "recordId": "rule-23",
+    "family": "dpdp",
+    "label": "Rule 23",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "A removed cross-reference is not proof that statutory power disappears.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=37",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=32"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "schedule-first-limit",
+    "recordId": "schedule-first",
+    "family": "dpdp",
+    "label": "First Schedule",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Analyst review is not legal advice. No claim of actual compliance or real-world harm is made.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=38",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=32"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "schedule-second-limit",
+    "recordId": "schedule-second",
+    "family": "dpdp",
+    "label": "Second Schedule",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "This standard does not prove that a particular dataset is faulty.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=41",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=34"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "schedule-third-limit",
+    "recordId": "schedule-third",
+    "family": "dpdp",
+    "label": "Third Schedule",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Flattened PDF table reading order creates false token differences. No automatic table highlighting is shown.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=42",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=35"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "schedule-fourth-limit",
+    "recordId": "schedule-fourth",
+    "family": "dpdp",
+    "label": "Fourth Schedule",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "These are exemptions from specified section 9 obligations, not all privacy duties or a general targeted-ad permission.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=44",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=36"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "schedule-fifth-limit",
+    "recordId": "schedule-fifth",
+    "family": "dpdp",
+    "label": "Fifth Schedule",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Analyst review is not legal advice. No claim of actual compliance or real-world harm is made.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=46",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=38"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "schedule-sixth-limit",
+    "recordId": "schedule-sixth",
+    "family": "dpdp",
+    "label": "Sixth Schedule",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Analyst review is not legal advice. No claim of actual compliance or real-world harm is made.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=49",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=40"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "schedule-seventh-limit",
+    "recordId": "schedule-seventh",
+    "family": "dpdp",
+    "label": "Seventh Schedule",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "A listed purpose is not evidence of a specific information demand or deployment.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/02/f8a8e97a91091543fe19139cac7514a1.pdf#page=51",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf#page=40"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "sgi-commencement-limit",
+    "recordId": "sgi-commencement",
+    "family": "sgi",
+    "label": "Amendment 1",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "This verifies the instrument's date, not an exhaustive court-order or later-amendment chain.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf",
+      "https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "sgi-definition-limit",
+    "recordId": "sgi-definition",
+    "family": "sgi",
+    "label": "Rule 2(1)(wa)",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "The final also inserts Rule 2(1)(ca) defining audio/visual information. Scope is not an exemption from other applicable law.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf",
+      "https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "sgi-exclusions-limit",
+    "recordId": "sgi-exclusions",
+    "family": "sgi",
+    "label": "Rule 2(1)(wa) proviso",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Read all three limbs: material distortion, false records and material manipulation remain limiting conditions.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf",
+      "https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "sgi-unlawfulreferences-limit",
+    "recordId": "sgi-unlawfulreferences",
+    "family": "sgi",
+    "label": "Rule 2(1A)",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "The qualifying context and underlying applicable law still matter.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf",
+      "https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "sgi-removal-safeharbour-limit",
+    "recordId": "sgi-removal-safeharbour",
+    "family": "sgi",
+    "label": "Rule 2(1B)",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Do not treat this limited clarification as removing all other safe-harbour conditions or legal remedies.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf",
+      "https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "sgi-user-notices-limit",
+    "recordId": "sgi-user-notices",
+    "family": "sgi",
+    "label": "Rule 3(1)(c), (ca), (cb)",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "This is prior-law-to-amended-law context, not an October draft proposal. The two English criminal-law citations were later corrected; identity disclosure is expressly subject to applicable law.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/10/708f6a344c74249c2e1bbb6890342f80.pdf",
+      "https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "sgi-takedown-limit",
+    "recordId": "sgi-takedown",
+    "family": "sgi",
+    "label": "Rule 3(1)(d)",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "The October draft did not propose this change. Read the underlying court/government actual-knowledge conditions; not every complaint starts this clock.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/10/708f6a344c74249c2e1bbb6890342f80.pdf",
+      "https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "sgi-grievance-limit",
+    "recordId": "sgi-grievance",
+    "family": "sgi",
+    "label": "Rule 3(2)",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "These substitutions were absent from the October draft. The two-hour category retains the underlying complaint-content requirements; acknowledgement remains a separate matter.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/10/708f6a344c74249c2e1bbb6890342f80.pdf",
+      "https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "sgi-prevention-limit",
+    "recordId": "sgi-prevention",
+    "family": "sgi",
+    "label": "Rule 3(3)(a)(i)",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "The duties are tied to the final definition and applicable-law context. This desk does not decide whether a particular tool is an intermediary or a particular item is unlawful.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf",
+      "https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "sgi-label-limit",
+    "recordId": "sgi-label",
+    "family": "sgi",
+    "label": "Rule 3(3)(a)(ii)",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "This obligation applies through the defined SGI and covered-service conditions, not every edited asset.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf",
+      "https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "sgi-provenance-limit",
+    "recordId": "sgi-provenance",
+    "family": "sgi",
+    "label": "Rule 3(3)(a)(ii), (b)",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "The no-removal limb is retained in revised wording. Metadata does not by itself prove that a depicted event is true.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf",
+      "https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "sgi-declarations-limit",
+    "recordId": "sgi-declarations",
+    "family": "sgi",
+    "label": "Rule 4(1A)",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "The difference between the operative clause and retained explanation must be read together. Not every intermediary is an SSMI.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/10/9de47fb06522b9e40a61e4731bc7de51.pdf",
+      "https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "sgi-proactive-limit",
+    "recordId": "sgi-proactive",
+    "family": "sgi",
+    "label": "Rule 4(4)",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Read the unchanged Rule 4(4) category limits and safeguards in the consolidated rules. This was not an October SGI draft amendment.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/10/708f6a344c74249c2e1bbb6890342f80.pdf",
+      "https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "sgi-criminal-limit",
+    "recordId": "sgi-criminal",
+    "family": "sgi",
+    "label": "Rule 7",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "This final substitution was absent from the October draft. Legal liability depends on the applicable law and facts.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2025/10/708f6a344c74249c2e1bbb6890342f80.pdf",
+      "https://www.meity.gov.in/static/uploads/2026/02/f55fe52418b03f58b0669f6a8bc03b6d.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "aig-principles-limit",
+    "recordId": "aig-principles",
+    "family": "aig",
+    "label": "Part 1",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Recommendation lineage, not a one-to-one legal deletion/insertion. A principle disappearing as a standalone heading does not establish that its substance or legal protection was abolished.",
+    "sourceUrls": [
+      "https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf",
+      "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "aig-infrastructure-limit",
+    "recordId": "aig-infrastructure",
+    "family": "aig",
+    "label": "Part 2.1",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Recommendation lineage, not a one-to-one legal deletion/insertion. The historical infrastructure figures in the November report are not verified current inventory or scheme eligibility.",
+    "sourceUrls": [
+      "https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf",
+      "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "aig-capacity-limit",
+    "recordId": "aig-capacity",
+    "family": "aig",
+    "label": "Part 2.2",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Recommendation lineage, not a one-to-one legal deletion/insertion. This is a thematic successor, not a claim that the earlier adjudication proposal was enacted.",
+    "sourceUrls": [
+      "https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf",
+      "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "aig-policy-limit",
+    "recordId": "aig-policy",
+    "family": "aig",
+    "label": "Part 2.3",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Recommendation lineage, not a one-to-one legal deletion/insertion. The November document's DPDP discussion predates the final DPDP Rules. Copyright and other later policy developments require separate current-law checks.",
+    "sourceUrls": [
+      "https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf",
+      "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "aig-risk-limit",
+    "recordId": "aig-risk",
+    "family": "aig",
+    "label": "Part 2.4",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Recommendation lineage, not a one-to-one legal deletion/insertion. This is a recommended framework, not a verified operational classification system or binding risk-tier schedule.",
+    "sourceUrls": [
+      "https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf",
+      "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "aig-incidents-limit",
+    "recordId": "aig-incidents",
+    "family": "aig",
+    "label": "Part 2.4",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Recommendation lineage, not a one-to-one legal deletion/insertion. Both documents discourage punitive reporting design. Recommendations and launch rhetoric do not prove the database is live; grievance channels are separately recommended.",
+    "sourceUrls": [
+      "https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf",
+      "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "aig-voluntary-limit",
+    "recordId": "aig-voluntary",
+    "family": "aig",
+    "label": "Part 2.4",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Recommendation lineage, not a one-to-one legal deletion/insertion. Any eventual mandatory measure needs its own legal basis and instrument. Adoption and enforcement are not established here.",
+    "sourceUrls": [
+      "https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf",
+      "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "aig-techno-limit",
+    "recordId": "aig-techno",
+    "family": "aig",
+    "label": "Part 2.4",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Recommendation lineage, not a one-to-one legal deletion/insertion. No product efficacy is certified by this collection; a recommendation or architecture diagram does not prove compliance in deployment.",
+    "sourceUrls": [
+      "https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf",
+      "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "aig-accountability-limit",
+    "recordId": "aig-accountability",
+    "family": "aig",
+    "label": "Part 2.5",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Recommendation lineage, not a one-to-one legal deletion/insertion. The report's '9-12 months' possible schedule is not treated as a statutory deadline. Liability and mandatory redress require applicable legal authority.",
+    "sourceUrls": [
+      "https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf",
+      "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "aig-institutions-limit",
+    "recordId": "aig-institutions",
+    "family": "aig",
+    "label": "Part 2.6",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Recommendation lineage, not a one-to-one legal deletion/insertion. Do not call every institution merely proposed: the November report describes AISI as recently established. Current establishment and operational status need separate records.",
+    "sourceUrls": [
+      "https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf",
+      "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "aig-action-plan-limit",
+    "recordId": "aig-action-plan",
+    "family": "aig",
+    "label": "Part 3",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Recommendation lineage, not a one-to-one legal deletion/insertion. The table's qualitative timelines should not be converted into invented dates. Flattened table extraction is not automatically diff-highlighted.",
+    "sourceUrls": [
+      "https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf",
+      "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "aig-practical-limit",
+    "recordId": "aig-practical",
+    "family": "aig",
+    "label": "Part 4",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Recommendation lineage, not a one-to-one legal deletion/insertion. Existing legal obligations remain binding through their own instruments. Recommendations to comply with them do not change their commencement or exemptions.",
+    "sourceUrls": [
+      "https://indiaai.s3.ap-south-1.amazonaws.com/docs/subcommittee-report-dec26.pdf",
+      "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf"
+    ],
+    "requestChecklist": []
+  },
+  {
+    "id": "impl-aigeg-limit",
+    "recordId": "impl-aigeg",
+    "family": "impl",
+    "label": "AIGEG",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "The reviewed order and announcement do not establish meeting activity or outcomes. OCR errors are visible in the order snapshot; use the original for quoting names and exact wording.",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2026/04/43a4ec455c26b0f061cc7cca98770a45.pdf",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2252739&reg=1&lang=1",
+      "https://www.meity.gov.in/static/uploads/2026/04/43a4ec455c26b0f061cc7cca98770a45.pdf"
+    ],
+    "requestChecklist": [
+      "Constitution order and subsequent revisions",
+      "Meeting dates, agendas and releasable minutes",
+      "Issued decisions and implementation roadmap",
+      "Secretariat staffing and allocated expenditure"
+    ]
+  },
+  {
+    "id": "impl-aigeg-queue",
+    "recordId": "impl-aigeg",
+    "family": "impl",
+    "label": "AIGEG",
+    "kind": "Implementation record queue",
+    "dimension": "Records to verify",
+    "status": "Formal constitution documented",
+    "statement": "What agendas, minutes, guidelines and deploy/pilot/defer decisions has AIGEG issued?",
+    "sourceUrls": [
+      "https://www.meity.gov.in/static/uploads/2026/04/43a4ec455c26b0f061cc7cca98770a45.pdf",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2252739&reg=1&lang=1",
+      "https://www.meity.gov.in/static/uploads/2026/04/43a4ec455c26b0f061cc7cca98770a45.pdf"
+    ],
+    "requestChecklist": [
+      "Constitution order and subsequent revisions",
+      "Meeting dates, agendas and releasable minutes",
+      "Issued decisions and implementation roadmap",
+      "Secretariat staffing and allocated expenditure"
+    ]
+  },
+  {
+    "id": "impl-tpec-limit",
+    "recordId": "impl-tpec",
+    "family": "impl",
+    "label": "TPEC",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "This verifies the order, not completion of work, attendance or the currently serving individuals. No inference about legitimacy follows solely from the composition. OCR text needs checking against the PDF.",
+    "sourceUrls": [
+      "https://d12aarmt01l54a.cloudfront.net/cms/files/constitution-of-tpec/1776447206.pdf",
+      "https://d12aarmt01l54a.cloudfront.net/cms/files/constitution-of-tpec/1776447206.pdf",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253322&reg=1&lang=1"
+    ],
+    "requestChecklist": [
+      "Current membership and substitutions",
+      "Conflict-of-interest and disclosure arrangements",
+      "Delivered assessments and recommendations",
+      "Record of AIGEG action on those recommendations"
+    ]
+  },
+  {
+    "id": "impl-tpec-queue",
+    "recordId": "impl-tpec",
+    "family": "impl",
+    "label": "TPEC",
+    "kind": "Implementation record queue",
+    "dimension": "Records to verify",
+    "status": "Formal constitution documented",
+    "statement": "What risk assessments or recommendations has TPEC delivered, and how are expertise and conflicts managed?",
+    "sourceUrls": [
+      "https://d12aarmt01l54a.cloudfront.net/cms/files/constitution-of-tpec/1776447206.pdf",
+      "https://d12aarmt01l54a.cloudfront.net/cms/files/constitution-of-tpec/1776447206.pdf",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253322&reg=1&lang=1"
+    ],
+    "requestChecklist": [
+      "Current membership and substitutions",
+      "Conflict-of-interest and disclosure arrangements",
+      "Delivered assessments and recommendations",
+      "Record of AIGEG action on those recommendations"
+    ]
+  },
+  {
+    "id": "impl-aisi-status-limit",
+    "recordId": "impl-aisi-status",
+    "family": "impl",
+    "label": "AISI status",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "The statements may describe different stages rather than a factual contradiction. This ledger does not declare the institute nonexistent or fully operational.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2289946&reg=3&lang=1",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291062&reg=48&lang=1"
+    ],
+    "requestChecklist": [
+      "Instrument defining legal/administrative location and remit",
+      "Operational launch milestones and dates",
+      "Staff, testing capacity and budget",
+      "Published evaluation programme and reports"
+    ]
+  },
+  {
+    "id": "impl-aisi-status-queue",
+    "recordId": "impl-aisi-status",
+    "family": "impl",
+    "label": "AISI status",
+    "kind": "Implementation record queue",
+    "dimension": "Records to verify",
+    "status": "Official wording unresolved",
+    "statement": "What precise milestones distinguish announcement, constitution, staffing and operational launch?",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2289946&reg=3&lang=1",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291062&reg=48&lang=1"
+    ],
+    "requestChecklist": [
+      "Instrument defining legal/administrative location and remit",
+      "Operational launch milestones and dates",
+      "Staff, testing capacity and budget",
+      "Published evaluation programme and reports"
+    ]
+  },
+  {
+    "id": "impl-aisi-leadership-limit",
+    "recordId": "impl-aisi-leadership",
+    "family": "impl",
+    "label": "AISI leadership",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "A past deadline is not an open job listing. The appointment outcome was not verified in the reviewed corpus.",
+    "sourceUrls": [
+      "https://dic.gov.in/jobs/director-indiaai-safety-institute/",
+      "https://dic.gov.in/jobs/director-indiaai-safety-institute/"
+    ],
+    "requestChecklist": [
+      "Appointment outcome and joining date",
+      "Term and delegated responsibilities",
+      "Approved organisational structure and staff positions",
+      "Institute programme of work"
+    ]
+  },
+  {
+    "id": "impl-aisi-leadership-queue",
+    "recordId": "impl-aisi-leadership",
+    "family": "impl",
+    "label": "AISI leadership",
+    "kind": "Implementation record queue",
+    "dimension": "Records to verify",
+    "status": "Process documented; outcome unverified",
+    "statement": "Was the recruitment completed, and what authority and resources were delegated to the appointee?",
+    "sourceUrls": [
+      "https://dic.gov.in/jobs/director-indiaai-safety-institute/",
+      "https://dic.gov.in/jobs/director-indiaai-safety-institute/"
+    ],
+    "requestChecklist": [
+      "Appointment outcome and joining date",
+      "Term and delegated responsibilities",
+      "Approved organisational structure and staff positions",
+      "Institute programme of work"
+    ]
+  },
+  {
+    "id": "impl-aisi-partners-limit",
+    "recordId": "impl-aisi-partners",
+    "family": "impl",
+    "label": "AISI partners",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Do not treat an expired EOI as an open application window or its funding rules as disbursement evidence. Confidential-output exceptions also limit what can legitimately be inferred from missing public reports.",
+    "sourceUrls": [
+      "https://indiaai.s3.ap-south-1.amazonaws.com/docs/sg-call-for-partnerships-indiaai-safety-institute.pdf",
+      "https://indiaai.s3.ap-south-1.amazonaws.com/docs/sg-call-for-partnerships-indiaai-safety-institute.pdf",
+      "https://indiaai.s3.ap-south-1.amazonaws.com/docs/sg-call-for-partnerships-indiaai-safety-institute.pdf",
+      "https://indiaai.s3.ap-south-1.amazonaws.com/docs/sg-call-for-partnerships-indiaai-safety-institute.pdf"
+    ],
+    "requestChecklist": [
+      "Selected partners and executed agreements",
+      "Assigned scopes of work and Safety Cell staffing",
+      "Sanctions, disbursements and utilisation records",
+      "Released collective outputs and publication policy"
+    ]
+  },
+  {
+    "id": "impl-aisi-partners-queue",
+    "recordId": "impl-aisi-partners",
+    "family": "impl",
+    "label": "AISI partners",
+    "kind": "Implementation record queue",
+    "dimension": "Records to verify",
+    "status": "Process documented; outcome unverified",
+    "statement": "Which partner cells were contracted, funded and assigned work, and what outputs became public?",
+    "sourceUrls": [
+      "https://indiaai.s3.ap-south-1.amazonaws.com/docs/sg-call-for-partnerships-indiaai-safety-institute.pdf",
+      "https://indiaai.s3.ap-south-1.amazonaws.com/docs/sg-call-for-partnerships-indiaai-safety-institute.pdf",
+      "https://indiaai.s3.ap-south-1.amazonaws.com/docs/sg-call-for-partnerships-indiaai-safety-institute.pdf",
+      "https://indiaai.s3.ap-south-1.amazonaws.com/docs/sg-call-for-partnerships-indiaai-safety-institute.pdf"
+    ],
+    "requestChecklist": [
+      "Selected partners and executed agreements",
+      "Assigned scopes of work and Safety Cell staffing",
+      "Sanctions, disbursements and utilisation records",
+      "Released collective outputs and publication policy"
+    ]
+  },
+  {
+    "id": "impl-projects-limit",
+    "recordId": "impl-projects",
+    "family": "impl",
+    "label": "Responsible AI portfolio",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "The mission-wide financial outlay is not an institute-specific or project-specific expenditure figure. No portfolio-wide effectiveness score is assigned.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2289946&reg=3&lang=1",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291062&reg=48&lang=1"
+    ],
+    "requestChecklist": [
+      "Complete awarded-project list and scopes",
+      "Project-level sanctions and spending",
+      "Milestones and acceptance reports",
+      "Evaluation datasets, benchmarks and released artefacts"
+    ]
+  },
+  {
+    "id": "impl-projects-queue",
+    "recordId": "impl-projects",
+    "family": "impl",
+    "label": "Responsible AI portfolio",
+    "kind": "Implementation record queue",
+    "dimension": "Records to verify",
+    "status": "Programme activity reported",
+    "statement": "For each approved project, what was funded, delivered, evaluated and released?",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2289946&reg=3&lang=1",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291062&reg=48&lang=1"
+    ],
+    "requestChecklist": [
+      "Complete awarded-project list and scopes",
+      "Project-level sanctions and spending",
+      "Milestones and acceptance reports",
+      "Evaluation datasets, benchmarks and released artefacts"
+    ]
+  },
+  {
+    "id": "impl-tool-delivery-limit",
+    "recordId": "impl-tool-delivery",
+    "family": "impl",
+    "label": "Technical tools",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "The October 2025 selection predates the November framework; it is relevant programme lineage, not an outcome caused by that framework. The five selections are a subset, not five additional projects beyond the reported thirteen.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2175698",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2289946&reg=3&lang=1"
+    ],
+    "requestChecklist": [
+      "Repository or usable release and licence",
+      "Evaluation data, baselines and reproducibility instructions",
+      "Error rates across languages and demographic groups",
+      "Completion, acceptance and deployment records"
+    ]
+  },
+  {
+    "id": "impl-tool-delivery-queue",
+    "recordId": "impl-tool-delivery",
+    "family": "impl",
+    "label": "Technical tools",
+    "kind": "Implementation record queue",
+    "dimension": "Records to verify",
+    "status": "Programme activity reported",
+    "statement": "Can a reporter reproduce a stated benchmark and inspect false-positive rates before describing a tool as effective?",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2175698",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2289946&reg=3&lang=1"
+    ],
+    "requestChecklist": [
+      "Repository or usable release and licence",
+      "Evaluation data, baselines and reproducibility instructions",
+      "Error rates across languages and demographic groups",
+      "Completion, acceptance and deployment records"
+    ]
+  },
+  {
+    "id": "impl-incident-repository-limit",
+    "recordId": "impl-incident-repository",
+    "family": "impl",
+    "label": "Incident reporting",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "No verified national repository launch or public intake endpoint was found in this bounded review. That is not proof of absence. The six-hour cyber duty is not a universal deadline for every AI harm, and current legal advice requires checking later instruments.",
+    "sourceUrls": [
+      "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf",
+      "https://www.cert-in.org.in/PDF/CERT-In_Directions_70B_28.04.2022.pdf",
+      "https://www.cert-in.org.in/PDF/CERT-In_Directions_70B_28.04.2022.pdf"
+    ],
+    "requestChecklist": [
+      "Operator, launch instrument and production intake URL",
+      "Incident taxonomy and schema",
+      "Confidentiality and data-sharing rules",
+      "Relationship to existing cyber reporting and complaint routes"
+    ]
+  },
+  {
+    "id": "impl-incident-repository-queue",
+    "recordId": "impl-incident-repository",
+    "family": "impl",
+    "label": "Incident reporting",
+    "kind": "Implementation record queue",
+    "dimension": "Records to verify",
+    "status": "Implementation not established by reviewed records",
+    "statement": "Who operates the national repository, what schema and intake endpoint exist, and how does reporting overlap with CERT-In?",
+    "sourceUrls": [
+      "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf",
+      "https://www.cert-in.org.in/PDF/CERT-In_Directions_70B_28.04.2022.pdf",
+      "https://www.cert-in.org.in/PDF/CERT-In_Directions_70B_28.04.2022.pdf"
+    ],
+    "requestChecklist": [
+      "Operator, launch instrument and production intake URL",
+      "Incident taxonomy and schema",
+      "Confidentiality and data-sharing rules",
+      "Relationship to existing cyber reporting and complaint routes"
+    ]
+  },
+  {
+    "id": "impl-redress-limit",
+    "recordId": "impl-redress",
+    "family": "impl",
+    "label": "Grievance redress",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "The reviewed records do not establish universal AI-specific redress. Other sectoral, consumer, constitutional or legal remedies may exist; their eligibility and current procedures require separate verification.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291671&reg=3&lang=1",
+      "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf"
+    ],
+    "requestChecklist": [
+      "Decision-specific complaint and appeal policy",
+      "Responsible decision-maker and human-review procedure",
+      "Jurisdiction, eligibility and remedies",
+      "Outcome records and accessibility of the route"
+    ]
+  },
+  {
+    "id": "impl-redress-queue",
+    "recordId": "impl-redress",
+    "family": "impl",
+    "label": "Grievance redress",
+    "kind": "Implementation record queue",
+    "dimension": "Records to verify",
+    "status": "Limited-scope route documented",
+    "statement": "For a particular AI decision, which body has jurisdiction, what remedy is available and where is that procedure documented?",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291671&reg=3&lang=1",
+      "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025115685601.pdf"
+    ],
+    "requestChecklist": [
+      "Decision-specific complaint and appeal policy",
+      "Responsible decision-maker and human-review procedure",
+      "Jurisdiction, eligibility and remedies",
+      "Outcome records and accessibility of the route"
+    ]
+  },
+  {
+    "id": "impl-voluntary-limit",
+    "recordId": "impl-voluntary",
+    "family": "impl",
+    "label": "Voluntary commitments",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "The ledger verifies the official reporting of commitments, not every signatory, exact commitment text, follow-through or legal enforceability. No compliance ranking is inferred from pledges.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2234343&reg=3&lang=1",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2289946&reg=3&lang=1"
+    ],
+    "requestChecklist": [
+      "Exact commitment instrument and signatory list",
+      "Specified deliverables and dates",
+      "Public progress reports and released evaluations",
+      "Independent assurance or verification method"
+    ]
+  },
+  {
+    "id": "impl-voluntary-queue",
+    "recordId": "impl-voluntary",
+    "family": "impl",
+    "label": "Voluntary commitments",
+    "kind": "Implementation record queue",
+    "dimension": "Records to verify",
+    "status": "Commitments reported; compliance unverified",
+    "statement": "Which companies committed to what, on which timetable, and what public compliance or assurance evidence followed?",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2234343&reg=3&lang=1",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2289946&reg=3&lang=1"
+    ],
+    "requestChecklist": [
+      "Exact commitment instrument and signatory list",
+      "Specified deliverables and dates",
+      "Public progress reports and released evaluations",
+      "Independent assurance or verification method"
+    ]
+  },
+  {
+    "id": "service-upsc-limit",
+    "recordId": "service-upsc",
+    "family": "service",
+    "label": "UPSC face authentication",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Do not equate the 2024 biometric/CCTV procurement package with the 2026 in-house mobile application. Tender requirements are not current deployed behaviour. No candidate case or device inspection was undertaken.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1",
+      "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317336&reg=48&lang=1",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1",
+      "https://upsc.gov.in/sites/default/files/Tender-AadhaarQRFaceRecgAI-Corrgn_Eng-180724.pdf",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1",
+      "https://upsc.gov.in/sites/default/files/Tender-AadhaarQRFaceRecgAI-Corrgn_Eng-180724.pdf",
+      "https://upsc.gov.in/sites/default/files/Tender-AadhaarQRFaceRecgAI-Corrgn_Eng-180724.pdf"
+    ],
+    "requestChecklist": [
+      "Current face-authentication SOP, including mismatch and offline fallback",
+      "Contract/award lineage distinguishing biometric CCTV tender from mobile app",
+      "False-rejection/acceptance and subgroup test results",
+      "Data-flow, device deletion and retention policy",
+      "Candidate review route and anonymised error-resolution records"
+    ]
+  },
+  {
+    "id": "service-upsc-field-1",
+    "recordId": "service-upsc",
+    "family": "service",
+    "label": "UPSC face authentication",
+    "kind": "Accountability gap",
+    "dimension": "Decision role & affected people",
+    "status": "Partial",
+    "statement": "Mobile identity matching concerns examination candidates; detailed adverse-decision rules are not verified.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317336&reg=48&lang=1",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1"
+    ],
+    "requestChecklist": [
+      "Current face-authentication SOP, including mismatch and offline fallback",
+      "Contract/award lineage distinguishing biometric CCTV tender from mobile app",
+      "False-rejection/acceptance and subgroup test results",
+      "Data-flow, device deletion and retention policy",
+      "Candidate review route and anonymised error-resolution records"
+    ]
+  },
+  {
+    "id": "service-upsc-field-3",
+    "recordId": "service-upsc",
+    "family": "service",
+    "label": "UPSC face authentication",
+    "kind": "Accountability gap",
+    "dimension": "Procurement & supplier",
+    "status": "Partial",
+    "statement": "A 2024 PSU tender covered biometrics, facial recognition, QR scans and AI CCTV; the June record describes in-house development. The contract link between them is unverified.",
+    "sourceUrls": [
+      "https://upsc.gov.in/sites/default/files/Tender-AadhaarQRFaceRecgAI-Corrgn_Eng-180724.pdf",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1"
+    ],
+    "requestChecklist": [
+      "Current face-authentication SOP, including mismatch and offline fallback",
+      "Contract/award lineage distinguishing biometric CCTV tender from mobile app",
+      "False-rejection/acceptance and subgroup test results",
+      "Data-flow, device deletion and retention policy",
+      "Candidate review route and anonymised error-resolution records"
+    ]
+  },
+  {
+    "id": "service-upsc-field-4",
+    "recordId": "service-upsc",
+    "family": "service",
+    "label": "UPSC face authentication",
+    "kind": "Accountability gap",
+    "dimension": "Funding & contract",
+    "status": "Not verified",
+    "statement": "n.a. Awarded supplier, current application budget and contract value were not verified; the tender alone is not an award.",
+    "sourceUrls": [],
+    "requestChecklist": [
+      "Current face-authentication SOP, including mismatch and offline fallback",
+      "Contract/award lineage distinguishing biometric CCTV tender from mobile app",
+      "False-rejection/acceptance and subgroup test results",
+      "Data-flow, device deletion and retention policy",
+      "Candidate review route and anonymised error-resolution records"
+    ]
+  },
+  {
+    "id": "service-upsc-field-5",
+    "recordId": "service-upsc",
+    "family": "service",
+    "label": "UPSC face authentication",
+    "kind": "Accountability gap",
+    "dimension": "Data & integration",
+    "status": "Partial",
+    "statement": "Invigilators' Android phones were used. The current data-flow diagram and device/data lifecycle were not verified.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1"
+    ],
+    "requestChecklist": [
+      "Current face-authentication SOP, including mismatch and offline fallback",
+      "Contract/award lineage distinguishing biometric CCTV tender from mobile app",
+      "False-rejection/acceptance and subgroup test results",
+      "Data-flow, device deletion and retention policy",
+      "Candidate review route and anonymised error-resolution records"
+    ]
+  },
+  {
+    "id": "service-upsc-field-6",
+    "recordId": "service-upsc",
+    "family": "service",
+    "label": "UPSC face authentication",
+    "kind": "Accountability gap",
+    "dimension": "Evaluation & error rates",
+    "status": "Partial",
+    "statement": "UPSC reports six-to-eight-second typical authentication; no independent false-accept/reject or subgroup evaluation was verified.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1"
+    ],
+    "requestChecklist": [
+      "Current face-authentication SOP, including mismatch and offline fallback",
+      "Contract/award lineage distinguishing biometric CCTV tender from mobile app",
+      "False-rejection/acceptance and subgroup test results",
+      "Data-flow, device deletion and retention policy",
+      "Candidate review route and anonymised error-resolution records"
+    ]
+  },
+  {
+    "id": "service-upsc-field-7",
+    "recordId": "service-upsc",
+    "family": "service",
+    "label": "UPSC face authentication",
+    "kind": "Accountability gap",
+    "dimension": "Human review & overrides",
+    "status": "Partial",
+    "statement": "The older tender requires physical photo verification. The current mismatch/technical-failure SOP was not verified.",
+    "sourceUrls": [
+      "https://upsc.gov.in/sites/default/files/Tender-AadhaarQRFaceRecgAI-Corrgn_Eng-180724.pdf"
+    ],
+    "requestChecklist": [
+      "Current face-authentication SOP, including mismatch and offline fallback",
+      "Contract/award lineage distinguishing biometric CCTV tender from mobile app",
+      "False-rejection/acceptance and subgroup test results",
+      "Data-flow, device deletion and retention policy",
+      "Candidate review route and anonymised error-resolution records"
+    ]
+  },
+  {
+    "id": "service-upsc-field-8",
+    "recordId": "service-upsc",
+    "family": "service",
+    "label": "UPSC face authentication",
+    "kind": "Accountability gap",
+    "dimension": "Privacy & retention",
+    "status": "Partial",
+    "statement": "The older tender specifies encrypted cloud holding for at least one year or 30 days after final results, whichever is later. Applying it to the current mobile system is not established.",
+    "sourceUrls": [
+      "https://upsc.gov.in/sites/default/files/Tender-AadhaarQRFaceRecgAI-Corrgn_Eng-180724.pdf"
+    ],
+    "requestChecklist": [
+      "Current face-authentication SOP, including mismatch and offline fallback",
+      "Contract/award lineage distinguishing biometric CCTV tender from mobile app",
+      "False-rejection/acceptance and subgroup test results",
+      "Data-flow, device deletion and retention policy",
+      "Candidate review route and anonymised error-resolution records"
+    ]
+  },
+  {
+    "id": "service-upsc-field-9",
+    "recordId": "service-upsc",
+    "family": "service",
+    "label": "UPSC face authentication",
+    "kind": "Accountability gap",
+    "dimension": "Complaints & appeal",
+    "status": "Not verified",
+    "statement": "n.a. A system-specific candidate mismatch appeal, deadline and non-biometric fallback were not verified.",
+    "sourceUrls": [],
+    "requestChecklist": [
+      "Current face-authentication SOP, including mismatch and offline fallback",
+      "Contract/award lineage distinguishing biometric CCTV tender from mobile app",
+      "False-rejection/acceptance and subgroup test results",
+      "Data-flow, device deletion and retention policy",
+      "Candidate review route and anonymised error-resolution records"
+    ]
+  },
+  {
+    "id": "service-upsc-field-10",
+    "recordId": "service-upsc",
+    "family": "service",
+    "label": "UPSC face authentication",
+    "kind": "Accountability gap",
+    "dimension": "Public outputs & access",
+    "status": "Partial",
+    "statement": "UPSC publishes implementation descriptions; the actual current failure-handling SOP, audit and test report were not obtained.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1",
+      "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317336&reg=48&lang=1"
+    ],
+    "requestChecklist": [
+      "Current face-authentication SOP, including mismatch and offline fallback",
+      "Contract/award lineage distinguishing biometric CCTV tender from mobile app",
+      "False-rejection/acceptance and subgroup test results",
+      "Data-flow, device deletion and retention policy",
+      "Candidate review route and anonymised error-resolution records"
+    ]
+  },
+  {
+    "id": "service-upsc-field-11",
+    "recordId": "service-upsc",
+    "family": "service",
+    "label": "UPSC face authentication",
+    "kind": "Accountability gap",
+    "dimension": "Current-status limits",
+    "status": "Partial",
+    "statement": "The October source confirms reported scaled use, not independently audited accuracy or every current operational detail.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317336&reg=48&lang=1"
+    ],
+    "requestChecklist": [
+      "Current face-authentication SOP, including mismatch and offline fallback",
+      "Contract/award lineage distinguishing biometric CCTV tender from mobile app",
+      "False-rejection/acceptance and subgroup test results",
+      "Data-flow, device deletion and retention policy",
+      "Candidate review route and anonymised error-resolution records"
+    ]
+  },
+  {
+    "id": "service-cyberguard-limit",
+    "recordId": "service-cyberguard",
+    "family": "service",
+    "label": "I4C CyberGuard",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Winner selection is not proof of the deployed supplier or a service contract. Integration does not establish measured operational accuracy, complaint outcomes, or automatic adverse decisions.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2132817&reg=3&lang=1",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291062&reg=48&lang=1",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2132817&reg=3&lang=1",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2132817&reg=3&lang=1"
+    ],
+    "requestChecklist": [
+      "Production supplier and acceptance/award documents",
+      "Classification taxonomy and human routing/override SOP",
+      "Production evaluation across Indian languages and error severity",
+      "Retention, access and training-use rules",
+      "Mechanism to correct a misclassified complaint"
+    ]
+  },
+  {
+    "id": "service-cyberguard-field-1",
+    "recordId": "service-cyberguard",
+    "family": "service",
+    "label": "I4C CyberGuard",
+    "kind": "Accountability gap",
+    "dimension": "Decision role & affected people",
+    "status": "Partial",
+    "statement": "The task is complaint classification/pattern support; effects on registration, prioritisation and investigations are not specified in the reviewed record.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2132817&reg=3&lang=1"
+    ],
+    "requestChecklist": [
+      "Production supplier and acceptance/award documents",
+      "Classification taxonomy and human routing/override SOP",
+      "Production evaluation across Indian languages and error severity",
+      "Retention, access and training-use rules",
+      "Mechanism to correct a misclassified complaint"
+    ]
+  },
+  {
+    "id": "service-cyberguard-field-3",
+    "recordId": "service-cyberguard",
+    "family": "service",
+    "label": "I4C CyberGuard",
+    "kind": "Accountability gap",
+    "dimension": "Procurement & supplier",
+    "status": "Partial",
+    "statement": "The results list winning organisations. Which finalist supplied the integrated production system and on what contract is not verified.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2132817&reg=3&lang=1"
+    ],
+    "requestChecklist": [
+      "Production supplier and acceptance/award documents",
+      "Classification taxonomy and human routing/override SOP",
+      "Production evaluation across Indian languages and error severity",
+      "Retention, access and training-use rules",
+      "Mechanism to correct a misclassified complaint"
+    ]
+  },
+  {
+    "id": "service-cyberguard-field-4",
+    "recordId": "service-cyberguard",
+    "family": "service",
+    "label": "I4C CyberGuard",
+    "kind": "Accountability gap",
+    "dimension": "Funding & contract",
+    "status": "Not verified",
+    "statement": "n.a. Production award, fees, ongoing support terms and project-specific expenditure were not verified.",
+    "sourceUrls": [],
+    "requestChecklist": [
+      "Production supplier and acceptance/award documents",
+      "Classification taxonomy and human routing/override SOP",
+      "Production evaluation across Indian languages and error severity",
+      "Retention, access and training-use rules",
+      "Mechanism to correct a misclassified complaint"
+    ]
+  },
+  {
+    "id": "service-cyberguard-field-5",
+    "recordId": "service-cyberguard",
+    "family": "service",
+    "label": "I4C CyberGuard",
+    "kind": "Accountability gap",
+    "dimension": "Data & integration",
+    "status": "Partial",
+    "statement": "The challenge description mentions handwritten FIRs, screenshots and audio calls. The production ingestion schema and access controls were not verified.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2132817&reg=3&lang=1"
+    ],
+    "requestChecklist": [
+      "Production supplier and acceptance/award documents",
+      "Classification taxonomy and human routing/override SOP",
+      "Production evaluation across Indian languages and error severity",
+      "Retention, access and training-use rules",
+      "Mechanism to correct a misclassified complaint"
+    ]
+  },
+  {
+    "id": "service-cyberguard-field-6",
+    "recordId": "service-cyberguard",
+    "family": "service",
+    "label": "I4C CyberGuard",
+    "kind": "Accountability gap",
+    "dimension": "Evaluation & error rates",
+    "status": "Not verified",
+    "statement": "n.a. 'Improved speed and accuracy' is an official qualitative claim, not a production benchmark with error distributions.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2132817&reg=3&lang=1"
+    ],
+    "requestChecklist": [
+      "Production supplier and acceptance/award documents",
+      "Classification taxonomy and human routing/override SOP",
+      "Production evaluation across Indian languages and error severity",
+      "Retention, access and training-use rules",
+      "Mechanism to correct a misclassified complaint"
+    ]
+  },
+  {
+    "id": "service-cyberguard-field-7",
+    "recordId": "service-cyberguard",
+    "family": "service",
+    "label": "I4C CyberGuard",
+    "kind": "Accountability gap",
+    "dimension": "Human review & overrides",
+    "status": "Not verified",
+    "statement": "n.a. Human correction, routing overrides and audit-log procedures were not verified.",
+    "sourceUrls": [],
+    "requestChecklist": [
+      "Production supplier and acceptance/award documents",
+      "Classification taxonomy and human routing/override SOP",
+      "Production evaluation across Indian languages and error severity",
+      "Retention, access and training-use rules",
+      "Mechanism to correct a misclassified complaint"
+    ]
+  },
+  {
+    "id": "service-cyberguard-field-8",
+    "recordId": "service-cyberguard",
+    "family": "service",
+    "label": "I4C CyberGuard",
+    "kind": "Accountability gap",
+    "dimension": "Privacy & retention",
+    "status": "Not verified",
+    "statement": "n.a. System-specific retention, training reuse, processors and minimisation rules were not verified.",
+    "sourceUrls": [],
+    "requestChecklist": [
+      "Production supplier and acceptance/award documents",
+      "Classification taxonomy and human routing/override SOP",
+      "Production evaluation across Indian languages and error severity",
+      "Retention, access and training-use rules",
+      "Mechanism to correct a misclassified complaint"
+    ]
+  },
+  {
+    "id": "service-cyberguard-field-9",
+    "recordId": "service-cyberguard",
+    "family": "service",
+    "label": "I4C CyberGuard",
+    "kind": "Accountability gap",
+    "dimension": "Complaints & appeal",
+    "status": "Not verified",
+    "statement": "n.a. A classifier-specific correction/appeal route was not verified; ordinary cybercrime reporting is not proof of an AI-error appeal.",
+    "sourceUrls": [],
+    "requestChecklist": [
+      "Production supplier and acceptance/award documents",
+      "Classification taxonomy and human routing/override SOP",
+      "Production evaluation across Indian languages and error severity",
+      "Retention, access and training-use rules",
+      "Mechanism to correct a misclassified complaint"
+    ]
+  },
+  {
+    "id": "service-cyberguard-field-10",
+    "recordId": "service-cyberguard",
+    "family": "service",
+    "label": "I4C CyberGuard",
+    "kind": "Accountability gap",
+    "dimension": "Public outputs & access",
+    "status": "Partial",
+    "statement": "The winner table and integration statement are public; no production model card or evaluation report was verified.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2132817&reg=3&lang=1",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291062&reg=48&lang=1"
+    ],
+    "requestChecklist": [
+      "Production supplier and acceptance/award documents",
+      "Classification taxonomy and human routing/override SOP",
+      "Production evaluation across Indian languages and error severity",
+      "Retention, access and training-use rules",
+      "Mechanism to correct a misclassified complaint"
+    ]
+  },
+  {
+    "id": "service-cyberguard-field-11",
+    "recordId": "service-cyberguard",
+    "family": "service",
+    "label": "I4C CyberGuard",
+    "kind": "Accountability gap",
+    "dimension": "Current-status limits",
+    "status": "Partial",
+    "statement": "Official integration is documented as a source claim; live access, coverage and decision impact were not independently tested.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291062&reg=48&lang=1"
+    ],
+    "requestChecklist": [
+      "Production supplier and acceptance/award documents",
+      "Classification taxonomy and human routing/override SOP",
+      "Production evaluation across Indian languages and error severity",
+      "Retention, access and training-use rules",
+      "Mechanism to correct a misclassified complaint"
+    ]
+  },
+  {
+    "id": "service-suvas-limit",
+    "recordId": "service-suvas",
+    "family": "service",
+    "label": "SUVAS judicial translation",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "The 2023 Allahabad process is jurisdiction-specific and historical. Do not infer that its remuneration, panel or disclaimer governs every court or every current SUVAS output.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+      "https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf",
+      "https://cdnbbsr.s3waas.gov.in/s3ec03ac73001b1d44f4925449ce09d9f5/uploads/2023/09/2023092013.pdf",
+      "https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf",
+      "https://cdnbbsr.s3waas.gov.in/s3ec03ac73001b1d44f4925449ce09d9f5/uploads/2023/09/2023092013.pdf",
+      "https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf",
+      "https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf"
+    ],
+    "requestChecklist": [
+      "Current court-specific translation SOP and disclaimer",
+      "Error correction route and turnaround",
+      "Language-specific validation and approved-version logs",
+      "Vendor/model/procurement and data-processing records",
+      "Handling of sealed, sensitive or personal data"
+    ]
+  },
+  {
+    "id": "service-suvas-field-3",
+    "recordId": "service-suvas",
+    "family": "service",
+    "label": "SUVAS judicial translation",
+    "kind": "Accountability gap",
+    "dimension": "Procurement & supplier",
+    "status": "Not verified",
+    "statement": "n.a. Software/model contract, procurement award and current supplier chain were not verified.",
+    "sourceUrls": [],
+    "requestChecklist": [
+      "Current court-specific translation SOP and disclaimer",
+      "Error correction route and turnaround",
+      "Language-specific validation and approved-version logs",
+      "Vendor/model/procurement and data-processing records",
+      "Handling of sealed, sensitive or personal data"
+    ]
+  },
+  {
+    "id": "service-suvas-field-4",
+    "recordId": "service-suvas",
+    "family": "service",
+    "label": "SUVAS judicial translation",
+    "kind": "Accountability gap",
+    "dimension": "Funding & contract",
+    "status": "Partial",
+    "statement": "The historical Allahabad notice quotes Re. 1 per English-source word. Circulated scheme guidance describes High Court grants sanctioned by State Governments for translator remuneration; neither is a national software budget or verified expenditure.",
+    "sourceUrls": [
+      "https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf",
+      "https://cdnbbsr.s3waas.gov.in/s3ec03ac73001b1d44f4925449ce09d9f5/uploads/2023/09/2023092013.pdf"
+    ],
+    "requestChecklist": [
+      "Current court-specific translation SOP and disclaimer",
+      "Error correction route and turnaround",
+      "Language-specific validation and approved-version logs",
+      "Vendor/model/procurement and data-processing records",
+      "Handling of sealed, sensitive or personal data"
+    ]
+  },
+  {
+    "id": "service-suvas-field-5",
+    "recordId": "service-suvas",
+    "family": "service",
+    "label": "SUVAS judicial translation",
+    "kind": "Accountability gap",
+    "dimension": "Data & integration",
+    "status": "Partial",
+    "statement": "English judgments/orders are translated; model training, confidential-case exclusions and processor access were not verified.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2"
+    ],
+    "requestChecklist": [
+      "Current court-specific translation SOP and disclaimer",
+      "Error correction route and turnaround",
+      "Language-specific validation and approved-version logs",
+      "Vendor/model/procurement and data-processing records",
+      "Handling of sealed, sensitive or personal data"
+    ]
+  },
+  {
+    "id": "service-suvas-field-6",
+    "recordId": "service-suvas",
+    "family": "service",
+    "label": "SUVAS judicial translation",
+    "kind": "Accountability gap",
+    "dimension": "Evaluation & error rates",
+    "status": "Not verified",
+    "statement": "n.a. Independent legal-semantic error rates by language, case type and model version were not verified.",
+    "sourceUrls": [],
+    "requestChecklist": [
+      "Current court-specific translation SOP and disclaimer",
+      "Error correction route and turnaround",
+      "Language-specific validation and approved-version logs",
+      "Vendor/model/procurement and data-processing records",
+      "Handling of sealed, sensitive or personal data"
+    ]
+  },
+  {
+    "id": "service-suvas-field-8",
+    "recordId": "service-suvas",
+    "family": "service",
+    "label": "SUVAS judicial translation",
+    "kind": "Accountability gap",
+    "dimension": "Privacy & retention",
+    "status": "Not verified",
+    "statement": "n.a. Tool-specific retention, confidential-document handling and training-data reuse rules were not verified.",
+    "sourceUrls": [],
+    "requestChecklist": [
+      "Current court-specific translation SOP and disclaimer",
+      "Error correction route and turnaround",
+      "Language-specific validation and approved-version logs",
+      "Vendor/model/procurement and data-processing records",
+      "Handling of sealed, sensitive or personal data"
+    ]
+  },
+  {
+    "id": "service-suvas-field-9",
+    "recordId": "service-suvas",
+    "family": "service",
+    "label": "SUVAS judicial translation",
+    "kind": "Accountability gap",
+    "dimension": "Complaints & appeal",
+    "status": "Partial",
+    "statement": "The notice requires a disclaimer but does not establish a national translation-error appeal route.",
+    "sourceUrls": [
+      "https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf"
+    ],
+    "requestChecklist": [
+      "Current court-specific translation SOP and disclaimer",
+      "Error correction route and turnaround",
+      "Language-specific validation and approved-version logs",
+      "Vendor/model/procurement and data-processing records",
+      "Handling of sealed, sensitive or personal data"
+    ]
+  },
+  {
+    "id": "service-suvas-field-11",
+    "recordId": "service-suvas",
+    "family": "service",
+    "label": "SUVAS judicial translation",
+    "kind": "Accountability gap",
+    "dimension": "Current-status limits",
+    "status": "Partial",
+    "statement": "The reviewed records support assistive translation use, not perfect equivalence or current uniform governance across courts.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2"
+    ],
+    "requestChecklist": [
+      "Current court-specific translation SOP and disclaimer",
+      "Error correction route and turnaround",
+      "Language-specific validation and approved-version logs",
+      "Vendor/model/procurement and data-processing records",
+      "Handling of sealed, sensitive or personal data"
+    ]
+  },
+  {
+    "id": "service-supace-limit",
+    "recordId": "service-supace",
+    "family": "service",
+    "label": "SUPACE research assistance",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "The June court-AI instrument is a consultation draft in this corpus, not verified enacted regulation. The February deployment description does not establish October status; no court-registry confirmation was requested.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+      "https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/06/2026060342.pdf",
+      "https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/06/2026060342.pdf"
+    ],
+    "requestChecklist": [
+      "Current deployment confirmation and pilot-to-production decision",
+      "System-specific model/citation evaluation",
+      "Current applicable final instrument, if adopted",
+      "Confidentiality, provider terms and logs",
+      "Human verification and party objection procedure"
+    ]
+  },
+  {
+    "id": "service-supace-field-1",
+    "recordId": "service-supace",
+    "family": "service",
+    "label": "SUPACE research assistance",
+    "kind": "Accountability gap",
+    "dimension": "Decision role & affected people",
+    "status": "Partial",
+    "statement": "The stated role is assistance with relevant material, not autonomous adjudication; operational influence on actual cases is unverified.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2"
+    ],
+    "requestChecklist": [
+      "Current deployment confirmation and pilot-to-production decision",
+      "System-specific model/citation evaluation",
+      "Current applicable final instrument, if adopted",
+      "Confidentiality, provider terms and logs",
+      "Human verification and party objection procedure"
+    ]
+  },
+  {
+    "id": "service-supace-field-3",
+    "recordId": "service-supace",
+    "family": "service",
+    "label": "SUPACE research assistance",
+    "kind": "Accountability gap",
+    "dimension": "Procurement & supplier",
+    "status": "Not verified",
+    "statement": "n.a. Current supplier, procurement award, GPU/infrastructure contract and production acceptance were not verified.",
+    "sourceUrls": [],
+    "requestChecklist": [
+      "Current deployment confirmation and pilot-to-production decision",
+      "System-specific model/citation evaluation",
+      "Current applicable final instrument, if adopted",
+      "Confidentiality, provider terms and logs",
+      "Human verification and party objection procedure"
+    ]
+  },
+  {
+    "id": "service-supace-field-4",
+    "recordId": "service-supace",
+    "family": "service",
+    "label": "SUPACE research assistance",
+    "kind": "Accountability gap",
+    "dimension": "Funding & contract",
+    "status": "Not verified",
+    "statement": "n.a. SUPACE-specific budget and expenditure were not verified; an eCourts-wide allocation is not a system budget.",
+    "sourceUrls": [],
+    "requestChecklist": [
+      "Current deployment confirmation and pilot-to-production decision",
+      "System-specific model/citation evaluation",
+      "Current applicable final instrument, if adopted",
+      "Confidentiality, provider terms and logs",
+      "Human verification and party objection procedure"
+    ]
+  },
+  {
+    "id": "service-supace-field-5",
+    "recordId": "service-supace",
+    "family": "service",
+    "label": "SUPACE research assistance",
+    "kind": "Accountability gap",
+    "dimension": "Data & integration",
+    "status": "Partial",
+    "statement": "The source describes precedent and factual-matrix assistance; actual ingestion, training and access-control configuration are unverified.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2"
+    ],
+    "requestChecklist": [
+      "Current deployment confirmation and pilot-to-production decision",
+      "System-specific model/citation evaluation",
+      "Current applicable final instrument, if adopted",
+      "Confidentiality, provider terms and logs",
+      "Human verification and party objection procedure"
+    ]
+  },
+  {
+    "id": "service-supace-field-6",
+    "recordId": "service-supace",
+    "family": "service",
+    "label": "SUPACE research assistance",
+    "kind": "Accountability gap",
+    "dimension": "Evaluation & error rates",
+    "status": "Not verified",
+    "statement": "n.a. Current independent citation, omission and hallucination tests or courtroom outcome evaluations were not verified.",
+    "sourceUrls": [],
+    "requestChecklist": [
+      "Current deployment confirmation and pilot-to-production decision",
+      "System-specific model/citation evaluation",
+      "Current applicable final instrument, if adopted",
+      "Confidentiality, provider terms and logs",
+      "Human verification and party objection procedure"
+    ]
+  },
+  {
+    "id": "service-supace-field-7",
+    "recordId": "service-supace",
+    "family": "service",
+    "label": "SUPACE research assistance",
+    "kind": "Accountability gap",
+    "dimension": "Human review & overrides",
+    "status": "Partial",
+    "statement": "The June draft proposes assistive operation and human primacy; this proposal is not proof of an enacted or implemented operational SOP.",
+    "sourceUrls": [
+      "https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/06/2026060342.pdf"
+    ],
+    "requestChecklist": [
+      "Current deployment confirmation and pilot-to-production decision",
+      "System-specific model/citation evaluation",
+      "Current applicable final instrument, if adopted",
+      "Confidentiality, provider terms and logs",
+      "Human verification and party objection procedure"
+    ]
+  },
+  {
+    "id": "service-supace-field-8",
+    "recordId": "service-supace",
+    "family": "service",
+    "label": "SUPACE research assistance",
+    "kind": "Accountability gap",
+    "dimension": "Privacy & retention",
+    "status": "Not verified",
+    "statement": "n.a. System-specific confidential-case handling, data retention and model-provider terms were not verified.",
+    "sourceUrls": [],
+    "requestChecklist": [
+      "Current deployment confirmation and pilot-to-production decision",
+      "System-specific model/citation evaluation",
+      "Current applicable final instrument, if adopted",
+      "Confidentiality, provider terms and logs",
+      "Human verification and party objection procedure"
+    ]
+  },
+  {
+    "id": "service-supace-field-9",
+    "recordId": "service-supace",
+    "family": "service",
+    "label": "SUPACE research assistance",
+    "kind": "Accountability gap",
+    "dimension": "Complaints & appeal",
+    "status": "Not verified",
+    "statement": "n.a. A system-output correction/objection route was not verified; ordinary judicial remedies are not analysed here.",
+    "sourceUrls": [],
+    "requestChecklist": [
+      "Current deployment confirmation and pilot-to-production decision",
+      "System-specific model/citation evaluation",
+      "Current applicable final instrument, if adopted",
+      "Confidentiality, provider terms and logs",
+      "Human verification and party objection procedure"
+    ]
+  },
+  {
+    "id": "service-supace-field-10",
+    "recordId": "service-supace",
+    "family": "service",
+    "label": "SUPACE research assistance",
+    "kind": "Accountability gap",
+    "dimension": "Public outputs & access",
+    "status": "Partial",
+    "statement": "Official descriptions and a draft governance instrument are public; no current public operational/test record was verified.",
+    "sourceUrls": [
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+      "https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/06/2026060342.pdf"
+    ],
+    "requestChecklist": [
+      "Current deployment confirmation and pilot-to-production decision",
+      "System-specific model/citation evaluation",
+      "Current applicable final instrument, if adopted",
+      "Confidentiality, provider terms and logs",
+      "Human verification and party objection procedure"
+    ]
+  },
+  {
+    "id": "service-supace-field-11",
+    "recordId": "service-supace",
+    "family": "service",
+    "label": "SUPACE research assistance",
+    "kind": "Accountability gap",
+    "dimension": "Current-status limits",
+    "status": "Not verified",
+    "statement": "n.a. A later final regulation or routine SUPACE deployment was not verified after recency searches. This is not proof that neither exists.",
+    "sourceUrls": [
+      "https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/06/2026060342.pdf",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2"
+    ],
+    "requestChecklist": [
+      "Current deployment confirmation and pilot-to-production decision",
+      "System-specific model/citation evaluation",
+      "Current applicable final instrument, if adopted",
+      "Confidentiality, provider terms and logs",
+      "Human verification and party objection procedure"
+    ]
+  },
+  {
+    "id": "service-esanjeevani-limit",
+    "recordId": "service-esanjeevani",
+    "family": "service",
+    "label": "eSanjeevani clinical support",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "Not clinical advice. Components are not all established as machine learning. The study abstract was retrieved, but full manuscript access was blocked; no independent numeric accuracy is assigned. March/April integration wording is retained. The undated privacy policy's treatment-output carve-out matters; historical practice guidance is not certification of current compliance.",
+    "sourceUrls": [
+      "https://cdac.in/index.aspx?id=product_details&productId=eSanjeevaniNationalTelemedicineService",
+      "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
+      "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
+      "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
+      "https://www.wadhwaniai.org/impact/healthcare/",
+      "https://solve.mit.edu/solutions/73043",
+      "https://doi.org/10.1101/2025.11.22.25340800",
+      "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf",
+      "https://doi.org/10.1101/2025.11.22.25340800",
+      "https://solve.mit.edu/solutions/73043",
+      "https://doi.org/10.1101/2025.11.22.25340800",
+      "https://doi.org/10.1101/2025.11.22.25340800",
+      "https://nihrjodhpur.icmr.org.in/uploads/policybriefs/1782386587_1.PolicyBrief_Telemedicine.pdf",
+      "https://esanjeevani.mohfw.gov.in/assets/guidelines/Telemedicine_Practice_Guidelines.pdf",
+      "https://esanjeevani.mohfw.gov.in/assets/guidelines/Telemedicine_Practice_Guidelines.pdf",
+      "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf",
+      "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf",
+      "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf",
+      "https://esanjeevani.mohfw.gov.in/assets/guidelines/Telemedicine_Practice_Guidelines.pdf",
+      "https://www.nhsrcindia.org/sites/default/files/2025-09/Telemedicine%20Final%20Report%202025.pdf"
+    ],
+    "requestChecklist": [
+      "Deployed CDSS version, component suppliers and intended use",
+      "Clinical validation, exclusions and subgroup safety evaluation",
+      "Doctor override/escalation and adverse-event SOP",
+      "Applicable retention rules including treatment-generated records",
+      "Patient complaint, clinical review and remedy procedures"
+    ]
+  },
+  {
+    "id": "service-esanjeevani-field-2",
+    "recordId": "service-esanjeevani",
+    "family": "service",
+    "label": "eSanjeevani clinical support",
+    "kind": "Accountability gap",
+    "dimension": "Deployment & date",
+    "status": "Conflicting sources",
+    "statement": "The parliamentary response dates integration to April 2023 and usage through July 2026; the developer page says March 2023. These descriptions may refer to different components/stages; they are not silently reconciled.",
+    "sourceUrls": [
+      "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
+      "https://www.wadhwaniai.org/impact/healthcare/"
+    ],
+    "requestChecklist": [
+      "Deployed CDSS version, component suppliers and intended use",
+      "Clinical validation, exclusions and subgroup safety evaluation",
+      "Doctor override/escalation and adverse-event SOP",
+      "Applicable retention rules including treatment-generated records",
+      "Patient complaint, clinical review and remedy procedures"
+    ]
+  },
+  {
+    "id": "service-esanjeevani-field-3",
+    "recordId": "service-esanjeevani",
+    "family": "service",
+    "label": "eSanjeevani clinical support",
+    "kind": "Accountability gap",
+    "dimension": "Procurement & supplier",
+    "status": "Partial",
+    "statement": "C-DAC is the platform developer; Wadhwani AI describes collaboration on the CDSS in a developer submission. Executed component contracts, production version and full supplier chain were not verified.",
+    "sourceUrls": [
+      "https://cdac.in/index.aspx?id=product_details&productId=eSanjeevaniNationalTelemedicineService",
+      "https://solve.mit.edu/solutions/73043"
+    ],
+    "requestChecklist": [
+      "Deployed CDSS version, component suppliers and intended use",
+      "Clinical validation, exclusions and subgroup safety evaluation",
+      "Doctor override/escalation and adverse-event SOP",
+      "Applicable retention rules including treatment-generated records",
+      "Patient complaint, clinical review and remedy procedures"
+    ]
+  },
+  {
+    "id": "service-esanjeevani-field-4",
+    "recordId": "service-esanjeevani",
+    "family": "service",
+    "label": "eSanjeevani clinical support",
+    "kind": "Accountability gap",
+    "dimension": "Funding & contract",
+    "status": "Partial",
+    "statement": "The retrieved study declares no funding for that study; this is not a zero-cost deployment claim. CDSS-specific contract, licensing, budget and maintenance expenditure remain unverified.",
+    "sourceUrls": [
+      "https://doi.org/10.1101/2025.11.22.25340800"
+    ],
+    "requestChecklist": [
+      "Deployed CDSS version, component suppliers and intended use",
+      "Clinical validation, exclusions and subgroup safety evaluation",
+      "Doctor override/escalation and adverse-event SOP",
+      "Applicable retention rules including treatment-generated records",
+      "Patient complaint, clinical review and remedy procedures"
+    ]
+  },
+  {
+    "id": "service-esanjeevani-field-6",
+    "recordId": "service-esanjeevani",
+    "family": "service",
+    "label": "eSanjeevani clinical support",
+    "kind": "Accountability gap",
+    "dimension": "Evaluation & error rates",
+    "status": "Partial",
+    "statement": "A national implementation-study abstract reports expert-clinician validation and implementation, but independent numeric error rates were not established in the retrieved text and full manuscript access was blocked. A separate local 4,401-record study's 90% figure is not the existing national system's score.",
+    "sourceUrls": [
+      "https://doi.org/10.1101/2025.11.22.25340800",
+      "https://doi.org/10.1101/2025.11.22.25340800",
+      "https://doi.org/10.1101/2025.11.22.25340800",
+      "https://nihrjodhpur.icmr.org.in/uploads/policybriefs/1782386587_1.PolicyBrief_Telemedicine.pdf"
+    ],
+    "requestChecklist": [
+      "Deployed CDSS version, component suppliers and intended use",
+      "Clinical validation, exclusions and subgroup safety evaluation",
+      "Doctor override/escalation and adverse-event SOP",
+      "Applicable retention rules including treatment-generated records",
+      "Patient complaint, clinical review and remedy procedures"
+    ]
+  },
+  {
+    "id": "service-esanjeevani-field-7",
+    "recordId": "service-esanjeevani",
+    "family": "service",
+    "label": "eSanjeevani clinical support",
+    "kind": "Accountability gap",
+    "dimension": "Human review & overrides",
+    "status": "Partial",
+    "statement": "Differential diagnosis is supplied to a hub doctor. Historical practice guidance reserves final prescribing/counselling to an RMP and prohibits AI/ML platforms from independently doing it; actual override, escalation and safety-monitoring SOPs remain unverified.",
+    "sourceUrls": [
+      "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
+      "https://esanjeevani.mohfw.gov.in/assets/guidelines/Telemedicine_Practice_Guidelines.pdf",
+      "https://esanjeevani.mohfw.gov.in/assets/guidelines/Telemedicine_Practice_Guidelines.pdf"
+    ],
+    "requestChecklist": [
+      "Deployed CDSS version, component suppliers and intended use",
+      "Clinical validation, exclusions and subgroup safety evaluation",
+      "Doctor override/escalation and adverse-event SOP",
+      "Applicable retention rules including treatment-generated records",
+      "Patient complaint, clinical review and remedy procedures"
+    ]
+  },
+  {
+    "id": "service-esanjeevani-field-8",
+    "recordId": "service-esanjeevani",
+    "family": "service",
+    "label": "eSanjeevani clinical support",
+    "kind": "Accountability gap",
+    "dimension": "Privacy & retention",
+    "status": "Partial",
+    "statement": "The policy ties some data retention to account existence and further interventions, but excludes medical reports/diagnoses generated in treatment from that clause; no single universal retention period follows.",
+    "sourceUrls": [
+      "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf",
+      "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf"
+    ],
+    "requestChecklist": [
+      "Deployed CDSS version, component suppliers and intended use",
+      "Clinical validation, exclusions and subgroup safety evaluation",
+      "Doctor override/escalation and adverse-event SOP",
+      "Applicable retention rules including treatment-generated records",
+      "Patient complaint, clinical review and remedy procedures"
+    ]
+  },
+  {
+    "id": "service-esanjeevani-field-9",
+    "recordId": "service-esanjeevani",
+    "family": "service",
+    "label": "eSanjeevani clinical support",
+    "kind": "Accountability gap",
+    "dimension": "Complaints & appeal",
+    "status": "Partial",
+    "statement": "The privacy policy has a privacy contact, and historical practice guidance calls for platform grievance mechanisms. A functioning current support form or CDSS clinical-error review/remedy procedure was not verified; the platform support page was blocked during this review.",
+    "sourceUrls": [
+      "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf",
+      "https://esanjeevani.mohfw.gov.in/assets/guidelines/Telemedicine_Practice_Guidelines.pdf"
+    ],
+    "requestChecklist": [
+      "Deployed CDSS version, component suppliers and intended use",
+      "Clinical validation, exclusions and subgroup safety evaluation",
+      "Doctor override/escalation and adverse-event SOP",
+      "Applicable retention rules including treatment-generated records",
+      "Patient complaint, clinical review and remedy procedures"
+    ]
+  },
+  {
+    "id": "service-esanjeevani-field-10",
+    "recordId": "service-esanjeevani",
+    "family": "service",
+    "label": "eSanjeevani clinical support",
+    "kind": "Accountability gap",
+    "dimension": "Public outputs & access",
+    "status": "Partial",
+    "statement": "Developer, parliamentary and privacy records and a national implementation-study abstract are public; no complete national CDSS model card or independent validation dossier was verified.",
+    "sourceUrls": [
+      "https://cdac.in/index.aspx?id=product_details&productId=eSanjeevaniNationalTelemedicineService",
+      "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
+      "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf",
+      "https://doi.org/10.1101/2025.11.22.25340800"
+    ],
+    "requestChecklist": [
+      "Deployed CDSS version, component suppliers and intended use",
+      "Clinical validation, exclusions and subgroup safety evaluation",
+      "Doctor override/escalation and adverse-event SOP",
+      "Applicable retention rules including treatment-generated records",
+      "Patient complaint, clinical review and remedy procedures"
+    ]
+  },
+  {
+    "id": "service-esanjeevani-field-11",
+    "recordId": "service-esanjeevani",
+    "family": "service",
+    "label": "eSanjeevani clinical support",
+    "kind": "Accountability gap",
+    "dimension": "Current-status limits",
+    "status": "Partial",
+    "statement": "The dated response supports reported integrated use, not independent safety certification or all October operational details. The programme utilisation study raises privacy and access recommendations, but is not a deployed-CDSS accuracy study.",
+    "sourceUrls": [
+      "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
+      "https://www.nhsrcindia.org/sites/default/files/2025-09/Telemedicine%20Final%20Report%202025.pdf"
+    ],
+    "requestChecklist": [
+      "Deployed CDSS version, component suppliers and intended use",
+      "Clinical validation, exclusions and subgroup safety evaluation",
+      "Doctor override/escalation and adverse-event SOP",
+      "Applicable retention rules including treatment-generated records",
+      "Patient complaint, clinical review and remedy procedures"
+    ]
+  },
+  {
+    "id": "service-mahacrimeos-limit",
+    "recordId": "service-mahacrimeos",
+    "family": "service",
+    "label": "MahaCrimeOS investigation support",
+    "kind": "Record limit",
+    "dimension": "Scope and interpretation",
+    "status": "Limit retained",
+    "statement": "The reviewed corpus did not establish a government procurement award, station-wise completed rollout, performance audit or tool-specific redress procedure. Count differences may reflect dates/denominators; do not choose a convenient number.",
+    "sourceUrls": [
+      "https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS",
+      "https://news.microsoft.com/source/asia/features/a-race-against-time-maharashtra-police-get-an-ai-copilot-to-fight-cybercrime/",
+      "https://news.microsoft.com/source/asia/features/a-race-against-time-maharashtra-police-get-an-ai-copilot-to-fight-cybercrime/",
+      "https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS",
+      "https://indianexpress.com/article/explained/mahacrimeos-ai-maharashtra-10418600/",
+      "https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS"
+    ],
+    "requestChecklist": [
+      "Government authorisation, procurement and executed contract",
+      "Station-wise rollout with dates and active use",
+      "Officer verification, override and audit-log SOP",
+      "Independent error/bias/workload evaluations",
+      "Data-processing, hosting, retention and model-training terms",
+      "Subject/victim correction and grievance procedure"
+    ]
+  },
+  {
+    "id": "service-mahacrimeos-field-0",
+    "recordId": "service-mahacrimeos",
+    "family": "service",
+    "label": "MahaCrimeOS investigation support",
+    "kind": "Accountability gap",
+    "dimension": "Owner & purpose",
+    "status": "Partial",
+    "statement": "Vendor material describes MARVEL adapting CyberEye's CrimeOS with Microsoft technology; the government-authorisation instrument was not verified.",
+    "sourceUrls": [
+      "https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS"
+    ],
+    "requestChecklist": [
+      "Government authorisation, procurement and executed contract",
+      "Station-wise rollout with dates and active use",
+      "Officer verification, override and audit-log SOP",
+      "Independent error/bias/workload evaluations",
+      "Data-processing, hosting, retention and model-training terms",
+      "Subject/victim correction and grievance procedure"
+    ]
+  },
+  {
+    "id": "service-mahacrimeos-field-1",
+    "recordId": "service-mahacrimeos",
+    "family": "service",
+    "label": "MahaCrimeOS investigation support",
+    "kind": "Accountability gap",
+    "dimension": "Decision role & affected people",
+    "status": "Partial",
+    "statement": "The reported purpose is complaint processing and investigation assistance; legal consequences and decision boundaries were not verified.",
+    "sourceUrls": [
+      "https://news.microsoft.com/source/asia/features/a-race-against-time-maharashtra-police-get-an-ai-copilot-to-fight-cybercrime/"
+    ],
+    "requestChecklist": [
+      "Government authorisation, procurement and executed contract",
+      "Station-wise rollout with dates and active use",
+      "Officer verification, override and audit-log SOP",
+      "Independent error/bias/workload evaluations",
+      "Data-processing, hosting, retention and model-training terms",
+      "Subject/victim correction and grievance procedure"
+    ]
+  },
+  {
+    "id": "service-mahacrimeos-field-2",
+    "recordId": "service-mahacrimeos",
+    "family": "service",
+    "label": "MahaCrimeOS investigation support",
+    "kind": "Accountability gap",
+    "dimension": "Deployment & date",
+    "status": "Conflicting sources",
+    "statement": "Sources describe 23 and 25 pilot stations and an announcement to extend to 1,100; a completed station-wise rollout was not verified.",
+    "sourceUrls": [
+      "https://news.microsoft.com/source/asia/features/a-race-against-time-maharashtra-police-get-an-ai-copilot-to-fight-cybercrime/",
+      "https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS",
+      "https://indianexpress.com/article/explained/mahacrimeos-ai-maharashtra-10418600/"
+    ],
+    "requestChecklist": [
+      "Government authorisation, procurement and executed contract",
+      "Station-wise rollout with dates and active use",
+      "Officer verification, override and audit-log SOP",
+      "Independent error/bias/workload evaluations",
+      "Data-processing, hosting, retention and model-training terms",
+      "Subject/victim correction and grievance procedure"
+    ]
+  },
+  {
+    "id": "service-mahacrimeos-field-3",
+    "recordId": "service-mahacrimeos",
+    "family": "service",
+    "label": "MahaCrimeOS investigation support",
+    "kind": "Accountability gap",
+    "dimension": "Procurement & supplier",
+    "status": "Partial",
+    "statement": "CyberEye/Microsoft/MARVEL are named in vendor material. A named supplier is not a procurement award or proof of the current contract.",
+    "sourceUrls": [
+      "https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS"
+    ],
+    "requestChecklist": [
+      "Government authorisation, procurement and executed contract",
+      "Station-wise rollout with dates and active use",
+      "Officer verification, override and audit-log SOP",
+      "Independent error/bias/workload evaluations",
+      "Data-processing, hosting, retention and model-training terms",
+      "Subject/victim correction and grievance procedure"
+    ]
+  },
+  {
+    "id": "service-mahacrimeos-field-4",
+    "recordId": "service-mahacrimeos",
+    "family": "service",
+    "label": "MahaCrimeOS investigation support",
+    "kind": "Accountability gap",
+    "dimension": "Funding & contract",
+    "status": "Not verified",
+    "statement": "n.a. Government contract, licence cost, funding, renewal and procurement evaluation were not verified.",
+    "sourceUrls": [],
+    "requestChecklist": [
+      "Government authorisation, procurement and executed contract",
+      "Station-wise rollout with dates and active use",
+      "Officer verification, override and audit-log SOP",
+      "Independent error/bias/workload evaluations",
+      "Data-processing, hosting, retention and model-training terms",
+      "Subject/victim correction and grievance procedure"
+    ]
+  },
+  {
+    "id": "service-mahacrimeos-field-5",
+    "recordId": "service-mahacrimeos",
+    "family": "service",
+    "label": "MahaCrimeOS investigation support",
+    "kind": "Accountability gap",
+    "dimension": "Data & integration",
+    "status": "Partial",
+    "statement": "Vendor description lists PDFs, audio, handwritten notes and images as inputs, with Marathi adaptation; actual production data flows are not independently verified.",
+    "sourceUrls": [
+      "https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS",
+      "https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS"
+    ],
+    "requestChecklist": [
+      "Government authorisation, procurement and executed contract",
+      "Station-wise rollout with dates and active use",
+      "Officer verification, override and audit-log SOP",
+      "Independent error/bias/workload evaluations",
+      "Data-processing, hosting, retention and model-training terms",
+      "Subject/victim correction and grievance procedure"
+    ]
+  },
+  {
+    "id": "service-mahacrimeos-field-6",
+    "recordId": "service-mahacrimeos",
+    "family": "service",
+    "label": "MahaCrimeOS investigation support",
+    "kind": "Accountability gap",
+    "dimension": "Evaluation & error rates",
+    "status": "Not verified",
+    "statement": "n.a. Independent error, bias, accuracy and workload evaluations were not verified; vendor anecdotes are not benchmarks.",
+    "sourceUrls": [],
+    "requestChecklist": [
+      "Government authorisation, procurement and executed contract",
+      "Station-wise rollout with dates and active use",
+      "Officer verification, override and audit-log SOP",
+      "Independent error/bias/workload evaluations",
+      "Data-processing, hosting, retention and model-training terms",
+      "Subject/victim correction and grievance procedure"
+    ]
+  },
+  {
+    "id": "service-mahacrimeos-field-7",
+    "recordId": "service-mahacrimeos",
+    "family": "service",
+    "label": "MahaCrimeOS investigation support",
+    "kind": "Accountability gap",
+    "dimension": "Human review & overrides",
+    "status": "Not verified",
+    "statement": "n.a. An enforceable officer verification/override SOP and audit trail were not verified.",
+    "sourceUrls": [],
+    "requestChecklist": [
+      "Government authorisation, procurement and executed contract",
+      "Station-wise rollout with dates and active use",
+      "Officer verification, override and audit-log SOP",
+      "Independent error/bias/workload evaluations",
+      "Data-processing, hosting, retention and model-training terms",
+      "Subject/victim correction and grievance procedure"
+    ]
+  },
+  {
+    "id": "service-mahacrimeos-field-8",
+    "recordId": "service-mahacrimeos",
+    "family": "service",
+    "label": "MahaCrimeOS investigation support",
+    "kind": "Accountability gap",
+    "dimension": "Privacy & retention",
+    "status": "Not verified",
+    "statement": "n.a. Tool-specific processor, hosting, model-training use, access, retention and deletion terms were not verified.",
+    "sourceUrls": [],
+    "requestChecklist": [
+      "Government authorisation, procurement and executed contract",
+      "Station-wise rollout with dates and active use",
+      "Officer verification, override and audit-log SOP",
+      "Independent error/bias/workload evaluations",
+      "Data-processing, hosting, retention and model-training terms",
+      "Subject/victim correction and grievance procedure"
+    ]
+  },
+  {
+    "id": "service-mahacrimeos-field-9",
+    "recordId": "service-mahacrimeos",
+    "family": "service",
+    "label": "MahaCrimeOS investigation support",
+    "kind": "Accountability gap",
+    "dimension": "Complaints & appeal",
+    "status": "Not verified",
+    "statement": "n.a. Tool-specific correction, access or complaint mechanisms were not verified; ordinary policing remedies are outside this case's verified scope.",
+    "sourceUrls": [],
+    "requestChecklist": [
+      "Government authorisation, procurement and executed contract",
+      "Station-wise rollout with dates and active use",
+      "Officer verification, override and audit-log SOP",
+      "Independent error/bias/workload evaluations",
+      "Data-processing, hosting, retention and model-training terms",
+      "Subject/victim correction and grievance procedure"
+    ]
+  },
+  {
+    "id": "service-mahacrimeos-field-10",
+    "recordId": "service-mahacrimeos",
+    "family": "service",
+    "label": "MahaCrimeOS investigation support",
+    "kind": "Accountability gap",
+    "dimension": "Public outputs & access",
+    "status": "Partial",
+    "statement": "Public vendor descriptions and reporting exist. Authoritative station-wise deployment, procurement and audit artefacts were not verified.",
+    "sourceUrls": [
+      "https://news.microsoft.com/source/asia/features/a-race-against-time-maharashtra-police-get-an-ai-copilot-to-fight-cybercrime/",
+      "https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS",
+      "https://indianexpress.com/article/explained/mahacrimeos-ai-maharashtra-10418600/"
+    ],
+    "requestChecklist": [
+      "Government authorisation, procurement and executed contract",
+      "Station-wise rollout with dates and active use",
+      "Officer verification, override and audit-log SOP",
+      "Independent error/bias/workload evaluations",
+      "Data-processing, hosting, retention and model-training terms",
+      "Subject/victim correction and grievance procedure"
+    ]
+  },
+  {
+    "id": "service-mahacrimeos-field-11",
+    "recordId": "service-mahacrimeos",
+    "family": "service",
+    "label": "MahaCrimeOS investigation support",
+    "kind": "Accountability gap",
+    "dimension": "Current-status limits",
+    "status": "Not verified",
+    "statement": "n.a. A current government-confirmed rollout inventory and operational audit were not obtained. This is not proof of non-use.",
+    "sourceUrls": [
+      "https://news.microsoft.com/source/asia/features/a-race-against-time-maharashtra-police-get-an-ai-copilot-to-fight-cybercrime/",
+      "https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS"
+    ],
+    "requestChecklist": [
+      "Government authorisation, procurement and executed contract",
+      "Station-wise rollout with dates and active use",
+      "Officer verification, override and audit-log SOP",
+      "Independent error/bias/workload evaluations",
+      "Data-processing, hosting, retention and model-training terms",
+      "Subject/victim correction and grievance procedure"
+    ]
+  }
+]

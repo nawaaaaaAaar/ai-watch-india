@@ -1,0 +1,1170 @@
+[
+  {
+    "id": "rule-1",
+    "family": "dpdp",
+    "label": "Rule 1",
+    "title": "Phased commencement",
+    "kind": "Timing",
+    "contribution": true,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-1.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "rule-2",
+    "family": "dpdp",
+    "label": "Rule 2",
+    "title": "Definitions and relocated terms",
+    "kind": "Wording",
+    "contribution": false,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-2.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "rule-3",
+    "family": "dpdp",
+    "label": "Rule 3",
+    "title": "Consent notices",
+    "kind": "Wording",
+    "contribution": true,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-3.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "rule-4",
+    "family": "dpdp",
+    "label": "Rule 4",
+    "title": "Consent Manager registration",
+    "kind": "Continuity",
+    "contribution": false,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-4.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "rule-5",
+    "family": "dpdp",
+    "label": "Rule 5",
+    "title": "State provision of benefits and services",
+    "kind": "Wording",
+    "contribution": false,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-5.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "rule-6",
+    "family": "dpdp",
+    "label": "Rule 6",
+    "title": "Reasonable security safeguards",
+    "kind": "Qualification",
+    "contribution": true,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-6.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "rule-7",
+    "family": "dpdp",
+    "label": "Rule 7",
+    "title": "Personal data breach notices",
+    "kind": "Scope change",
+    "contribution": true,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-7.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "rule-8",
+    "family": "dpdp",
+    "label": "Rule 8",
+    "title": "Retention and erasure",
+    "kind": "Addition",
+    "contribution": true,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-8.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "rule-9",
+    "family": "dpdp",
+    "label": "Rule 9",
+    "title": "Processing contact information",
+    "kind": "Continuity",
+    "contribution": false,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-9.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "rule-10",
+    "family": "dpdp",
+    "label": "Rule 10",
+    "title": "Children's verifiable consent",
+    "kind": "Wording",
+    "contribution": false,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-10.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "rule-11",
+    "family": "dpdp",
+    "label": "Rule 11",
+    "title": "Disability and lawful-guardian consent",
+    "kind": "Qualification",
+    "contribution": true,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-11.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "rule-12",
+    "family": "dpdp",
+    "label": "Rule 12",
+    "title": "Children's-data exemptions",
+    "kind": "Continuity",
+    "contribution": false,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-12.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "rule-13",
+    "family": "dpdp",
+    "label": "Rule 13",
+    "title": "Significant Data Fiduciary duties",
+    "kind": "Scope change",
+    "contribution": true,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-13.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "rule-14",
+    "family": "dpdp",
+    "label": "Rule 14",
+    "title": "Rights and grievance mechanisms",
+    "kind": "Addition",
+    "contribution": true,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-14.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "rule-15",
+    "family": "dpdp",
+    "label": "Rule 15",
+    "title": "Cross-border transfers",
+    "kind": "Wording",
+    "contribution": true,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-15.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "rule-16",
+    "family": "dpdp",
+    "label": "Rule 16",
+    "title": "Research, archiving and statistics",
+    "kind": "Continuity",
+    "contribution": false,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-16.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "rule-17",
+    "family": "dpdp",
+    "label": "Rule 17",
+    "title": "Board appointment committees",
+    "kind": "Scope change",
+    "contribution": false,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-17.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "rule-18",
+    "family": "dpdp",
+    "label": "Rule 18",
+    "title": "Board member service terms",
+    "kind": "Continuity",
+    "contribution": false,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-18.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "rule-19",
+    "family": "dpdp",
+    "label": "Rule 19",
+    "title": "Board meetings and inquiries",
+    "kind": "Continuity",
+    "contribution": false,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-19.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "rule-20",
+    "family": "dpdp",
+    "label": "Rule 20",
+    "title": "The Board as a digital office",
+    "kind": "Continuity",
+    "contribution": false,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-20.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "rule-21",
+    "family": "dpdp",
+    "label": "Rule 21",
+    "title": "Board officers and employees",
+    "kind": "Wording",
+    "contribution": false,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-21.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "rule-22",
+    "family": "dpdp",
+    "label": "Rule 22",
+    "title": "Appeals to the Tribunal",
+    "kind": "Wording",
+    "contribution": false,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-22.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "rule-23",
+    "family": "dpdp",
+    "label": "Rule 23",
+    "title": "Information-calling powers",
+    "kind": "Wording",
+    "contribution": true,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/rule-23.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "schedule-first",
+    "family": "dpdp",
+    "label": "First Schedule",
+    "title": "Consent Manager conditions and duties",
+    "kind": "Continuity",
+    "contribution": false,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/schedule-first.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "schedule-second",
+    "family": "dpdp",
+    "label": "Second Schedule",
+    "title": "State and research processing standards",
+    "kind": "Scope change",
+    "contribution": true,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/schedule-second.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "schedule-third",
+    "family": "dpdp",
+    "label": "Third Schedule",
+    "title": "Purpose-expiry periods and thresholds",
+    "kind": "Wording",
+    "contribution": false,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/schedule-third.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "schedule-fourth",
+    "family": "dpdp",
+    "label": "Fourth Schedule",
+    "title": "Conditional children's-data exemptions",
+    "kind": "Addition",
+    "contribution": true,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/schedule-fourth.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "schedule-fifth",
+    "family": "dpdp",
+    "label": "Fifth Schedule",
+    "title": "Board member salary and service terms",
+    "kind": "Continuity",
+    "contribution": false,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/schedule-fifth.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "schedule-sixth",
+    "family": "dpdp",
+    "label": "Sixth Schedule",
+    "title": "Board employee service terms",
+    "kind": "Continuity",
+    "contribution": false,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/schedule-sixth.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "schedule-seventh",
+    "family": "dpdp",
+    "label": "Seventh Schedule",
+    "title": "Information purposes and authorised persons",
+    "kind": "Scope change",
+    "contribution": false,
+    "sourceIds": [
+      "draft",
+      "final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/schedule-seventh.md",
+    "scope": "Complete final-provision inventory, not current court-status or later-amendment certification."
+  },
+  {
+    "id": "sgi-commencement",
+    "family": "sgi",
+    "label": "Amendment 1",
+    "title": "An express commencement date",
+    "kind": "Timing",
+    "contribution": false,
+    "sourceIds": [
+      "sgi-draft",
+      "sgi-final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/sgi-commencement.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "sgi-definition",
+    "family": "sgi",
+    "label": "Rule 2(1)(wa)",
+    "title": "SGI narrows to realistic audio and visual media",
+    "kind": "Scope change",
+    "contribution": true,
+    "sourceIds": [
+      "sgi-draft",
+      "sgi-final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/sgi-definition.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "sgi-exclusions",
+    "family": "sgi",
+    "label": "Rule 2(1)(wa) proviso",
+    "title": "Routine editing is conditionally outside the SGI definition",
+    "kind": "Qualification",
+    "contribution": true,
+    "sourceIds": [
+      "sgi-draft",
+      "sgi-final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/sgi-exclusions.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "sgi-unlawfulreferences",
+    "family": "sgi",
+    "label": "Rule 2(1A)",
+    "title": "Unlawful-information references retain SGI coverage",
+    "kind": "Continuity",
+    "contribution": false,
+    "sourceIds": [
+      "sgi-draft",
+      "sgi-final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/sgi-unlawfulreferences.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "sgi-removal-safeharbour",
+    "family": "sgi",
+    "label": "Rule 2(1B)",
+    "title": "The removal clarification moves and broadens",
+    "kind": "Scope change",
+    "contribution": false,
+    "sourceIds": [
+      "sgi-draft",
+      "sgi-final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/sgi-removal-safeharbour.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "sgi-user-notices",
+    "family": "sgi",
+    "label": "Rule 3(1)(c), (ca), (cb)",
+    "title": "Quarterly notices and SGI-specific consequences",
+    "kind": "Scope change",
+    "contribution": true,
+    "sourceIds": [
+      "sgi-baseline",
+      "sgi-final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/sgi-user-notices.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "sgi-takedown",
+    "family": "sgi",
+    "label": "Rule 3(1)(d)",
+    "title": "Three-hour ordered takedowns are not a universal complaint clock",
+    "kind": "Timing",
+    "contribution": true,
+    "sourceIds": [
+      "sgi-baseline",
+      "sgi-final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/sgi-takedown.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "sgi-grievance",
+    "family": "sgi",
+    "label": "Rule 3(2)",
+    "title": "Three grievance clocks become shorter",
+    "kind": "Timing",
+    "contribution": true,
+    "sourceIds": [
+      "sgi-baseline",
+      "sgi-final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/sgi-grievance.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "sgi-prevention",
+    "family": "sgi",
+    "label": "Rule 3(3)(a)(i)",
+    "title": "Prevention duties extend beyond a labelling-only draft",
+    "kind": "Scope change",
+    "contribution": true,
+    "sourceIds": [
+      "sgi-draft",
+      "sgi-final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/sgi-prevention.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "sgi-label",
+    "family": "sgi",
+    "label": "Rule 3(3)(a)(ii)",
+    "title": "The fixed ten-percent label is replaced",
+    "kind": "Qualification",
+    "contribution": true,
+    "sourceIds": [
+      "sgi-draft",
+      "sgi-final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/sgi-label.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "sgi-provenance",
+    "family": "sgi",
+    "label": "Rule 3(3)(a)(ii), (b)",
+    "title": "Visible labels and feasible provenance are distinct",
+    "kind": "Qualification",
+    "contribution": true,
+    "sourceIds": [
+      "sgi-draft",
+      "sgi-final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/sgi-provenance.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "sgi-declarations",
+    "family": "sgi",
+    "label": "Rule 4(1A)",
+    "title": "Upload declarations survive with revised verification wording",
+    "kind": "Qualification",
+    "contribution": true,
+    "sourceIds": [
+      "sgi-draft",
+      "sgi-final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/sgi-declarations.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "sgi-proactive",
+    "family": "sgi",
+    "label": "Rule 4(4)",
+    "title": "Proactive identification changes from endeavour to deploy",
+    "kind": "Scope change",
+    "contribution": true,
+    "sourceIds": [
+      "sgi-baseline",
+      "sgi-final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/sgi-proactive.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "sgi-criminal",
+    "family": "sgi",
+    "label": "Rule 7",
+    "title": "The criminal-code cross-reference is updated",
+    "kind": "Wording",
+    "contribution": false,
+    "sourceIds": [
+      "sgi-baseline",
+      "sgi-final"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/sgi-criminal.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "aig-principles",
+    "family": "aig",
+    "label": "Part 1",
+    "title": "Seven principles are reframed as seven sutras",
+    "kind": "Scope change",
+    "contribution": true,
+    "sourceIds": [
+      "aig-consultation",
+      "aig-guidelines"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/aig-principles.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "aig-infrastructure",
+    "family": "aig",
+    "label": "Part 2.1",
+    "title": "Infrastructure becomes an explicit governance pillar",
+    "kind": "Scope change",
+    "contribution": false,
+    "sourceIds": [
+      "aig-consultation",
+      "aig-guidelines"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/aig-infrastructure.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "aig-capacity",
+    "family": "aig",
+    "label": "Part 2.2",
+    "title": "Public procurement and enforcement training gain explicit attention",
+    "kind": "Scope change",
+    "contribution": false,
+    "sourceIds": [
+      "aig-consultation",
+      "aig-guidelines"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/aig-capacity.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "aig-policy",
+    "family": "aig",
+    "label": "Part 2.3",
+    "title": "A proposed Digital India Act path becomes targeted legal review",
+    "kind": "Scope change",
+    "contribution": true,
+    "sourceIds": [
+      "aig-consultation",
+      "aig-guidelines"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/aig-policy.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "aig-risk",
+    "family": "aig",
+    "label": "Part 2.4",
+    "title": "Context-sensitive risk analysis becomes an explicit India framework",
+    "kind": "Scope change",
+    "contribution": true,
+    "sourceIds": [
+      "aig-consultation",
+      "aig-guidelines"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/aig-risk.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "aig-incidents",
+    "family": "aig",
+    "label": "Part 2.4",
+    "title": "An incident repository becomes a federated reporting proposal",
+    "kind": "Scope change",
+    "contribution": true,
+    "sourceIds": [
+      "aig-consultation",
+      "aig-guidelines"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/aig-incidents.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "aig-voluntary",
+    "family": "aig",
+    "label": "Part 2.4",
+    "title": "Voluntary commitments get incentives and a possible mandatory trajectory",
+    "kind": "Scope change",
+    "contribution": true,
+    "sourceIds": [
+      "aig-consultation",
+      "aig-guidelines"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/aig-voluntary.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "aig-techno",
+    "family": "aig",
+    "label": "Part 2.4",
+    "title": "Techno-legal solutions acquire explicit limitations",
+    "kind": "Scope change",
+    "contribution": false,
+    "sourceIds": [
+      "aig-consultation",
+      "aig-guidelines"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/aig-techno.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "aig-accountability",
+    "family": "aig",
+    "label": "Part 2.5",
+    "title": "Grievance redress is kept separate from incident learning",
+    "kind": "Scope change",
+    "contribution": true,
+    "sourceIds": [
+      "aig-consultation",
+      "aig-guidelines"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/aig-accountability.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "aig-institutions",
+    "family": "aig",
+    "label": "Part 2.6",
+    "title": "The technical secretariat proposal becomes a broader institutional architecture",
+    "kind": "Scope change",
+    "contribution": true,
+    "sourceIds": [
+      "aig-consultation",
+      "aig-guidelines"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/aig-institutions.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "aig-action-plan",
+    "family": "aig",
+    "label": "Part 3",
+    "title": "The final introduces a staged action plan without exact dates",
+    "kind": "Addition",
+    "contribution": true,
+    "sourceIds": [
+      "aig-consultation",
+      "aig-guidelines"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/aig-action-plan.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "aig-practical",
+    "family": "aig",
+    "label": "Part 4",
+    "title": "Industry and regulators receive separate practical recommendations",
+    "kind": "Scope change",
+    "contribution": false,
+    "sourceIds": [
+      "aig-consultation",
+      "aig-guidelines"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/aig-practical.md",
+    "scope": "Mapped evidence segment; open the source for the complete instrument."
+  },
+  {
+    "id": "impl-aigeg",
+    "family": "impl",
+    "label": "AIGEG",
+    "title": "A constitution order exists; policy delivery needs separate evidence",
+    "kind": "Evidence checkpoint",
+    "contribution": true,
+    "sourceIds": [
+      "aig-guidelines",
+      "impl-aigeg-order",
+      "impl-aigeg-release"
+    ],
+    "sourceCount": 3,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/impl-aigeg.md",
+    "scope": "An implementation checkpoint, not a textual redline or operational audit. Read the whole evidence trail."
+  },
+  {
+    "id": "impl-tpec",
+    "family": "impl",
+    "label": "TPEC",
+    "title": "The expert committee has an order and an advisory remit",
+    "kind": "Evidence checkpoint",
+    "contribution": true,
+    "sourceIds": [
+      "aig-guidelines",
+      "impl-tpec-order",
+      "impl-tpec-release"
+    ],
+    "sourceCount": 3,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/impl-tpec.md",
+    "scope": "An implementation checkpoint, not a textual redline or operational audit. Read the whole evidence trail."
+  },
+  {
+    "id": "impl-aisi-status",
+    "family": "impl",
+    "label": "AISI status",
+    "title": "Official Safety Institute wording does not settle operational readiness",
+    "kind": "Evidence checkpoint",
+    "contribution": true,
+    "sourceIds": [
+      "aig-guidelines",
+      "impl-safety-status",
+      "impl-mission-status"
+    ],
+    "sourceCount": 3,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/impl-aisi-status.md",
+    "scope": "An implementation checkpoint, not a textual redline or operational audit. Read the whole evidence trail."
+  },
+  {
+    "id": "impl-aisi-leadership",
+    "family": "impl",
+    "label": "AISI leadership",
+    "title": "A director advertisement is not an appointment record",
+    "kind": "Evidence checkpoint",
+    "contribution": true,
+    "sourceIds": [
+      "aig-guidelines",
+      "impl-director"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/impl-aisi-leadership.md",
+    "scope": "An implementation checkpoint, not a textual redline or operational audit. Read the whole evidence trail."
+  },
+  {
+    "id": "impl-aisi-partners",
+    "family": "impl",
+    "label": "AISI partners",
+    "title": "The partner call specifies cells and cost sharing, not awarded partners",
+    "kind": "Evidence checkpoint",
+    "contribution": true,
+    "sourceIds": [
+      "aig-guidelines",
+      "impl-partners"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/impl-aisi-partners.md",
+    "scope": "An implementation checkpoint, not a textual redline or operational audit. Read the whole evidence trail."
+  },
+  {
+    "id": "impl-projects",
+    "family": "impl",
+    "label": "Responsible AI portfolio",
+    "title": "Thirteen approved projects are not thirteen validated tools",
+    "kind": "Evidence checkpoint",
+    "contribution": true,
+    "sourceIds": [
+      "aig-guidelines",
+      "impl-safety-status",
+      "impl-mission-status"
+    ],
+    "sourceCount": 3,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/impl-projects.md",
+    "scope": "An implementation checkpoint, not a textual redline or operational audit. Read the whole evidence trail."
+  },
+  {
+    "id": "impl-tool-delivery",
+    "family": "impl",
+    "label": "Technical tools",
+    "title": "Named selections identify owners, not proven detection performance",
+    "kind": "Evidence checkpoint",
+    "contribution": true,
+    "sourceIds": [
+      "aig-guidelines",
+      "impl-projects",
+      "impl-safety-status"
+    ],
+    "sourceCount": 3,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/impl-tool-delivery.md",
+    "scope": "An implementation checkpoint, not a textual redline or operational audit. Read the whole evidence trail."
+  },
+  {
+    "id": "impl-incident-repository",
+    "family": "impl",
+    "label": "Incident reporting",
+    "title": "Existing cyber duties do not prove a national AI-harm repository is live",
+    "kind": "Evidence checkpoint",
+    "contribution": true,
+    "sourceIds": [
+      "aig-guidelines",
+      "impl-cert-directions"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/impl-incident-repository.md",
+    "scope": "An implementation checkpoint, not a textual redline or operational audit. Read the whole evidence trail."
+  },
+  {
+    "id": "impl-redress",
+    "family": "impl",
+    "label": "Grievance redress",
+    "title": "Platform appeals exist; universal AI-harm redress is not established",
+    "kind": "Evidence checkpoint",
+    "contribution": true,
+    "sourceIds": [
+      "aig-guidelines",
+      "impl-redress"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/impl-redress.md",
+    "scope": "An implementation checkpoint, not a textual redline or operational audit. Read the whole evidence trail."
+  },
+  {
+    "id": "impl-voluntary",
+    "family": "impl",
+    "label": "Voluntary commitments",
+    "title": "Frontier commitments were announced; compliance needs different evidence",
+    "kind": "Evidence checkpoint",
+    "contribution": true,
+    "sourceIds": [
+      "aig-guidelines",
+      "impl-commitments",
+      "impl-safety-status"
+    ],
+    "sourceCount": 3,
+    "accountabilityDimensions": 0,
+    "dossier": "data-room/dossiers/impl-voluntary.md",
+    "scope": "An implementation checkpoint, not a textual redline or operational audit. Read the whole evidence trail."
+  },
+  {
+    "id": "service-upsc",
+    "family": "service",
+    "label": "UPSC face authentication",
+    "title": "UPSC face authentication: decision-accountability case",
+    "kind": "Public-service case",
+    "contribution": true,
+    "sourceIds": [
+      "service-upsc-live",
+      "service-upsc-october",
+      "service-upsc-tender"
+    ],
+    "sourceCount": 3,
+    "accountabilityDimensions": 12,
+    "dossier": "data-room/dossiers/service-upsc.md",
+    "scope": "Twelve accountability dimensions, all retained even when unverified. A case file, not a word-aligned legal redline."
+  },
+  {
+    "id": "service-cyberguard",
+    "family": "service",
+    "label": "I4C CyberGuard",
+    "title": "I4C CyberGuard: decision-accountability case",
+    "kind": "Public-service case",
+    "contribution": true,
+    "sourceIds": [
+      "service-cyber-winners",
+      "impl-mission-status"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 12,
+    "dossier": "data-room/dossiers/service-cyberguard.md",
+    "scope": "Twelve accountability dimensions, all retained even when unverified. A case file, not a word-aligned legal redline."
+  },
+  {
+    "id": "service-suvas",
+    "family": "service",
+    "label": "SUVAS judicial translation",
+    "title": "SUVAS judicial translation: decision-accountability case",
+    "kind": "Public-service case",
+    "contribution": true,
+    "sourceIds": [
+      "service-judiciary",
+      "service-translation-vetting",
+      "service-translation-guidelines"
+    ],
+    "sourceCount": 3,
+    "accountabilityDimensions": 12,
+    "dossier": "data-room/dossiers/service-suvas.md",
+    "scope": "Twelve accountability dimensions, all retained even when unverified. A case file, not a word-aligned legal redline."
+  },
+  {
+    "id": "service-supace",
+    "family": "service",
+    "label": "SUPACE research assistance",
+    "title": "SUPACE research assistance: decision-accountability case",
+    "kind": "Public-service case",
+    "contribution": true,
+    "sourceIds": [
+      "service-judiciary",
+      "service-court-draft"
+    ],
+    "sourceCount": 2,
+    "accountabilityDimensions": 12,
+    "dossier": "data-room/dossiers/service-supace.md",
+    "scope": "Twelve accountability dimensions, all retained even when unverified. A case file, not a word-aligned legal redline."
+  },
+  {
+    "id": "service-esanjeevani",
+    "family": "service",
+    "label": "eSanjeevani clinical support",
+    "title": "eSanjeevani clinical support: decision-accountability case",
+    "kind": "Public-service case",
+    "contribution": true,
+    "sourceIds": [
+      "service-health-platform",
+      "service-health-parliament",
+      "service-health-developer-current",
+      "service-health-developer-submission",
+      "service-health-implementation-study",
+      "service-health-privacy",
+      "service-health-local-study",
+      "service-health-practice-guidelines",
+      "service-health-report"
+    ],
+    "sourceCount": 9,
+    "accountabilityDimensions": 12,
+    "dossier": "data-room/dossiers/service-esanjeevani.md",
+    "scope": "Twelve accountability dimensions, all retained even when unverified. A case file, not a word-aligned legal redline."
+  },
+  {
+    "id": "service-mahacrimeos",
+    "family": "service",
+    "label": "MahaCrimeOS investigation support",
+    "title": "MahaCrimeOS investigation support: decision-accountability case",
+    "kind": "Public-service case",
+    "contribution": true,
+    "sourceIds": [
+      "service-police-summary",
+      "service-police-vendor",
+      "service-police-reporting"
+    ],
+    "sourceCount": 3,
+    "accountabilityDimensions": 12,
+    "dossier": "data-room/dossiers/service-mahacrimeos.md",
+    "scope": "Twelve accountability dimensions, all retained even when unverified. A case file, not a word-aligned legal redline."
+  }
+]

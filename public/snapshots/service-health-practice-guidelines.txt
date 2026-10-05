@@ -1,0 +1,10 @@
+Selected excerpt snapshot, not a full document archive.
+Telemedicine Practice Guidelines
+URL: https://esanjeevani.mohfw.gov.in/assets/guidelines/Telemedicine_Practice_Guidelines.pdf
+Source date: 25 March 2020; later-current status not exhaustively certified; checked 5 October 2026.
+
+Technology platforms based on Artificial Intelligence/Machine Learning are not allowed to counsel the patients or prescribe any medicines to a patient.
+
+the final prescription or counseling has to be directly delivered by the RMP
+
+Technology Platform must ensure that there is a proper mechanism in place to address any queries or grievances that the end-customer may have

@@ -8,18 +8,25 @@ import raw from './data/policy.json';
 import expansion from './data/expansion.json';
 import implementation from './data/implementation.json';
 import publicServices from './data/public-services.json';
+import contextSources from './data/context.json';
+import inventory from '../public/data-room/manifest.json';
+import recordCoverage from '../public/data-room/coverage.json';
+import gapRegister from '../public/data-room/gaps.json';
 import type { Dataset, Notebook, Provision, Review } from '../shared/schema';
 import { ACT_URL, CORRECTION_URL, DRAFT_URL, FINAL_URL, REPO, createBrief, csv, accountabilityCsv, filterProvisions, validateNotebook, correctionDraft,mergeCollections,evidenceLinks } from './lib.mjs';
 import './style.css';
 
-const data=mergeCollections(raw,expansion,implementation,publicServices) as Dataset;
+const data=mergeCollections(raw,expansion,implementation,publicServices,contextSources) as Dataset;
 const families=data.families!;
-const icons={desk:BookOpen,compare:GitCompareArrows,sources:FileText,corrections:ListChecks,brief:NotebookPen,contributions:FileText,implementation:ListChecks,systems:ShieldCheck,method:ShieldCheck};
+const icons={desk:BookOpen,compare:GitCompareArrows,sources:FileText,corrections:ListChecks,brief:NotebookPen,contributions:FileText,implementation:ListChecks,systems:ShieldCheck,data:Download,method:ShieldCheck};
 const contributions=data.provisions.filter(p=>p.contribution);
 const sourceFamily=(id:string)=>id.startsWith('service-')?'service':id.startsWith('impl-')?'impl':id.startsWith('sgi-')?'sgi':id.startsWith('aig-')?'aig':'dpdp';
 function FamilySelect({value,onChange,testid}:{value:string,onChange:(s:string)=>void,testid:string}){return <label className="family-selector">Evidence collection<select value={value} onChange={e=>onChange(e.target.value)} data-testid={testid}><option value="All">All five collections</option>{families.map(f=><option key={f.id} value={f.id}>{f.shortTitle}</option>)}</select></label>}
 function download(name:string, text:string, type='text/plain;charset=utf-8') {
-  const url=URL.createObjectURL(new Blob([text],{type}));
+  downloadBlob(name,new Blob([text],{type}));
+}
+function downloadBlob(name:string, blob:Blob) {
+  const url=URL.createObjectURL(blob);
   const a=document.createElement('a');a.href=url;a.download=name;document.body.append(a);a.click();a.remove();
   setTimeout(()=>URL.revokeObjectURL(url),3000);
 }
@@ -42,9 +49,9 @@ function App(){
       event.preventDefault();
       fetch(anchor.href).then(async response=>{
         if(!response.ok)throw Error('File unavailable');
-        const text=await response.text();
+        const blob=await response.blob();
         const name=new URL(anchor.href).pathname.split('/').pop()||'research.txt';
-        download(name,text,response.headers.get('content-type')||'text/plain;charset=utf-8');
+        downloadBlob(name,blob);
         setNotice('Research file downloaded.');
       }).catch(()=>setNotice('Download failed. Please retry or retrieve the file from the repository.'));
     };
@@ -63,8 +70,8 @@ function App(){
   },[report]);
   const toggle=(id:string)=>setNotebook(n=>({...n,selected:n.selected.includes(id)?n.selected.filter(x=>x!==id):[...n.selected,id]}));
   function saveReview(review:Review){setNotebook(n=>({...n,reviews:[...n.reviews,review]}));setNotice('Review saved in this session. Export your notebook to keep it.')}
-  const section=location.startsWith('/systems')?'systems':location.startsWith('/implementation')?'implementation':location.startsWith('/compare')?'compare':location.startsWith('/sources')?'sources':location.startsWith('/corrections')?'corrections':location.startsWith('/brief')?'brief':location.startsWith('/contributions')?'contributions':location.startsWith('/method')?'method':'desk';
-  const nav=[['desk','/','The desk'],['compare','/compare/rule-8','Compare provisions'],['implementation','/implementation','Implementation ledger'],['systems','/systems','Public-service cases'],['contributions','/contributions',`${contributions.length} contributions`],['sources','/sources','Source library'],['corrections','/corrections','Corrections'],['brief','/brief','Your brief'],['method','/method','Method & limits']];
+  const section=location.startsWith('/data')?'data':location.startsWith('/systems')?'systems':location.startsWith('/implementation')?'implementation':location.startsWith('/compare')?'compare':location.startsWith('/sources')?'sources':location.startsWith('/corrections')?'corrections':location.startsWith('/brief')?'brief':location.startsWith('/contributions')?'contributions':location.startsWith('/method')?'method':'desk';
+  const nav=[['desk','/','The desk'],['compare','/compare/rule-8','Compare provisions'],['implementation','/implementation','Implementation ledger'],['systems','/systems','Public-service cases'],['data','/data','Complete data room'],['contributions','/contributions',`${contributions.length} contributions`],['sources','/sources','Source library'],['corrections','/corrections','Corrections'],['brief','/brief','Your brief'],['method','/method','Method & limits']];
   return <div className="shell">
     <a className="skip" href="#main" onClick={e=>{e.preventDefault();document.getElementById('main')?.focus()}}>Skip to content</a>
     <aside className="rail">
@@ -75,7 +82,7 @@ function App(){
       <div className="rail-bottom"><span className="status-dot"/>Curated, not a live feed<p>Five collections · India<br/>Expanded 05 Oct 2026</p><OutLink href={REPO} testid="link-repo">Open-source repository</OutLink></div>
     </aside>
     <div className="body">
-      <header className="topbar"><div className="crumb">Workspace <span>/</span> {nav.find(x=>x[0]===section)?.[2]}</div><div className="top-actions"><span className="edition">CURATED EDITION 04</span><button className="icon-button" aria-label={`Switch to ${theme==='light'?'dark':'light'} mode`} title="Change theme" data-testid="button-theme" onClick={()=>setTheme(theme==='light'?'dark':'light')}>{theme==='light'?<Moon size={18}/>:<Sun size={18}/>}</button><Link href="/brief" className="btn small" data-testid="button-open-brief"><NotebookPen size={16}/>Your brief <span>{notebook.selected.length}</span></Link></div></header>
+      <header className="topbar"><div className="crumb">Workspace <span>/</span> {nav.find(x=>x[0]===section)?.[2]}</div><div className="top-actions"><span className="edition">CURATED EDITION 05</span><button className="icon-button" aria-label={`Switch to ${theme==='light'?'dark':'light'} mode`} title="Change theme" data-testid="button-theme" onClick={()=>setTheme(theme==='light'?'dark':'light')}>{theme==='light'?<Moon size={18}/>:<Sun size={18}/>}</button><Link href="/brief" className="btn small" data-testid="button-open-brief"><NotebookPen size={16}/>Your brief <span>{notebook.selected.length}</span></Link></div></header>
       {notice&&<div className="notice" role="status" data-testid="status-notice">{notice}<button aria-label="Dismiss notification" data-testid="button-dismiss-notice" onClick={()=>setNotice('')}><X size={16}/></button></div>}
       <main id="main" tabIndex={-1}>
       <Switch>
@@ -86,6 +93,7 @@ function App(){
         <Route path="/contributions"><Contributions/></Route>
         <Route path="/implementation"><Implementation/></Route>
         <Route path="/systems"><Systems/></Route>
+        <Route path="/data"><DataRoom/></Route>
         <Route path="/brief"><Brief notebook={notebook} setNotebook={setNotebook} notify={setNotice}/></Route>
         <Route path="/method"><Method/></Route>
         <Route><div className="page"><h1>This page is not in the collection.</h1><p>Your notebook is still here. Return to the desk to choose a provision.</p><Link className="btn primary" href="/">Return to the desk</Link></div></Route>
@@ -97,6 +105,29 @@ function App(){
       <label htmlFor="correction-reason">What should change?</label><textarea id="correction-reason" data-testid="input-correction-reason" required maxLength={2000} value={reason} onChange={e=>setReason(e.target.value)}/><label htmlFor="correction-evidence">Supporting evidence URL</label><input id="correction-evidence" data-testid="input-correction-evidence" type="url" required value={evidence} onChange={e=>setEvidence(e.target.value)}/>{reportError&&<p className="error" role="alert">{reportError}</p>}<button className="btn primary" data-testid="button-download-correction"><Download size={16}/>Download proposal</button></form><OutLink href={`${REPO}/issues/new`} testid="link-correction-issue">Open GitHub to submit after review</OutLink></dialog>}
     {report&&<div className="scrim" onClick={()=>setReport(null)}/>}
   </div>;
+}
+function DataRoom(){
+  const [family,setFamily]=useState('All'),[query,setQuery]=useState(''),[kind,setKind]=useState('All');
+  const rows=recordCoverage.filter(p=>(family==='All'||p.family===family)&&`${p.id} ${p.label} ${p.title} ${p.kind}`.toLowerCase().includes(query.toLowerCase().trim()));
+  const gaps=gapRegister.filter(g=>(family==='All'||g.family===family)&&(kind==='All'||g.kind===kind)&&`${g.recordId} ${g.label} ${g.dimension} ${g.status} ${g.statement}`.toLowerCase().includes(query.toLowerCase().trim()));
+  return <div className="page data-room">
+    <PageHead kicker="ONE INVENTORY · EVERY STORED RECORD · EXPLICIT GAPS" title="The complete curated data room" description="All 72 record dossiers, all source snapshots, original comparison registers and research packages in one place. Inspect the inventory, export the evidence, and see what has not been verified."/>
+    <div className="actions"><a className="btn primary" href="./data-room/complete-data.zip" download data-testid="download-complete-archive-top">Download the complete data · ZIP<Download size={16}/></a></div>
+    <div className="bottom-note" data-testid="data-scope-note"><ShieldCheck size={20}/><div><h3>Complete within the stated corpus, not complete knowledge of India.</h3><p>Every stored record is included. Full copyrighted articles, original PDF binaries and private notebook notes are not; original URLs and unresolved evidence remain attached.</p></div></div>
+    <div className="coverage-strip"><div><strong>{inventory.counts.records}</strong><p>Full record dossiers</p></div><div><strong>{inventory.counts.sources}</strong><p>Source snapshots</p></div><div><strong>{inventory.counts.evidenceItems}</strong><p>Linked evidence items</p></div><div><strong>{inventory.counts.corrections}</strong><p>Directed corrections</p></div></div>
+    <section className="data-downloads"><h2>Download the entire curated corpus</h2><p>The ZIP contains {inventory.files.length} checksummed payload files plus its manifest and manifest checksum. Dossiers preserve every stored record field; 72 dossiers are not 72 claims of substantive novelty.</p><div className="actions"><a className="btn primary" href="./data-room/complete-data.zip" download data-testid="download-complete-archive">Complete data bundle · ZIP<Download size={16}/></a><a className="btn" href="./data-room/archive-sha256.txt" download data-testid="download-archive-checksum">ZIP checksum</a><a href="./data-room/manifest.json" download data-testid="download-data-manifest">Per-file manifest</a><a href="./research/data-completeness-study.md" download data-testid="download-data-study">Completeness investigation</a></div><details><summary data-testid="details-data-integrity">What the integrity checks establish</summary><p>{inventory.integrityScope} The manifest omits its own recursive hash; the separate manifest checksum and ZIP checksum cover those files. Original-source authenticity and operational accuracy require separate verification.</p></details></section>
+    <section className="data-registers"><h2>Individual registers and research</h2><div className="register-grid">{[
+      ['All structured data','./combined-data.json','data-json'],['All record dossiers · Markdown','./data-room/all-record-dossiers.md','all-dossiers'],
+      ['Record fields · JSONL','./data-room/records.jsonl','record-jsonl'],['Record register · CSV','./data-room/records.csv','record-csv'],
+      ['Coverage register','./data-room/coverage.csv','coverage-register'],['Source catalogue','./data-room/sources.csv','source-catalogue'],
+      ['Exact evidence excerpts','./data-room/evidence-items.csv','evidence-register'],['Corrections register','./data-room/corrections.csv','correction-register'],
+      ['Limits and evidence gaps','./data-room/gaps.csv','gap-register'],['Original DPDP raw comparison','./data-room/raw-provision-comparison.jsonl','raw-comparison'],
+      ['Original DPDP coverage','./data-room/raw-provision-coverage.csv','raw-coverage'],['Follow-up retrieval log','./research/completeness-retrieval.csv','retrieval-log']
+    ].map(([title,url,id])=><a key={id} href={url} download data-testid={`download-${id}`}><FileText size={18}/><span>{title}</span><Download size={14}/></a>)}</div></section>
+    <div className="collection-tools"><FamilySelect value={family} onChange={setFamily} testid="select-data-family"/><label className="family-selector">Search records and gaps<input data-testid="input-data-search" value={query} onChange={e=>setQuery(e.target.value)} placeholder="Record, dimension or missing document…"/></label><button className="text-link" data-testid="button-data-reset" onClick={()=>{setFamily('All');setQuery('');setKind('All')}}>Reset</button></div>
+    <section><h2>Every stored record</h2><p data-testid="text-data-record-count">{rows.length} records shown · {inventory.counts.records} total</p><div className="data-records">{rows.map(p=><article key={p.id} data-testid={`data-record-${p.id}`}><div><Badge>{p.family}</Badge><h3>{p.label}</h3><p className="tiny">{p.kind} · {p.sourceCount} source records · {p.contribution?'Selected contribution':'Coverage record, not counted as a contribution'}</p></div><div className="actions"><Link href={`/compare/${p.id}`} data-testid={`inspect-data-${p.id}`}>Inspect</Link><a href={`./${p.dossier}`} download data-testid={`download-dossier-${p.id}`}>Full dossier<Download size={14}/></a></div></article>)}</div>{!rows.length&&<p className="empty" data-testid="data-record-empty">No record titles match. Evidence gaps below search their own full text.</p>}</section>
+    <section className="gap-register"><h2>Limits, unresolved questions and records still needed</h2><p>These are evidence limitations, not risk scores or findings of non-compliance. Some partial fields retain supporting records while a narrower answer remains unknown.</p><label className="family-selector">Entry kind<select value={kind} data-testid="select-gap-kind" onChange={e=>setKind(e.target.value)}><option value="All">All entry kinds</option>{[...new Set(gapRegister.map(g=>g.kind))].map(s=><option key={s}>{s}</option>)}</select></label><p data-testid="text-data-gap-count">{gaps.length} entries shown · {inventory.counts.gapRows} total</p><div>{gaps.map(g=><article className="accountability-field" key={g.id} data-testid={`gap-${g.id}`}><header><h3>{g.label} · {g.dimension}</h3><Badge>{g.status}</Badge></header><p>{g.statement}</p><div className="actions"><Link href={`/compare/${g.recordId}`}>Inspect source context</Link>{[...new Set(g.sourceUrls)].map((u,i)=><OutLink key={u} href={u}>Supporting record {i+1}</OutLink>)}</div>{!!g.requestChecklist.length&&<details><summary>Records to verify</summary><ul>{g.requestChecklist.map(x=><li key={x}>{x}</li>)}</ul></details>}</article>)}</div>{!gaps.length&&<p className="empty" data-testid="data-gap-empty">No matching limitation entries. This filter result is not proof of complete evidence.</p>}</section>
+  </div>
 }
 function Systems(){
   const records=data.provisions.filter(p=>p.publicServiceCase);
@@ -201,7 +232,7 @@ function Compare({id,notebook,toggle,saveReview,report}:{id:string,notebook:Note
 function Sources(){
   const [family,setFamily]=useState('All');
   const shown=data.sources.filter(s=>family==='All'||sourceFamily(s.id)===family);
-  return <div className="page"><PageHead kicker="FIVE COLLECTIONS · FORTY SOURCE RECORDS" title="The source library" description="Law, recommendations, deployment self-reports, privacy terms, vendor accounts and journalism are not interchangeable. Inspect source type, date and lineage before interpretation."/>
+  return <div className="page"><PageHead kicker={`FIVE COLLECTIONS · ${data.sources.length} SOURCE RECORDS`} title="The source library" description="Law, recommendations, deployment self-reports, privacy terms, vendor accounts and journalism are not interchangeable. Inspect source type, date and lineage before interpretation."/>
   <div className="collection-tools"><FamilySelect value={family} onChange={setFamily} testid="select-source-family"/><p data-testid="text-source-count">{shown.length} sources shown</p><a href="./combined-data.json" download className="btn" data-testid="download-combined-data">Complete structured collection<Download size={16}/></a></div>
   {(family==='All'||family==='service')&&<div className="bottom-note"><ShieldCheck size={18}/><div><h3>Source types are not interchangeable.</h3><p>The public-service corpus includes official records, published privacy terms, vendor accounts and news reporting. Its snapshots are selected excerpts, not complete page archives or independent audits. Open the original before citing wider context.</p></div></div>}
   {(family==='All'||family==='dpdp')&&<div className="warning"><CircleHelp size={18}/><p><b>DPDP publication-date basis is unresolved here.</b> The final instrument is dated 13 November; MeitY lists publication on 14 November. Calculated commencement dates are not certified deadlines.</p></div>}
@@ -229,6 +260,7 @@ function Brief({notebook,setNotebook,notify}:{notebook:Notebook,setNotebook:Reac
   </div>
 }
 function Method(){return <div className="page method"><PageHead kicker="WHAT CAN BE VERIFIED, AND WHAT CANNOT" title="Method & limits" description="Confidence comes from a visible evidence chain, not a fluent summary. This is a bounded collection, with its limits kept alongside its findings."/>
+  <section><h2>Complete data, bounded scope</h2><p>The data room exposes all 72 full record dossiers, not only the 46 selected contribution briefs. All 46 source snapshots, correction records, evidence excerpts, raw DPDP registers and research packages are included in a checksummed archive. Its gap register retains partial, conflicting and unverified answers rather than hiding them.</p><p>This is complete within the five-collection corpus, not all Indian AI systems or every source document. Full copyrighted articles and original PDF binaries are not mirrored. A study abstract is not a full validation dossier, historical guidance is not verified current compliance, and file hashes do not prove source truth.</p><Link href="/data" className="text-link" data-testid="link-method-data-room">Inspect the complete data room<ArrowUpRight size={16}/></Link></section>
   <section><h2>Public-service accountability</h2><p>The six case files retain all twelve dimensions, including procurement and funding, data flows, evaluation, overrides, privacy, complaints and current-status limits. Sources are typed: government self-reporting is not an operational audit, and vendor descriptions are not government procurement records. SUPACE is explicitly experimental in the reviewed official record, not claimed as a deployed judicial decision-maker.</p><p>Historical tenders are not automatically the terms of a later system. Draft court guidance is not enacted policy. A separate local health study's accuracy cannot be assigned to the national deployed CDSS. Conflicting pilot counts are retained. Each missing answer is bounded by the search log; no universal absence claim is made.</p><div className="stack-links"><a href="./research/public-service-study.md" download data-testid="download-method-service-study">Read the six-case investigation</a><a href="./research/public-service-search-log.md" download data-testid="download-method-service-scope">Review search scope and unresolved records</a><a href="./research/public-service-coverage.csv" download data-testid="download-method-service-coverage">All 72 accountability rows</a></div></section>
   <section><h2>Scope and coverage</h2>{families.map(f=><div key={f.id} className="method-family"><h3>{f.shortTitle}</h3><p>{f.coverage}</p><p>{f.scope}</p><Link href={`/compare/${f.defaultId}`} className="text-link">Inspect this collection<ArrowUpRight size={16}/></Link></div>)}<p>Five bounded collections: 56 policy-comparison units, ten implementation checkpoints and six public-service case files, with 46 briefs. SGI changes absent from the consultation use clearly labelled prior-law context. AI guidelines are thematic recommendation lineage, not a one-to-one legal redline. All snapshots are extracted text, not a certified bilingual audit.</p></section>
   <section><h2>Implementation is a separate evidence question</h2><p>The implementation ledger distinguishes formal constitution, official self-reporting, administrative process, programme activity and outcomes not established by the reviewed records. Its statuses are not readiness scores. Missing public evidence is not proof of absence, and conflicting wording may describe different stages.</p><p>Each checkpoint preserves multiple evidence items, a recommendation cross-reference and a records-to-verify checklist. No appointments, spending, operational capacity or tool performance are inferred merely from a call or announcement. Recruitment and EOI deadlines are historical, not advertised as open opportunities.</p><div className="stack-links"><a href="./research/implementation-study.md" download data-testid="download-method-implementation">Read the implementation study</a><a href="./research/implementation-search-log.md" download data-testid="download-method-search-log">Search scope and unresolved gaps</a></div></section>

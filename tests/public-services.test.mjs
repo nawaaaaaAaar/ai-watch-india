@@ -5,14 +5,14 @@ import {createHash} from 'node:crypto';
 import {mergeCollections,createBrief,csv,accountabilityCsv,filterProvisions,validateNotebook} from '../src/lib.mjs';
 const read=name=>JSON.parse(readFileSync(new URL(`../src/data/${name}.json`,import.meta.url)));
 const prior=['policy','expansion','implementation'].map(read), service=read('public-services');
-const data=mergeCollections(...prior,service), old=mergeCollections(...prior);
+const data=mergeCollections(...prior,service,read('context')), old=mergeCollections(...prior);
 const get=id=>service.provisions.find(p=>p.id===`service-${id}`);
 const brief=p=>createBrief(data,{version:1,title:'Case',selected:[p.id],reviews:[]},'5 October 2026');
 const norm=t=>t.replace(/\s+/g,' ').trim();
-test('edition four has five collections, 72 units, 46 briefs, 40 sources and ten corrections',()=>{
-  assert.equal(data.families.length,5);assert.equal(data.provisions.length,72);assert.equal(data.sources.length,40);
+test('current corpus has five collections, 72 units, 46 briefs, 46 sources and ten corrections',()=>{
+  assert.equal(data.families.length,5);assert.equal(data.provisions.length,72);assert.equal(data.sources.length,46);
   assert.equal(data.provisions.filter(p=>p.contribution).length,46);assert.equal(data.corrections.length,10);
-  assert.equal(new Set(data.provisions.map(p=>p.id)).size,72);assert.equal(new Set(data.sources.map(s=>s.id)).size,40);
+  assert.equal(new Set(data.provisions.map(p=>p.id)).size,72);assert.equal(new Set(data.sources.map(s=>s.id)).size,46);
 });
 test('all prior 66 records and 25 sources remain byte-value equivalent',()=>{
   assert.deepEqual(data.provisions.slice(0,66),old.provisions);assert.deepEqual(data.sources.slice(0,25),old.sources);
@@ -35,7 +35,8 @@ test('evidence statuses are bounded and missing dimension values are explicit',(
     if(f.status==='Documented')assert.ok(f.evidence.length);
   }
 });
-test('fifteen selected snapshots have matching hashes and source type labels',()=>{
+test('twenty selected snapshots have matching hashes and source type labels',()=>{
+  assert.equal(service.sources.length,20);
   for(const s of service.sources){
     const bytes=readFileSync(new URL('../public/'+s.snapshot,import.meta.url));
     assert.equal(createHash('sha256').update(bytes).digest('hex'),s.hash);

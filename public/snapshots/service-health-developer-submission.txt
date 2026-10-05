@@ -1,0 +1,8 @@
+Selected excerpt snapshot, not a full document archive.
+Wadhwani AI eSanjeevani developer submission
+URL: https://solve.mit.edu/solutions/73043
+Source date: 2023 programme context; page date not certified; checked 5 October 2026.
+
+We also collaborate closely with C-DAC, the technology service provider for the eSanjeevani platform, to ensure that our code is easy to integrate with the existing platform and meets the high standards required for deployment in public healthcare.
+
+The SIPF uses a rule-based logical workflow to enable the accurate collection of chief complaints by engaging patients with relevant questions.

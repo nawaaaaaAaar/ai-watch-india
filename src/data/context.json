@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "id": "context-dpdp-act",
+      "title": "Digital Personal Data Protection Act, 2023",
+      "instrument": "Parent statute",
+      "documentDate": "11 August 2023; Gazette code dated 12 August",
+      "publication": "Gazette statute, not a certification of all current commencement or court status",
+      "status": "Parent statute; contextual source",
+      "url": "https://www.meity.gov.in/static/uploads/2024/06/2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf",
+      "snapshot": "snapshots/context-dpdp-act.txt",
+      "hash": "4ec8b7bba359d6c2a8d10e51a4b2886ac9f89c31dd194b790a535cf583e42b29",
+      "hashType": "SHA-256 of extracted UTF-8 text, not PDF bytes",
+      "sourceType": "Official statute",
+      "snapshotKind": "Extracted source text",
+      "checked": "5 October 2026",
+      "description": "The parent Act linked by the DPDP briefs is now included as extracted text. This is a contextual document, not an additional comparison or contribution."
+    }
+  ]
+}

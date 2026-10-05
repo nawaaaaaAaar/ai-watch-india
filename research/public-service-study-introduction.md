@@ -6,9 +6,9 @@ Six bounded investigations, all twelve accountability dimensions per case. Check
 
 This edition extends the policy-change and implementation desk to systems that can affect access to examinations, handling of complaints, access to court judgments, judicial research, clinical consultations and policing. It includes six substantive case briefs, not 72 inflated “contributions”: the 72 rows are a completeness register for the six investigations.
 
-The new collection joins 56 policy comparisons and ten institutional implementation checkpoints. The complete desk contains five collections, 72 evidence units, 46 research briefs, 40 source records and ten directed English corrections. These are repository inventory counts, not counts of operational systems or independently validated successes.
+The collection joins 56 policy comparisons and ten institutional implementation checkpoints. After the edition 05 completeness follow-up, the complete desk contains five collections, 72 evidence units, 46 research briefs, 46 source records and ten directed English corrections. These are repository inventory counts, not counts of operational systems or independently validated successes.
 
-The public-service work adds fifteen selected source records and reuses one earlier government record. Government self-reporting, tenders, research briefs, privacy terms, vendor accounts and news reporting are distinguished. A source is evidence of what it states; it is not automatically proof of the stated outcome.
+The public-service corpus contains twenty selected source records and reuses one earlier government record. A separate extracted DPDP parent Act is included as statutory context, not another policy comparison. Government self-reporting, tenders, research abstracts, developer accounts, historical guidance, privacy terms, vendor accounts and news reporting are distinguished. A source is evidence of what it states; it is not automatically proof of the stated outcome.
 
 ## Consequential findings
 
@@ -46,11 +46,19 @@ The June instrument retained here is a consultation draft proposing an assistive
 
 SUPACE is deliberately included as an experimental counterexample. The contribution prevents designed capability from being presented as routine deployed judicial decision-making; later routine use and a later final instrument were not verified, which is not proof neither exists.
 
-### Clinical support: usage and a separate local benchmark do not validate the national system
+### Clinical support: a national study abstract is useful, but is not a complete validation dossier
 
 The parliamentary response describes symptom capture, specialist referral through a rule engine and differential diagnosis supplied to the hub doctor, with integration in April 2023 and reported usage through July 2026. [The 7 August parliamentary answer](https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps) supports clinician-assistance and usage claims, not autonomous diagnosis or national diagnostic accuracy.
 
 A local ICMR research brief cites 90% validation using 4,401 local records and recommends integration into eSanjeevani. [The local study brief](https://nihrjodhpur.icmr.org.in/uploads/policybriefs/1782386587_1.PolicyBrief_Telemedicine.pdf) therefore cannot supply the existing national deployed CDSS's accuracy score.
+
+The completeness follow-up located a national implementation-study abstract describing a knowledge-based framework, expert-clinician validation and implementation in eSanjeevani 2.0. The retrieved [DOI abstract and declarations](https://doi.org/10.1101/2025.11.22.25340800) are not the full manuscript, which could not be retrieved; they do not establish independent numeric error rates, subgroup performance or later operational safety.
+
+The same study declares that the study received no funding. That statement concerns the study, not the cost of development, hosting or national deployment. [Study funding declaration](https://doi.org/10.1101/2025.11.22.25340800)
+
+The developer describes integration since March 2023, whereas the parliamentary response says April 2023. The ledger retains the difference without assuming the dates identify the same component or milestone. [Developer healthcare account](https://www.wadhwaniai.org/impact/healthcare/) and [parliamentary answer](https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps)
+
+Historical telemedicine guidelines prohibit AI/ML platforms from independently counselling or prescribing and require a platform grievance mechanism. These provisions establish historical guidance, not verification of today's CDSS override implementation or a working patient complaint form. [Telemedicine Practice Guidelines, sections 5.4 and 5.6](https://esanjeevani.mohfw.gov.in/assets/guidelines/Telemedicine_Practice_Guidelines.pdf)
 
 The published privacy terms discuss C-DAC-managed storage and retention tied to account existence and interventions, while excluding treatment-generated medical reports/diagnoses from that clause. [The eSanjeevani privacy policy](https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf) does not justify one universal retention period.
 

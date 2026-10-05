@@ -105,6 +105,24 @@ q["pn"]=source("service-police-reporting","Indian Express MahaCrimeOS reporting"
  "On December 12, 2025, the Maharashtra government and Microsoft announced that the tool would be expanded from Nagpur’s 25 police stations to all 1,100 police stations across the state.",
  "This was successfully deployed as a pilot across 23 police stations in Nagpur Rural, including the cybercrime police stations (CCPS)."])
 
+q["hi"]=source("service-health-implementation-study","National eSanjeevani CDSS implementation-study abstract","https://doi.org/10.1101/2025.11.22.25340800","DOI version 2025.11.22; exact publication day not certified","Research abstract; full manuscript not reviewed",[
+ "This study, conducted between 2022–2024 by an AI Centre of Excellence of the Government of India, focused on developing, validating, and implementing a knowledge-based CDSS symptom entry Physician Assistance Form (PAF) within eSanjeevani—India’s national teleconsultation platform.",
+ "Expert clinicians validated the symptom repository, logic flow, and AI-generated diagnoses.",
+ "The validated CDSS was implemented in eSanjeevani 2.0, providing real-time differential diagnosis and departmental recommendations during assisted and non-assisted teleconsultations.",
+ "This study did not receive any funding."])
+q["hs"]=source("service-health-developer-submission","Wadhwani AI eSanjeevani developer submission","https://solve.mit.edu/solutions/73043","2023 programme context; page date not certified","Developer account",[
+ "We also collaborate closely with C-DAC, the technology service provider for the eSanjeevani platform, to ensure that our code is easy to integrate with the existing platform and meets the high standards required for deployment in public healthcare.",
+ "The SIPF uses a rule-based logical workflow to enable the accurate collection of chief complaints by engaging patients with relevant questions."])
+q["hc"]=source("service-health-developer-current","Wadhwani AI healthcare programme page","https://www.wadhwaniai.org/impact/healthcare/","Undated page; checked 5 October 2026","Developer account",[
+ "CDSS structures telemedicine patient data via eSanjeevani, suggesting diagnoses and treatments in real time. Integrated since March 2023, it supports 350,000 daily consultations across 31 conditions."])
+q["jg"]=source("service-translation-guidelines","Court translation scheme and Supreme Court AI Committee guidelines","https://cdnbbsr.s3waas.gov.in/s3ec03ac73001b1d44f4925449ce09d9f5/uploads/2023/09/2023092013.pdf","Guidelines dated 21 August 2023; historical circulated annexure","Court administrative guidance",[
+ "Care should be taken by verifying the correctness of translation through the translators/reviewers (retired or in-service translators or retired judicial officers).",
+ "Amounts required for paying reasonable remuneration to the panel of translators shall be from grants sought for by the High Court and sanctioned by the State Government."])
+q["tg"]=source("service-health-practice-guidelines","Telemedicine Practice Guidelines","https://esanjeevani.mohfw.gov.in/assets/guidelines/Telemedicine_Practice_Guidelines.pdf","25 March 2020; later-current status not exhaustively certified","Professional practice guidelines; historical text",[
+ "Technology platforms based on Artificial Intelligence/Machine Learning are not allowed to counsel the patients or prescribe any medicines to a patient.",
+ "the final prescription or counseling has to be directly delivered by the RMP",
+ "Technology Platform must ensure that there is a proper mechanism in place to address any queries or grievances that the end-customer may have"])
+
 previous=json.loads((ROOT/"src"/"data"/"implementation.json").read_text())
 old_sources={s["id"]:s for s in previous["sources"]}
 for sid in ["impl-mission-status"]:
@@ -201,6 +219,8 @@ v1=E("service-translation-vetting","v",0,"Allahabad notice, opening")
 v2=E("service-translation-vetting","v",1,"Allahabad notice, condition 2")
 v3=E("service-translation-vetting","v",2,"Allahabad notice, remuneration")
 v4=E("service-translation-vetting","v",3,"Allahabad notice, condition 4")
+jg1=E("service-translation-guidelines","jg",0,"Annexure A, guideline 4")
+jg2=E("service-translation-guidelines","jg",1,"Annexure A, guideline 10")
 case("service-suvas","SUVAS judicial translation","Judicial access","Official use reported",
  "The official backgrounder describes translations hosted on e-SCR and judicial translation committees; a separate Allahabad notice documents a local vetting workflow.",
  "A translation aids access to a judgment but is not an automated judicial determination. The local vetting record shows concrete human review, without establishing one nationwide SOP or a current universal correction route.",
@@ -209,10 +229,10 @@ case("service-suvas","SUVAS judicial translation","Judicial access","Official us
   field(DIMENSIONS[1],"Documented","Translation supports people reading court records; it is not itself a decision on the merits of a case.",j1,j2),
   field(DIMENSIONS[2],"Documented","The February official explanation reports use and hosting on e-SCR; current court-by-court coverage is not certified.",j1),
   missing(DIMENSIONS[3],"n.a. Software/model contract, procurement award and current supplier chain were not verified."),
-  field(DIMENSIONS[4],"Partial","The historical Allahabad notice quotes Re. 1 per English-source word for vetting; this is not a national software budget.",v3),
+  field(DIMENSIONS[4],"Partial","The historical Allahabad notice quotes Re. 1 per English-source word. Circulated scheme guidance describes High Court grants sanctioned by State Governments for translator remuneration; neither is a national software budget or verified expenditure.",v3,jg2),
   field(DIMENSIONS[5],"Partial","English judgments/orders are translated; model training, confidential-case exclusions and processor access were not verified.",j1),
   missing(DIMENSIONS[6],"n.a. Independent legal-semantic error rates by language, case type and model version were not verified."),
-  field(DIMENSIONS[7],"Documented","Translation committees are described, and the Allahabad notice requires vetting/correction and certification. Coverage of that process is local, not universal.",j2,v2),
+  field(DIMENSIONS[7],"Documented","Translation committees are described; circulated 2023 scheme guidance requires correctness checks by translators/reviewers. Allahabad's separate certification process is local, not universal. Current implementation across all courts is not audited.",j2,v2,jg1),
   missing(DIMENSIONS[8],"n.a. Tool-specific retention, confidential-document handling and training-data reuse rules were not verified."),
   field(DIMENSIONS[9],"Partial","The notice requires a disclaimer but does not establish a national translation-error appeal route.",v4),
   field(DIMENSIONS[10],"Documented","The official explanation reports translated judgments on e-SCR; the local notice exposes a review mechanism.",j1,v1),
@@ -254,21 +274,31 @@ h7=E("service-health-privacy","hv",2,"Privacy policy clause 3(b)")
 h8=E("service-health-privacy","hv",3,"Privacy policy clause 10")
 h9=E("service-health-local-study","he",1,"Local study recommendation, integration proposal")
 h10=E("service-health-report","hr",1,"Programme utilisation study, concluding recommendations")
+h11=E("service-health-implementation-study","hi",0,"Retrieved research abstract, methods")
+h12=E("service-health-implementation-study","hi",1,"Retrieved research abstract, phase 2")
+h13=E("service-health-implementation-study","hi",2,"Retrieved research abstract, phase 3")
+h14=E("service-health-implementation-study","hi",3,"Research funding declaration, not deployment budget")
+h15=E("service-health-developer-submission","hs",0,"Developer submission, C-DAC collaboration")
+h16=E("service-health-developer-submission","hs",1,"Developer submission, rule-based form")
+h17=E("service-health-developer-current","hc",0,"Developer programme page, March integration claim")
+h18=E("service-health-practice-guidelines","tg",0,"Practice Guidelines section 5.4, AI/ML platforms")
+h19=E("service-health-practice-guidelines","tg",1,"Practice Guidelines section 5.4, RMP final delivery")
+h20=E("service-health-practice-guidelines","tg",2,"Practice Guidelines section 5.6, grievance mechanism")
 case("service-esanjeevani","eSanjeevani clinical support","Public healthcare","Official integration reported",
  "Government reporting describes an AI-labelled CDSS integrated in April 2023, with specialist recommendations through a rule engine and differential diagnoses supplied to a doctor.",
  "This is clinician support, not evidence of an autonomous diagnosis. Consultation counts are not safety or diagnostic-accuracy results, and a local CDSS study proposing later integration cannot validate the existing national component.",
- "Not clinical advice. The records do not establish every CDSS component is machine learning. The privacy policy is undated, and its medical-output carve-out must not be omitted when quoting retention.",
+ "Not clinical advice. Components are not all established as machine learning. The study abstract was retrieved, but full manuscript access was blocked; no independent numeric accuracy is assigned. March/April integration wording is retained. The undated privacy policy's treatment-output carve-out matters; historical practice guidance is not certification of current compliance.",
  [field(DIMENSIONS[0],"Documented","C-DAC Mohali developed the national platform; the parliamentary record describes CDSS functionality.",h1,h2),
   field(DIMENSIONS[1],"Documented","Possible diseases and specialist referral support are presented to a doctor at the hub end, affecting patient consultations.",h2,h3),
-  field(DIMENSIONS[2],"Documented","The response dates integration to April 2023 and reports usage through July 2026.",h4),
-  field(DIMENSIONS[3],"Partial","The platform developer is identified, but CDSS component suppliers, model provenance and procurement awards were not verified.",h1),
-  missing(DIMENSIONS[4],"n.a. CDSS-specific contract, budget, licensing and maintenance expenditure were not verified."),
-  field(DIMENSIONS[5],"Documented","Patient assistance forms collect symptoms; the privacy policy lists identifying and health records stored on a C-DAC-managed server.",h2,h5),
-  field(DIMENSIONS[6],"Not verified","n.a. National deployed-CDSS accuracy was not verified. A separate local 4,401-record study recommends integration into eSanjeevani; its 90% figure is not the existing national system's score.",h9),
-  field(DIMENSIONS[7],"Partial","Differential diagnosis is supplied to the hub doctor. Mandatory override, escalation and safety-monitoring procedures were not verified.",h3),
+  field(DIMENSIONS[2],"Conflicting sources","The parliamentary response dates integration to April 2023 and usage through July 2026; the developer page says March 2023. These descriptions may refer to different components/stages; they are not silently reconciled.",h4,h17),
+  field(DIMENSIONS[3],"Partial","C-DAC is the platform developer; Wadhwani AI describes collaboration on the CDSS in a developer submission. Executed component contracts, production version and full supplier chain were not verified.",h1,h15),
+  field(DIMENSIONS[4],"Partial","The retrieved study declares no funding for that study; this is not a zero-cost deployment claim. CDSS-specific contract, licensing, budget and maintenance expenditure remain unverified.",h14),
+  field(DIMENSIONS[5],"Documented","Patient assistance forms collect symptoms; the privacy policy identifies a C-DAC-managed server. Developer and study descriptions identify a rule-based/knowledge-based form; all deployed components are not thereby identified.",h2,h5,h11,h16),
+  field(DIMENSIONS[6],"Partial","A national implementation-study abstract reports expert-clinician validation and implementation, but independent numeric error rates were not established in the retrieved text and full manuscript access was blocked. A separate local 4,401-record study's 90% figure is not the existing national system's score.",h11,h12,h13,h9),
+  field(DIMENSIONS[7],"Partial","Differential diagnosis is supplied to a hub doctor. Historical practice guidance reserves final prescribing/counselling to an RMP and prohibits AI/ML platforms from independently doing it; actual override, escalation and safety-monitoring SOPs remain unverified.",h3,h18,h19),
   field(DIMENSIONS[8],"Partial","The policy ties some data retention to account existence and further interventions, but excludes medical reports/diagnoses generated in treatment from that clause; no single universal retention period follows.",h6,h7),
-  field(DIMENSIONS[9],"Partial","The privacy policy provides a contact for privacy concerns; a CDSS clinical-error review/remedy procedure was not verified.",h8),
-  field(DIMENSIONS[10],"Partial","Developer, parliamentary and privacy records are public; no national CDSS model card or clinical validation dossier was verified.",h1,h4,h8),
+  field(DIMENSIONS[9],"Partial","The privacy policy has a privacy contact, and historical practice guidance calls for platform grievance mechanisms. A functioning current support form or CDSS clinical-error review/remedy procedure was not verified; the platform support page was blocked during this review.",h8,h20),
+  field(DIMENSIONS[10],"Partial","Developer, parliamentary and privacy records and a national implementation-study abstract are public; no complete national CDSS model card or independent validation dossier was verified.",h1,h4,h8,h11),
   field(DIMENSIONS[11],"Partial","The dated response supports reported integrated use, not independent safety certification or all October operational details. The programme utilisation study raises privacy and access recommendations, but is not a deployed-CDSS accuracy study.",h4,h10)],
  ["Deployed CDSS version, component suppliers and intended use","Clinical validation, exclusions and subgroup safety evaluation",
   "Doctor override/escalation and adverse-event SOP","Applicable retention rules including treatment-generated records",
@@ -300,7 +330,7 @@ case("service-mahacrimeos","MahaCrimeOS investigation support","State policing",
   "Officer verification, override and audit-log SOP","Independent error/bias/workload evaluations",
   "Data-processing, hosting, retention and model-training terms","Subject/victim correction and grievance procedure"])
 
-assert len(cases)==6 and len(sources)==15
+assert len(cases)==6 and len(sources)==20
 family=dict(id="service",title="Public-service AI decision accountability",shortTitle="Public-service cases",
  status="Deployment evidence varies",
  description="Six case files and twelve accountability dimensions per case: procurement, evaluation, human review, privacy and redress.",
@@ -314,4 +344,4 @@ out=dict(families=[family],provisions=cases,sources=sources,corrections=[],dimen
 for target in [ROOT/"src"/"data"/"public-services.json",ROOT/"public"/"public-services-data.json"]:
     target.write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\n")
 print(ROOT/"src"/"data"/"public-services.json")
-print("Built six cases, 72 accountability dimension slots, six briefs and fifteen selected source snapshots.")
+print("Built six cases, 72 accountability dimension slots, six briefs and twenty selected source snapshots.")

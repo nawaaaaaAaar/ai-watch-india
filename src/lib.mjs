@@ -6,7 +6,7 @@ export const SGI_FINAL='https://www.meity.gov.in/static/uploads/2026/02/f55fe524
 export const SGI_CORRECTION='https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf';
 export const REPO = 'https://github.com/nawaaaaaAaar/ai-watch-india';
 export const ORIGINAL_CONTRIBUTIONS=['rule-8','rule-14','rule-13','schedule-fourth','rule-7','rule-11','schedule-second','rule-1','rule-6','rule-3','rule-15','rule-23'];
-export function mergeCollections(original, expansion, implementation, publicServices) {
+export function mergeCollections(original, expansion, implementation, publicServices, context) {
   const families=[{id:'dpdp',title:'Digital Personal Data Protection Rules, 2025',shortTitle:'DPDP Rules',
     status:'Notified rules + corrigenda',description:'Consultation draft to final rules, preserving correction and timing uncertainty.',
     coverage:'All 23 final rules and seven schedules; eight directed English corrections.',count:30,
@@ -15,7 +15,7 @@ export function mergeCollections(original, expansion, implementation, publicServ
       {date:'13 Nov 2025',title:'Notified final',detail:'13/14 Nov publication basis flagged'},
       {date:'10 Dec 2025',title:'Corrigenda',detail:'Eight substitutions; Gazette dated 11 Dec'}]},...expansion.families,...(implementation?.families||[]),...(publicServices?.families||[])];
   return {title:publicServices?'Five Indian policy and public-service evidence collections':implementation?'Four Indian digital-policy evidence collections':'Three Indian digital-policy collections',checked:'DPDP: 4 October 2026; expansion: 5 October 2026',
-    families,sources:[...original.sources,...expansion.sources,...(implementation?.sources||[]),...(publicServices?.sources||[])],
+    families,sources:[...original.sources,...expansion.sources,...(implementation?.sources||[]),...(publicServices?.sources||[]),...(context?.sources||[])],
     provisions:[...original.provisions.map(p=>({...p,familyId:'dpdp',comparisonKind:'Draft to final',contribution:ORIGINAL_CONTRIBUTIONS.includes(p.id)})),...expansion.provisions,...(implementation?.provisions||[]),...(publicServices?.provisions||[])],
     corrections:[...original.corrections.map(c=>({...c,familyId:'dpdp',sourceUrl:CORRECTION_URL})),...expansion.corrections]};
 }

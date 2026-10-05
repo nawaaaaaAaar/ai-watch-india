@@ -28,8 +28,9 @@ for(const p of implementation.provisions){
 }
 console.log('PASS: edition three has 66 evidence units, 40 briefs and 25 sources.');
 const service=JSON.parse(readFileSync(new URL('../src/data/public-services.json',import.meta.url)));
-const editionFour=mergeCollections(d,e,implementation,service);
-assert.equal(editionFour.provisions.length,72);assert.equal(editionFour.sources.length,40);
+const context=JSON.parse(readFileSync(new URL('../src/data/context.json',import.meta.url)));
+const editionFour=mergeCollections(d,e,implementation,service,context);
+assert.equal(editionFour.provisions.length,72);assert.equal(editionFour.sources.length,46);
 assert.equal(editionFour.provisions.filter(p=>p.contribution).length,46);
 assert.equal(editionFour.families.length,5);assert.equal(editionFour.corrections.length,10);
 for(const p of service.provisions){
@@ -37,4 +38,4 @@ for(const p of service.provisions){
   assert.deepEqual(p.caseFields.map(f=>f.name),service.dimensions);
   for(const f of p.caseFields){assert.ok(f.statement&&f.status);if(f.status==='Documented')assert.ok(f.evidence.length);}
 }
-console.log('PASS: edition four has 72 evidence units, 46 briefs, 40 sources and all 72 case dimension slots.');
+console.log('PASS: edition five has 72 evidence units, 46 briefs, 46 sources and all 72 case dimension slots.');

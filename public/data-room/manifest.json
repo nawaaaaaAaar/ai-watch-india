@@ -1,0 +1,1163 @@
+{
+  "title": "AI Watch India: Complete Curated Data Manifest",
+  "edition": "05",
+  "checked": "5 October 2026",
+  "counts": {
+    "families": 5,
+    "records": 72,
+    "briefs": 46,
+    "sources": 46,
+    "corrections": 10,
+    "accountabilityFields": 72,
+    "evidenceItems": 185,
+    "gapRows": 140
+  },
+  "files": [
+    {
+      "path": "briefs/aig-accountability.md",
+      "size": 3676,
+      "sha256": "d34120d1b16cf1a9525d15752092e0b27ab1f094e5cace48a9430d16438638c5"
+    },
+    {
+      "path": "briefs/aig-action-plan.md",
+      "size": 3382,
+      "sha256": "73161ecd3d763795e128e616871442575bac77df23248012bb4ebb8ae7f91314"
+    },
+    {
+      "path": "briefs/aig-contributions.md",
+      "size": 43717,
+      "sha256": "b496f94a3d68d0eafbbab158537d2a040ae3134918f12bfdc34fa3d36ee784e3"
+    },
+    {
+      "path": "briefs/aig-incidents.md",
+      "size": 3695,
+      "sha256": "3bdf25e499c192e15181207ebd4af2709b7d7bc92cb76b35f76048c521e1ad26"
+    },
+    {
+      "path": "briefs/aig-institutions.md",
+      "size": 3766,
+      "sha256": "747d609d2a8a944c6db72ed51eee49c0bfda842526c9c9eb55fc1e22d0b33c19"
+    },
+    {
+      "path": "briefs/aig-policy.md",
+      "size": 3785,
+      "sha256": "71b853690c3b936c397744e19ed786a3d05179120bf640568e038755f546aefa"
+    },
+    {
+      "path": "briefs/aig-principles.md",
+      "size": 17587,
+      "sha256": "83dab9b003159d9a15f8c8ca0ab93c0f8b2ee355f1c3ac6ead26e0480d9bd9e2"
+    },
+    {
+      "path": "briefs/aig-risk.md",
+      "size": 3726,
+      "sha256": "7affff44d0e324dc2d32af7a2961e696a0bfbf4abbc753b0544b6295a4779fa7"
+    },
+    {
+      "path": "briefs/aig-voluntary.md",
+      "size": 3820,
+      "sha256": "073c35ca36062db8532c6d990f51b8183908ca4c584a64d0870ba033b08c67ba"
+    },
+    {
+      "path": "briefs/all-contributions.md",
+      "size": 346117,
+      "sha256": "0519d72208d8784a2a12f78d904c979f7abdf315cfaecf5c1efcffc5443dc110"
+    },
+    {
+      "path": "briefs/dpdp-contributions.md",
+      "size": 64422,
+      "sha256": "648a673c1e33915e437f16e12235c7466e6261b3edd7445f4b2cc5b9a6b321a4"
+    },
+    {
+      "path": "briefs/impl-aigeg.md",
+      "size": 9786,
+      "sha256": "082e150754fa2d41fc430cdd9b2781980b54c2d401e09b6c8ebf0e3a7efb64f9"
+    },
+    {
+      "path": "briefs/impl-aisi-leadership.md",
+      "size": 8511,
+      "sha256": "b6628b4ceb1f7a6715bc25d0f887311b5fde74861dfc0e62bd556463526c7e02"
+    },
+    {
+      "path": "briefs/impl-aisi-partners.md",
+      "size": 9081,
+      "sha256": "3f496d89cb21e9586b37d142a8cb36348e6fdc59060ef7480e4beee317f6dcf4"
+    },
+    {
+      "path": "briefs/impl-aisi-status.md",
+      "size": 8647,
+      "sha256": "c638eac644be4c1e8734ab46b9f70b3fdeb77256ca96e6366ff0291653e2ec36"
+    },
+    {
+      "path": "briefs/impl-contributions.md",
+      "size": 92762,
+      "sha256": "f6ebdfe58b75ffef23d8948f172a598dffa7465afb8ac8aa2042bd02e4f65e06"
+    },
+    {
+      "path": "briefs/impl-incident-repository.md",
+      "size": 9388,
+      "sha256": "73ee6714072009bace3f201513ce91e9998385dd26392442b1cc84f745ea61f5"
+    },
+    {
+      "path": "briefs/impl-projects.md",
+      "size": 8967,
+      "sha256": "c4ba80a0daabec3af468d8a8189eaab422fe2cf375383025da317c86450d1e78"
+    },
+    {
+      "path": "briefs/impl-redress.md",
+      "size": 10485,
+      "sha256": "f3502b01259f2a1b77cdd828201a8dcfb3a1b2d9ac39c34acf711f19fc38cac2"
+    },
+    {
+      "path": "briefs/impl-tool-delivery.md",
+      "size": 9947,
+      "sha256": "b16c9405570cc3f28b61afd8daccedcf1b1d9aabf1985a54567e548cc4856256"
+    },
+    {
+      "path": "briefs/impl-tpec.md",
+      "size": 8911,
+      "sha256": "3050c62cc885d16510df1bf34165ca7b3a7f53c380b3cfd3cbb5a86fe37661cc"
+    },
+    {
+      "path": "briefs/impl-voluntary.md",
+      "size": 8801,
+      "sha256": "26caadbdcd3d42b9e5035dd7dcb2d572c0c04355b240c7e3c65dbf242ac892be"
+    },
+    {
+      "path": "briefs/rule-1.md",
+      "size": 5033,
+      "sha256": "28ab3035a41a687926c6b68b11767ba2b2f8adaa43240d0c098548f04838459c"
+    },
+    {
+      "path": "briefs/rule-11.md",
+      "size": 6275,
+      "sha256": "5e01b994335744c3bff23a7a3154e064d437d9ffcc113d134b84f09d35ed097b"
+    },
+    {
+      "path": "briefs/rule-13.md",
+      "size": 4959,
+      "sha256": "1fa24cc77e2468c24d384314b0f052fc06f0cf1e63bbe2b60a15705796fb5c9b"
+    },
+    {
+      "path": "briefs/rule-14.md",
+      "size": 4926,
+      "sha256": "3718db7bb6b37a5fc063eaf5a324976de7fbca385e1ddbf42f14bf74b9eb19b4"
+    },
+    {
+      "path": "briefs/rule-15.md",
+      "size": 5292,
+      "sha256": "48aeadf46017fa9ed87a41fc960fd3cef6f075b8adae9212ac98290d70fe9755"
+    },
+    {
+      "path": "briefs/rule-23.md",
+      "size": 6200,
+      "sha256": "e4aed87d07537e21f18104e0495472ae5984b05780aabc040ef4179bbbf430bf"
+    },
+    {
+      "path": "briefs/rule-3.md",
+      "size": 6132,
+      "sha256": "3e99debc82da566fad573c097d04ef2f5064914df892bbcaf84a18a81b72bca7"
+    },
+    {
+      "path": "briefs/rule-6.md",
+      "size": 6197,
+      "sha256": "a4a380e32ce9e099f9b47c6ca4428a4214f1eb3878e4a6a15a898e084a5006ce"
+    },
+    {
+      "path": "briefs/rule-7.md",
+      "size": 4220,
+      "sha256": "4cec56d1111f012bfda4522da54bd5d06b9005fd7329208a4562e3e5edbbd74b"
+    },
+    {
+      "path": "briefs/rule-8.md",
+      "size": 5169,
+      "sha256": "25d00d0bc20048e49ca78545559c10109bf0b83a63e1429dc8b8d3a0b0b3cd78"
+    },
+    {
+      "path": "briefs/schedule-fourth.md",
+      "size": 5607,
+      "sha256": "c5c4aa624ac04fb7ff9958723e246f82eff0277e97a9c8cf5181b474da25c5c0"
+    },
+    {
+      "path": "briefs/schedule-second.md",
+      "size": 4202,
+      "sha256": "57f40d408f0183ae6f0584e02b131e76bfececeaed40f72738bbca2555af205e"
+    },
+    {
+      "path": "briefs/service-contributions.md",
+      "size": 95801,
+      "sha256": "e9acadfe1f2ad3216c2fd211bdf26928349cc6b7bb12da8a56f2a6b986c31978"
+    },
+    {
+      "path": "briefs/service-cyberguard.md",
+      "size": 10807,
+      "sha256": "8e3cb960c1e1825daf91adc2cbff6f0846217d8460e1c8784a29f76150198885"
+    },
+    {
+      "path": "briefs/service-esanjeevani.md",
+      "size": 29782,
+      "sha256": "86d82dc04a520edd03ad23c51f9afaf0575448c0ca8f4c944fb06397fd98d5b1"
+    },
+    {
+      "path": "briefs/service-mahacrimeos.md",
+      "size": 13940,
+      "sha256": "0494d1231c9bb58244757fef2b4e4ec8b98e2471ba92b159e65ab380f919418c"
+    },
+    {
+      "path": "briefs/service-supace.md",
+      "size": 11229,
+      "sha256": "35fe938b4cdfdb68520f71493cb88d465f6e7515a11d2178506350f89974d6f7"
+    },
+    {
+      "path": "briefs/service-suvas.md",
+      "size": 15405,
+      "sha256": "87e247fdf568a2a8714bcfc1890b301bd8a11f9b1a8549aa8b0b009987cef5e4"
+    },
+    {
+      "path": "briefs/service-upsc.md",
+      "size": 14434,
+      "sha256": "4b3466c5e3800ecaaddad1bc4b2adc14f5730376443c3eddc626fa894e7724db"
+    },
+    {
+      "path": "briefs/sgi-contributions.md",
+      "size": 49945,
+      "sha256": "a13e24d5e7d37bd10da62293336bbf1abdb1cbf271b2fa759de95a9b54749ea0"
+    },
+    {
+      "path": "briefs/sgi-declarations.md",
+      "size": 4673,
+      "sha256": "694ac8593680f5bc0e5d0cb8f47be5678693c69cf478f37e75d5acdcc6099d9d"
+    },
+    {
+      "path": "briefs/sgi-definition.md",
+      "size": 5000,
+      "sha256": "7c477c20e9d68ffcf4146169b6ad3949a1727602c220335f108df347b11b8a4b"
+    },
+    {
+      "path": "briefs/sgi-exclusions.md",
+      "size": 5001,
+      "sha256": "639231d5a9806f3916c413b2c34af1555a0c19abe212b6a5ad602dbe915f36b9"
+    },
+    {
+      "path": "briefs/sgi-grievance.md",
+      "size": 4702,
+      "sha256": "9d06172226dca18d80067a2ba49dbaa582d56e2dbe00e8eb0644f1541a7474ff"
+    },
+    {
+      "path": "briefs/sgi-label.md",
+      "size": 5076,
+      "sha256": "8f95a4dacf0865fc93c3529bd09b0ba083cbf6a89e0947e47fb0abc6c42c9387"
+    },
+    {
+      "path": "briefs/sgi-prevention.md",
+      "size": 5258,
+      "sha256": "69154453aa3646293bd46760934ab9cd1cb541a35e09a2b83bdf6b1e5a18ad29"
+    },
+    {
+      "path": "briefs/sgi-proactive.md",
+      "size": 4694,
+      "sha256": "91ecc774efacf80a42757d59018d423e42b893d6272c908c78aff380a1af03ca"
+    },
+    {
+      "path": "briefs/sgi-provenance.md",
+      "size": 4986,
+      "sha256": "191a7b849ae7226344f1ae58d2a75d65d7bd1bfe0a3b28ef00e48e9bf476db94"
+    },
+    {
+      "path": "briefs/sgi-takedown.md",
+      "size": 4741,
+      "sha256": "c634caf6a5b1781997343982175a090d1f14633d64555fa554e0622442b4ebe4"
+    },
+    {
+      "path": "briefs/sgi-user-notices.md",
+      "size": 5588,
+      "sha256": "bf6187be3401eb55febb843f772ae8807ba1ad45c8245fa9754445283491bb94"
+    },
+    {
+      "path": "combined-data.json",
+      "size": 1241300,
+      "sha256": "3326859fbb38ee549dc6c627baf70339fe917339ab77d44a295005bec62954be"
+    },
+    {
+      "path": "context-data.json",
+      "size": 995,
+      "sha256": "7b008e652a1a10831795f2bb8fe31f39f282fd4f56259c3285b4d85deef001be"
+    },
+    {
+      "path": "data-room/README.md",
+      "size": 2146,
+      "sha256": "5b4dd5909e45e054da85f8a851f12aeb9214621181bac8a783266a4231ee2cec"
+    },
+    {
+      "path": "data-room/all-record-dossiers.md",
+      "size": 1675679,
+      "sha256": "eb255af33fdff65dca234b185e36060646f6df7c7ed0074201ae4e44522fe859"
+    },
+    {
+      "path": "data-room/corrections.csv",
+      "size": 2562,
+      "sha256": "519a39ac6b126f574596bae6b9c5368496460bcdad13ff82f92ccb663c7a0e7b"
+    },
+    {
+      "path": "data-room/coverage.csv",
+      "size": 19816,
+      "sha256": "b28cb28385ac8043db25f18b43650323991fd863a64b7ab03d0a158b2ab3ec92"
+    },
+    {
+      "path": "data-room/coverage.json",
+      "size": 35296,
+      "sha256": "3d57f861490d0d15a4a5d15ae750731c10fa77a454906c7eb6409c1842a46ec5"
+    },
+    {
+      "path": "data-room/dataset-summary.json",
+      "size": 195482,
+      "sha256": "14f15c78ba29c3487e2f39cbfef0baef61cab7a9987813577824705c8784c633"
+    },
+    {
+      "path": "data-room/dossiers/aig-accountability.md",
+      "size": 21758,
+      "sha256": "fa7c49b03c05bb7a5561740e43abfec86c413a6146e0b46315c6a1de1a7f9c80"
+    },
+    {
+      "path": "data-room/dossiers/aig-action-plan.md",
+      "size": 174270,
+      "sha256": "627986c165d52b5041dcfca3d566323ac24755237faa0d8fc505153ea0a79da6"
+    },
+    {
+      "path": "data-room/dossiers/aig-capacity.md",
+      "size": 11899,
+      "sha256": "4ad9c3a02c5e1a5db81b5d5f474c6a6e262e0327daa3a937086257304c859766"
+    },
+    {
+      "path": "data-room/dossiers/aig-incidents.md",
+      "size": 15643,
+      "sha256": "2edb2fdeb7154da5879394a0c5964e52c23c084977fce5404092d083c6279c41"
+    },
+    {
+      "path": "data-room/dossiers/aig-infrastructure.md",
+      "size": 55087,
+      "sha256": "601603a29d4c21ee186e92a7a08440c5719a86cb341c79f94ee06c6c723eaf1f"
+    },
+    {
+      "path": "data-room/dossiers/aig-institutions.md",
+      "size": 28886,
+      "sha256": "8f312df9db62bf3112516a0303d601a0169e12d9c45351d40990eb35b45e4d71"
+    },
+    {
+      "path": "data-room/dossiers/aig-policy.md",
+      "size": 38444,
+      "sha256": "11a39bea33e1545f4fdc88653d7748d15c8804e3bdf2cc9a3fb7e8871f48e625"
+    },
+    {
+      "path": "data-room/dossiers/aig-practical.md",
+      "size": 164465,
+      "sha256": "ad25551a72bb4b8796c8f9b8a23867a9242ac17aab65607fe50e763c4091a75e"
+    },
+    {
+      "path": "data-room/dossiers/aig-principles.md",
+      "size": 73873,
+      "sha256": "454de66bfd7d2a76fdaf50b6bf58f4426bf01f147b5fdb8a0d5be6e2c993d22d"
+    },
+    {
+      "path": "data-room/dossiers/aig-risk.md",
+      "size": 37420,
+      "sha256": "e2b4d050184c27cfd448fc90f97848c16cb97675e60f00020496b0cf08dbabac"
+    },
+    {
+      "path": "data-room/dossiers/aig-techno.md",
+      "size": 91606,
+      "sha256": "af2aff1f9c895e57dc85c4ba8297b92086aa1fd79d315ad3dc3ace73fe91579e"
+    },
+    {
+      "path": "data-room/dossiers/aig-voluntary.md",
+      "size": 14400,
+      "sha256": "23ea8bd109e250898686f8b30a9e28a9d04e2b870b0ece3d12bc811300fc1e80"
+    },
+    {
+      "path": "data-room/dossiers/impl-aigeg.md",
+      "size": 15451,
+      "sha256": "5936bb6dc9c4153ddeb9eb2f01516c4f494ddce0745b3823d5523a449a38ba28"
+    },
+    {
+      "path": "data-room/dossiers/impl-aisi-leadership.md",
+      "size": 13061,
+      "sha256": "8bd96ac49f88e2785f867089c979c8fdc192fccb52bd82128b5847f9009ad87f"
+    },
+    {
+      "path": "data-room/dossiers/impl-aisi-partners.md",
+      "size": 13976,
+      "sha256": "c9f15d1bb139d9c28127660df834b7f64c1e622bba8a05d4d62cd5dac4096d4e"
+    },
+    {
+      "path": "data-room/dossiers/impl-aisi-status.md",
+      "size": 13156,
+      "sha256": "aaead7e6adc600e1d279c48c1cc7253961d2ac6ae09ebac33dada93a8f1e9ffe"
+    },
+    {
+      "path": "data-room/dossiers/impl-incident-repository.md",
+      "size": 14682,
+      "sha256": "97dca8255b170ac7d103c5b35f932439f43bfc98be1bd16b2bf3ecdeca905638"
+    },
+    {
+      "path": "data-room/dossiers/impl-projects.md",
+      "size": 13968,
+      "sha256": "e62e4d0ba2f33227a965c78c6c360fd43532e0b808e02b2984e76c49cc2048fb"
+    },
+    {
+      "path": "data-room/dossiers/impl-redress.md",
+      "size": 17976,
+      "sha256": "1066c756c8f62dab810438d6643f9ad35d73c3676b0b600ed3a6298ec08b9be9"
+    },
+    {
+      "path": "data-room/dossiers/impl-tool-delivery.md",
+      "size": 17044,
+      "sha256": "5b69632317f3c258dd86157eb97dd0162cfdd8ecbf3a901f8d9c218f26a48cca"
+    },
+    {
+      "path": "data-room/dossiers/impl-tpec.md",
+      "size": 13727,
+      "sha256": "21398f185f0ed88c301a69f3a500bb7cda4a91d98cf03c12ce809c0043f4cd4e"
+    },
+    {
+      "path": "data-room/dossiers/impl-voluntary.md",
+      "size": 13367,
+      "sha256": "a5ad6be208c2a3b4726957d7a2933910634e9f96f96d8a858173781c59238e0c"
+    },
+    {
+      "path": "data-room/dossiers/rule-1.md",
+      "size": 8299,
+      "sha256": "2b1a47b34ee2701c2ba04af397cec78fd22993e18c9754aa962fe8b5bc41ebe0"
+    },
+    {
+      "path": "data-room/dossiers/rule-10.md",
+      "size": 23824,
+      "sha256": "db04003bc6248b71c5c21398868fa89d8df4d04894cca0df85b9d8d27a528d15"
+    },
+    {
+      "path": "data-room/dossiers/rule-11.md",
+      "size": 20959,
+      "sha256": "cce0995b88aba1506f7570caa95635d2316e51c87e6dd054d20589869df0b898"
+    },
+    {
+      "path": "data-room/dossiers/rule-12.md",
+      "size": 9740,
+      "sha256": "406eb958272383483ff36ec919cc6bcad6cd4953b4407ef807af20badbeb9a06"
+    },
+    {
+      "path": "data-room/dossiers/rule-13.md",
+      "size": 11436,
+      "sha256": "8ce4fd632c570cbc24f367d091036593d0f82db1ece794d8a37041d266dd93ba"
+    },
+    {
+      "path": "data-room/dossiers/rule-14.md",
+      "size": 12787,
+      "sha256": "88edde6680fe3c3161f8c24e4f2c8eee855fc8e67bd854922e1674ce261cf9c8"
+    },
+    {
+      "path": "data-room/dossiers/rule-15.md",
+      "size": 9243,
+      "sha256": "c285f5808e36a01271faca951949eec74cdbf3bc22a9b61107d338c5fd378d2e"
+    },
+    {
+      "path": "data-room/dossiers/rule-16.md",
+      "size": 7486,
+      "sha256": "7bc020b37117b0a89303925835d924f432970ca681d715e8a5938e318ef91481"
+    },
+    {
+      "path": "data-room/dossiers/rule-17.md",
+      "size": 14389,
+      "sha256": "2bd4a59466ad48c481e2ce760affd477691ae909182b3eb14a6b63a9f62f0587"
+    },
+    {
+      "path": "data-room/dossiers/rule-18.md",
+      "size": 7153,
+      "sha256": "7cc216c62199924940527079c57862792995e084087c02338e0331e699159652"
+    },
+    {
+      "path": "data-room/dossiers/rule-19.md",
+      "size": 16556,
+      "sha256": "7bb862f7f4df9388bf41e5d8d1b9079428f686eeb0a217253ac9bf34c8e9661d"
+    },
+    {
+      "path": "data-room/dossiers/rule-2.md",
+      "size": 9136,
+      "sha256": "0b2f45c8cc751d7a67da2ee353d468ea53ca4c402ab8964922eba67ec514d4fe"
+    },
+    {
+      "path": "data-room/dossiers/rule-20.md",
+      "size": 7537,
+      "sha256": "6efc74edf4c2466b51b1b517adcdee7db003677002a61eeff693c22e0d7a8ae2"
+    },
+    {
+      "path": "data-room/dossiers/rule-21.md",
+      "size": 8620,
+      "sha256": "8091e874b45e40155349b2dbb10497b0fcc8a759c5987f2ce0c880fa03d62794"
+    },
+    {
+      "path": "data-room/dossiers/rule-22.md",
+      "size": 13521,
+      "sha256": "235e133f20f2d08f9fc9779bc65322dfab7726d0ef1f9403d2f5da76f297ae40"
+    },
+    {
+      "path": "data-room/dossiers/rule-23.md",
+      "size": 11997,
+      "sha256": "3982f442125d0cfe76fbe846af1d6abbca6be934a1474e7a553ad2afe47b6e92"
+    },
+    {
+      "path": "data-room/dossiers/rule-3.md",
+      "size": 12766,
+      "sha256": "343820c7a7f5852dab5b68c2daa29adb57ab7eeb23143a028ab090afb24a24cd"
+    },
+    {
+      "path": "data-room/dossiers/rule-4.md",
+      "size": 15016,
+      "sha256": "0d246fccbb1830ce6cff30c91dcfad585ae1f98eeb9fbda660d3d8d27e619d50"
+    },
+    {
+      "path": "data-room/dossiers/rule-5.md",
+      "size": 14912,
+      "sha256": "6a6724bcc8c25179e7d801d28d19abb8f7230e42b32cd525523a7d5ecc54bfd9"
+    },
+    {
+      "path": "data-room/dossiers/rule-6.md",
+      "size": 15181,
+      "sha256": "a9b9ca6dbab0f655ab3ffe701ebf39429e57a163d85c0f4e87b19605dd6d7ea8"
+    },
+    {
+      "path": "data-room/dossiers/rule-7.md",
+      "size": 11000,
+      "sha256": "ac17a428d19bf01f2a59263d9f0ae1f69e6681e5333368a5596050f154220a2a"
+    },
+    {
+      "path": "data-room/dossiers/rule-8.md",
+      "size": 13529,
+      "sha256": "437726c4a8400ca46597118621066264cf96e55b1e9a8ee48f79247d1d85ceb6"
+    },
+    {
+      "path": "data-room/dossiers/rule-9.md",
+      "size": 8639,
+      "sha256": "998481eaef2645733420dd4ff5b29ea3094c051dc3f37aee5e37a6d184bd077d"
+    },
+    {
+      "path": "data-room/dossiers/schedule-fifth.md",
+      "size": 29717,
+      "sha256": "0b0cc7c61b91f64dc888a3a89f37aa543c7ff8e173c4cd83d5b127cc106aa7c0"
+    },
+    {
+      "path": "data-room/dossiers/schedule-first.md",
+      "size": 32033,
+      "sha256": "76ec98cf6ba62bde4a19fac2b1fecc49792fbcb0d1d80257b861306a6c584cab"
+    },
+    {
+      "path": "data-room/dossiers/schedule-fourth.md",
+      "size": 21768,
+      "sha256": "a8fd8f928522a701f398960421db3e299223c5d3c8533ad5862f7c4d5e0e172b"
+    },
+    {
+      "path": "data-room/dossiers/schedule-second.md",
+      "size": 12727,
+      "sha256": "1000681fd2b120469ed4f49dc7c4c9f1a6fac9d895176f425ea7eabed161b06a"
+    },
+    {
+      "path": "data-room/dossiers/schedule-seventh.md",
+      "size": 13213,
+      "sha256": "1c147dcadccd587759c1287a98d7b05af9edb13b632e8a3c14b26164cdc5c104"
+    },
+    {
+      "path": "data-room/dossiers/schedule-sixth.md",
+      "size": 19762,
+      "sha256": "008d3a2f3f57f88bc620cfcb0c5ccdd1f1c82d252f9e9bec1dec37fef0d5e16c"
+    },
+    {
+      "path": "data-room/dossiers/schedule-third.md",
+      "size": 19914,
+      "sha256": "d250d0f8528f9bd3b5a5a9652f73eb0ff9d41cc85d6c2b2a40fbbdda54a9d436"
+    },
+    {
+      "path": "data-room/dossiers/service-cyberguard.md",
+      "size": 23501,
+      "sha256": "980202dde6a5e53732e6de337b28f61bfc1a7c9fcaefd2bb53f088625e219f61"
+    },
+    {
+      "path": "data-room/dossiers/service-esanjeevani.md",
+      "size": 64342,
+      "sha256": "84201388a9c32756af99d47a89a903feb518d654bedd551362cc8931bb7cd9cd"
+    },
+    {
+      "path": "data-room/dossiers/service-mahacrimeos.md",
+      "size": 30522,
+      "sha256": "a039046f4364641d675c286eea3f6d2bb807b57194f4bb552181a85cc9f9ac4d"
+    },
+    {
+      "path": "data-room/dossiers/service-supace.md",
+      "size": 24459,
+      "sha256": "a90d56a932c9f942d1e4ccdefa8b8bf469c9d2a47fad44b07c54b9dcc305112a"
+    },
+    {
+      "path": "data-room/dossiers/service-suvas.md",
+      "size": 33836,
+      "sha256": "df3f549a7178c20b504b0f346ec96a62c1eb086fd6ab3d526e1e1827bca9ecc8"
+    },
+    {
+      "path": "data-room/dossiers/service-upsc.md",
+      "size": 31675,
+      "sha256": "86f0fad2f25e5d58d1f3698865058af9bd6b4847283b9e4aadcab4f90fdf193e"
+    },
+    {
+      "path": "data-room/dossiers/sgi-commencement.md",
+      "size": 6955,
+      "sha256": "a5fedc978ea34a793da069adeefa6fb19baa2e792ba994316e92c68a1493d4bf"
+    },
+    {
+      "path": "data-room/dossiers/sgi-criminal.md",
+      "size": 7263,
+      "sha256": "df8d5343a55434c640c1564f053622bdb2088eacb0542801d8733c60761f6a01"
+    },
+    {
+      "path": "data-room/dossiers/sgi-declarations.md",
+      "size": 11246,
+      "sha256": "04c15cecb1433fcbbde92d0a5b1e5746f042371dc33a076700137fdd3c0231c9"
+    },
+    {
+      "path": "data-room/dossiers/sgi-definition.md",
+      "size": 11148,
+      "sha256": "4d8f05d919c0eda81d77de760d4bd381c97044b0a1e2a9d368c0624088840b40"
+    },
+    {
+      "path": "data-room/dossiers/sgi-exclusions.md",
+      "size": 11135,
+      "sha256": "a78113bb4a1bca09b6f81669cdadd52026dd2bfebfb669ff07495ff13b28b24c"
+    },
+    {
+      "path": "data-room/dossiers/sgi-grievance.md",
+      "size": 10201,
+      "sha256": "76d48ed166c136c09f054658212b1e6b31b6c0bbb900aa65c8f9d8654c2c91d4"
+    },
+    {
+      "path": "data-room/dossiers/sgi-label.md",
+      "size": 14331,
+      "sha256": "8f39e4cbdb676b2960317788ec3035d3ba411b6d198fed319efad86c58ceb6b6"
+    },
+    {
+      "path": "data-room/dossiers/sgi-prevention.md",
+      "size": 14670,
+      "sha256": "4daa8fc16cfcd767476f22bd35db916c4e3a9aab55711422c927751551c2aa38"
+    },
+    {
+      "path": "data-room/dossiers/sgi-proactive.md",
+      "size": 8952,
+      "sha256": "04ebc1e6de94db4626880b8a05d25621ee22e850de92efd5f5ecd8be6c2cf3c7"
+    },
+    {
+      "path": "data-room/dossiers/sgi-provenance.md",
+      "size": 14138,
+      "sha256": "d89332542a4d74d0b9bde5c12438e9d66dafc473f6290ceb940c03a0aa6a753a"
+    },
+    {
+      "path": "data-room/dossiers/sgi-removal-safeharbour.md",
+      "size": 9994,
+      "sha256": "9cfca14aa85da71b945add9a3a840ac37c7cd8e18cf374ef6426d6cad1d43f6d"
+    },
+    {
+      "path": "data-room/dossiers/sgi-takedown.md",
+      "size": 12981,
+      "sha256": "d7b9197110bd2ff50b99c45960ed8a1ee9c2d095f11049ed32e7981aa4898578"
+    },
+    {
+      "path": "data-room/dossiers/sgi-unlawfulreferences.md",
+      "size": 8541,
+      "sha256": "4c8928ec89d4b0d583432cd9767381dc93ba1f203f31c59da08bc7c541845cd1"
+    },
+    {
+      "path": "data-room/dossiers/sgi-user-notices.md",
+      "size": 18072,
+      "sha256": "32611e8657e9db09b224e2e151828fc79ec7f69c9ba23692c224f98c0c01050f"
+    },
+    {
+      "path": "data-room/evidence-items.csv",
+      "size": 127392,
+      "sha256": "f6f1f48de41bc94e11d149cbaab1666255273f6dd52cee654137d79454e4fa8c"
+    },
+    {
+      "path": "data-room/evidence-items.json",
+      "size": 150051,
+      "sha256": "d850106b72c2d909966a81afb8f033622391ee8ae173ab91f64ca990fe3b423d"
+    },
+    {
+      "path": "data-room/gaps.csv",
+      "size": 84362,
+      "sha256": "c0c9ff97fa30678c36c933387fa20947f44318c142ec3780d1324cd00590c0a2"
+    },
+    {
+      "path": "data-room/gaps.json",
+      "size": 114580,
+      "sha256": "8f17243fc60a38802368be1462dfb42c4a0a2e62a68952761342a1efc081633f"
+    },
+    {
+      "path": "data-room/raw-provision-comparison.jsonl",
+      "size": 177074,
+      "sha256": "a7a77c0b9257bc31af74fd3fd761447c29cf7009e0841e762fc714f50410bcbd"
+    },
+    {
+      "path": "data-room/raw-provision-coverage.csv",
+      "size": 10714,
+      "sha256": "3564955a23182793018ccc81a6b5da34b723a2f1a0733968196acf314c24de85"
+    },
+    {
+      "path": "data-room/records.csv",
+      "size": 118822,
+      "sha256": "987557fb8c7e44cfea10e404999661a927eb6e061dfe3483734ad9da07f72bb3"
+    },
+    {
+      "path": "data-room/records.jsonl",
+      "size": 1153851,
+      "sha256": "83c02352ad1aa72e06590b3e54a04d66904f1ab164b35fbed6beb955ef5999ed"
+    },
+    {
+      "path": "data-room/sources.csv",
+      "size": 21146,
+      "sha256": "226fb13e1a581e997d99865f4ebf09778db3c691f2f7f03c9bcf628a744bd5a7"
+    },
+    {
+      "path": "expansion-data.json",
+      "size": 768973,
+      "sha256": "70f3e044b337beae69c733cf749a8f14bcd5e1b7debc75062c616fb2eb9718b7"
+    },
+    {
+      "path": "implementation-data.json",
+      "size": 65106,
+      "sha256": "a1e430f404f0937ec4c6e9ab9bf70b1a0643b6a5ab466a80b369e8fdf8d07a2c"
+    },
+    {
+      "path": "policy-data.json",
+      "size": 263237,
+      "sha256": "3827c3a690dc6c155b70b15c9d99f5712e3d47aed7e023a0c90a3d33f8d133b5"
+    },
+    {
+      "path": "public-services-data.json",
+      "size": 138651,
+      "sha256": "76cd5ff6960bdd70049bd5493f7385111029ea1eeeda784d9db08cd6fdcf1ea1"
+    },
+    {
+      "path": "research/completeness-discovery.jsonl",
+      "size": 14120,
+      "sha256": "ea176a2b8cb9dae18b2ecce2bd2a915a85309d6e76d695953d6eb9b9b64e796e"
+    },
+    {
+      "path": "research/completeness-retrieval.csv",
+      "size": 2066,
+      "sha256": "0cc742f7eea06be103f6bafe8b78106a7423bb070db6984ad3317502e96eb1e9"
+    },
+    {
+      "path": "research/data-completeness-study.md",
+      "size": 8762,
+      "sha256": "891c4aa3b45854f03c6b5f07f1dad85fe101f83bc4b946a19b800b5a4e58f849"
+    },
+    {
+      "path": "research/expansion-study.md",
+      "size": 18432,
+      "sha256": "cc42d31bf1ac0abe472cde13b4f5aadfac6576f452cce9833800c9129556eea5"
+    },
+    {
+      "path": "research/implementation-search-log.md",
+      "size": 4955,
+      "sha256": "7578ca0abadea34ba14ffd6b724f8a8e7fa5c7fe952a42c79ca6f165108f8e5d"
+    },
+    {
+      "path": "research/implementation-study.md",
+      "size": 13774,
+      "sha256": "44cc799f769e261d86d2677f2438510bf8ce27955eb00d70496dce17ccbf6b46"
+    },
+    {
+      "path": "research/public-service-coverage.csv",
+      "size": 67408,
+      "sha256": "a208fc746d5d486d0cbd8458134ba75c64cc87cc6eb6483e585190e055be0961"
+    },
+    {
+      "path": "research/public-service-search-log.md",
+      "size": 8176,
+      "sha256": "ae71d729942af713c3cdb06e05c05534b0de6dcca15d60139536aa0c1b0d47d3"
+    },
+    {
+      "path": "research/public-service-study.md",
+      "size": 93002,
+      "sha256": "4714348c50bbbc5ca7358be52c38c01f03492c7e1468ab87d85930da2cf2bde7"
+    },
+    {
+      "path": "research/specification.md",
+      "size": 27375,
+      "sha256": "f04cc095bbc216b99aa5945872a6f066c107313ad765ac85b3fd521be11c4ed1"
+    },
+    {
+      "path": "research/study.md",
+      "size": 48173,
+      "sha256": "ce0e7c7c904a164aa11b2ec087bbb19cc04634aff9d5753ddd51e737b438526c"
+    },
+    {
+      "path": "snapshots/aig-consultation.txt",
+      "size": 62264,
+      "sha256": "a1f117015bd368b688690317f312d4bda110d3f3e42aa904ea487a383b43d347"
+    },
+    {
+      "path": "snapshots/aig-guidelines.txt",
+      "size": 120498,
+      "sha256": "628806e4e519e7d832f270bec2d6ab858aaa3252c6d48dcf8941df01fe82acf4"
+    },
+    {
+      "path": "snapshots/aig-launch.txt",
+      "size": 6828,
+      "sha256": "51c02d35ced11436f674d190d3d32be659354249dcd50cbda1d7a279ce39f276"
+    },
+    {
+      "path": "snapshots/commencement.txt",
+      "size": 4409,
+      "sha256": "bda8a4ac77bb5e680376f60685ddd3e1a5c132f54e688c5687e21d8500713ed8"
+    },
+    {
+      "path": "snapshots/context-dpdp-act.txt",
+      "size": 64238,
+      "sha256": "4ec8b7bba359d6c2a8d10e51a4b2886ac9f89c31dd194b790a535cf583e42b29"
+    },
+    {
+      "path": "snapshots/corrigendum.txt",
+      "size": 1924,
+      "sha256": "5e877853b2fd3438291382ca155144da1ff2d9106072cfba5d37bb13425f25d8"
+    },
+    {
+      "path": "snapshots/draft.txt",
+      "size": 198320,
+      "sha256": "cc49c9e3174324bb98980a59687c669bbc7b7176dd0d1e443d72e6c75c7a14e2"
+    },
+    {
+      "path": "snapshots/final.txt",
+      "size": 206548,
+      "sha256": "faf626ebfbf12521d23e2fdbecedfcbb3082d795a1f838e57c795cde7cb755a5"
+    },
+    {
+      "path": "snapshots/impl-aigeg-order.txt",
+      "size": 2616,
+      "sha256": "d3a050d627ec3021393b6d2a4ee735ff3206ccafcbd64fe69a9d0a374fad4302"
+    },
+    {
+      "path": "snapshots/impl-aigeg-release.txt",
+      "size": 2294,
+      "sha256": "72d1d7b4e7e932ab5fe41c63a4793ae87e5b1f755d6845da530d0f119da017eb"
+    },
+    {
+      "path": "snapshots/impl-cert-directions.txt",
+      "size": 13218,
+      "sha256": "7b5c2b023e5c083b65084ccd84d56fdc37a6bca7f08420e13ca9f61364c6170c"
+    },
+    {
+      "path": "snapshots/impl-commitments.txt",
+      "size": 5741,
+      "sha256": "a5ef4f9b6d3bba0705146d84c5c1a4338af87100c221afcfef4a9950ffb33281"
+    },
+    {
+      "path": "snapshots/impl-director.txt",
+      "size": 2869,
+      "sha256": "3ebb8a77360ba717f067ff967eef234f23c3970ff7d91ddf83f0c96c83758274"
+    },
+    {
+      "path": "snapshots/impl-mission-status.txt",
+      "size": 22978,
+      "sha256": "9ee611bf8be80c79cb27f92083f8d3becda9c293c9d53a50f4f699f3befc6de9"
+    },
+    {
+      "path": "snapshots/impl-partners.txt",
+      "size": 21629,
+      "sha256": "dc1d68256f8aa317aea70ee70702c63c871bf530f6e4356c07acc2ab031804d0"
+    },
+    {
+      "path": "snapshots/impl-projects.txt",
+      "size": 3110,
+      "sha256": "269765d4781774e71e895d703ba6fd75213225c6b4a6c27f61da83613a5de0cf"
+    },
+    {
+      "path": "snapshots/impl-redress.txt",
+      "size": 12334,
+      "sha256": "ffafee2530c1b187b615613d0910eddaad17a2f44a57df6c7e398cf028c67a1d"
+    },
+    {
+      "path": "snapshots/impl-safety-status.txt",
+      "size": 13774,
+      "sha256": "f9f82dd190323748b5cddacf8963e5f5cd6680171b80855ff05b8c43d075393d"
+    },
+    {
+      "path": "snapshots/impl-tpec-order.txt",
+      "size": 2948,
+      "sha256": "8706c75e434a3dff62e8f4e03ff3444e4d8a7d1ccbfa2f3068c43094707e2513"
+    },
+    {
+      "path": "snapshots/impl-tpec-release.txt",
+      "size": 2241,
+      "sha256": "13eb1267f72810c12e303353326639b35c2876ea9bc5b8773cdfbec2b3918ef5"
+    },
+    {
+      "path": "snapshots/service-court-draft.txt",
+      "size": 738,
+      "sha256": "c2ea26525dfaa29be8afdfefd23fce944d9e412ff2d751ace4f1fa38a3dcacc4"
+    },
+    {
+      "path": "snapshots/service-cyber-winners.txt",
+      "size": 1014,
+      "sha256": "c3119a67d3969a5778a18fb08c74703f32284a0cdda7de6e7a85eb65b2f5c2a4"
+    },
+    {
+      "path": "snapshots/service-health-developer-current.txt",
+      "size": 421,
+      "sha256": "7f54f436044fe843e592f72b49a0d501ea8de5575a2546eb96d7bcaeaeea54b8"
+    },
+    {
+      "path": "snapshots/service-health-developer-submission.txt",
+      "size": 625,
+      "sha256": "3e4891cd5e2ade8c4f77aa2c64dfb2edbb59cbcb0fb5ac83801a9d216348480d"
+    },
+    {
+      "path": "snapshots/service-health-implementation-study.txt",
+      "size": 866,
+      "sha256": "a1952697f30eb35a276197fb4547ec2659e750dd1a6919f71b3d6ee16f1aa3f1"
+    },
+    {
+      "path": "snapshots/service-health-local-study.txt",
+      "size": 657,
+      "sha256": "686bc2c3e16246bc912070d8d8f13125582c1008da1e3b62e75a212c0e2fdbdb"
+    },
+    {
+      "path": "snapshots/service-health-parliament.txt",
+      "size": 1020,
+      "sha256": "e8193a301fb5a53fab59f6944fecb3baec9b1566638fea7068a79d4a24718fd2"
+    },
+    {
+      "path": "snapshots/service-health-platform.txt",
+      "size": 688,
+      "sha256": "4edd061a6c67e8e79f2aa273dd5881a9d0ebb39e0fb1c4c8713be78042327051"
+    },
+    {
+      "path": "snapshots/service-health-practice-guidelines.txt",
+      "size": 657,
+      "sha256": "a3b894e4d924552925d1c514fd8a80a2d03d59de2c07e393f0b27e2fafd9496c"
+    },
+    {
+      "path": "snapshots/service-health-privacy.txt",
+      "size": 1253,
+      "sha256": "cd9e32fd8b67f69e121dc55951608a717004c119c71a9c56b69aa41349452743"
+    },
+    {
+      "path": "snapshots/service-health-report.txt",
+      "size": 596,
+      "sha256": "1bc02507e708d5b1259f86f933cab8754762427c67a53a1cb8b8270ad15b2154"
+    },
+    {
+      "path": "snapshots/service-judiciary.txt",
+      "size": 1063,
+      "sha256": "788ba76efaad8b4ad1ab5643e45a76efc9125dc51b8d92acc532ce6ea9def21f"
+    },
+    {
+      "path": "snapshots/service-police-reporting.txt",
+      "size": 557,
+      "sha256": "25a6211442c4e765724c7b74725b5ccb57f3c46add1816b2bb4d774e37b35129"
+    },
+    {
+      "path": "snapshots/service-police-summary.txt",
+      "size": 768,
+      "sha256": "7747c779688352b6794a602e47f76d0a2b931d407301571b22ae9915ff0bf438"
+    },
+    {
+      "path": "snapshots/service-police-vendor.txt",
+      "size": 728,
+      "sha256": "8c5e61d4c68510dd3992f9029b261acf2a19cb6ad955fc440003cae003957f28"
+    },
+    {
+      "path": "snapshots/service-translation-guidelines.txt",
+      "size": 663,
+      "sha256": "488d3fb22c1d1c79e3113b768cadec5a623a18c6f49b558534d1f340479188d8"
+    },
+    {
+      "path": "snapshots/service-translation-vetting.txt",
+      "size": 872,
+      "sha256": "e2f8b8aaaad032f4b14e57e25e03db53f5f627a014701d81786aa5e1c40c3e34"
+    },
+    {
+      "path": "snapshots/service-upsc-live.txt",
+      "size": 914,
+      "sha256": "44077cba0721dfe9c096137ba5a9ab51f753f9d136eb12b6e69e4ec1c424b3ee"
+    },
+    {
+      "path": "snapshots/service-upsc-october.txt",
+      "size": 596,
+      "sha256": "eaf44ab97e964119abf0334fce5a5e37daf21e4d4dd3fb08aeae671b4c78c376"
+    },
+    {
+      "path": "snapshots/service-upsc-tender.txt",
+      "size": 1002,
+      "sha256": "98550a96d5b6e41de9b1ccf5186fdee04088b0348694e1ea5b5678a6ced7dd1c"
+    },
+    {
+      "path": "snapshots/sgi-baseline.txt",
+      "size": 86347,
+      "sha256": "182a9b90e2a11fb06522e092e1b542a96f8a52f28f648bab7feb10c2eb3f952f"
+    },
+    {
+      "path": "snapshots/sgi-consolidated.txt",
+      "size": 100534,
+      "sha256": "b5198b72c51d9d2ae94d38cd8d6f0214241abcca3473228e1aedb6547e722705"
+    },
+    {
+      "path": "snapshots/sgi-corrigendum.txt",
+      "size": 4507,
+      "sha256": "a860908ed1cc7e95db871f483f2bb18de92f87bdf931a94d509537bdd286cb54"
+    },
+    {
+      "path": "snapshots/sgi-draft.txt",
+      "size": 5551,
+      "sha256": "b54dfd61df6a9c8c8e9f584eb437346a9237e293d342f78af44da79ca2507e36"
+    },
+    {
+      "path": "snapshots/sgi-faq.txt",
+      "size": 46391,
+      "sha256": "9cce731de8e47b91348581f7d9c751f6fb6cc1d64f8d63a4e2c32b61e82e6011"
+    },
+    {
+      "path": "snapshots/sgi-final.txt",
+      "size": 57510,
+      "sha256": "d31804a7666d165f44ed968fd5e4d10a816cc83602af63b1aa56a65b4a686e68"
+    },
+    {
+      "path": "schema/schema.ts",
+      "size": 2453,
+      "sha256": "04429663fb89d6e7572e55eb5eb92430a65b207d9581e813636138443eebf829"
+    }
+  ],
+  "recordIds": [
+    "rule-1",
+    "rule-2",
+    "rule-3",
+    "rule-4",
+    "rule-5",
+    "rule-6",
+    "rule-7",
+    "rule-8",
+    "rule-9",
+    "rule-10",
+    "rule-11",
+    "rule-12",
+    "rule-13",
+    "rule-14",
+    "rule-15",
+    "rule-16",
+    "rule-17",
+    "rule-18",
+    "rule-19",
+    "rule-20",
+    "rule-21",
+    "rule-22",
+    "rule-23",
+    "schedule-first",
+    "schedule-second",
+    "schedule-third",
+    "schedule-fourth",
+    "schedule-fifth",
+    "schedule-sixth",
+    "schedule-seventh",
+    "sgi-commencement",
+    "sgi-definition",
+    "sgi-exclusions",
+    "sgi-unlawfulreferences",
+    "sgi-removal-safeharbour",
+    "sgi-user-notices",
+    "sgi-takedown",
+    "sgi-grievance",
+    "sgi-prevention",
+    "sgi-label",
+    "sgi-provenance",
+    "sgi-declarations",
+    "sgi-proactive",
+    "sgi-criminal",
+    "aig-principles",
+    "aig-infrastructure",
+    "aig-capacity",
+    "aig-policy",
+    "aig-risk",
+    "aig-incidents",
+    "aig-voluntary",
+    "aig-techno",
+    "aig-accountability",
+    "aig-institutions",
+    "aig-action-plan",
+    "aig-practical",
+    "impl-aigeg",
+    "impl-tpec",
+    "impl-aisi-status",
+    "impl-aisi-leadership",
+    "impl-aisi-partners",
+    "impl-projects",
+    "impl-tool-delivery",
+    "impl-incident-repository",
+    "impl-redress",
+    "impl-voluntary",
+    "service-upsc",
+    "service-cyberguard",
+    "service-suvas",
+    "service-supace",
+    "service-esanjeevani",
+    "service-mahacrimeos"
+  ],
+  "sourceIds": [
+    "draft",
+    "final",
+    "corrigendum",
+    "commencement",
+    "sgi-draft",
+    "sgi-final",
+    "sgi-corrigendum",
+    "sgi-baseline",
+    "sgi-consolidated",
+    "sgi-faq",
+    "aig-consultation",
+    "aig-guidelines",
+    "aig-launch",
+    "impl-aigeg-order",
+    "impl-tpec-order",
+    "impl-aigeg-release",
+    "impl-tpec-release",
+    "impl-partners",
+    "impl-director",
+    "impl-safety-status",
+    "impl-mission-status",
+    "impl-projects",
+    "impl-commitments",
+    "impl-redress",
+    "impl-cert-directions",
+    "service-upsc-tender",
+    "service-upsc-live",
+    "service-upsc-october",
+    "service-cyber-winners",
+    "service-judiciary",
+    "service-translation-vetting",
+    "service-court-draft",
+    "service-health-platform",
+    "service-health-parliament",
+    "service-health-privacy",
+    "service-health-local-study",
+    "service-health-report",
+    "service-police-vendor",
+    "service-police-summary",
+    "service-police-reporting",
+    "service-health-implementation-study",
+    "service-health-developer-submission",
+    "service-health-developer-current",
+    "service-translation-guidelines",
+    "service-health-practice-guidelines",
+    "context-dpdp-act"
+  ],
+  "archiveScope": "All listed curated records, dossiers, briefs, snapshots, research, registers and schema. Not all Indian AI systems; not full original PDF binaries or full copyrighted articles; no private notebook notes.",
+  "integrityScope": "Hashes verify included file bytes, not source truth or live deployment.",
+  "omittedKinds": [
+    "Original PDF binaries",
+    "Full copyrighted articles",
+    "Unretrieved records",
+    "Private user notes",
+    "Application dependencies/build binaries"
+  ]
+}

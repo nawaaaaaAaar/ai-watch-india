@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { createBrief,mergeCollections,accountabilityCsv } from '../src/lib.mjs';
-const data=mergeCollections(...['policy','expansion','implementation','public-services'].map(name=>JSON.parse(readFileSync(new URL(`../src/data/${name}.json`,import.meta.url)))));
+const data=mergeCollections(...['policy','expansion','implementation','public-services','context'].map(name=>JSON.parse(readFileSync(new URL(`../src/data/${name}.json`,import.meta.url)))));
 const ids=data.provisions.filter(p=>p.contribution).map(p=>p.id);
 const dir=new URL('../public/briefs/',import.meta.url);mkdirSync(dir,{recursive:true});
 const contents=[];
