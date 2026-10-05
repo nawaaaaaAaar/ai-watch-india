@@ -18,6 +18,8 @@ Institution-and-system dataset v1.0.0 is now the primary homepage and research d
 
 Start with `research/registry/RESEARCH_NOTE.md`, then `PROTOCOL.md` and `CODEBOOK.md`. Reproduce the dataset offline with `npm run package:registry`; run `npm test` and `npm run build`. The source coding input is `research/registry-curation.json`; the six inherited cases come from the existing `public/combined-data.json`. Network access/model keys are not needed to rebuild. For independent source verification, use the original URLs and documented retrieval limitations.
 
+Release inventory, clean-checkout reproduction, download fixes and test boundaries are documented in `REGISTRY_VERIFICATION.md`.
+
 ## Earlier supporting collections
 
 Curated edition 05 makes every stored field accessible through the complete data room:
