@@ -1,8 +1,10 @@
-export type ChangeType = 'Addition' | 'Scope change' | 'Qualification' | 'Wording' | 'Continuity' | 'Timing' | 'Evidence checkpoint';
+export type ChangeType = 'Addition' | 'Scope change' | 'Qualification' | 'Wording' | 'Continuity' | 'Timing' | 'Evidence checkpoint' | 'Public-service case';
+export interface EvidenceItem {sourceId:string;url:string;title:string;locator:string;quote:string}
 export interface SourceDocument {
   id: string; title: string; instrument: string; documentDate: string;
   publication: string; status: string; url: string; snapshot: string;
   hash: string; hashType: string; description: string; checked: string;
+  sourceType?: string; snapshotKind?: string;
 }
 export interface Provision {
   familyId?: string; comparisonKind?: string; legalStatus?: string;
@@ -11,7 +13,9 @@ export interface Provision {
   beforeSourceId?: string; afterSourceId?: string; contribution?: boolean;
   implementationCheckpoint?: boolean; evidenceStatus?: string; relatedId?: string; checked?: string;
   requestChecklist?: string[];
-  evidenceTrail?: {sourceId:string;url:string;title:string;locator:string;quote:string}[];
+  evidenceTrail?: EvidenceItem[];
+  publicServiceCase?: boolean; sector?: string; deploymentStage?: string;
+  caseFields?: {name:string;status:string;statement:string;evidence:EvidenceItem[]}[];
   id: string; label: string; title: string; draftLabel: string;
   type: ChangeType; actor: string; summary: string; interpretation: string;
   question: string; caution: string; draftText: string; finalText: string;

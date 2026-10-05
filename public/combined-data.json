@@ -1,5 +1,5 @@
 {
-  "title": "Four Indian digital-policy evidence collections",
+  "title": "Five Indian policy and public-service evidence collections",
   "checked": "DPDP: 4 October 2026; expansion: 5 October 2026",
   "families": [
     {
@@ -115,6 +115,35 @@
           "date": "05 Oct 2026",
           "title": "Bounded review",
           "detail": "Unresolved questions remain visible"
+        }
+      ]
+    },
+    {
+      "id": "service",
+      "title": "Public-service AI decision accountability",
+      "shortTitle": "Public-service cases",
+      "status": "Deployment evidence varies",
+      "description": "Six case files and twelve accountability dimensions per case: procurement, evaluation, human review, privacy and redress.",
+      "coverage": "Six complete bounded case files with all 72 dimension slots retained, including explicit unverified fields.",
+      "scope": "Not a census of Indian AI systems. Official self-reports, experimental descriptions, vendor accounts and unknowns are distinguished.",
+      "count": 6,
+      "contributionCount": 6,
+      "defaultId": "service-upsc",
+      "timeline": [
+        {
+          "date": "2023–2025",
+          "title": "Programme and procurement lineage",
+          "detail": "Historical terms are not automatically current implementation"
+        },
+        {
+          "date": "2026",
+          "title": "Dated deployment and policy records",
+          "detail": "Experimental and live-use claims remain distinct"
+        },
+        {
+          "date": "05 Oct 2026",
+          "title": "Six-case review",
+          "detail": "Every dimension answered or explicitly marked unverified"
         }
       ]
     }
@@ -469,6 +498,246 @@
       "snapshot": "snapshots/impl-cert-directions.txt",
       "hash": "7b5c2b023e5c083b65084ccd84d56fdc37a6bca7f08420e13ca9f61364c6170c",
       "hashType": "SHA-256 of extracted UTF-8 text, not original PDF bytes"
+    },
+    {
+      "id": "service-upsc-tender",
+      "title": "UPSC biometric/AI tender specification",
+      "url": "https://upsc.gov.in/sites/default/files/Tender-AadhaarQRFaceRecgAI-Corrgn_Eng-180724.pdf",
+      "documentDate": "18 July 2024 corrigendum filename; inspect instrument",
+      "publication": "18 July 2024 corrigendum filename; inspect instrument",
+      "status": "Official tender",
+      "instrument": "UPSC biometric/AI tender specification",
+      "sourceType": "Official tender",
+      "snapshotKind": "Selected excerpts",
+      "description": "Selected source excerpts used by the case; open the original for the complete record. Not an independent audit.",
+      "checked": "5 October 2026",
+      "snapshot": "snapshots/service-upsc-tender.txt",
+      "hash": "98550a96d5b6e41de9b1ccf5186fdee04088b0348694e1ea5b5678a6ced7dd1c",
+      "hashType": "SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes"
+    },
+    {
+      "id": "service-upsc-live",
+      "title": "UPSC face authentication implementation",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1",
+      "documentDate": "4 June 2026",
+      "publication": "4 June 2026",
+      "status": "Official self-report",
+      "instrument": "UPSC face authentication implementation",
+      "sourceType": "Official self-report",
+      "snapshotKind": "Selected excerpts",
+      "description": "Selected source excerpts used by the case; open the original for the complete record. Not an independent audit.",
+      "checked": "5 October 2026",
+      "snapshot": "snapshots/service-upsc-live.txt",
+      "hash": "44077cba0721dfe9c096137ba5a9ab51f753f9d136eb12b6e69e4ec1c424b3ee",
+      "hashType": "SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes"
+    },
+    {
+      "id": "service-upsc-october",
+      "title": "UPSC centenary current-status explanation",
+      "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317336&reg=48&lang=1",
+      "documentDate": "4 October 2026",
+      "publication": "4 October 2026",
+      "status": "Official self-report",
+      "instrument": "UPSC centenary current-status explanation",
+      "sourceType": "Official self-report",
+      "snapshotKind": "Selected excerpts",
+      "description": "Selected source excerpts used by the case; open the original for the complete record. Not an independent audit.",
+      "checked": "5 October 2026",
+      "snapshot": "snapshots/service-upsc-october.txt",
+      "hash": "eaf44ab97e964119abf0334fce5a5e37daf21e4d4dd3fb08aeae671b4c78c376",
+      "hashType": "SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes"
+    },
+    {
+      "id": "service-cyber-winners",
+      "title": "CyberGuard hackathon results",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2132817&reg=3&lang=1",
+      "documentDate": "30 May 2025 event; source date checked against release",
+      "publication": "30 May 2025 event; source date checked against release",
+      "status": "Official announcement",
+      "instrument": "CyberGuard hackathon results",
+      "sourceType": "Official announcement",
+      "snapshotKind": "Selected excerpts",
+      "description": "Selected source excerpts used by the case; open the original for the complete record. Not an independent audit.",
+      "checked": "5 October 2026",
+      "snapshot": "snapshots/service-cyber-winners.txt",
+      "hash": "c3119a67d3969a5778a18fb08c74703f32284a0cdda7de6e7a85eb65b2f5c2a4",
+      "hashType": "SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes"
+    },
+    {
+      "id": "service-judiciary",
+      "title": "Official judicial AI backgrounder",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+      "documentDate": "11 February 2026",
+      "publication": "11 February 2026",
+      "status": "Official explanation",
+      "instrument": "Official judicial AI backgrounder",
+      "sourceType": "Official explanation",
+      "snapshotKind": "Selected excerpts",
+      "description": "Selected source excerpts used by the case; open the original for the complete record. Not an independent audit.",
+      "checked": "5 October 2026",
+      "snapshot": "snapshots/service-judiciary.txt",
+      "hash": "788ba76efaad8b4ad1ab5643e45a76efc9125dc51b8d92acc532ce6ea9def21f",
+      "hashType": "SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes"
+    },
+    {
+      "id": "service-translation-vetting",
+      "title": "Allahabad translation-vetting notice",
+      "url": "https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf",
+      "documentDate": "September 2023; deadline 22 September 2023",
+      "publication": "September 2023; deadline 22 September 2023",
+      "status": "Court administrative notice",
+      "instrument": "Allahabad translation-vetting notice",
+      "sourceType": "Court administrative notice",
+      "snapshotKind": "Selected excerpts",
+      "description": "Selected source excerpts used by the case; open the original for the complete record. Not an independent audit.",
+      "checked": "5 October 2026",
+      "snapshot": "snapshots/service-translation-vetting.txt",
+      "hash": "e2f8b8aaaad032f4b14e57e25e03db53f5f627a014701d81786aa5e1c40c3e34",
+      "hashType": "SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes"
+    },
+    {
+      "id": "service-court-draft",
+      "title": "Court AI consultation draft",
+      "url": "https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/06/2026060342.pdf",
+      "documentDate": "3 June 2026",
+      "publication": "3 June 2026",
+      "status": "Consultation draft",
+      "instrument": "Court AI consultation draft",
+      "sourceType": "Consultation draft",
+      "snapshotKind": "Selected excerpts",
+      "description": "Selected source excerpts used by the case; open the original for the complete record. Not an independent audit.",
+      "checked": "5 October 2026",
+      "snapshot": "snapshots/service-court-draft.txt",
+      "hash": "c2ea26525dfaa29be8afdfefd23fce944d9e412ff2d751ace4f1fa38a3dcacc4",
+      "hashType": "SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes"
+    },
+    {
+      "id": "service-health-platform",
+      "title": "C-DAC eSanjeevani product description",
+      "url": "https://cdac.in/index.aspx?id=product_details&productId=eSanjeevaniNationalTelemedicineService",
+      "documentDate": "Undated page; statistics labelled 16 August 2026",
+      "publication": "Undated page; statistics labelled 16 August 2026",
+      "status": "Official developer description",
+      "instrument": "C-DAC eSanjeevani product description",
+      "sourceType": "Official developer description",
+      "snapshotKind": "Selected excerpts",
+      "description": "Selected source excerpts used by the case; open the original for the complete record. Not an independent audit.",
+      "checked": "5 October 2026",
+      "snapshot": "snapshots/service-health-platform.txt",
+      "hash": "4edd061a6c67e8e79f2aa273dd5881a9d0ebb39e0fb1c4c8713be78042327051",
+      "hashType": "SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes"
+    },
+    {
+      "id": "service-health-parliament",
+      "title": "Lok Sabha telemedicine/CDSS response",
+      "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
+      "documentDate": "7 August 2026",
+      "publication": "7 August 2026",
+      "status": "Parliamentary response",
+      "instrument": "Lok Sabha telemedicine/CDSS response",
+      "sourceType": "Parliamentary response",
+      "snapshotKind": "Selected excerpts",
+      "description": "Selected source excerpts used by the case; open the original for the complete record. Not an independent audit.",
+      "checked": "5 October 2026",
+      "snapshot": "snapshots/service-health-parliament.txt",
+      "hash": "e8193a301fb5a53fab59f6944fecb3baec9b1566638fea7068a79d4a24718fd2",
+      "hashType": "SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes"
+    },
+    {
+      "id": "service-health-privacy",
+      "title": "eSanjeevani privacy policy",
+      "url": "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf",
+      "documentDate": "Undated PDF; checked 5 October 2026",
+      "publication": "Undated PDF; checked 5 October 2026",
+      "status": "Published privacy policy",
+      "instrument": "eSanjeevani privacy policy",
+      "sourceType": "Published privacy policy",
+      "snapshotKind": "Selected excerpts",
+      "description": "Selected source excerpts used by the case; open the original for the complete record. Not an independent audit.",
+      "checked": "5 October 2026",
+      "snapshot": "snapshots/service-health-privacy.txt",
+      "hash": "cd9e32fd8b67f69e121dc55951608a717004c119c71a9c56b69aa41349452743",
+      "hashType": "SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes"
+    },
+    {
+      "id": "service-health-local-study",
+      "title": "ICMR local telemedicine research brief",
+      "url": "https://nihrjodhpur.icmr.org.in/uploads/policybriefs/1782386587_1.PolicyBrief_Telemedicine.pdf",
+      "documentDate": "2026 publication location; exact publication day not certified",
+      "publication": "2026 publication location; exact publication day not certified",
+      "status": "Government research brief",
+      "instrument": "ICMR local telemedicine research brief",
+      "sourceType": "Government research brief",
+      "snapshotKind": "Selected excerpts",
+      "description": "Selected source excerpts used by the case; open the original for the complete record. Not an independent audit.",
+      "checked": "5 October 2026",
+      "snapshot": "snapshots/service-health-local-study.txt",
+      "hash": "686bc2c3e16246bc912070d8d8f13125582c1008da1e3b62e75a212c0e2fdbdb",
+      "hashType": "SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes"
+    },
+    {
+      "id": "service-health-report",
+      "title": "NHSRC telemedicine utilisation study",
+      "url": "https://www.nhsrcindia.org/sites/default/files/2025-09/Telemedicine%20Final%20Report%202025.pdf",
+      "documentDate": "2025 report",
+      "publication": "2025 report",
+      "status": "Government programme study",
+      "instrument": "NHSRC telemedicine utilisation study",
+      "sourceType": "Government programme study",
+      "snapshotKind": "Selected excerpts",
+      "description": "Selected source excerpts used by the case; open the original for the complete record. Not an independent audit.",
+      "checked": "5 October 2026",
+      "snapshot": "snapshots/service-health-report.txt",
+      "hash": "1bc02507e708d5b1259f86f933cab8754762427c67a53a1cb8b8270ad15b2154",
+      "hashType": "SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes"
+    },
+    {
+      "id": "service-police-vendor",
+      "title": "Microsoft MahaCrimeOS feature",
+      "url": "https://news.microsoft.com/source/asia/features/a-race-against-time-maharashtra-police-get-an-ai-copilot-to-fight-cybercrime/",
+      "documentDate": "12 December 2025",
+      "publication": "12 December 2025",
+      "status": "Vendor account",
+      "instrument": "Microsoft MahaCrimeOS feature",
+      "sourceType": "Vendor account",
+      "snapshotKind": "Selected excerpts",
+      "description": "Selected source excerpts used by the case; open the original for the complete record. Not an independent audit.",
+      "checked": "5 October 2026",
+      "snapshot": "snapshots/service-police-vendor.txt",
+      "hash": "8c5e61d4c68510dd3992f9029b261acf2a19cb6ad955fc440003cae003957f28",
+      "hashType": "SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes"
+    },
+    {
+      "id": "service-police-summary",
+      "title": "Microsoft CrimeOS customer story",
+      "url": "https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS",
+      "documentDate": "Undated page; checked 5 October 2026",
+      "publication": "Undated page; checked 5 October 2026",
+      "status": "Vendor account",
+      "instrument": "Microsoft CrimeOS customer story",
+      "sourceType": "Vendor account",
+      "snapshotKind": "Selected excerpts",
+      "description": "Selected source excerpts used by the case; open the original for the complete record. Not an independent audit.",
+      "checked": "5 October 2026",
+      "snapshot": "snapshots/service-police-summary.txt",
+      "hash": "7747c779688352b6794a602e47f76d0a2b931d407301571b22ae9915ff0bf438",
+      "hashType": "SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes"
+    },
+    {
+      "id": "service-police-reporting",
+      "title": "Indian Express MahaCrimeOS reporting",
+      "url": "https://indianexpress.com/article/explained/mahacrimeos-ai-maharashtra-10418600/",
+      "documentDate": "14 December 2025",
+      "publication": "14 December 2025",
+      "status": "News reporting",
+      "instrument": "Indian Express MahaCrimeOS reporting",
+      "sourceType": "News reporting",
+      "snapshotKind": "Selected excerpts",
+      "description": "Selected source excerpts used by the case; open the original for the complete record. Not an independent audit.",
+      "checked": "5 October 2026",
+      "snapshot": "snapshots/service-police-reporting.txt",
+      "hash": "25a6211442c4e765724c7b74725b5ccb57f3c46add1816b2bb4d774e37b35129",
+      "hashType": "SHA-256 of selected extracted UTF-8 excerpts, not original PDF bytes"
     }
   ],
   "provisions": [
@@ -2792,6 +3061,1561 @@
       "contribution": true,
       "featured": false,
       "checked": "5 October 2026"
+    },
+    {
+      "id": "service-upsc",
+      "label": "UPSC face authentication",
+      "title": "UPSC face authentication: decision-accountability case",
+      "familyId": "service",
+      "type": "Public-service case",
+      "actor": "Public examinations",
+      "sector": "Public examinations",
+      "deploymentStage": "Official deployment reported",
+      "comparisonKind": "System claim to accountability evidence",
+      "legalStatus": "Official deployment reported",
+      "publicServiceCase": true,
+      "caseFields": [
+        {
+          "name": "Owner & purpose",
+          "status": "Documented",
+          "statement": "UPSC with technical support from NeGD; exam identity authentication.",
+          "evidence": [
+            {
+              "sourceId": "service-upsc-live",
+              "title": "UPSC face authentication implementation",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1",
+              "quote": "The face authentication application has been developed and implemented by UPSC with technical support from the National e-Governance Division (NeGD) of Ministry of Electronics and IT.",
+              "locator": "4 June release, implementation and developer"
+            }
+          ]
+        },
+        {
+          "name": "Decision role & affected people",
+          "status": "Partial",
+          "statement": "Mobile identity matching concerns examination candidates; detailed adverse-decision rules are not verified.",
+          "evidence": [
+            {
+              "sourceId": "service-upsc-october",
+              "title": "UPSC centenary current-status explanation",
+              "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317336&reg=48&lang=1",
+              "quote": "Following a pilot at select centres in Gurugram during the NDA & NA (II) and CDS (II) examinations in September 2025, the system was implemented at scale for the Civil Services (Preliminary) Examination on 24 May 2026, covering approximately 5.50 lakh candidates.",
+              "locator": "4 October release, examination reform"
+            },
+            {
+              "sourceId": "service-upsc-live",
+              "title": "UPSC face authentication implementation",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1",
+              "quote": "It works on any Android smartphone, and invigilators used their own mobile phones for the purpose, thereby reducing hardware costs and easing the logistical burden.",
+              "locator": "4 June release, mobile workflow"
+            }
+          ]
+        },
+        {
+          "name": "Deployment & date",
+          "status": "Documented",
+          "statement": "A September 2025 pilot and scaled use on 24 May 2026 are officially reported, with about 5.50 lakh candidates.",
+          "evidence": [
+            {
+              "sourceId": "service-upsc-october",
+              "title": "UPSC centenary current-status explanation",
+              "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317336&reg=48&lang=1",
+              "quote": "Following a pilot at select centres in Gurugram during the NDA & NA (II) and CDS (II) examinations in September 2025, the system was implemented at scale for the Civil Services (Preliminary) Examination on 24 May 2026, covering approximately 5.50 lakh candidates.",
+              "locator": "4 October release, examination reform"
+            }
+          ]
+        },
+        {
+          "name": "Procurement & supplier",
+          "status": "Partial",
+          "statement": "A 2024 PSU tender covered biometrics, facial recognition, QR scans and AI CCTV; the June record describes in-house development. The contract link between them is unverified.",
+          "evidence": [
+            {
+              "sourceId": "service-upsc-tender",
+              "title": "UPSC biometric/AI tender specification",
+              "url": "https://upsc.gov.in/sites/default/files/Tender-AadhaarQRFaceRecgAI-Corrgn_Eng-180724.pdf",
+              "quote": "Tender responses are invited from PSUs for Aadhaar based Fingerprint Authentication/Digital Fingerprint Capturing & Facial Recognition of Candidates, QR Code Scanning of e-Admit Cards and Live AI-based CCTV Surveillance",
+              "locator": "2024 tender, cover/scope"
+            },
+            {
+              "sourceId": "service-upsc-live",
+              "title": "UPSC face authentication implementation",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1",
+              "quote": "The face authentication application has been developed and implemented by UPSC with technical support from the National e-Governance Division (NeGD) of Ministry of Electronics and IT.",
+              "locator": "4 June release, implementation and developer"
+            }
+          ]
+        },
+        {
+          "name": "Funding & contract",
+          "status": "Not verified",
+          "statement": "n.a. Awarded supplier, current application budget and contract value were not verified; the tender alone is not an award.",
+          "evidence": []
+        },
+        {
+          "name": "Data & integration",
+          "status": "Partial",
+          "statement": "Invigilators' Android phones were used. The current data-flow diagram and device/data lifecycle were not verified.",
+          "evidence": [
+            {
+              "sourceId": "service-upsc-live",
+              "title": "UPSC face authentication implementation",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1",
+              "quote": "It works on any Android smartphone, and invigilators used their own mobile phones for the purpose, thereby reducing hardware costs and easing the logistical burden.",
+              "locator": "4 June release, mobile workflow"
+            }
+          ]
+        },
+        {
+          "name": "Evaluation & error rates",
+          "status": "Partial",
+          "statement": "UPSC reports six-to-eight-second typical authentication; no independent false-accept/reject or subgroup evaluation was verified.",
+          "evidence": [
+            {
+              "sourceId": "service-upsc-live",
+              "title": "UPSC face authentication implementation",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1",
+              "quote": "The time required for a typical face authentication of a candidate is only about 6–8 seconds, which ensured smooth entry and prevented queuing at examination centres.",
+              "locator": "4 June release, reported timing"
+            }
+          ]
+        },
+        {
+          "name": "Human review & overrides",
+          "status": "Partial",
+          "statement": "The older tender requires physical photo verification. The current mismatch/technical-failure SOP was not verified.",
+          "evidence": [
+            {
+              "sourceId": "service-upsc-tender",
+              "title": "UPSC biometric/AI tender specification",
+              "url": "https://upsc.gov.in/sites/default/files/Tender-AadhaarQRFaceRecgAI-Corrgn_Eng-180724.pdf",
+              "quote": "6.1.11 The Service Provider has to perform physical verification of candidates’ photos with Application Database (provided by UPSC) at the time of security gate entry.",
+              "locator": "2024 tender clause 6.1.11"
+            }
+          ]
+        },
+        {
+          "name": "Privacy & retention",
+          "status": "Partial",
+          "statement": "The older tender specifies encrypted cloud holding for at least one year or 30 days after final results, whichever is later. Applying it to the current mobile system is not established.",
+          "evidence": [
+            {
+              "sourceId": "service-upsc-tender",
+              "title": "UPSC biometric/AI tender specification",
+              "url": "https://upsc.gov.in/sites/default/files/Tender-AadhaarQRFaceRecgAI-Corrgn_Eng-180724.pdf",
+              "quote": "6.1.12 After the completion of the entire process as per the scope of work, the Service Provider will hold the data on its Secured Cloud Server with 256-bit encryption for a minimum period of one (01) year from the date of the examination or 30 days after the declaration of final result of the examination, whichever is later.",
+              "locator": "2024 tender clause 6.1.12"
+            }
+          ]
+        },
+        {
+          "name": "Complaints & appeal",
+          "status": "Not verified",
+          "statement": "n.a. A system-specific candidate mismatch appeal, deadline and non-biometric fallback were not verified.",
+          "evidence": []
+        },
+        {
+          "name": "Public outputs & access",
+          "status": "Partial",
+          "statement": "UPSC publishes implementation descriptions; the actual current failure-handling SOP, audit and test report were not obtained.",
+          "evidence": [
+            {
+              "sourceId": "service-upsc-live",
+              "title": "UPSC face authentication implementation",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1",
+              "quote": "The face authentication application has been developed and implemented by UPSC with technical support from the National e-Governance Division (NeGD) of Ministry of Electronics and IT.",
+              "locator": "4 June release, implementation and developer"
+            },
+            {
+              "sourceId": "service-upsc-october",
+              "title": "UPSC centenary current-status explanation",
+              "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317336&reg=48&lang=1",
+              "quote": "Following a pilot at select centres in Gurugram during the NDA & NA (II) and CDS (II) examinations in September 2025, the system was implemented at scale for the Civil Services (Preliminary) Examination on 24 May 2026, covering approximately 5.50 lakh candidates.",
+              "locator": "4 October release, examination reform"
+            }
+          ]
+        },
+        {
+          "name": "Current-status limits",
+          "status": "Partial",
+          "statement": "The October source confirms reported scaled use, not independently audited accuracy or every current operational detail.",
+          "evidence": [
+            {
+              "sourceId": "service-upsc-october",
+              "title": "UPSC centenary current-status explanation",
+              "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317336&reg=48&lang=1",
+              "quote": "Following a pilot at select centres in Gurugram during the NDA & NA (II) and CDS (II) examinations in September 2025, the system was implemented at scale for the Civil Services (Preliminary) Examination on 24 May 2026, covering approximately 5.50 lakh candidates.",
+              "locator": "4 October release, examination reform"
+            }
+          ]
+        }
+      ],
+      "checked": "5 October 2026",
+      "summary": "UPSC reports nationwide mobile face authentication in May 2026; the current application is described as developed with NeGD support.",
+      "interpretation": "Identity verification can affect entry to an examination. Throughput, coverage and an older tender are not a measured false-rejection rate or proof that a rejected candidate has a documented fallback route.",
+      "caution": "Do not equate the 2024 biometric/CCTV procurement package with the 2026 in-house mobile application. Tender requirements are not current deployed behaviour. No candidate case or device inspection was undertaken.",
+      "question": "Which decision can this system influence, what evidence supports its use, and how can a person obtain human review?",
+      "draftLabel": "4 June release, implementation and developer",
+      "draftLocator": "4 June release, implementation and developer",
+      "finalLocator": "4 October release, examination reform",
+      "draftUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1",
+      "finalUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317336&reg=48&lang=1",
+      "beforeSourceId": "service-upsc-live",
+      "afterSourceId": "service-upsc-october",
+      "beforeLabel": "SYSTEM RECORD",
+      "afterLabel": "SUPPORTING RECORD",
+      "draftText": "The face authentication application has been developed and implemented by UPSC with technical support from the National e-Governance Division (NeGD) of Ministry of Electronics and IT.",
+      "finalText": "Following a pilot at select centres in Gurugram during the NDA & NA (II) and CDS (II) examinations in September 2025, the system was implemented at scale for the Civil Services (Preliminary) Examination on 24 May 2026, covering approximately 5.50 lakh candidates.",
+      "correctedText": "Following a pilot at select centres in Gurugram during the NDA & NA (II) and CDS (II) examinations in September 2025, the system was implemented at scale for the Civil Services (Preliminary) Examination on 24 May 2026, covering approximately 5.50 lakh candidates.",
+      "beforeExcerpt": "The face authentication application has been developed and implemented by UPSC with technical support from the National e-Governance Division (NeGD) of Ministry of Electronics and IT.",
+      "afterExcerpt": "Following a pilot at select centres in Gurugram during the NDA & NA (II) and CDS (II) examinations in September 2025, the system was implemented at scale for the Civil Services (Preliminary) Examination on 24 May 2026, covering approximately 5.50 lakh candidates.",
+      "draftPage": 0,
+      "finalPage": 0,
+      "evidenceTrail": [
+        {
+          "sourceId": "service-upsc-live",
+          "title": "UPSC face authentication implementation",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1",
+          "quote": "The face authentication application has been developed and implemented by UPSC with technical support from the National e-Governance Division (NeGD) of Ministry of Electronics and IT.",
+          "locator": "4 June release, implementation and developer"
+        },
+        {
+          "sourceId": "service-upsc-october",
+          "title": "UPSC centenary current-status explanation",
+          "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317336&reg=48&lang=1",
+          "quote": "Following a pilot at select centres in Gurugram during the NDA & NA (II) and CDS (II) examinations in September 2025, the system was implemented at scale for the Civil Services (Preliminary) Examination on 24 May 2026, covering approximately 5.50 lakh candidates.",
+          "locator": "4 October release, examination reform"
+        },
+        {
+          "sourceId": "service-upsc-live",
+          "title": "UPSC face authentication implementation",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1",
+          "quote": "It works on any Android smartphone, and invigilators used their own mobile phones for the purpose, thereby reducing hardware costs and easing the logistical burden.",
+          "locator": "4 June release, mobile workflow"
+        },
+        {
+          "sourceId": "service-upsc-tender",
+          "title": "UPSC biometric/AI tender specification",
+          "url": "https://upsc.gov.in/sites/default/files/Tender-AadhaarQRFaceRecgAI-Corrgn_Eng-180724.pdf",
+          "quote": "Tender responses are invited from PSUs for Aadhaar based Fingerprint Authentication/Digital Fingerprint Capturing & Facial Recognition of Candidates, QR Code Scanning of e-Admit Cards and Live AI-based CCTV Surveillance",
+          "locator": "2024 tender, cover/scope"
+        },
+        {
+          "sourceId": "service-upsc-live",
+          "title": "UPSC face authentication implementation",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1",
+          "quote": "The time required for a typical face authentication of a candidate is only about 6–8 seconds, which ensured smooth entry and prevented queuing at examination centres.",
+          "locator": "4 June release, reported timing"
+        },
+        {
+          "sourceId": "service-upsc-tender",
+          "title": "UPSC biometric/AI tender specification",
+          "url": "https://upsc.gov.in/sites/default/files/Tender-AadhaarQRFaceRecgAI-Corrgn_Eng-180724.pdf",
+          "quote": "6.1.11 The Service Provider has to perform physical verification of candidates’ photos with Application Database (provided by UPSC) at the time of security gate entry.",
+          "locator": "2024 tender clause 6.1.11"
+        },
+        {
+          "sourceId": "service-upsc-tender",
+          "title": "UPSC biometric/AI tender specification",
+          "url": "https://upsc.gov.in/sites/default/files/Tender-AadhaarQRFaceRecgAI-Corrgn_Eng-180724.pdf",
+          "quote": "6.1.12 After the completion of the entire process as per the scope of work, the Service Provider will hold the data on its Secured Cloud Server with 256-bit encryption for a minimum period of one (01) year from the date of the examination or 30 days after the declaration of final result of the examination, whichever is later.",
+          "locator": "2024 tender clause 6.1.12"
+        }
+      ],
+      "requestChecklist": [
+        "Current face-authentication SOP, including mismatch and offline fallback",
+        "Contract/award lineage distinguishing biometric CCTV tender from mobile app",
+        "False-rejection/acceptance and subgroup test results",
+        "Data-flow, device deletion and retention policy",
+        "Candidate review route and anonymised error-resolution records"
+      ],
+      "correctionIds": [],
+      "contribution": true,
+      "featured": false,
+      "evidenceScope": "Twelve accountability dimensions, all retained even when unverified. A case file, not a word-aligned legal redline.",
+      "reviewStatus": "Analyst-reviewed source corpus; not a system audit, patient advice or current legal-procedure certification."
+    },
+    {
+      "id": "service-cyberguard",
+      "label": "I4C CyberGuard",
+      "title": "I4C CyberGuard: decision-accountability case",
+      "familyId": "service",
+      "type": "Public-service case",
+      "actor": "Cybercrime administration",
+      "sector": "Cybercrime administration",
+      "deploymentStage": "Official integration reported",
+      "comparisonKind": "System claim to accountability evidence",
+      "legalStatus": "Official integration reported",
+      "publicServiceCase": true,
+      "caseFields": [
+        {
+          "name": "Owner & purpose",
+          "status": "Documented",
+          "statement": "IndiaAI and I4C developed a challenge around NCRP complaint classification and crime-pattern identification.",
+          "evidence": [
+            {
+              "sourceId": "service-cyber-winners",
+              "title": "CyberGuard hackathon results",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2132817&reg=3&lang=1",
+              "quote": "The Hackathon resulted in the development of AI-based solutions to enhance the classification of cybercrime complaints and support the identification of emerging crime patterns, trends, and modus operandi on the National Cyber Crime Reporting Portal (NCRP).",
+              "locator": "Hackathon explanation"
+            }
+          ]
+        },
+        {
+          "name": "Decision role & affected people",
+          "status": "Partial",
+          "statement": "The task is complaint classification/pattern support; effects on registration, prioritisation and investigations are not specified in the reviewed record.",
+          "evidence": [
+            {
+              "sourceId": "service-cyber-winners",
+              "title": "CyberGuard hackathon results",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2132817&reg=3&lang=1",
+              "quote": "The Hackathon resulted in the development of AI-based solutions to enhance the classification of cybercrime complaints and support the identification of emerging crime patterns, trends, and modus operandi on the National Cyber Crime Reporting Portal (NCRP).",
+              "locator": "Hackathon explanation"
+            }
+          ]
+        },
+        {
+          "name": "Deployment & date",
+          "status": "Documented",
+          "statement": "The 29 July official record reports integration with I4C systems.",
+          "evidence": [
+            {
+              "sourceId": "impl-mission-status",
+              "title": "IndiaAI Mission governance progress explanation",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291062&reg=48&lang=1",
+              "quote": "The shortlisted solution has been integrated with I4C systems.",
+              "locator": "29 July release, CyberGuard paragraph"
+            }
+          ]
+        },
+        {
+          "name": "Procurement & supplier",
+          "status": "Partial",
+          "statement": "The results list winning organisations. Which finalist supplied the integrated production system and on what contract is not verified.",
+          "evidence": [
+            {
+              "sourceId": "service-cyber-winners",
+              "title": "CyberGuard hackathon results",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2132817&reg=3&lang=1",
+              "quote": "Winners of IndiaAI I4C CyberGuard AI Hackathon Team Lead Names of the Team members Affiliated Organization Nisarg Gandhi Patel Darshankumar Shankarbhai and Bhensdadiya Kevin Vasantbhai S4AI Technologies LLP Lasya Ippagunta Shubham Luharuka and Puneet Hegde CloudSEK Information Security Limited Meet Bisht Rohit Ganaka and Yukta Chauhan Voldebug Innovations Pvt. Ltd.",
+              "locator": "Annexure I, winner table"
+            }
+          ]
+        },
+        {
+          "name": "Funding & contract",
+          "status": "Not verified",
+          "statement": "n.a. Production award, fees, ongoing support terms and project-specific expenditure were not verified.",
+          "evidence": []
+        },
+        {
+          "name": "Data & integration",
+          "status": "Partial",
+          "statement": "The challenge description mentions handwritten FIRs, screenshots and audio calls. The production ingestion schema and access controls were not verified.",
+          "evidence": [
+            {
+              "sourceId": "service-cyber-winners",
+              "title": "CyberGuard hackathon results",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2132817&reg=3&lang=1",
+              "quote": "These models can interpret complex inputs such as handwritten FIRs, screenshots, and audio calls with improved speed and accuracy.",
+              "locator": "Hackathon explanation, supported inputs"
+            }
+          ]
+        },
+        {
+          "name": "Evaluation & error rates",
+          "status": "Not verified",
+          "statement": "n.a. 'Improved speed and accuracy' is an official qualitative claim, not a production benchmark with error distributions.",
+          "evidence": [
+            {
+              "sourceId": "service-cyber-winners",
+              "title": "CyberGuard hackathon results",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2132817&reg=3&lang=1",
+              "quote": "These models can interpret complex inputs such as handwritten FIRs, screenshots, and audio calls with improved speed and accuracy.",
+              "locator": "Hackathon explanation, supported inputs"
+            }
+          ]
+        },
+        {
+          "name": "Human review & overrides",
+          "status": "Not verified",
+          "statement": "n.a. Human correction, routing overrides and audit-log procedures were not verified.",
+          "evidence": []
+        },
+        {
+          "name": "Privacy & retention",
+          "status": "Not verified",
+          "statement": "n.a. System-specific retention, training reuse, processors and minimisation rules were not verified.",
+          "evidence": []
+        },
+        {
+          "name": "Complaints & appeal",
+          "status": "Not verified",
+          "statement": "n.a. A classifier-specific correction/appeal route was not verified; ordinary cybercrime reporting is not proof of an AI-error appeal.",
+          "evidence": []
+        },
+        {
+          "name": "Public outputs & access",
+          "status": "Partial",
+          "statement": "The winner table and integration statement are public; no production model card or evaluation report was verified.",
+          "evidence": [
+            {
+              "sourceId": "service-cyber-winners",
+              "title": "CyberGuard hackathon results",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2132817&reg=3&lang=1",
+              "quote": "Winners of IndiaAI I4C CyberGuard AI Hackathon Team Lead Names of the Team members Affiliated Organization Nisarg Gandhi Patel Darshankumar Shankarbhai and Bhensdadiya Kevin Vasantbhai S4AI Technologies LLP Lasya Ippagunta Shubham Luharuka and Puneet Hegde CloudSEK Information Security Limited Meet Bisht Rohit Ganaka and Yukta Chauhan Voldebug Innovations Pvt. Ltd.",
+              "locator": "Annexure I, winner table"
+            },
+            {
+              "sourceId": "impl-mission-status",
+              "title": "IndiaAI Mission governance progress explanation",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291062&reg=48&lang=1",
+              "quote": "The shortlisted solution has been integrated with I4C systems.",
+              "locator": "29 July release, CyberGuard paragraph"
+            }
+          ]
+        },
+        {
+          "name": "Current-status limits",
+          "status": "Partial",
+          "statement": "Official integration is documented as a source claim; live access, coverage and decision impact were not independently tested.",
+          "evidence": [
+            {
+              "sourceId": "impl-mission-status",
+              "title": "IndiaAI Mission governance progress explanation",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291062&reg=48&lang=1",
+              "quote": "The shortlisted solution has been integrated with I4C systems.",
+              "locator": "29 July release, CyberGuard paragraph"
+            }
+          ]
+        }
+      ],
+      "checked": "5 October 2026",
+      "summary": "Government reporting says the shortlisted classifier was integrated with I4C systems; the hackathon results identify teams but do not identify an executed production contract.",
+      "interpretation": "Complaint classification may influence routing and prioritisation, but the records do not establish that a model decides FIR registration or rejects a complaint. Research metrics from a different hackathon entry cannot be transferred to the production system.",
+      "caution": "Winner selection is not proof of the deployed supplier or a service contract. Integration does not establish measured operational accuracy, complaint outcomes, or automatic adverse decisions.",
+      "question": "Which decision can this system influence, what evidence supports its use, and how can a person obtain human review?",
+      "draftLabel": "Hackathon explanation",
+      "draftLocator": "Hackathon explanation",
+      "finalLocator": "29 July release, CyberGuard paragraph",
+      "draftUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2132817&reg=3&lang=1",
+      "finalUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291062&reg=48&lang=1",
+      "beforeSourceId": "service-cyber-winners",
+      "afterSourceId": "impl-mission-status",
+      "beforeLabel": "SYSTEM RECORD",
+      "afterLabel": "SUPPORTING RECORD",
+      "draftText": "The Hackathon resulted in the development of AI-based solutions to enhance the classification of cybercrime complaints and support the identification of emerging crime patterns, trends, and modus operandi on the National Cyber Crime Reporting Portal (NCRP).",
+      "finalText": "The shortlisted solution has been integrated with I4C systems.",
+      "correctedText": "The shortlisted solution has been integrated with I4C systems.",
+      "beforeExcerpt": "The Hackathon resulted in the development of AI-based solutions to enhance the classification of cybercrime complaints and support the identification of emerging crime patterns, trends, and modus operandi on the National Cyber Crime Reporting Portal (NCRP).",
+      "afterExcerpt": "The shortlisted solution has been integrated with I4C systems.",
+      "draftPage": 0,
+      "finalPage": 0,
+      "evidenceTrail": [
+        {
+          "sourceId": "service-cyber-winners",
+          "title": "CyberGuard hackathon results",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2132817&reg=3&lang=1",
+          "quote": "The Hackathon resulted in the development of AI-based solutions to enhance the classification of cybercrime complaints and support the identification of emerging crime patterns, trends, and modus operandi on the National Cyber Crime Reporting Portal (NCRP).",
+          "locator": "Hackathon explanation"
+        },
+        {
+          "sourceId": "impl-mission-status",
+          "title": "IndiaAI Mission governance progress explanation",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291062&reg=48&lang=1",
+          "quote": "The shortlisted solution has been integrated with I4C systems.",
+          "locator": "29 July release, CyberGuard paragraph"
+        },
+        {
+          "sourceId": "service-cyber-winners",
+          "title": "CyberGuard hackathon results",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2132817&reg=3&lang=1",
+          "quote": "Winners of IndiaAI I4C CyberGuard AI Hackathon Team Lead Names of the Team members Affiliated Organization Nisarg Gandhi Patel Darshankumar Shankarbhai and Bhensdadiya Kevin Vasantbhai S4AI Technologies LLP Lasya Ippagunta Shubham Luharuka and Puneet Hegde CloudSEK Information Security Limited Meet Bisht Rohit Ganaka and Yukta Chauhan Voldebug Innovations Pvt. Ltd.",
+          "locator": "Annexure I, winner table"
+        },
+        {
+          "sourceId": "service-cyber-winners",
+          "title": "CyberGuard hackathon results",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2132817&reg=3&lang=1",
+          "quote": "These models can interpret complex inputs such as handwritten FIRs, screenshots, and audio calls with improved speed and accuracy.",
+          "locator": "Hackathon explanation, supported inputs"
+        }
+      ],
+      "requestChecklist": [
+        "Production supplier and acceptance/award documents",
+        "Classification taxonomy and human routing/override SOP",
+        "Production evaluation across Indian languages and error severity",
+        "Retention, access and training-use rules",
+        "Mechanism to correct a misclassified complaint"
+      ],
+      "correctionIds": [],
+      "contribution": true,
+      "featured": false,
+      "evidenceScope": "Twelve accountability dimensions, all retained even when unverified. A case file, not a word-aligned legal redline.",
+      "reviewStatus": "Analyst-reviewed source corpus; not a system audit, patient advice or current legal-procedure certification."
+    },
+    {
+      "id": "service-suvas",
+      "label": "SUVAS judicial translation",
+      "title": "SUVAS judicial translation: decision-accountability case",
+      "familyId": "service",
+      "type": "Public-service case",
+      "actor": "Judicial access",
+      "sector": "Judicial access",
+      "deploymentStage": "Official use reported",
+      "comparisonKind": "System claim to accountability evidence",
+      "legalStatus": "Official use reported",
+      "publicServiceCase": true,
+      "caseFields": [
+        {
+          "name": "Owner & purpose",
+          "status": "Documented",
+          "statement": "Supreme Court SUVAS translates judgments and orders to vernacular languages.",
+          "evidence": [
+            {
+              "sourceId": "service-judiciary",
+              "title": "Official judicial AI backgrounder",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+              "quote": "For this, **SUVAS** **(Supreme Court Vidhik Anuvaad Software)**, an AI-driven translation tool of the Supreme Court, converts English judgments and orders into vernacular languages, enhancing accessibility and regional language use in courts. These translated judgments are hosted on the **e-SCR portal**, significantly expanding public access.",
+              "locator": "Judgment translation section"
+            }
+          ]
+        },
+        {
+          "name": "Decision role & affected people",
+          "status": "Documented",
+          "statement": "Translation supports people reading court records; it is not itself a decision on the merits of a case.",
+          "evidence": [
+            {
+              "sourceId": "service-judiciary",
+              "title": "Official judicial AI backgrounder",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+              "quote": "For this, **SUVAS** **(Supreme Court Vidhik Anuvaad Software)**, an AI-driven translation tool of the Supreme Court, converts English judgments and orders into vernacular languages, enhancing accessibility and regional language use in courts. These translated judgments are hosted on the **e-SCR portal**, significantly expanding public access.",
+              "locator": "Judgment translation section"
+            },
+            {
+              "sourceId": "service-judiciary",
+              "title": "Official judicial AI backgrounder",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+              "quote": "**Supreme Court and High Court AI Translation Committees** oversee quality and constitutional accuracy. AI use remains assistive, with translations reviewed within judicial frameworks to support access to justice.",
+              "locator": "Translation committee oversight"
+            }
+          ]
+        },
+        {
+          "name": "Deployment & date",
+          "status": "Documented",
+          "statement": "The February official explanation reports use and hosting on e-SCR; current court-by-court coverage is not certified.",
+          "evidence": [
+            {
+              "sourceId": "service-judiciary",
+              "title": "Official judicial AI backgrounder",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+              "quote": "For this, **SUVAS** **(Supreme Court Vidhik Anuvaad Software)**, an AI-driven translation tool of the Supreme Court, converts English judgments and orders into vernacular languages, enhancing accessibility and regional language use in courts. These translated judgments are hosted on the **e-SCR portal**, significantly expanding public access.",
+              "locator": "Judgment translation section"
+            }
+          ]
+        },
+        {
+          "name": "Procurement & supplier",
+          "status": "Not verified",
+          "statement": "n.a. Software/model contract, procurement award and current supplier chain were not verified.",
+          "evidence": []
+        },
+        {
+          "name": "Funding & contract",
+          "status": "Partial",
+          "statement": "The historical Allahabad notice quotes Re. 1 per English-source word for vetting; this is not a national software budget.",
+          "evidence": [
+            {
+              "sourceId": "service-translation-vetting",
+              "title": "Allahabad translation-vetting notice",
+              "url": "https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf",
+              "quote": "The remuneration for vetting & correction of the software generated translation of the judgments of this Court will be paid at the rate of Re. 1/- per word of the English version.",
+              "locator": "Allahabad notice, remuneration"
+            }
+          ]
+        },
+        {
+          "name": "Data & integration",
+          "status": "Partial",
+          "statement": "English judgments/orders are translated; model training, confidential-case exclusions and processor access were not verified.",
+          "evidence": [
+            {
+              "sourceId": "service-judiciary",
+              "title": "Official judicial AI backgrounder",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+              "quote": "For this, **SUVAS** **(Supreme Court Vidhik Anuvaad Software)**, an AI-driven translation tool of the Supreme Court, converts English judgments and orders into vernacular languages, enhancing accessibility and regional language use in courts. These translated judgments are hosted on the **e-SCR portal**, significantly expanding public access.",
+              "locator": "Judgment translation section"
+            }
+          ]
+        },
+        {
+          "name": "Evaluation & error rates",
+          "status": "Not verified",
+          "statement": "n.a. Independent legal-semantic error rates by language, case type and model version were not verified.",
+          "evidence": []
+        },
+        {
+          "name": "Human review & overrides",
+          "status": "Documented",
+          "statement": "Translation committees are described, and the Allahabad notice requires vetting/correction and certification. Coverage of that process is local, not universal.",
+          "evidence": [
+            {
+              "sourceId": "service-judiciary",
+              "title": "Official judicial AI backgrounder",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+              "quote": "**Supreme Court and High Court AI Translation Committees** oversee quality and constitutional accuracy. AI use remains assistive, with translations reviewed within judicial frameworks to support access to justice.",
+              "locator": "Translation committee oversight"
+            },
+            {
+              "sourceId": "service-translation-vetting",
+              "title": "Allahabad translation-vetting notice",
+              "url": "https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf",
+              "quote": "After due vetting & corrections, the said Vetters shall return the same, certifying the correctness of the translation.",
+              "locator": "Allahabad notice, condition 2"
+            }
+          ]
+        },
+        {
+          "name": "Privacy & retention",
+          "status": "Not verified",
+          "statement": "n.a. Tool-specific retention, confidential-document handling and training-data reuse rules were not verified.",
+          "evidence": []
+        },
+        {
+          "name": "Complaints & appeal",
+          "status": "Partial",
+          "statement": "The notice requires a disclaimer but does not establish a national translation-error appeal route.",
+          "evidence": [
+            {
+              "sourceId": "service-translation-vetting",
+              "title": "Allahabad translation-vetting notice",
+              "url": "https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf",
+              "quote": "A disclaimer shall be included in the footer of each page of the vetted judgment.",
+              "locator": "Allahabad notice, condition 4"
+            }
+          ]
+        },
+        {
+          "name": "Public outputs & access",
+          "status": "Documented",
+          "statement": "The official explanation reports translated judgments on e-SCR; the local notice exposes a review mechanism.",
+          "evidence": [
+            {
+              "sourceId": "service-judiciary",
+              "title": "Official judicial AI backgrounder",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+              "quote": "For this, **SUVAS** **(Supreme Court Vidhik Anuvaad Software)**, an AI-driven translation tool of the Supreme Court, converts English judgments and orders into vernacular languages, enhancing accessibility and regional language use in courts. These translated judgments are hosted on the **e-SCR portal**, significantly expanding public access.",
+              "locator": "Judgment translation section"
+            },
+            {
+              "sourceId": "service-translation-vetting",
+              "title": "Allahabad translation-vetting notice",
+              "url": "https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf",
+              "quote": "High Court of Judicature at Allahabad invites application from desirous Advocates practising at this High Court to create a panel of Vetters for vetting of software generated translation of its Reportable Judgments from English into Hindi.",
+              "locator": "Allahabad notice, opening"
+            }
+          ]
+        },
+        {
+          "name": "Current-status limits",
+          "status": "Partial",
+          "statement": "The reviewed records support assistive translation use, not perfect equivalence or current uniform governance across courts.",
+          "evidence": [
+            {
+              "sourceId": "service-judiciary",
+              "title": "Official judicial AI backgrounder",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+              "quote": "**Supreme Court and High Court AI Translation Committees** oversee quality and constitutional accuracy. AI use remains assistive, with translations reviewed within judicial frameworks to support access to justice.",
+              "locator": "Translation committee oversight"
+            }
+          ]
+        }
+      ],
+      "checked": "5 October 2026",
+      "summary": "The official backgrounder describes translations hosted on e-SCR and judicial translation committees; a separate Allahabad notice documents a local vetting workflow.",
+      "interpretation": "A translation aids access to a judgment but is not an automated judicial determination. The local vetting record shows concrete human review, without establishing one nationwide SOP or a current universal correction route.",
+      "caution": "The 2023 Allahabad process is jurisdiction-specific and historical. Do not infer that its remuneration, panel or disclaimer governs every court or every current SUVAS output.",
+      "question": "Which decision can this system influence, what evidence supports its use, and how can a person obtain human review?",
+      "draftLabel": "Judgment translation section",
+      "draftLocator": "Judgment translation section",
+      "finalLocator": "Translation committee oversight",
+      "draftUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+      "finalUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+      "beforeSourceId": "service-judiciary",
+      "afterSourceId": "service-judiciary",
+      "beforeLabel": "SYSTEM RECORD",
+      "afterLabel": "SUPPORTING RECORD",
+      "draftText": "For this, **SUVAS** **(Supreme Court Vidhik Anuvaad Software)**, an AI-driven translation tool of the Supreme Court, converts English judgments and orders into vernacular languages, enhancing accessibility and regional language use in courts. These translated judgments are hosted on the **e-SCR portal**, significantly expanding public access.",
+      "finalText": "**Supreme Court and High Court AI Translation Committees** oversee quality and constitutional accuracy. AI use remains assistive, with translations reviewed within judicial frameworks to support access to justice.",
+      "correctedText": "**Supreme Court and High Court AI Translation Committees** oversee quality and constitutional accuracy. AI use remains assistive, with translations reviewed within judicial frameworks to support access to justice.",
+      "beforeExcerpt": "For this, **SUVAS** **(Supreme Court Vidhik Anuvaad Software)**, an AI-driven translation tool of the Supreme Court, converts English judgments and orders into vernacular languages, enhancing accessibility and regional language use in courts. These translated judgments are hosted on the **e-SCR portal**, significantly expanding public access.",
+      "afterExcerpt": "**Supreme Court and High Court AI Translation Committees** oversee quality and constitutional accuracy. AI use remains assistive, with translations reviewed within judicial frameworks to support access to justice.",
+      "draftPage": 0,
+      "finalPage": 0,
+      "evidenceTrail": [
+        {
+          "sourceId": "service-judiciary",
+          "title": "Official judicial AI backgrounder",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+          "quote": "For this, **SUVAS** **(Supreme Court Vidhik Anuvaad Software)**, an AI-driven translation tool of the Supreme Court, converts English judgments and orders into vernacular languages, enhancing accessibility and regional language use in courts. These translated judgments are hosted on the **e-SCR portal**, significantly expanding public access.",
+          "locator": "Judgment translation section"
+        },
+        {
+          "sourceId": "service-judiciary",
+          "title": "Official judicial AI backgrounder",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+          "quote": "**Supreme Court and High Court AI Translation Committees** oversee quality and constitutional accuracy. AI use remains assistive, with translations reviewed within judicial frameworks to support access to justice.",
+          "locator": "Translation committee oversight"
+        },
+        {
+          "sourceId": "service-translation-vetting",
+          "title": "Allahabad translation-vetting notice",
+          "url": "https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf",
+          "quote": "The remuneration for vetting & correction of the software generated translation of the judgments of this Court will be paid at the rate of Re. 1/- per word of the English version.",
+          "locator": "Allahabad notice, remuneration"
+        },
+        {
+          "sourceId": "service-translation-vetting",
+          "title": "Allahabad translation-vetting notice",
+          "url": "https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf",
+          "quote": "After due vetting & corrections, the said Vetters shall return the same, certifying the correctness of the translation.",
+          "locator": "Allahabad notice, condition 2"
+        },
+        {
+          "sourceId": "service-translation-vetting",
+          "title": "Allahabad translation-vetting notice",
+          "url": "https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf",
+          "quote": "A disclaimer shall be included in the footer of each page of the vetted judgment.",
+          "locator": "Allahabad notice, condition 4"
+        },
+        {
+          "sourceId": "service-translation-vetting",
+          "title": "Allahabad translation-vetting notice",
+          "url": "https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf",
+          "quote": "High Court of Judicature at Allahabad invites application from desirous Advocates practising at this High Court to create a panel of Vetters for vetting of software generated translation of its Reportable Judgments from English into Hindi.",
+          "locator": "Allahabad notice, opening"
+        }
+      ],
+      "requestChecklist": [
+        "Current court-specific translation SOP and disclaimer",
+        "Error correction route and turnaround",
+        "Language-specific validation and approved-version logs",
+        "Vendor/model/procurement and data-processing records",
+        "Handling of sealed, sensitive or personal data"
+      ],
+      "correctionIds": [],
+      "contribution": true,
+      "featured": false,
+      "evidenceScope": "Twelve accountability dimensions, all retained even when unverified. A case file, not a word-aligned legal redline.",
+      "reviewStatus": "Analyst-reviewed source corpus; not a system audit, patient advice or current legal-procedure certification."
+    },
+    {
+      "id": "service-supace",
+      "label": "SUPACE research assistance",
+      "title": "SUPACE research assistance: decision-accountability case",
+      "familyId": "service",
+      "type": "Public-service case",
+      "actor": "Judicial administration",
+      "sector": "Judicial administration",
+      "deploymentStage": "Experimental in reviewed official record",
+      "comparisonKind": "System claim to accountability evidence",
+      "legalStatus": "Experimental in reviewed official record",
+      "publicServiceCase": true,
+      "caseFields": [
+        {
+          "name": "Owner & purpose",
+          "status": "Documented",
+          "statement": "Supreme Court research-assistance system for identifying precedents and case facts.",
+          "evidence": [
+            {
+              "sourceId": "service-judiciary",
+              "title": "Official judicial AI backgrounder",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+              "quote": "The **Supreme Court Portal for Assistance in Court Efficiency (SUPACE)** is an AI-based system **designed to help identify relevant precedents and understand the factual matrix of cases**. SUPACE remains in an experimental stage and is not yet deployed for regular judicial use.",
+              "locator": "SUPACE research-assistance section"
+            }
+          ]
+        },
+        {
+          "name": "Decision role & affected people",
+          "status": "Partial",
+          "statement": "The stated role is assistance with relevant material, not autonomous adjudication; operational influence on actual cases is unverified.",
+          "evidence": [
+            {
+              "sourceId": "service-judiciary",
+              "title": "Official judicial AI backgrounder",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+              "quote": "The **Supreme Court Portal for Assistance in Court Efficiency (SUPACE)** is an AI-based system **designed to help identify relevant precedents and understand the factual matrix of cases**. SUPACE remains in an experimental stage and is not yet deployed for regular judicial use.",
+              "locator": "SUPACE research-assistance section"
+            }
+          ]
+        },
+        {
+          "name": "Deployment & date",
+          "status": "Documented",
+          "statement": "The February official source describes experimental status and no regular judicial use, rather than completed deployment.",
+          "evidence": [
+            {
+              "sourceId": "service-judiciary",
+              "title": "Official judicial AI backgrounder",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+              "quote": "The **Supreme Court Portal for Assistance in Court Efficiency (SUPACE)** is an AI-based system **designed to help identify relevant precedents and understand the factual matrix of cases**. SUPACE remains in an experimental stage and is not yet deployed for regular judicial use.",
+              "locator": "SUPACE research-assistance section"
+            }
+          ]
+        },
+        {
+          "name": "Procurement & supplier",
+          "status": "Not verified",
+          "statement": "n.a. Current supplier, procurement award, GPU/infrastructure contract and production acceptance were not verified.",
+          "evidence": []
+        },
+        {
+          "name": "Funding & contract",
+          "status": "Not verified",
+          "statement": "n.a. SUPACE-specific budget and expenditure were not verified; an eCourts-wide allocation is not a system budget.",
+          "evidence": []
+        },
+        {
+          "name": "Data & integration",
+          "status": "Partial",
+          "statement": "The source describes precedent and factual-matrix assistance; actual ingestion, training and access-control configuration are unverified.",
+          "evidence": [
+            {
+              "sourceId": "service-judiciary",
+              "title": "Official judicial AI backgrounder",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+              "quote": "The **Supreme Court Portal for Assistance in Court Efficiency (SUPACE)** is an AI-based system **designed to help identify relevant precedents and understand the factual matrix of cases**. SUPACE remains in an experimental stage and is not yet deployed for regular judicial use.",
+              "locator": "SUPACE research-assistance section"
+            }
+          ]
+        },
+        {
+          "name": "Evaluation & error rates",
+          "status": "Not verified",
+          "statement": "n.a. Current independent citation, omission and hallucination tests or courtroom outcome evaluations were not verified.",
+          "evidence": []
+        },
+        {
+          "name": "Human review & overrides",
+          "status": "Partial",
+          "statement": "The June draft proposes assistive operation and human primacy; this proposal is not proof of an enacted or implemented operational SOP.",
+          "evidence": [
+            {
+              "sourceId": "service-court-draft",
+              "title": "Court AI consultation draft",
+              "url": "https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/06/2026060342.pdf",
+              "quote": "(2) Every AI System shall function solely in an assistive capacity and shall not supplant or compromise the independent exercise of judicial authority by a duly appointed judicial officer.",
+              "locator": "Draft human-primacy provision"
+            }
+          ]
+        },
+        {
+          "name": "Privacy & retention",
+          "status": "Not verified",
+          "statement": "n.a. System-specific confidential-case handling, data retention and model-provider terms were not verified.",
+          "evidence": []
+        },
+        {
+          "name": "Complaints & appeal",
+          "status": "Not verified",
+          "statement": "n.a. A system-output correction/objection route was not verified; ordinary judicial remedies are not analysed here.",
+          "evidence": []
+        },
+        {
+          "name": "Public outputs & access",
+          "status": "Partial",
+          "statement": "Official descriptions and a draft governance instrument are public; no current public operational/test record was verified.",
+          "evidence": [
+            {
+              "sourceId": "service-judiciary",
+              "title": "Official judicial AI backgrounder",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+              "quote": "The **Supreme Court Portal for Assistance in Court Efficiency (SUPACE)** is an AI-based system **designed to help identify relevant precedents and understand the factual matrix of cases**. SUPACE remains in an experimental stage and is not yet deployed for regular judicial use.",
+              "locator": "SUPACE research-assistance section"
+            },
+            {
+              "sourceId": "service-court-draft",
+              "title": "Court AI consultation draft",
+              "url": "https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/06/2026060342.pdf",
+              "quote": "Sub.: Seeking views/suggestions of all stakeholders and the general public on draft ‘Regulations for Use of Artificial Intelligence (AI) in Courts, 2026’.",
+              "locator": "3 June consultation notice"
+            }
+          ]
+        },
+        {
+          "name": "Current-status limits",
+          "status": "Not verified",
+          "statement": "n.a. A later final regulation or routine SUPACE deployment was not verified after recency searches. This is not proof that neither exists.",
+          "evidence": [
+            {
+              "sourceId": "service-court-draft",
+              "title": "Court AI consultation draft",
+              "url": "https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/06/2026060342.pdf",
+              "quote": "Sub.: Seeking views/suggestions of all stakeholders and the general public on draft ‘Regulations for Use of Artificial Intelligence (AI) in Courts, 2026’.",
+              "locator": "3 June consultation notice"
+            },
+            {
+              "sourceId": "service-judiciary",
+              "title": "Official judicial AI backgrounder",
+              "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+              "quote": "The **Supreme Court Portal for Assistance in Court Efficiency (SUPACE)** is an AI-based system **designed to help identify relevant precedents and understand the factual matrix of cases**. SUPACE remains in an experimental stage and is not yet deployed for regular judicial use.",
+              "locator": "SUPACE research-assistance section"
+            }
+          ]
+        }
+      ],
+      "checked": "5 October 2026",
+      "summary": "The February official explanation explicitly calls SUPACE experimental and not yet used regularly; later general commentary is not a deployment certificate.",
+      "interpretation": "This is a deliberately included counterexample to a deployed-only directory. It helps a journalist distinguish a designed capability from a routinely operating decision system.",
+      "caution": "The June court-AI instrument is a consultation draft in this corpus, not verified enacted regulation. The February deployment description does not establish October status; no court-registry confirmation was requested.",
+      "question": "Which decision can this system influence, what evidence supports its use, and how can a person obtain human review?",
+      "draftLabel": "SUPACE research-assistance section",
+      "draftLocator": "SUPACE research-assistance section",
+      "finalLocator": "Draft human-primacy provision",
+      "draftUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+      "finalUrl": "https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/06/2026060342.pdf",
+      "beforeSourceId": "service-judiciary",
+      "afterSourceId": "service-court-draft",
+      "beforeLabel": "SYSTEM RECORD",
+      "afterLabel": "SUPPORTING RECORD",
+      "draftText": "The **Supreme Court Portal for Assistance in Court Efficiency (SUPACE)** is an AI-based system **designed to help identify relevant precedents and understand the factual matrix of cases**. SUPACE remains in an experimental stage and is not yet deployed for regular judicial use.",
+      "finalText": "(2) Every AI System shall function solely in an assistive capacity and shall not supplant or compromise the independent exercise of judicial authority by a duly appointed judicial officer.",
+      "correctedText": "(2) Every AI System shall function solely in an assistive capacity and shall not supplant or compromise the independent exercise of judicial authority by a duly appointed judicial officer.",
+      "beforeExcerpt": "The **Supreme Court Portal for Assistance in Court Efficiency (SUPACE)** is an AI-based system **designed to help identify relevant precedents and understand the factual matrix of cases**. SUPACE remains in an experimental stage and is not yet deployed for regular judicial use.",
+      "afterExcerpt": "(2) Every AI System shall function solely in an assistive capacity and shall not supplant or compromise the independent exercise of judicial authority by a duly appointed judicial officer.",
+      "draftPage": 0,
+      "finalPage": 0,
+      "evidenceTrail": [
+        {
+          "sourceId": "service-judiciary",
+          "title": "Official judicial AI backgrounder",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2",
+          "quote": "The **Supreme Court Portal for Assistance in Court Efficiency (SUPACE)** is an AI-based system **designed to help identify relevant precedents and understand the factual matrix of cases**. SUPACE remains in an experimental stage and is not yet deployed for regular judicial use.",
+          "locator": "SUPACE research-assistance section"
+        },
+        {
+          "sourceId": "service-court-draft",
+          "title": "Court AI consultation draft",
+          "url": "https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/06/2026060342.pdf",
+          "quote": "(2) Every AI System shall function solely in an assistive capacity and shall not supplant or compromise the independent exercise of judicial authority by a duly appointed judicial officer.",
+          "locator": "Draft human-primacy provision"
+        },
+        {
+          "sourceId": "service-court-draft",
+          "title": "Court AI consultation draft",
+          "url": "https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/06/2026060342.pdf",
+          "quote": "Sub.: Seeking views/suggestions of all stakeholders and the general public on draft ‘Regulations for Use of Artificial Intelligence (AI) in Courts, 2026’.",
+          "locator": "3 June consultation notice"
+        }
+      ],
+      "requestChecklist": [
+        "Current deployment confirmation and pilot-to-production decision",
+        "System-specific model/citation evaluation",
+        "Current applicable final instrument, if adopted",
+        "Confidentiality, provider terms and logs",
+        "Human verification and party objection procedure"
+      ],
+      "correctionIds": [],
+      "contribution": true,
+      "featured": false,
+      "evidenceScope": "Twelve accountability dimensions, all retained even when unverified. A case file, not a word-aligned legal redline.",
+      "reviewStatus": "Analyst-reviewed source corpus; not a system audit, patient advice or current legal-procedure certification."
+    },
+    {
+      "id": "service-esanjeevani",
+      "label": "eSanjeevani clinical support",
+      "title": "eSanjeevani clinical support: decision-accountability case",
+      "familyId": "service",
+      "type": "Public-service case",
+      "actor": "Public healthcare",
+      "sector": "Public healthcare",
+      "deploymentStage": "Official integration reported",
+      "comparisonKind": "System claim to accountability evidence",
+      "legalStatus": "Official integration reported",
+      "publicServiceCase": true,
+      "caseFields": [
+        {
+          "name": "Owner & purpose",
+          "status": "Documented",
+          "statement": "C-DAC Mohali developed the national platform; the parliamentary record describes CDSS functionality.",
+          "evidence": [
+            {
+              "sourceId": "service-health-platform",
+              "title": "C-DAC eSanjeevani product description",
+              "url": "https://cdac.in/index.aspx?id=product_details&productId=eSanjeevaniNationalTelemedicineService",
+              "quote": "eSanjeevani is an indigenous, cloud-native telemedicine platform developed by C-DAC Mohali to address critical healthcare accessibility challenges, including the shortage and uneven distribution of healthcare professionals, limited access to specialist care in rural and remote areas, and gaps in continuity of care.",
+              "locator": "Product brief"
+            },
+            {
+              "sourceId": "service-health-parliament",
+              "title": "Lok Sabha telemedicine/CDSS response",
+              "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
+              "quote": "Further, the AI based Clinical Decision Support System (CDSS) available on this platform also enables a systematic capture of the diseases symptoms through a detailed patient assistance form, and identification of possible diseases.",
+              "locator": "Parliamentary CDSS explanation"
+            }
+          ]
+        },
+        {
+          "name": "Decision role & affected people",
+          "status": "Documented",
+          "statement": "Possible diseases and specialist referral support are presented to a doctor at the hub end, affecting patient consultations.",
+          "evidence": [
+            {
+              "sourceId": "service-health-parliament",
+              "title": "Lok Sabha telemedicine/CDSS response",
+              "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
+              "quote": "Further, the AI based Clinical Decision Support System (CDSS) available on this platform also enables a systematic capture of the diseases symptoms through a detailed patient assistance form, and identification of possible diseases.",
+              "locator": "Parliamentary CDSS explanation"
+            },
+            {
+              "sourceId": "service-health-parliament",
+              "title": "Lok Sabha telemedicine/CDSS response",
+              "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
+              "quote": "It also makes recommendation of a specialist doctor through a ‘rule engine’ and offers a differential diagnosis of possible diseases to the doctor at the hub end, thus facilitating connect of the patients with specialists as well as aiding consultations.",
+              "locator": "Rule engine and hub-doctor workflow"
+            }
+          ]
+        },
+        {
+          "name": "Deployment & date",
+          "status": "Documented",
+          "statement": "The response dates integration to April 2023 and reports usage through July 2026.",
+          "evidence": [
+            {
+              "sourceId": "service-health-parliament",
+              "title": "Lok Sabha telemedicine/CDSS response",
+              "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
+              "quote": "Since its integration in April, 2023 till July, 2026, nearly 30.4 crore eSanjeevani consultations across all States/UTs have been benefited from standardized data capture and nearly 2.13 crore AI based differential diagnosis, ensuring consistency across health and wellness centres.",
+              "locator": "April 2023 integration and July 2026 usage"
+            }
+          ]
+        },
+        {
+          "name": "Procurement & supplier",
+          "status": "Partial",
+          "statement": "The platform developer is identified, but CDSS component suppliers, model provenance and procurement awards were not verified.",
+          "evidence": [
+            {
+              "sourceId": "service-health-platform",
+              "title": "C-DAC eSanjeevani product description",
+              "url": "https://cdac.in/index.aspx?id=product_details&productId=eSanjeevaniNationalTelemedicineService",
+              "quote": "eSanjeevani is an indigenous, cloud-native telemedicine platform developed by C-DAC Mohali to address critical healthcare accessibility challenges, including the shortage and uneven distribution of healthcare professionals, limited access to specialist care in rural and remote areas, and gaps in continuity of care.",
+              "locator": "Product brief"
+            }
+          ]
+        },
+        {
+          "name": "Funding & contract",
+          "status": "Not verified",
+          "statement": "n.a. CDSS-specific contract, budget, licensing and maintenance expenditure were not verified.",
+          "evidence": []
+        },
+        {
+          "name": "Data & integration",
+          "status": "Documented",
+          "statement": "Patient assistance forms collect symptoms; the privacy policy lists identifying and health records stored on a C-DAC-managed server.",
+          "evidence": [
+            {
+              "sourceId": "service-health-parliament",
+              "title": "Lok Sabha telemedicine/CDSS response",
+              "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
+              "quote": "Further, the AI based Clinical Decision Support System (CDSS) available on this platform also enables a systematic capture of the diseases symptoms through a detailed patient assistance form, and identification of possible diseases.",
+              "locator": "Parliamentary CDSS explanation"
+            },
+            {
+              "sourceId": "service-health-privacy",
+              "title": "eSanjeevani privacy policy",
+              "url": "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf",
+              "quote": "When the Community Health Officer registers patient on eSanjeevani, the following information besides the users' information is collected from the patient and stored on a server operated and managed by C-DAC Mohali – name, gender, age, address, mobile number, Email ID, health records, etc.",
+              "locator": "Privacy policy clause 1(a)"
+            }
+          ]
+        },
+        {
+          "name": "Evaluation & error rates",
+          "status": "Not verified",
+          "statement": "n.a. National deployed-CDSS accuracy was not verified. A separate local 4,401-record study recommends integration into eSanjeevani; its 90% figure is not the existing national system's score.",
+          "evidence": [
+            {
+              "sourceId": "service-health-local-study",
+              "title": "ICMR local telemedicine research brief",
+              "url": "https://nihrjodhpur.icmr.org.in/uploads/policybriefs/1782386587_1.PolicyBrief_Telemedicine.pdf",
+              "quote": "the AI-driven Clinical Decision Support System (AI-CDSS), which has achieved 90% validation accuracy using 4,401 locally sourced patient records, should be integrated into the eSanjeevani platform",
+              "locator": "Local study recommendation, integration proposal"
+            }
+          ]
+        },
+        {
+          "name": "Human review & overrides",
+          "status": "Partial",
+          "statement": "Differential diagnosis is supplied to the hub doctor. Mandatory override, escalation and safety-monitoring procedures were not verified.",
+          "evidence": [
+            {
+              "sourceId": "service-health-parliament",
+              "title": "Lok Sabha telemedicine/CDSS response",
+              "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
+              "quote": "It also makes recommendation of a specialist doctor through a ‘rule engine’ and offers a differential diagnosis of possible diseases to the doctor at the hub end, thus facilitating connect of the patients with specialists as well as aiding consultations.",
+              "locator": "Rule engine and hub-doctor workflow"
+            }
+          ]
+        },
+        {
+          "name": "Privacy & retention",
+          "status": "Partial",
+          "statement": "The policy ties some data retention to account existence and further interventions, but excludes medical reports/diagnoses generated in treatment from that clause; no single universal retention period follows.",
+          "evidence": [
+            {
+              "sourceId": "service-health-privacy",
+              "title": "eSanjeevani privacy policy",
+              "url": "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf",
+              "quote": "All personal information collected from you under Clause 1(a) at the time of registration and later will be retained for as long as your account remains in existence and in sync with telemedicine practice guidelines issued by Niti Aayog/Board of Governors MCI and if any academic or medical or public health and administrative interventions have been commenced under Clause 2, for such period thereafter as is required.",
+              "locator": "Privacy policy clause 3(a)"
+            },
+            {
+              "sourceId": "service-health-privacy",
+              "title": "eSanjeevani privacy policy",
+              "url": "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf",
+              "quote": "Nothing set out herein shall apply to medical reports, diagnoses or other medical information generated by medical professionals in the course of treatment.",
+              "locator": "Privacy policy clause 3(b)"
+            }
+          ]
+        },
+        {
+          "name": "Complaints & appeal",
+          "status": "Partial",
+          "statement": "The privacy policy provides a contact for privacy concerns; a CDSS clinical-error review/remedy procedure was not verified.",
+          "evidence": [
+            {
+              "sourceId": "service-health-privacy",
+              "title": "eSanjeevani privacy policy",
+              "url": "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf",
+              "quote": "If you have any suggestions, concerns or queries in relation to this Privacy Policy, you may address them at esanjeevaniopd@cdac.in",
+              "locator": "Privacy policy clause 10"
+            }
+          ]
+        },
+        {
+          "name": "Public outputs & access",
+          "status": "Partial",
+          "statement": "Developer, parliamentary and privacy records are public; no national CDSS model card or clinical validation dossier was verified.",
+          "evidence": [
+            {
+              "sourceId": "service-health-platform",
+              "title": "C-DAC eSanjeevani product description",
+              "url": "https://cdac.in/index.aspx?id=product_details&productId=eSanjeevaniNationalTelemedicineService",
+              "quote": "eSanjeevani is an indigenous, cloud-native telemedicine platform developed by C-DAC Mohali to address critical healthcare accessibility challenges, including the shortage and uneven distribution of healthcare professionals, limited access to specialist care in rural and remote areas, and gaps in continuity of care.",
+              "locator": "Product brief"
+            },
+            {
+              "sourceId": "service-health-parliament",
+              "title": "Lok Sabha telemedicine/CDSS response",
+              "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
+              "quote": "Since its integration in April, 2023 till July, 2026, nearly 30.4 crore eSanjeevani consultations across all States/UTs have been benefited from standardized data capture and nearly 2.13 crore AI based differential diagnosis, ensuring consistency across health and wellness centres.",
+              "locator": "April 2023 integration and July 2026 usage"
+            },
+            {
+              "sourceId": "service-health-privacy",
+              "title": "eSanjeevani privacy policy",
+              "url": "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf",
+              "quote": "If you have any suggestions, concerns or queries in relation to this Privacy Policy, you may address them at esanjeevaniopd@cdac.in",
+              "locator": "Privacy policy clause 10"
+            }
+          ]
+        },
+        {
+          "name": "Current-status limits",
+          "status": "Partial",
+          "statement": "The dated response supports reported integrated use, not independent safety certification or all October operational details. The programme utilisation study raises privacy and access recommendations, but is not a deployed-CDSS accuracy study.",
+          "evidence": [
+            {
+              "sourceId": "service-health-parliament",
+              "title": "Lok Sabha telemedicine/CDSS response",
+              "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
+              "quote": "Since its integration in April, 2023 till July, 2026, nearly 30.4 crore eSanjeevani consultations across all States/UTs have been benefited from standardized data capture and nearly 2.13 crore AI based differential diagnosis, ensuring consistency across health and wellness centres.",
+              "locator": "April 2023 integration and July 2026 usage"
+            },
+            {
+              "sourceId": "service-health-report",
+              "title": "NHSRC telemedicine utilisation study",
+              "url": "https://www.nhsrcindia.org/sites/default/files/2025-09/Telemedicine%20Final%20Report%202025.pdf",
+              "quote": "Efforts should be made to address privacy concerns by implementing robust safeguards, ensuring inclusivity through initiatives by the Government to improve access to technology, and expanding the scope of telemedicine services to cater to a broader range of healthcare needs.",
+              "locator": "Programme utilisation study, concluding recommendations"
+            }
+          ]
+        }
+      ],
+      "checked": "5 October 2026",
+      "summary": "Government reporting describes an AI-labelled CDSS integrated in April 2023, with specialist recommendations through a rule engine and differential diagnoses supplied to a doctor.",
+      "interpretation": "This is clinician support, not evidence of an autonomous diagnosis. Consultation counts are not safety or diagnostic-accuracy results, and a local CDSS study proposing later integration cannot validate the existing national component.",
+      "caution": "Not clinical advice. The records do not establish every CDSS component is machine learning. The privacy policy is undated, and its medical-output carve-out must not be omitted when quoting retention.",
+      "question": "Which decision can this system influence, what evidence supports its use, and how can a person obtain human review?",
+      "draftLabel": "Product brief",
+      "draftLocator": "Product brief",
+      "finalLocator": "Parliamentary CDSS explanation",
+      "draftUrl": "https://cdac.in/index.aspx?id=product_details&productId=eSanjeevaniNationalTelemedicineService",
+      "finalUrl": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
+      "beforeSourceId": "service-health-platform",
+      "afterSourceId": "service-health-parliament",
+      "beforeLabel": "SYSTEM RECORD",
+      "afterLabel": "SUPPORTING RECORD",
+      "draftText": "eSanjeevani is an indigenous, cloud-native telemedicine platform developed by C-DAC Mohali to address critical healthcare accessibility challenges, including the shortage and uneven distribution of healthcare professionals, limited access to specialist care in rural and remote areas, and gaps in continuity of care.",
+      "finalText": "Further, the AI based Clinical Decision Support System (CDSS) available on this platform also enables a systematic capture of the diseases symptoms through a detailed patient assistance form, and identification of possible diseases.",
+      "correctedText": "Further, the AI based Clinical Decision Support System (CDSS) available on this platform also enables a systematic capture of the diseases symptoms through a detailed patient assistance form, and identification of possible diseases.",
+      "beforeExcerpt": "eSanjeevani is an indigenous, cloud-native telemedicine platform developed by C-DAC Mohali to address critical healthcare accessibility challenges, including the shortage and uneven distribution of healthcare professionals, limited access to specialist care in rural and remote areas, and gaps in continuity of care.",
+      "afterExcerpt": "Further, the AI based Clinical Decision Support System (CDSS) available on this platform also enables a systematic capture of the diseases symptoms through a detailed patient assistance form, and identification of possible diseases.",
+      "draftPage": 0,
+      "finalPage": 0,
+      "evidenceTrail": [
+        {
+          "sourceId": "service-health-platform",
+          "title": "C-DAC eSanjeevani product description",
+          "url": "https://cdac.in/index.aspx?id=product_details&productId=eSanjeevaniNationalTelemedicineService",
+          "quote": "eSanjeevani is an indigenous, cloud-native telemedicine platform developed by C-DAC Mohali to address critical healthcare accessibility challenges, including the shortage and uneven distribution of healthcare professionals, limited access to specialist care in rural and remote areas, and gaps in continuity of care.",
+          "locator": "Product brief"
+        },
+        {
+          "sourceId": "service-health-parliament",
+          "title": "Lok Sabha telemedicine/CDSS response",
+          "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
+          "quote": "Further, the AI based Clinical Decision Support System (CDSS) available on this platform also enables a systematic capture of the diseases symptoms through a detailed patient assistance form, and identification of possible diseases.",
+          "locator": "Parliamentary CDSS explanation"
+        },
+        {
+          "sourceId": "service-health-parliament",
+          "title": "Lok Sabha telemedicine/CDSS response",
+          "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
+          "quote": "It also makes recommendation of a specialist doctor through a ‘rule engine’ and offers a differential diagnosis of possible diseases to the doctor at the hub end, thus facilitating connect of the patients with specialists as well as aiding consultations.",
+          "locator": "Rule engine and hub-doctor workflow"
+        },
+        {
+          "sourceId": "service-health-parliament",
+          "title": "Lok Sabha telemedicine/CDSS response",
+          "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
+          "quote": "Since its integration in April, 2023 till July, 2026, nearly 30.4 crore eSanjeevani consultations across all States/UTs have been benefited from standardized data capture and nearly 2.13 crore AI based differential diagnosis, ensuring consistency across health and wellness centres.",
+          "locator": "April 2023 integration and July 2026 usage"
+        },
+        {
+          "sourceId": "service-health-privacy",
+          "title": "eSanjeevani privacy policy",
+          "url": "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf",
+          "quote": "When the Community Health Officer registers patient on eSanjeevani, the following information besides the users' information is collected from the patient and stored on a server operated and managed by C-DAC Mohali – name, gender, age, address, mobile number, Email ID, health records, etc.",
+          "locator": "Privacy policy clause 1(a)"
+        },
+        {
+          "sourceId": "service-health-local-study",
+          "title": "ICMR local telemedicine research brief",
+          "url": "https://nihrjodhpur.icmr.org.in/uploads/policybriefs/1782386587_1.PolicyBrief_Telemedicine.pdf",
+          "quote": "the AI-driven Clinical Decision Support System (AI-CDSS), which has achieved 90% validation accuracy using 4,401 locally sourced patient records, should be integrated into the eSanjeevani platform",
+          "locator": "Local study recommendation, integration proposal"
+        },
+        {
+          "sourceId": "service-health-privacy",
+          "title": "eSanjeevani privacy policy",
+          "url": "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf",
+          "quote": "All personal information collected from you under Clause 1(a) at the time of registration and later will be retained for as long as your account remains in existence and in sync with telemedicine practice guidelines issued by Niti Aayog/Board of Governors MCI and if any academic or medical or public health and administrative interventions have been commenced under Clause 2, for such period thereafter as is required.",
+          "locator": "Privacy policy clause 3(a)"
+        },
+        {
+          "sourceId": "service-health-privacy",
+          "title": "eSanjeevani privacy policy",
+          "url": "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf",
+          "quote": "Nothing set out herein shall apply to medical reports, diagnoses or other medical information generated by medical professionals in the course of treatment.",
+          "locator": "Privacy policy clause 3(b)"
+        },
+        {
+          "sourceId": "service-health-privacy",
+          "title": "eSanjeevani privacy policy",
+          "url": "https://esanjeevani.mohfw.gov.in/assets/guidelines/esanjeevani2.0_Private_Policy.pdf",
+          "quote": "If you have any suggestions, concerns or queries in relation to this Privacy Policy, you may address them at esanjeevaniopd@cdac.in",
+          "locator": "Privacy policy clause 10"
+        },
+        {
+          "sourceId": "service-health-report",
+          "title": "NHSRC telemedicine utilisation study",
+          "url": "https://www.nhsrcindia.org/sites/default/files/2025-09/Telemedicine%20Final%20Report%202025.pdf",
+          "quote": "Efforts should be made to address privacy concerns by implementing robust safeguards, ensuring inclusivity through initiatives by the Government to improve access to technology, and expanding the scope of telemedicine services to cater to a broader range of healthcare needs.",
+          "locator": "Programme utilisation study, concluding recommendations"
+        }
+      ],
+      "requestChecklist": [
+        "Deployed CDSS version, component suppliers and intended use",
+        "Clinical validation, exclusions and subgroup safety evaluation",
+        "Doctor override/escalation and adverse-event SOP",
+        "Applicable retention rules including treatment-generated records",
+        "Patient complaint, clinical review and remedy procedures"
+      ],
+      "correctionIds": [],
+      "contribution": true,
+      "featured": false,
+      "evidenceScope": "Twelve accountability dimensions, all retained even when unverified. A case file, not a word-aligned legal redline.",
+      "reviewStatus": "Analyst-reviewed source corpus; not a system audit, patient advice or current legal-procedure certification."
+    },
+    {
+      "id": "service-mahacrimeos",
+      "label": "MahaCrimeOS investigation support",
+      "title": "MahaCrimeOS investigation support: decision-accountability case",
+      "familyId": "service",
+      "type": "Public-service case",
+      "actor": "State policing",
+      "sector": "State policing",
+      "deploymentStage": "Vendor/reporting-supported pilot; scale unverified",
+      "comparisonKind": "System claim to accountability evidence",
+      "legalStatus": "Vendor/reporting-supported pilot; scale unverified",
+      "publicServiceCase": true,
+      "caseFields": [
+        {
+          "name": "Owner & purpose",
+          "status": "Partial",
+          "statement": "Vendor material describes MARVEL adapting CyberEye's CrimeOS with Microsoft technology; the government-authorisation instrument was not verified.",
+          "evidence": [
+            {
+              "sourceId": "service-police-summary",
+              "title": "Microsoft CrimeOS customer story",
+              "url": "https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS",
+              "quote": "MARVEL worked to adapt CrimeOS AI, developed by CyberEye - Microsoft AI Partner, to finetune it for compliance with state investigation protocols and further configure it in Marathi for easy adoption across the force.",
+              "locator": "Customer story, supplier and adaptation"
+            }
+          ]
+        },
+        {
+          "name": "Decision role & affected people",
+          "status": "Partial",
+          "statement": "The reported purpose is complaint processing and investigation assistance; legal consequences and decision boundaries were not verified.",
+          "evidence": [
+            {
+              "sourceId": "service-police-vendor",
+              "title": "Microsoft MahaCrimeOS feature",
+              "url": "https://news.microsoft.com/source/asia/features/a-race-against-time-maharashtra-police-get-an-ai-copilot-to-fight-cybercrime/",
+              "quote": "Since April, police there have been using MahaCrimeOS AI, a customized crime investigation platform powered by Microsoft Foundry that helps them process complaints faster and navigate complex data and procedures — all crucial functions for handling cybercrime.",
+              "locator": "Vendor account, reported pilot use"
+            }
+          ]
+        },
+        {
+          "name": "Deployment & date",
+          "status": "Conflicting sources",
+          "statement": "Sources describe 23 and 25 pilot stations and an announcement to extend to 1,100; a completed station-wise rollout was not verified.",
+          "evidence": [
+            {
+              "sourceId": "service-police-vendor",
+              "title": "Microsoft MahaCrimeOS feature",
+              "url": "https://news.microsoft.com/source/asia/features/a-race-against-time-maharashtra-police-get-an-ai-copilot-to-fight-cybercrime/",
+              "quote": "On Dec. 12, 2025, the government of Maharashtra and Microsoft announced that MahaCrimeOS AI will be extended from Nagpur’s 23 police stations to all 1,100 police stations across the state.",
+              "locator": "Vendor account, expansion announcement"
+            },
+            {
+              "sourceId": "service-police-summary",
+              "title": "Microsoft CrimeOS customer story",
+              "url": "https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS",
+              "quote": "This was successfully deployed as a pilot across 25 police stations in Nagpur Rural, including the Cyber Crime Police Station (CCPS).",
+              "locator": "Customer story, pilot count"
+            },
+            {
+              "sourceId": "service-police-reporting",
+              "title": "Indian Express MahaCrimeOS reporting",
+              "url": "https://indianexpress.com/article/explained/mahacrimeos-ai-maharashtra-10418600/",
+              "quote": "This was successfully deployed as a pilot across 23 police stations in Nagpur Rural, including the cybercrime police stations (CCPS).",
+              "locator": "News report, pilot count"
+            }
+          ]
+        },
+        {
+          "name": "Procurement & supplier",
+          "status": "Partial",
+          "statement": "CyberEye/Microsoft/MARVEL are named in vendor material. A named supplier is not a procurement award or proof of the current contract.",
+          "evidence": [
+            {
+              "sourceId": "service-police-summary",
+              "title": "Microsoft CrimeOS customer story",
+              "url": "https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS",
+              "quote": "MARVEL worked to adapt CrimeOS AI, developed by CyberEye - Microsoft AI Partner, to finetune it for compliance with state investigation protocols and further configure it in Marathi for easy adoption across the force.",
+              "locator": "Customer story, supplier and adaptation"
+            }
+          ]
+        },
+        {
+          "name": "Funding & contract",
+          "status": "Not verified",
+          "statement": "n.a. Government contract, licence cost, funding, renewal and procurement evaluation were not verified.",
+          "evidence": []
+        },
+        {
+          "name": "Data & integration",
+          "status": "Partial",
+          "statement": "Vendor description lists PDFs, audio, handwritten notes and images as inputs, with Marathi adaptation; actual production data flows are not independently verified.",
+          "evidence": [
+            {
+              "sourceId": "service-police-summary",
+              "title": "Microsoft CrimeOS customer story",
+              "url": "https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS",
+              "quote": "MARVEL worked to adapt CrimeOS AI, developed by CyberEye - Microsoft AI Partner, to finetune it for compliance with state investigation protocols and further configure it in Marathi for easy adoption across the force.",
+              "locator": "Customer story, supplier and adaptation"
+            },
+            {
+              "sourceId": "service-police-summary",
+              "title": "Microsoft CrimeOS customer story",
+              "url": "https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS",
+              "quote": "MahaCrimeOS AI ingests complaints in any format such as PDFs, audio, handwritten notes, or images, and then uses multimodal intelligence to extract critical information in any language.",
+              "locator": "Customer story, inputs"
+            }
+          ]
+        },
+        {
+          "name": "Evaluation & error rates",
+          "status": "Not verified",
+          "statement": "n.a. Independent error, bias, accuracy and workload evaluations were not verified; vendor anecdotes are not benchmarks.",
+          "evidence": []
+        },
+        {
+          "name": "Human review & overrides",
+          "status": "Not verified",
+          "statement": "n.a. An enforceable officer verification/override SOP and audit trail were not verified.",
+          "evidence": []
+        },
+        {
+          "name": "Privacy & retention",
+          "status": "Not verified",
+          "statement": "n.a. Tool-specific processor, hosting, model-training use, access, retention and deletion terms were not verified.",
+          "evidence": []
+        },
+        {
+          "name": "Complaints & appeal",
+          "status": "Not verified",
+          "statement": "n.a. Tool-specific correction, access or complaint mechanisms were not verified; ordinary policing remedies are outside this case's verified scope.",
+          "evidence": []
+        },
+        {
+          "name": "Public outputs & access",
+          "status": "Partial",
+          "statement": "Public vendor descriptions and reporting exist. Authoritative station-wise deployment, procurement and audit artefacts were not verified.",
+          "evidence": [
+            {
+              "sourceId": "service-police-vendor",
+              "title": "Microsoft MahaCrimeOS feature",
+              "url": "https://news.microsoft.com/source/asia/features/a-race-against-time-maharashtra-police-get-an-ai-copilot-to-fight-cybercrime/",
+              "quote": "Since April, police there have been using MahaCrimeOS AI, a customized crime investigation platform powered by Microsoft Foundry that helps them process complaints faster and navigate complex data and procedures — all crucial functions for handling cybercrime.",
+              "locator": "Vendor account, reported pilot use"
+            },
+            {
+              "sourceId": "service-police-summary",
+              "title": "Microsoft CrimeOS customer story",
+              "url": "https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS",
+              "quote": "MARVEL worked to adapt CrimeOS AI, developed by CyberEye - Microsoft AI Partner, to finetune it for compliance with state investigation protocols and further configure it in Marathi for easy adoption across the force.",
+              "locator": "Customer story, supplier and adaptation"
+            },
+            {
+              "sourceId": "service-police-reporting",
+              "title": "Indian Express MahaCrimeOS reporting",
+              "url": "https://indianexpress.com/article/explained/mahacrimeos-ai-maharashtra-10418600/",
+              "quote": "This was successfully deployed as a pilot across 23 police stations in Nagpur Rural, including the cybercrime police stations (CCPS).",
+              "locator": "News report, pilot count"
+            }
+          ]
+        },
+        {
+          "name": "Current-status limits",
+          "status": "Not verified",
+          "statement": "n.a. A current government-confirmed rollout inventory and operational audit were not obtained. This is not proof of non-use.",
+          "evidence": [
+            {
+              "sourceId": "service-police-vendor",
+              "title": "Microsoft MahaCrimeOS feature",
+              "url": "https://news.microsoft.com/source/asia/features/a-race-against-time-maharashtra-police-get-an-ai-copilot-to-fight-cybercrime/",
+              "quote": "On Dec. 12, 2025, the government of Maharashtra and Microsoft announced that MahaCrimeOS AI will be extended from Nagpur’s 23 police stations to all 1,100 police stations across the state.",
+              "locator": "Vendor account, expansion announcement"
+            },
+            {
+              "sourceId": "service-police-summary",
+              "title": "Microsoft CrimeOS customer story",
+              "url": "https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS",
+              "quote": "This was successfully deployed as a pilot across 25 police stations in Nagpur Rural, including the Cyber Crime Police Station (CCPS).",
+              "locator": "Customer story, pilot count"
+            }
+          ]
+        }
+      ],
+      "checked": "5 October 2026",
+      "summary": "Vendor accounts and reporting describe a Nagpur pilot and announced statewide expansion, with inconsistent 23/25-station counts in the reviewed material.",
+      "interpretation": "Investigation support can shape what an officer sees and pursues, but claims of speed or statewide scale need operational records. A company story and a repeating news report are not independent performance audits.",
+      "caution": "The reviewed corpus did not establish a government procurement award, station-wise completed rollout, performance audit or tool-specific redress procedure. Count differences may reflect dates/denominators; do not choose a convenient number.",
+      "question": "Which decision can this system influence, what evidence supports its use, and how can a person obtain human review?",
+      "draftLabel": "Customer story, supplier and adaptation",
+      "draftLocator": "Customer story, supplier and adaptation",
+      "finalLocator": "Vendor account, reported pilot use",
+      "draftUrl": "https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS",
+      "finalUrl": "https://news.microsoft.com/source/asia/features/a-race-against-time-maharashtra-police-get-an-ai-copilot-to-fight-cybercrime/",
+      "beforeSourceId": "service-police-summary",
+      "afterSourceId": "service-police-vendor",
+      "beforeLabel": "SYSTEM RECORD",
+      "afterLabel": "SUPPORTING RECORD",
+      "draftText": "MARVEL worked to adapt CrimeOS AI, developed by CyberEye - Microsoft AI Partner, to finetune it for compliance with state investigation protocols and further configure it in Marathi for easy adoption across the force.",
+      "finalText": "Since April, police there have been using MahaCrimeOS AI, a customized crime investigation platform powered by Microsoft Foundry that helps them process complaints faster and navigate complex data and procedures — all crucial functions for handling cybercrime.",
+      "correctedText": "Since April, police there have been using MahaCrimeOS AI, a customized crime investigation platform powered by Microsoft Foundry that helps them process complaints faster and navigate complex data and procedures — all crucial functions for handling cybercrime.",
+      "beforeExcerpt": "MARVEL worked to adapt CrimeOS AI, developed by CyberEye - Microsoft AI Partner, to finetune it for compliance with state investigation protocols and further configure it in Marathi for easy adoption across the force.",
+      "afterExcerpt": "Since April, police there have been using MahaCrimeOS AI, a customized crime investigation platform powered by Microsoft Foundry that helps them process complaints faster and navigate complex data and procedures — all crucial functions for handling cybercrime.",
+      "draftPage": 0,
+      "finalPage": 0,
+      "evidenceTrail": [
+        {
+          "sourceId": "service-police-summary",
+          "title": "Microsoft CrimeOS customer story",
+          "url": "https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS",
+          "quote": "MARVEL worked to adapt CrimeOS AI, developed by CyberEye - Microsoft AI Partner, to finetune it for compliance with state investigation protocols and further configure it in Marathi for easy adoption across the force.",
+          "locator": "Customer story, supplier and adaptation"
+        },
+        {
+          "sourceId": "service-police-vendor",
+          "title": "Microsoft MahaCrimeOS feature",
+          "url": "https://news.microsoft.com/source/asia/features/a-race-against-time-maharashtra-police-get-an-ai-copilot-to-fight-cybercrime/",
+          "quote": "Since April, police there have been using MahaCrimeOS AI, a customized crime investigation platform powered by Microsoft Foundry that helps them process complaints faster and navigate complex data and procedures — all crucial functions for handling cybercrime.",
+          "locator": "Vendor account, reported pilot use"
+        },
+        {
+          "sourceId": "service-police-vendor",
+          "title": "Microsoft MahaCrimeOS feature",
+          "url": "https://news.microsoft.com/source/asia/features/a-race-against-time-maharashtra-police-get-an-ai-copilot-to-fight-cybercrime/",
+          "quote": "On Dec. 12, 2025, the government of Maharashtra and Microsoft announced that MahaCrimeOS AI will be extended from Nagpur’s 23 police stations to all 1,100 police stations across the state.",
+          "locator": "Vendor account, expansion announcement"
+        },
+        {
+          "sourceId": "service-police-summary",
+          "title": "Microsoft CrimeOS customer story",
+          "url": "https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS",
+          "quote": "This was successfully deployed as a pilot across 25 police stations in Nagpur Rural, including the Cyber Crime Police Station (CCPS).",
+          "locator": "Customer story, pilot count"
+        },
+        {
+          "sourceId": "service-police-reporting",
+          "title": "Indian Express MahaCrimeOS reporting",
+          "url": "https://indianexpress.com/article/explained/mahacrimeos-ai-maharashtra-10418600/",
+          "quote": "This was successfully deployed as a pilot across 23 police stations in Nagpur Rural, including the cybercrime police stations (CCPS).",
+          "locator": "News report, pilot count"
+        },
+        {
+          "sourceId": "service-police-summary",
+          "title": "Microsoft CrimeOS customer story",
+          "url": "https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS",
+          "quote": "MahaCrimeOS AI ingests complaints in any format such as PDFs, audio, handwritten notes, or images, and then uses multimodal intelligence to extract critical information in any language.",
+          "locator": "Customer story, inputs"
+        }
+      ],
+      "requestChecklist": [
+        "Government authorisation, procurement and executed contract",
+        "Station-wise rollout with dates and active use",
+        "Officer verification, override and audit-log SOP",
+        "Independent error/bias/workload evaluations",
+        "Data-processing, hosting, retention and model-training terms",
+        "Subject/victim correction and grievance procedure"
+      ],
+      "correctionIds": [],
+      "contribution": true,
+      "featured": false,
+      "evidenceScope": "Twelve accountability dimensions, all retained even when unverified. A case file, not a word-aligned legal redline.",
+      "reviewStatus": "Analyst-reviewed source corpus; not a system audit, patient advice or current legal-procedure certification."
     }
   ],
   "corrections": [

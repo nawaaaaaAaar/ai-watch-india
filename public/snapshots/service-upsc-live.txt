@@ -1,0 +1,12 @@
+Selected excerpt snapshot, not a full document archive.
+UPSC face authentication implementation
+URL: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1
+Source date: 4 June 2026; checked 5 October 2026.
+
+UPSC conducted real-time face-authentication exercise across all 2,072 examination venues nationwide during this year’s Civil Services (Preliminary) examinations 2026.
+
+The face authentication application has been developed and implemented by UPSC with technical support from the National e-Governance Division (NeGD) of Ministry of Electronics and IT.
+
+It works on any Android smartphone, and invigilators used their own mobile phones for the purpose, thereby reducing hardware costs and easing the logistical burden.
+
+The time required for a typical face authentication of a candidate is only about 6–8 seconds, which ensured smooth entry and prevented queuing at examination centres.

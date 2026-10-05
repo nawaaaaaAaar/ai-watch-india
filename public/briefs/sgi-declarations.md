@@ -2,7 +2,7 @@
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 

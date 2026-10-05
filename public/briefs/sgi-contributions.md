@@ -6,7 +6,7 @@ All five final amending rules mapped across 14 comparison units; two English cor
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -58,7 +58,7 @@ Reporting question: Which content formats and transformations do platform polici
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -110,7 +110,7 @@ Reporting question: Does an organisation document why a transformation qualifies
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -164,7 +164,7 @@ Corrections relevant to this provision: SGI-CR-01, SGI-CR-02. Check the [officia
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -216,7 +216,7 @@ Reporting question: How are authorised notices authenticated, logged and reviewe
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -268,7 +268,7 @@ Reporting question: Do complaint channels route intimate-image and impersonation
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -320,7 +320,7 @@ Reporting question: What evidence demonstrates the measures' precision, false po
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -372,7 +372,7 @@ Reporting question: Are labels readily noticeable across cropping, mobile displa
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -424,7 +424,7 @@ Reporting question: What provenance survives export, reposting and screenshottin
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -476,7 +476,7 @@ Reporting question: How do platforms deal with inaccurate declarations and uncer
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 

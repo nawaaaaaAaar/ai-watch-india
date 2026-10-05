@@ -4,6 +4,16 @@ A complete curated policy-change desk for journalism, governance research and de
 
 ## Included in this release
 
+Curated edition 04 adds six complete public-service case files without a public launch:
+
+- Five collections: 72 evidence units, 46 substantive briefs, 40 source records and ten directed English corrections.
+- Cases: UPSC face authentication, I4C CyberGuard, SUVAS, experimental SUPACE, eSanjeevani clinical support and MahaCrimeOS.
+- All twelve accountability dimensions per case, including explicit unverified answers: 72 dimension slots, not 72 inflated contributions.
+- Sector, deployment-stage, incomplete-evidence and full-text search filters; filtered field-level CSV, complete case briefs and mixed-policy notebook exports.
+- Official records, privacy terms, vendor accounts and reporting are visibly distinguished. New snapshots are short selected excerpts, not full page archives or independent audits.
+- No tender-to-contract inference, benchmark transfer, draft-to-law inference or announcement-to-completed-rollout inference.
+- Full study, search scope, source hashes, record-request checklists and edition 04 verification accompany the data.
+
 Curated edition 03 adds implementation evidence without launching a public website:
 
 - Four evidence collections: 56 policy-comparison units plus ten implementation checkpoints, 25 official source snapshots and 40 reusable briefs.
@@ -60,7 +70,9 @@ The input comparison and coverage register are in `research/`; four extracted pu
 python scripts/build_dataset.py
 python scripts/build_expansion.py
 python scripts/build_implementation.py
+python scripts/build_public_services.py
 node scripts/package-briefs.mjs
+node scripts/package-service-study.mjs
 npm run validate:data
 npm test
 npm run build
@@ -72,7 +84,7 @@ Original PDF binaries are linked at official sources, not mirrored here. Snapsho
 
 ## Editorial limits
 
-The evidence check date is 4 October 2026. English text was reviewed by a single analyst, not independently approved by legal counsel; no exhaustive current court-order or later-amendment chain is certified.
+The original evidence check date is 4 October 2026; expansions were checked 5 October 2026, India date. English text was reviewed by a single analyst, not independently approved by legal counsel; no exhaustive current court-order or later-amendment chain is certified.
 
 The collection retains the 13/14 November publication-date disagreement and the official relative commencement formulas. It does not turn computed dates into definitive compliance deadlines.
 
@@ -96,15 +108,19 @@ For maintainers: update the curated source/observation, regenerate data and brie
 
 ```text
 shared/schema.ts            Typed data/review model
-src/main.tsx                Seven routed workspace views
+src/main.tsx                Nine routed workspace views
 src/lib.mjs                 Filters, validation and exports
 src/data/policy.json        Curated provision/source collection
 src/data/expansion.json     SGI and AI-guidelines collections
+src/data/implementation.json Governance implementation checkpoints
+src/data/public-services.json Six cases and 72 accountability fields
 scripts/                   Dataset, brief and validation pipelines
 tests/                     Deterministic data/export/security tests
 public/snapshots/           Extracted source snapshots
-public/briefs/              Twelve briefs and complete bundle
+public/briefs/              Forty-six briefs and five collection bundles
 public/research/            Worked study and product specification
 ```
 
 See `QA.md` for the control/state inventory, `VERIFICATION.md` for edition 01 checks and `EXPANSION_VERIFICATION.md` for edition 02 checks. A public production-domain launch or durable monitoring schedule requires an explicit deployment choice; the application itself is static and self-contained.
+
+Edition 04's study, search-scope log and 72-row coverage CSV are in `public/research/public-service-*`. See `QA_PUBLIC_SERVICES.md` and `PUBLIC_SERVICE_VERIFICATION.md` for this expansion's checks. The six-case corpus is not a national census, system audit or individualized legal/clinical service.

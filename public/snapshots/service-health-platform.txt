@@ -1,0 +1,8 @@
+Selected excerpt snapshot, not a full document archive.
+C-DAC eSanjeevani product description
+URL: https://cdac.in/index.aspx?id=product_details&productId=eSanjeevaniNationalTelemedicineService
+Source date: Undated page; statistics labelled 16 August 2026; checked 5 October 2026.
+
+eSanjeevani is an indigenous, cloud-native telemedicine platform developed by C-DAC Mohali to address critical healthcare accessibility challenges, including the shortage and uneven distribution of healthcare professionals, limited access to specialist care in rural and remote areas, and gaps in continuity of care.
+
+AI-enabled Clinical Decision Support System (CDSS) to support clinical decision-making.

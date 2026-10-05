@@ -6,7 +6,7 @@
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -55,7 +55,7 @@ Reporting question: How do procurement and deployment decisions justify the bala
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -104,7 +104,7 @@ Reporting question: Which recommended amendments have been separately issued, an
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -153,7 +153,7 @@ Reporting question: What local evidence, affected-group participation and valida
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -202,7 +202,7 @@ Reporting question: Has a reporting route been launched, and can victims disting
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -251,7 +251,7 @@ Reporting question: Which commitments produce public, understandable evidence, a
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -300,7 +300,7 @@ Reporting question: Can an affected person locate a human-reviewed grievance rou
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -349,7 +349,7 @@ Reporting question: Which proposed bodies have appointment orders, published ter
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 

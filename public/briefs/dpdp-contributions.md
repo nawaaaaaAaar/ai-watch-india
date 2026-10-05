@@ -6,7 +6,7 @@ All 23 final rules and seven schedules; eight directed English corrections.
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -56,7 +56,7 @@ Corrections relevant to this provision: CR-01, CR-02. Check the [official correc
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -104,7 +104,7 @@ Reporting question: How will organizations implement specific notices without bu
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -152,7 +152,7 @@ Reporting question: What facts make these safeguards applicable to an organizati
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -200,7 +200,7 @@ Reporting question: Why do individual and Board disclosure channels differ?
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -248,7 +248,7 @@ Reporting question: How will deletion workflows and processor contracts implemen
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -296,7 +296,7 @@ Reporting question: How will platforms avoid incorrectly requiring guardian cons
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -346,7 +346,7 @@ Corrections relevant to this provision: CR-03. Check the [official correcting in
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -394,7 +394,7 @@ Reporting question: How will the grievance mechanism implement the period and es
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -444,7 +444,7 @@ Parent statute context: [DPDP Act](https://www.meity.gov.in/static/uploads/2024/
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -496,7 +496,7 @@ Parent statute context: [DPDP Act](https://www.meity.gov.in/static/uploads/2024/
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 
@@ -544,7 +544,7 @@ Reporting question: How are public-sector and research datasets checked for comp
 
 Working research brief | Exported 5 October 2026
 
-Collection: Four Indian digital-policy evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
+Collection: Five Indian policy and public-service evidence collections. Evidence checked DPDP: 4 October 2026; expansion: 5 October 2026.
 
 Analyst-reviewed extracted English text, not independent legal review or personalized legal advice. Session checks and notes are user annotations, not public editorial approval. No current court-status or exhaustive later-amendment certification is made.
 

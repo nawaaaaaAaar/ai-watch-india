@@ -112,5 +112,6 @@ test('all thirty packaged briefs and three family bundles are source-backed',()=
 });
 test('combined downloadable data equals the application merge',()=>{
   const implementation=JSON.parse(readFileSync(new URL('../src/data/implementation.json',import.meta.url)));
-  assert.deepEqual(JSON.parse(readFileSync(new URL('../public/combined-data.json',import.meta.url))),mergeCollections(original,expansion,implementation));
+  const service=JSON.parse(readFileSync(new URL('../src/data/public-services.json',import.meta.url)));
+  assert.deepEqual(JSON.parse(readFileSync(new URL('../public/combined-data.json',import.meta.url))),mergeCollections(original,expansion,implementation,service));
 });
