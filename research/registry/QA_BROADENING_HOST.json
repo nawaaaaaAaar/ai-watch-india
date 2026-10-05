@@ -1,0 +1,147 @@
+{
+  "scope": "Hosted private preview production bundle",
+  "checks": [
+    {
+      "name": "host 72 records",
+      "ok": true
+    },
+    {
+      "name": "host all row links",
+      "ok": true
+    },
+    {
+      "name": "host new-search result",
+      "ok": true
+    },
+    {
+      "name": "host original frame boundary",
+      "ok": true
+    },
+    {
+      "name": "host real downloaded bytes complete-registry.zip",
+      "ok": true
+    },
+    {
+      "name": "host real downloaded bytes dataset.sqlite",
+      "ok": true
+    },
+    {
+      "name": "host real downloaded bytes data.json",
+      "ok": true
+    },
+    {
+      "name": "host real downloaded bytes BROADENING_STUDY.md",
+      "ok": true
+    },
+    {
+      "name": "host real downloaded bytes BROADENING_SEARCH.json",
+      "ok": true
+    },
+    {
+      "name": "host real downloaded bytes BROADENING_RETRIEVAL.json",
+      "ok": true
+    },
+    {
+      "name": "host real downloaded bytes BROADENING_QUOTE_AUDIT.json",
+      "ok": true
+    },
+    {
+      "name": "host real downloaded bytes systems.csv",
+      "ok": true
+    },
+    {
+      "name": "host real downloaded bytes assertions.csv",
+      "ok": true
+    },
+    {
+      "name": "host real downloaded bytes sources.csv",
+      "ok": true
+    },
+    {
+      "name": "host all 12 sys-safe-kerala",
+      "ok": true
+    },
+    {
+      "name": "host dossier title sys-safe-kerala",
+      "ok": true
+    },
+    {
+      "name": "host all 12 sys-delhi-itms",
+      "ok": true
+    },
+    {
+      "name": "host dossier title sys-delhi-itms",
+      "ok": true
+    },
+    {
+      "name": "host all 12 sys-ioncology",
+      "ok": true
+    },
+    {
+      "name": "host dossier title sys-ioncology",
+      "ok": true
+    },
+    {
+      "name": "host all 12 sys-nuwr-analysis",
+      "ok": true
+    },
+    {
+      "name": "host dossier title sys-nuwr-analysis",
+      "ok": true
+    },
+    {
+      "name": "host all 12 sys-fri",
+      "ok": true
+    },
+    {
+      "name": "host dossier title sys-fri",
+      "ok": true
+    },
+    {
+      "name": "host all 12 sys-iraste",
+      "ok": true
+    },
+    {
+      "name": "host dossier title sys-iraste",
+      "ok": true
+    },
+    {
+      "name": "host all 12 sys-ksh",
+      "ok": true
+    },
+    {
+      "name": "host dossier title sys-ksh",
+      "ok": true
+    },
+    {
+      "name": "host all 12 sys-sudarsan",
+      "ok": true
+    },
+    {
+      "name": "host dossier title sys-sudarsan",
+      "ok": true
+    },
+    {
+      "name": "host evidence expansion",
+      "ok": true
+    },
+    {
+      "name": "host real downloaded bytes dossiers/sys-safe-kerala.md",
+      "ok": true
+    },
+    {
+      "name": "host mobile no page overflow",
+      "ok": true
+    },
+    {
+      "name": "host no JS errors",
+      "ok": true
+    }
+  ],
+  "page_errors": [],
+  "download_sha256": {
+    "zip": "365d8e367f4425f9ebfa79af3f9dfbcd9f3382d664ddb82d377ee8aabf3fc4c8",
+    "sqlite": "e856fbc0279740a83c594214f6734ba93de7a977c57496b0bde891f5587d7a95",
+    "json": "26ff1bc7bcc1600adc994eabba9fc3cba94a8a3d77123c560b0884eea0450c6c"
+  }
+}
