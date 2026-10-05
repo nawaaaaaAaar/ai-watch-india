@@ -1,0 +1,10 @@
+Google flood-forecasting methods and CWC partnership
+Original: https://research.google/blog/an-inside-look-at-flood-forecasting/
+Document date: Undated/uncertain
+Source type: Developer technical account
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+we started our flood forecasting pilot in the Patna region
+
+Our first governmental partner is the Indian Central Water Commission (CWC)

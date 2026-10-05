@@ -1,0 +1,12 @@
+MahaVISTAAR 2.0 architecture and rollout description
+Original: https://negd.gov.in/isl/Directory/statedata/942
+Document date: Undated/uncertain
+Source type: Official state solution directory
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Built on an LLM + RAG architecture with vector search, integrated with AgriStack for farmer identity and land records
+
+MahaVISTAAR is Maharashtra's AI-powered agricultural advisory platform
+
+then upgraded to MahaVISTAAR 2.0 in Kharif 2026 with personalised, AgriStack-linked advisory.

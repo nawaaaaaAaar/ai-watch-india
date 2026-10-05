@@ -1,0 +1,1383 @@
+{
+  "scope": "Local production build on port 4173",
+  "checks": [
+    {
+      "name": "72 registry rows",
+      "ok": true
+    },
+    {
+      "name": "72 visible record links",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-aadhaar-face",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-aadhaar-face",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-abhigyan",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-abhigyan",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-advait",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-advait",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-apt",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-apt",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-askdisha",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-askdisha",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-astr",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-astr",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-astram",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-astram",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-atman",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-atman",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-aware",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-aware",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-bharat-vistaar",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-bharat-vistaar",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-bhashini",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-bhashini",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-bifa",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-bifa",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-bmc-tb",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-bmc-tb",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-bodh",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-bodh",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-catb",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-catb",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-cctns2",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-cctns2",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-cropic",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-cropic",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-crpi",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-crpi",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-cwc-google",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-cwc-google",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-cyberguard",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-cyberguard",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-delhi-itms",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-delhi-itms",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-digiyatra",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-digiyatra",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-diksha",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-diksha",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-djb-twin",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-djb-twin",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-ejaadui",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-ejaadui",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-epaarvai",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-epaarvai",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-esanjeevani",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-esanjeevani",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-fest",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-fest",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-fmr-fir",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-fmr-fir",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-fri",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-fri",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-igms",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-igms",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-infomerge",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-infomerge",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-insight",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-insight",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-ioncology",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-ioncology",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-iraste",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-iraste",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-itms",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-itms",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-jeevan-pramaan",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-jeevan-pramaan",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-khushi",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-khushi",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-kisan-emitra",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-kisan-emitra",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-kisan-sarathi",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-kisan-sarathi",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-ksh",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-ksh",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-madhunetrai",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-madhunetrai",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-mahacrimeos",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-mahacrimeos",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-mahavistaar",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-mahavistaar",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-mausamgpt",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-mausamgpt",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-mds",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-mds",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-mvis",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-mvis",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-nhai-das",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-nhai-das",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-npss",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-npss",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-nuwr-analysis",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-nuwr-analysis",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-paddymitra",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-paddymitra",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-pais",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-pais",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-plcs",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-plcs",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-raidar",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-raidar",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-rail-ids",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-rail-ids",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-rail-vss",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-rail-vss",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-railmadad",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-railmadad",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-raj-silicosis",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-raj-silicosis",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-rajgpt",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-rajgpt",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-saagu-baagu",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-saagu-baagu",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-safe-kerala",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-safe-kerala",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-sanjay",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-sanjay",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-sansad-chatbot",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-sansad-chatbot",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-seva",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-seva",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-sudarsan",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-sudarsan",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-supace",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-supace",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-susahyak",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-susahyak",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-suvas",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-suvas",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-teres",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-teres",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-upsc",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-upsc",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-uzhavan-pest",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-uzhavan-pest",
+      "ok": true
+    },
+    {
+      "name": "dossier name sys-yaksh",
+      "ok": true
+    },
+    {
+      "name": "12 fields sys-yaksh",
+      "ok": true
+    },
+    {
+      "name": "frame frame-agriculture",
+      "ok": true
+    },
+    {
+      "name": "frame frame-court",
+      "ok": true
+    },
+    {
+      "name": "frame frame-education",
+      "ok": true
+    },
+    {
+      "name": "frame frame-health",
+      "ok": true
+    },
+    {
+      "name": "frame frame-home",
+      "ok": true
+    },
+    {
+      "name": "frame frame-railways",
+      "ok": true
+    },
+    {
+      "name": "outside original frame 46",
+      "ok": true
+    },
+    {
+      "name": "AI attribution Qualified algorithmic / biometric context",
+      "ok": true
+    },
+    {
+      "name": "AI attribution Explicit source attribution",
+      "ok": true
+    },
+    {
+      "name": "AI attribution AI evaluation infrastructure",
+      "ok": true
+    },
+    {
+      "name": "sector Identity infrastructure",
+      "ok": true
+    },
+    {
+      "name": "sector Police biometric identification",
+      "ok": true
+    },
+    {
+      "name": "sector Tax administration",
+      "ok": true
+    },
+    {
+      "name": "sector Postal service operations",
+      "ok": true
+    },
+    {
+      "name": "sector Rail passenger services",
+      "ok": true
+    },
+    {
+      "name": "sector Telecom fraud and identity",
+      "ok": true
+    },
+    {
+      "name": "sector Traffic management",
+      "ok": true
+    },
+    {
+      "name": "sector Clinical screening research",
+      "ok": true
+    },
+    {
+      "name": "sector Disaster management",
+      "ok": true
+    },
+    {
+      "name": "sector Agriculture and benefits information",
+      "ok": true
+    },
+    {
+      "name": "sector Language and administrative access",
+      "ok": true
+    },
+    {
+      "name": "sector Public healthcare",
+      "ok": true
+    },
+    {
+      "name": "sector Health AI evaluation infrastructure",
+      "ok": true
+    },
+    {
+      "name": "sector TB screening",
+      "ok": true
+    },
+    {
+      "name": "sector Police analytics",
+      "ok": true
+    },
+    {
+      "name": "sector Crop insurance and monitoring",
+      "ok": true
+    },
+    {
+      "name": "sector Flood warning",
+      "ok": true
+    },
+    {
+      "name": "sector Cybercrime administration",
+      "ok": true
+    },
+    {
+      "name": "sector Traffic management and enforcement",
+      "ok": true
+    },
+    {
+      "name": "sector Aviation and travel",
+      "ok": true
+    },
+    {
+      "name": "sector Education accessibility",
+      "ok": true
+    },
+    {
+      "name": "sector Water and wastewater management",
+      "ok": true
+    },
+    {
+      "name": "sector Early-childhood education",
+      "ok": true
+    },
+    {
+      "name": "sector Transport licensing and access",
+      "ok": true
+    },
+    {
+      "name": "sector Financial fraud decision support",
+      "ok": true
+    },
+    {
+      "name": "sector Public grievance triage",
+      "ok": true
+    },
+    {
+      "name": "sector Market-regulation investigations",
+      "ok": true
+    },
+    {
+      "name": "sector Cancer research and care support",
+      "ok": true
+    },
+    {
+      "name": "sector Road safety",
+      "ok": true
+    },
+    {
+      "name": "sector Rail track inspection",
+      "ok": true
+    },
+    {
+      "name": "sector Pension authentication",
+      "ok": true
+    },
+    {
+      "name": "sector TB treatment support",
+      "ok": true
+    },
+    {
+      "name": "sector Agricultural extension",
+      "ok": true
+    },
+    {
+      "name": "sector Retinal screening",
+      "ok": true
+    },
+    {
+      "name": "sector State policing",
+      "ok": true
+    },
+    {
+      "name": "sector Agricultural advisory",
+      "ok": true
+    },
+    {
+      "name": "sector Weather and early warning",
+      "ok": true
+    },
+    {
+      "name": "sector Disease surveillance",
+      "ok": true
+    },
+    {
+      "name": "sector Rail rolling-stock inspection",
+      "ok": true
+    },
+    {
+      "name": "sector Highway maintenance",
+      "ok": true
+    },
+    {
+      "name": "sector Defence asset analysis",
+      "ok": true
+    },
+    {
+      "name": "sector Police identity search",
+      "ok": true
+    },
+    {
+      "name": "sector Pension identity and access",
+      "ok": true
+    },
+    {
+      "name": "sector Market-regulation compliance",
+      "ok": true
+    },
+    {
+      "name": "sector Rail safety and wildlife",
+      "ok": true
+    },
+    {
+      "name": "sector Passenger surveillance",
+      "ok": true
+    },
+    {
+      "name": "sector Rail grievance handling",
+      "ok": true
+    },
+    {
+      "name": "sector Occupational health and welfare",
+      "ok": true
+    },
+    {
+      "name": "sector Investment facilitation",
+      "ok": true
+    },
+    {
+      "name": "sector Traffic enforcement",
+      "ok": true
+    },
+    {
+      "name": "sector Defence surveillance and decision support",
+      "ok": true
+    },
+    {
+      "name": "sector Parliamentary information access",
+      "ok": true
+    },
+    {
+      "name": "sector Investor information",
+      "ok": true
+    },
+    {
+      "name": "sector Market-regulation surveillance",
+      "ok": true
+    },
+    {
+      "name": "sector Judicial administration",
+      "ok": true
+    },
+    {
+      "name": "sector Judicial information access",
+      "ok": true
+    },
+    {
+      "name": "sector Judicial access",
+      "ok": true
+    },
+    {
+      "name": "sector Judicial transcription",
+      "ok": true
+    },
+    {
+      "name": "sector Public examinations",
+      "ok": true
+    },
+    {
+      "name": "sector Police investigation and risk ranking",
+      "ok": true
+    },
+    {
+      "name": "stage SDK/service capability described",
+      "ok": true
+    },
+    {
+      "name": "stage Application launch reported",
+      "ok": true
+    },
+    {
+      "name": "stage Historical rollout reported",
+      "ok": true
+    },
+    {
+      "name": "stage Ministerial review describes AI integration",
+      "ok": true
+    },
+    {
+      "name": "stage Service interface observed",
+      "ok": true
+    },
+    {
+      "name": "stage Official use and re-verification disconnections reported",
+      "ok": true
+    },
+    {
+      "name": "stage Developer case study describes platform use",
+      "ok": true
+    },
+    {
+      "name": "stage Developer describes development and testing",
+      "ok": true
+    },
+    {
+      "name": "stage Governance/developer accounts describe use",
+      "ok": true
+    },
+    {
+      "name": "stage Phase-I launch reported",
+      "ok": true
+    },
+    {
+      "name": "stage Reported operational",
+      "ok": true
+    },
+    {
+      "name": "stage AI/ML tools described in industry consultation",
+      "ok": true
+    },
+    {
+      "name": "stage Historical pilot reported",
+      "ok": true
+    },
+    {
+      "name": "stage Platform launch/design described; benchmark outputs not verified",
+      "ok": true
+    },
+    {
+      "name": "stage Community screening use reported",
+      "ok": true
+    },
+    {
+      "name": "stage Conflicting version/timeline descriptions; component rollout unverified",
+      "ok": true
+    },
+    {
+      "name": "stage Service app listed; actual rollout not independently verified",
+      "ok": true
+    },
+    {
+      "name": "stage Application launch reported; model-specific AI unverified",
+      "ok": true
+    },
+    {
+      "name": "stage Historical pilot and official collaboration documented",
+      "ok": true
+    },
+    {
+      "name": "stage Official integration reported",
+      "ok": true
+    },
+    {
+      "name": "stage Cabinet-approved project; future implementation",
+      "ok": true
+    },
+    {
+      "name": "stage Official feature use described",
+      "ok": true
+    },
+    {
+      "name": "stage MoU development plan reported",
+      "ok": true
+    },
+    {
+      "name": "stage Service channels advertised; no interaction submitted",
+      "ok": true
+    },
+    {
+      "name": "stage Historical field use reported",
+      "ok": true
+    },
+    {
+      "name": "stage Historical use reported",
+      "ok": true
+    },
+    {
+      "name": "stage Historical rollout with readiness exceptions reported",
+      "ok": true
+    },
+    {
+      "name": "stage Risk intelligence in bank/payment workflows reported",
+      "ok": true
+    },
+    {
+      "name": "stage Official module use described",
+      "ok": true
+    },
+    {
+      "name": "stage In-house investigation use reported",
+      "ok": true
+    },
+    {
+      "name": "stage Phased platform described",
+      "ok": true
+    },
+    {
+      "name": "stage September report says pilot/research evaluation",
+      "ok": true
+    },
+    {
+      "name": "stage Partner report describes deployments and observational comparison",
+      "ok": true
+    },
+    {
+      "name": "stage Three deployments officially reported",
+      "ok": true
+    },
+    {
+      "name": "stage Face-authentication workflow documented",
+      "ok": true
+    },
+    {
+      "name": "stage Operational use described by ministry",
+      "ok": true
+    },
+    {
+      "name": "stage Official advisory platform coverage; AI search intent also advertised",
+      "ok": true
+    },
+    {
+      "name": "stage Tender describes current chatbot and planned voice scaling",
+      "ok": true
+    },
+    {
+      "name": "stage Official screening use and separate pilot reported",
+      "ok": true
+    },
+    {
+      "name": "stage Vendor/reporting-supported pilot; scale unverified",
+      "ok": true
+    },
+    {
+      "name": "stage Official directory describes 2026 personalisation upgrade",
+      "ok": true
+    },
+    {
+      "name": "stage Under development in August answer",
+      "ok": true
+    },
+    {
+      "name": "stage Six pilot installations officially reported",
+      "ok": true
+    },
+    {
+      "name": "stage June statement says rollout initiated",
+      "ok": true
+    },
+    {
+      "name": "stage Official use reported",
+      "ok": true
+    },
+    {
+      "name": "stage Official catalogue describes proposed project",
+      "ok": true
+    },
+    {
+      "name": "stage Implementing institute reports Odisha launch",
+      "ok": true
+    },
+    {
+      "name": "stage Police-developer app listing present",
+      "ok": true
+    },
+    {
+      "name": "stage AMC/AMFI deployment reported",
+      "ok": true
+    },
+    {
+      "name": "stage Official coverage reported; station configuration unverified",
+      "ok": true
+    },
+    {
+      "name": "stage Integration reported in CRIS interview",
+      "ok": true
+    },
+    {
+      "name": "stage Official programme presentation describes workflow",
+      "ok": true
+    },
+    {
+      "name": "stage State-roadmap account describes deployment",
+      "ok": true
+    },
+    {
+      "name": "stage Partner-reported pilot outcomes and expansion plans",
+      "ok": true
+    },
+    {
+      "name": "stage Challan processing reported suspended in September",
+      "ok": true
+    },
+    {
+      "name": "stage Flag-off and planned induction described",
+      "ok": true
+    },
+    {
+      "name": "stage MoU describes proposed development",
+      "ok": true
+    },
+    {
+      "name": "stage Beta chatbot introduction reported; current version not verified",
+      "ok": true
+    },
+    {
+      "name": "stage Annual report states operationalisation",
+      "ok": true
+    },
+    {
+      "name": "stage Experimental in reviewed official record",
+      "ok": true
+    },
+    {
+      "name": "stage Service interface observed; no query submitted",
+      "ok": true
+    },
+    {
+      "name": "stage Use described in court white paper",
+      "ok": true
+    },
+    {
+      "name": "stage Official deployment reported",
+      "ok": true
+    },
+    {
+      "name": "stage Historical 2020 service account",
+      "ok": true
+    },
+    {
+      "name": "stage Launch reporting and official YAKSH instructions indexed",
+      "ok": true
+    },
+    {
+      "name": "no results",
+      "ok": true
+    },
+    {
+      "name": "no-results limitation",
+      "ok": true
+    },
+    {
+      "name": "new-system search",
+      "ok": true
+    },
+    {
+      "name": "date sort retains all",
+      "ok": true
+    },
+    {
+      "name": "download bytes complete-registry.zip",
+      "ok": true
+    },
+    {
+      "name": "download bytes dataset.sqlite",
+      "ok": true
+    },
+    {
+      "name": "download bytes data.json",
+      "ok": true
+    },
+    {
+      "name": "download bytes BROADENING_STUDY.md",
+      "ok": true
+    },
+    {
+      "name": "download bytes BROADENING_SEARCH.json",
+      "ok": true
+    },
+    {
+      "name": "download bytes BROADENING_RETRIEVAL.json",
+      "ok": true
+    },
+    {
+      "name": "download bytes BROADENING_QUOTE_AUDIT.json",
+      "ok": true
+    },
+    {
+      "name": "download bytes BASELINE_1_1_0.json",
+      "ok": true
+    },
+    {
+      "name": "download bytes PROTOCOL.md",
+      "ok": true
+    },
+    {
+      "name": "download bytes CODEBOOK.md",
+      "ok": true
+    },
+    {
+      "name": "download bytes queries.sql",
+      "ok": true
+    },
+    {
+      "name": "download bytes systems.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes institutions.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes system_institutions.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes system_links.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes deployments.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes procurements.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes evaluations.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes metrics.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes controls.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes policies.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes system_policy_links.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes assertions.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes evidence.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes evidence_links.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes sources.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes issues.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes candidate_decisions.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes institution_coverage.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes coverage_systems.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes source_rechecks.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes assertion_rechecks.csv",
+      "ok": true
+    },
+    {
+      "name": "expanded evidence",
+      "ok": true
+    },
+    {
+      "name": "download bytes dossiers/sys-safe-kerala.md",
+      "ok": true
+    },
+    {
+      "name": "source snapshot bytes",
+      "ok": true
+    },
+    {
+      "name": "filtered CSV exact one row with cohort",
+      "ok": true
+    },
+    {
+      "name": "unknown identifier",
+      "ok": true
+    },
+    {
+      "name": "failed dataset error state",
+      "ok": true
+    },
+    {
+      "name": "retry dataset recovered",
+      "ok": true
+    },
+    {
+      "name": "HTML fallback rejected",
+      "ok": true
+    },
+    {
+      "name": "support route /desk",
+      "ok": true
+    },
+    {
+      "name": "support route /implementation",
+      "ok": true
+    },
+    {
+      "name": "support route /systems",
+      "ok": true
+    },
+    {
+      "name": "support route /data",
+      "ok": true
+    },
+    {
+      "name": "support route /sources",
+      "ok": true
+    },
+    {
+      "name": "support route /contributions",
+      "ok": true
+    },
+    {
+      "name": "support route /corrections",
+      "ok": true
+    },
+    {
+      "name": "support route /method",
+      "ok": true
+    },
+    {
+      "name": "old policy notebook selection",
+      "ok": true
+    },
+    {
+      "name": "policy notebook Markdown citations",
+      "ok": true
+    },
+    {
+      "name": "combined filters",
+      "ok": true
+    },
+    {
+      "name": "combined filter reset",
+      "ok": true
+    },
+    {
+      "name": "no unexpected JavaScript errors",
+      "ok": true
+    },
+    {
+      "name": "desktop primary CTA dark",
+      "ok": true
+    },
+    {
+      "name": "mobile explorer no page overflow",
+      "ok": true
+    },
+    {
+      "name": "mobile CTA",
+      "ok": true
+    },
+    {
+      "name": "mobile data-room no overflow",
+      "ok": true
+    },
+    {
+      "name": "mobile long dossier no overflow",
+      "ok": true
+    }
+  ],
+  "page_errors": [],
+  "download_sha256": {
+    "zip": "365d8e367f4425f9ebfa79af3f9dfbcd9f3382d664ddb82d377ee8aabf3fc4c8",
+    "sqlite": "e856fbc0279740a83c594214f6734ba93de7a977c57496b0bde891f5587d7a95",
+    "json": "26ff1bc7bcc1600adc994eabba9fc3cba94a8a3d77123c560b0884eea0450c6c"
+  }
+}

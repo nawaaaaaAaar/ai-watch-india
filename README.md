@@ -6,7 +6,15 @@ The website brand is **AI Watch**, with **India evidence desk** identifying the 
 
 ## Included in this release
 
-Dataset v1.1.0 adds a fixed six-institution documentary search frame, eighteen additional systems/services, explicit adjacent/deferred candidate decisions and a complete baseline source-availability recheck. The live release has 36 systems, 32 institution labels, 70 source records and all 432 assertion slots, distributed through 21 linked tables.
+Dataset v1.2.0 doubles the previous 36-record release to 72 named systems/service families, with 76 institution labels, 119 source records and all 864 accountability slots through 21 linked tables. Thirty-six broadening additions span identity, pensions, grievances, telecom risk, securities regulation, agriculture, transport, water, clinical research and defence decision support.
+
+This round logs 153 discovery/identity/recency/accountability queries, 693 discovery hits and 100 retrieval receipts including three failures. All 49 used new source selections were checked against fetched text; source claims, causal evidence, approval costs and actual deployment remain separate. The archive retains all 72 dossiers, source excerpts, JSON, SQLite, CSVs, SQL, studies, methods and checksums.
+
+Start with `research/registry/BROADENING_STUDY.md`. YAKSH/Trinetra and the regional iRASTE deployments are not doubled into extra family records; proposed/beta/development and reported-suspended services are not described as verified current operational deployment. Coding remains single-analyst, and no public launch, paid service or external enquiry was undertaken.
+
+## Previous institutional release
+
+Dataset v1.1.0 added a fixed six-institution documentary search frame, eighteen additional systems/services, adjacent/deferred decisions and an original-baseline source-availability recheck. It contained 36 systems, 32 institution labels, 70 sources and 432 assertion slots.
 
 The six coverage entries are five ministries (Agriculture, Health, Education, Home and Railways) plus the independent Supreme Court. Twenty-six systems are associated with them; ten earlier cases remain outside the frame as context. Completed standardized searches do not mean complete administrative inventories or a national census. The second round records 36 queries separately from the original 62.
 

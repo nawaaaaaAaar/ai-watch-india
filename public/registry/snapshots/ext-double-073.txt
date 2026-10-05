@@ -1,0 +1,12 @@
+Raj-Silicosis AI certification/auto-approval presentation
+Original: https://www.nceg.gov.in/assets/pdf/Final_Delhi_Presentation.pdf
+Document date: Undated/uncertain
+Source type: Official e-governance programme presentation
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Error free high-fidelity system with 100% accuracy
+
+It provides an integrated solution using digital radiography, teleradiology and AI algorithms for silicosis diagnosis and auto-approval
+
+AI model compares new X-ray images with confirmed cases, assisting radiologists in the accurate identification of potential silicosis cases.

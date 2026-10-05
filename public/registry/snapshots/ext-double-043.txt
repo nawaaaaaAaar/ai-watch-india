@@ -1,0 +1,12 @@
+Kisan Sarathi advisory and AI intent
+Original: https://kisansarathi.in/
+Document date: Undated/uncertain
+Source type: Official service portal
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+automated searching (using Artificial Intelligence)
+
+The experts at the back end (the web application) have access to the farmers’ database while responding to the farmers’ queries.
+
+The system is connected to a centralized database, which has all information on the farm, farmer, and previous transactions.

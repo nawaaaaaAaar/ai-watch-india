@@ -1,0 +1,10 @@
+Jeevan Pramaan face/finger/iris manual
+Original: https://jeevanpramaan.gov.in/newassets/jpdocs/JeevanPramaan_FaceApp_3.6_Installation.pdf
+Document date: Undated/uncertain
+Source type: Official user manual
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Once face, finger or iris authentication is successful, the DLC i.e Jeevan Pramaan is successfully generated
+
+For Face Authentication - AadhaarFaceRD app ( No biometric device is required )

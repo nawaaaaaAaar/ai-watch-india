@@ -16,7 +16,8 @@
       "frame_id",
       "system_kind",
       "ai_class",
-      "ai_class_basis"
+      "ai_class_basis",
+      "research_round"
     ],
     "institutions": [
       "institution_id",
@@ -49,14 +50,14 @@
     "procurements": [
       "procurement_id",
       "system_id",
-      "record_type",
-      "award_date",
       "amount_inr",
       "amount_type",
       "supplier_name",
-      "current_deployment_link",
       "description",
-      "supplier_institution_id"
+      "supplier_institution_id",
+      "record_type",
+      "award_date",
+      "current_deployment_link"
     ],
     "evaluations": [
       "evaluation_id",

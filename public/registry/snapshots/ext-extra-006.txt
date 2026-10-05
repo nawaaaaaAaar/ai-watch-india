@@ -1,0 +1,10 @@
+MahaVISTAAR institutional accountability account
+Original: https://aikosh.indiaai.gov.in/home/use-cases/details/mahavistaar_responsible_ai_enabled_agricultural_and_livestock_advisory_at_population_scale_1.html
+Document date: Undated/uncertain
+Source type: Government-hosted programme account
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Institutional bodies such as the Department of Agriculture, State Agricultural Universities, research institutions, APMCs, and allied departments remain the authoritative source of truth.
+
+AI functions strictly as an orchestration and decision-support layer rather than an autonomous decision-maker.

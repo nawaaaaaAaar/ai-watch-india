@@ -1,0 +1,14 @@
+CPGRAMS IGMS functions
+Original: https://www.pgportal.gov.in/Home/AboutUs
+Document date: Undated/uncertain
+Source type: Official service description
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Automatically identifies the semantic gist of grievances by analyzing their text contents and pdf attachments
+
+launched by DARPG in collaboration with IIT Kanpur
+
+Automatically detects spam, bulk and repetitive grievances in real-time.
+
+Presently, in addition to flagging urgent grievances using Artificial Intelligence, the Intelligent Grievance Management System (IGMS) deployed by DARPG in CPGRAMS also functions as a module within CPGRAMS 7.0

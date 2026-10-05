@@ -1,0 +1,10 @@
+NHAI predictive maintenance and DAS rollout
+Original: https://nhai.gov.in/nhai/sites/default/files/2026-06/NHAI_Press_Release-16-06-2026-EN.pdf
+Document date: 2026-06-16
+Source type: Official programme statement
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+NHAI has initiated the rollout of AI-powered Dashcam Analytics Services (DAS) across operational National Highways sections
+
+Data generated through NSVs, drones, dashcams and FWD surveys is being integrated into a single ecosystem

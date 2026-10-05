@@ -1,0 +1,8 @@
+iOncology earlier clinician-reported benchmark
+Original: https://indianexpress.com/article/long-reads/aiims-ai-project-cancer-therapy-9169481/
+Document date: Undated/uncertain
+Source type: Established news reporting
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+the AI model has been tested on the pathology, radiology and clinical history of 1,500 breast and ovarian cancer patients from AIIMS and was found to be over 75 per cent accurate when compared to the diagnosis provided by the clinicians.

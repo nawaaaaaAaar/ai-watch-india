@@ -1,0 +1,8 @@
+Weather AI and MausamGPT development answer
+Original: https://www.moes.gov.in/static/uploads/2026/08/5627acbd36e6772fb8f77a3e92964f51.pdf
+Document date: 2026-08-12
+Source type: Official parliamentary explanation
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+“MausamGPT” are under development to generate concise, user-friendly multilingual summaries of weather forecasts, impact-based warnings and climate outlooks

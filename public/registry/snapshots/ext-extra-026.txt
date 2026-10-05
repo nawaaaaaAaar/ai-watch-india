@@ -1,0 +1,14 @@
+iRASTE Telangana 2024 executive summary
+Original: https://inai.ai/wp-content/uploads/2024/10/Executive-Summary-iRASTE-Telangana.pdf
+Document date: Undated/uncertain
+Source type: Implementing-research-partner evaluation report
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+This data is used as a leading indicator of accident risk to guide driver training, offer personalized coaching, and recognize drivers who perform well based on their risk scores.
+
+Between April ‘23 and March ‘24, AI-based ADAS-equipped TGSRTC buses experienced a 40% lower crash rate in fatal accidents compared to non-ADAS buses
+
+During this time, ADAS-enabled buses covered over 20 million kilometers.
+
+Two hundred TGSRTC buses were selected as the primary study fleet to assess the effectiveness of AI-based ADAS devices.

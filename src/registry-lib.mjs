@@ -8,7 +8,7 @@ export function filterSystems(data,{query='',sector='All',stage='All',ai='All',f
   return rows.sort((a,b)=>sort==='date'?(b.latest_record_date||'').localeCompare(a.latest_record_date||'')||a.name.localeCompare(b.name):a.name.localeCompare(b.name));
 }
 export function registryCsv(data,rows) {
-  const cols=['system_id','name','responsible_institution','sector','jurisdiction','stage','latest_record_date','ai_class','ai_basis','checked_date','unit','selection','system_kind','frame_id','dossier'];
+  const cols=['system_id','name','responsible_institution','sector','jurisdiction','stage','latest_record_date','ai_class','ai_basis','checked_date','unit','selection','research_round','system_kind','frame_id','dossier'];
   const cell=v=>{let s=v==null?'':String(v);if(/^[=+\-@\t\r]/.test(s))s="'"+s;return '"'+s.replaceAll('"','""')+'"';};
   return [cols.map(cell).join(','),...rows.map(s=>cols.map(k=>cell(k==='responsible_institution'?data.institutions.find(i=>i.institution_id===s.owner_institution_id)?.name:k==='dossier'?`dossiers/${s.system_id}.md`:s[k])).join(','))].join('\r\n')+'\r\n';
 }

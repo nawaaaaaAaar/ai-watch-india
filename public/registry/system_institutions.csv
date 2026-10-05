@@ -3,40 +3,92 @@ role-007d1508acd3ca3b,sys-upsc,inst-45ee9688e858c52d,Responsible institution/ope
 role-065a6ff60c3b7b62,sys-ejaadui,inst-d2473e761c5e1987,Responsible institution/operator as described; not necessarily legal owner
 role-09aea694c6c5577c,sys-cctns2,inst-e3938ebce6d6f9f4,Responsible institution/operator as described; not necessarily legal owner
 role-0e750c942f1d62f2,sys-rail-ids,inst-58a0fcc79c90b09f,Responsible institution/operator as described; not necessarily legal owner
+role-1031c50fa1c24563,sys-ioncology,inst-21e89a0ce17d5759,Responsible institution/operator as described; not necessarily legal owner
+role-14cefde5077a9fac,sys-saagu-baagu,inst-4011dca9fe8dd9ea,Programme implementation partner described
+role-155ed4d2d847fd93,sys-kisan-sarathi,inst-526b9340c1d32834,Joint implementation identified by service portal
+role-160aed1213fbf2f3,sys-safe-kerala,inst-a453522a2cbb0303,Responsible institution/operator as described; not necessarily legal owner
 role-1bbe014d9127b071,sys-suvas,inst-ade08b2d56db380a,Responsible institution/operator as described; not necessarily legal owner
+role-1cc88481c2a33aa7,sys-ksh,inst-bfd6b4277a93f961,Responsible institution/operator as described; not necessarily legal owner
+role-1ecb780f8b331c9d,sys-sansad-chatbot,inst-2890dfd46b4eb43b,Responsible institution/operator as described; not necessarily legal owner
 role-2733b1112b2a591f,sys-rail-vss,inst-c3cf368fff4679f9,Responsible institution/operator as described; not necessarily legal owner
+role-27fd61333d003114,sys-bifa,inst-23cb88b76fb93da5,Responsible institution/operator as described; not necessarily legal owner
+role-2ae781023f75cf99,sys-pais,inst-58e63a2975275355,"Listing copyright attribution, not reviewed executed contract"
+role-2bcb0e836f855617,sys-nuwr-analysis,inst-33b9d2e99b82fa8f,Developer in official catalogue; acceptance not established
+role-2d20e0c8ec129d86,sys-paddymitra,inst-bfd6b4277a93f961,Public launch/extension collaborator; not asserted legal platform owner
+role-2d78ba6a4802f52c,sys-paddymitra,inst-5419694268005d37,Responsible institution/operator as described; not necessarily legal owner
+role-2f06a0f17b70a0a3,sys-igms,inst-562656b0a72e2b49,Development collaborator identified by portal; not an executed award
+role-309875324ac91d6e,sys-rajgpt,inst-cddfdda3e91aa9b7,Responsible institution/operator as described; not necessarily legal owner
 role-30a0150f74c28ebd,sys-bmc-tb,inst-5619c00348e1b51f,Pilot partner named in reporting; agreement unverified
 role-3285c9bb854cce4f,sys-digiyatra,inst-2155d03e61814da2,Responsible institution/operator as described; not necessarily legal owner
+role-3436cbfcaf28a082,sys-delhi-itms,inst-7c021f2493ccc613,Planned Project Management Consultant
+role-34ba54e938bb44f8,sys-astram,inst-6f2298d613f6b8d6,Responsible institution/operator as described; not necessarily legal owner
+role-35f0b3bf10a9e1ed,sys-cwc-google,inst-7fb1fee101f6550d,Responsible institution/operator as described; not necessarily legal owner
 role-3e2a924d47c8f052,sys-railmadad,inst-2261f4d2a9883aaa,Responsible institution/operator as described; not necessarily legal owner
+role-40d1004b14af65f9,sys-djb-twin,inst-87d295e4a6e3956e,Responsible institution/operator as described; not necessarily legal owner
+role-44c8f0fc526abe42,sys-aadhaar-face,inst-e999f31ac201d555,Responsible institution/operator as described; not necessarily legal owner
 role-490bd613b2c7fa51,sys-teres,inst-ade08b2d56db380a,Responsible institution/operator as described; not necessarily legal owner
+role-4d51ea44fcb3aff3,sys-astr,inst-2b4a6b77a838e76a,Responsible institution/operator as described; not necessarily legal owner
+role-4e7e49952f97e1c8,sys-uzhavan-pest,inst-3efd4b94a330ceaf,Responsible institution/operator as described; not necessarily legal owner
+role-52eff90caef8036f,sys-cwc-google,inst-ce770667e5f9b0d8,Forecasting technical collaborator; developer account not independent validation
+role-5c95b7578a712ae7,sys-raj-silicosis,inst-0b79cf195addb412,Responsible institution/operator as described; not necessarily legal owner
+role-5cafa0aa6d03deba,sys-sudarsan,inst-7851473390a62459,Responsible institution/operator as described; not necessarily legal owner
+role-5f8cf91179a77a42,sys-aware,inst-80f84b53dc6799f4,Responsible institution/operator as described; not necessarily legal owner
 role-6220d997c14efe25,sys-khushi,inst-204b63fb560341f5,Responsible institution/operator as described; not necessarily legal owner
+role-687132fa30751091,sys-nhai-das,inst-8940c3eac6828cd5,Responsible institution/operator as described; not necessarily legal owner
 role-6bd2d8947b0f6f84,sys-bodh,inst-4db7fdfd0df0fe6b,Responsible institution/operator as described; not necessarily legal owner
 role-6c65d120b52a2141,sys-esanjeevani,inst-204b63fb560341f5,Responsible institution/operator as described; not necessarily legal owner
 role-6ed2467d5f96282b,sys-kisan-emitra,inst-8cdaf9f016942e87,Developer portfolio association; executed award unverified
+role-6ed4f6aeecf70c63,sys-saagu-baagu,inst-51eee65c3c8d3490,Responsible institution/operator as described; not necessarily legal owner
+role-70192a5df4283f91,sys-fri,inst-2b4a6b77a838e76a,Responsible institution/operator as described; not necessarily legal owner
 role-71b2b3ba2249758c,sys-askdisha,inst-c0df593d9ca61f9c,Responsible institution/operator as described; not necessarily legal owner
+role-71fff3fb698a145e,sys-seva,inst-7851473390a62459,Responsible institution/operator as described; not necessarily legal owner
+role-72827e85a529e77d,sys-atman,inst-2d89a5e2556c8d76,Responsible institution/operator as described; not necessarily legal owner
 role-767ab843fd6898f8,sys-susahyak,inst-105b2a327ff73653,Developer attribution on court service site
+role-7811531ec19a051d,sys-sanjay,inst-9fc9870cbff25d12,Official joint developer
+role-78a5016ae9a7851c,sys-fmr-fir,inst-e999f31ac201d555,Responsible institution/operator as described; not necessarily legal owner
+role-7c4452dfeefde15b,sys-raidar,inst-6f2e73576635a15d,Reported host/deployment setting; exact contractual allocation not established
 role-7ca0c005ecfc7c54,sys-cropic,inst-9da8a4e007d95a58,Responsible institution/operator as described; not necessarily legal owner
 role-7dadd9ae037cc95d,sys-npss,inst-9da8a4e007d95a58,Responsible institution/operator as described; not necessarily legal owner
 role-815fe2e810c52fb0,sys-madhunetrai,inst-f1118c6f3a9781ad,Responsible institution/operator as described; not necessarily legal owner
+role-81ab689eef75b758,sys-djb-twin,inst-7fd4fe0d8fb3c6b8,Reported development collaborator
 role-832e5cbe3e352753,sys-crpi,inst-e3938ebce6d6f9f4,Responsible institution/operator as described; not necessarily legal owner
 role-84eaa58e8e957bfa,sys-mds,inst-204b63fb560341f5,Responsible institution/operator as described; not necessarily legal owner
 role-8922ea48328b1488,sys-itms,inst-c3cf368fff4679f9,Responsible institution/operator as described; not necessarily legal owner
 role-8adac7a247da30bf,sys-supace,inst-ade08b2d56db380a,Responsible institution/operator as described; not necessarily legal owner
 role-8c752f383ed212b8,sys-diksha,inst-336e44e3a51f9f87,Responsible institution/operator as described; not necessarily legal owner
+role-8f766835f1a575c1,sys-astram,inst-3c8e259b5f01c261,Case-study publisher/developer attribution; award not reviewed
+role-9447e13ee482ca67,sys-infomerge,inst-7851473390a62459,Responsible institution/operator as described; not necessarily legal owner
 role-96b0b74a65139e42,sys-askdisha,inst-88e657d36424fb3d,Technical partner in 2020-21 report; current agreement unverified
 role-9c01fe722aa2ff6a,sys-kisan-emitra,inst-9da8a4e007d95a58,Responsible institution/operator as described; not necessarily legal owner
+role-9d2fbb3798d76a93,sys-delhi-itms,inst-899f4725b13a40bc,Responsible institution/operator as described; not necessarily legal owner
+role-a51ed65d0972b622,sys-aware,inst-32ed215ce6e1fd16,Developer-attributed partnership
+role-a52de8749a2a2c54,sys-mausamgpt,inst-d8151ada4bb4d040,Responsible institution/operator as described; not necessarily legal owner
 role-a76d31622d04fc48,sys-bhashini,inst-f44a2ec8e996964e,Responsible institution/operator as described; not necessarily legal owner
+role-a9a1a22849d88582,sys-raidar,inst-7851473390a62459,Responsible institution/operator as described; not necessarily legal owner
 role-ab417a22ead8af4b,sys-catb,inst-204b63fb560341f5,Responsible institution/operator as described; not necessarily legal owner
+role-b30d3f4f3f895e87,sys-pais,inst-29b9a3c648b1d0f7,Responsible institution/operator as described; not necessarily legal owner
 role-b540ad91b7963d33,sys-insight,inst-baa97366d7ccc323,Responsible institution/operator as described; not necessarily legal owner
 role-b99da9e571c299ea,sys-abhigyan,inst-e3938ebce6d6f9f4,Responsible institution/operator as described; not necessarily legal owner
+role-bc7ef6eb059d8875,sys-mahavistaar,inst-a157dac3e3f15a6c,Responsible institution/operator as described; not necessarily legal owner
+role-c0820a317cafdcb0,sys-nuwr-analysis,inst-c86ddcb778fd604a,Responsible institution/operator as described; not necessarily legal owner
+role-c0d5b6f4c806f38f,sys-yaksh,inst-58e63a2975275355,"Reported underlying platform developer, not executed-contract verification"
 role-c4d496ad9848cbee,sys-fest,inst-b4a65faa8f6deb4e,Responsible institution/operator as described; not necessarily legal owner
 role-c54e309606a07f0f,sys-advait,inst-f79096a81f8ebca4,Responsible institution/operator as described; not necessarily legal owner
 role-cb5fa46e849ee501,sys-epaarvai,inst-765993c8e5e23c65,Responsible institution/operator as described; not necessarily legal owner
+role-cc31238b092c4ade,sys-iraste,inst-cb5ed1dc40d2da03,Responsible institution/operator as described; not necessarily legal owner
+role-cf43a1298b288980,sys-igms,inst-47b878b9100a8229,Responsible institution/operator as described; not necessarily legal owner
 role-cf7e4461e9e9cfd7,sys-mvis,inst-c3cf368fff4679f9,Responsible institution/operator as described; not necessarily legal owner
 role-d4e3ab36666b250a,sys-plcs,inst-0b757f6ea62e3a88,Responsible institution/operator as described; not necessarily legal owner
 role-d6e32aedfde2e3c1,sys-bharat-vistaar,inst-9da8a4e007d95a58,Responsible institution/operator as described; not necessarily legal owner
+role-d6f98535aabaa519,sys-sanjay,inst-0db9a515e3aacb97,Responsible institution/operator as described; not necessarily legal owner
 role-deaeae09fce16200,sys-cyberguard,inst-8bb78df3fe653106,Responsible institution/operator as described; not necessarily legal owner
+role-e068aa9c2eedf3c2,sys-jeevan-pramaan,inst-5f5171085b9e42f9,Responsible institution/operator as described; not necessarily legal owner
+role-e2d845a51432cb33,sys-safe-kerala,inst-d6df2fac3cc6f547,Implementing agency in newspaper report; not a reviewed contract
+role-e93e1c040ccde241,sys-apt,inst-6e09d383bf58c7d8,Responsible institution/operator as described; not necessarily legal owner
+role-eec6ce9a2625e97d,sys-yaksh,inst-89845125f562794a,Responsible institution/operator as described; not necessarily legal owner
 role-f04196b352760171,sys-bodh,inst-562656b0a72e2b49,Platform development collaboration as officially described
 role-f0e5632f2905f60e,sys-bmc-tb,inst-541bddce041e4617,Responsible institution/operator as described; not necessarily legal owner
+role-f296920a803e5950,sys-kisan-sarathi,inst-8dcfb8acc65d8a91,Responsible institution/operator as described; not necessarily legal owner
 role-f573ba43b05ffade,sys-susahyak,inst-ade08b2d56db380a,Responsible institution/operator as described; not necessarily legal owner
 role-f61290be15d8b7d0,sys-mahacrimeos,inst-02ff35c659e60448,Responsible institution/operator as described; not necessarily legal owner
+role-fdae701298c9f6c4,sys-ioncology,inst-731ef3d09d0f30a6,Reported joint developer

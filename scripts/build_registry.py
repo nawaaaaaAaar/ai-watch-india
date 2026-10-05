@@ -11,7 +11,8 @@ TABLES=["systems","institutions","system_institutions","system_links","deploymen
 db={k:[] for k in TABLES}
 curation=json.loads((ROOT/"research/registry-curation.json").read_text())
 phase=json.loads((ROOT/"research/registry-phase2.json").read_text())
-for key in ["sources","profiles","details"]:curation[key]+=phase[key]
+broad=json.loads((ROOT/"research/registry-phase3.json").read_text())
+for key in ["sources","profiles","details"]:curation[key]+=phase[key]+broad[key]
 old=json.loads((ROOT/"public/combined-data.json").read_text())
 old_sources={s["id"]:s for s in old["sources"]}
 source_map={};evidence_map={};institutions={}
@@ -76,7 +77,8 @@ for p in sorted(profiles,key=lambda p:p["system_id"]):
     sid=p["system_id"];owner=inst(p["owner"]);fields=p["fields"]
     row={k:p.get(k) for k in ["system_id","name","sector","jurisdiction","stage","latest_record_date","ai_basis","legacy_id"]}
     qualified={"sys-digiyatra","sys-upsc","sys-insight","sys-fest","sys-abhigyan","sys-crpi"}
-    row.update(owner_institution_id=owner,checked_date=CHECKED,unit="Named service/system; not each installation or model",selection="Fixed-frame documentary search addition" if p.get("frame_id") else "Purposive exploratory seed",frame_id=p.get("frame_id"),system_kind=p.get("system_kind","Public-service system"),ai_class="AI evaluation infrastructure" if sid=="sys-bodh" else "Qualified algorithmic / biometric context" if sid in qualified else "Explicit source attribution",ai_class_basis="AI attribution includes vendor/editorial sources, not independent or government validation. Qualified subset lacks verified system-specific AI identification in the reviewed records.")
+    row.update(owner_institution_id=owner,checked_date=CHECKED,unit="Named service/system; not each installation or model",selection=p.get("selection") or ("Fixed-frame documentary search addition" if p.get("frame_id") else "Purposive exploratory seed"),frame_id=p.get("frame_id"),system_kind=p.get("system_kind","Public-service system"),ai_class=p.get("ai_class") or ("AI evaluation infrastructure" if sid=="sys-bodh" else "Qualified algorithmic / biometric context" if sid in qualified else "Explicit source attribution"),ai_class_basis="AI attribution includes vendor/editorial sources, not independent or government validation. Qualified subset lacks verified system-specific AI identification in the reviewed records.")
+    row["research_round"]=p.get("research_round") or ("1.1.0" if p["system_id"] in [x["system_id"] for x in phase["profiles"]] else "1.0.0")
     db["systems"].append(row)
     role(sid,p["owner"],"Responsible institution/operator as described; not necessarily legal owner",fields[0]["evidence"])
     for n,(fname,f) in enumerate(zip(FIELDS,fields),1):
@@ -102,7 +104,7 @@ for p in sorted(profiles,key=lambda p:p["system_id"]):
             rid=stable("control",sid+FIELDS[idx])
             db["controls"].append(dict(control_id=rid,system_id=sid,control_type=FIELDS[idx],implementation_basis="Published description/requirements; not verified live enforcement",description=f["statement"],evidence_status=f["status"]))
             links("controls",rid,f["evidence"])
-    db["candidate_decisions"].append(dict(candidate_id=sid,name=p["name"],decision="Included",reason="Named system found in fixed institutional documentary searches; AI attribution, qualified biometric context or evaluation infrastructure retained with explicit limits" if p.get("frame_id") else "Named India public-service AI attribution or qualified algorithmic/biometric context; purposive seed selection",system_id=sid))
+    db["candidate_decisions"].append(dict(candidate_id=sid,name=p["name"],decision="Included",reason="Broadening-round named system; stage and AI qualification retained; not every deployment or legacy app counted separately" if p.get("research_round") else "Named system found in fixed institutional documentary searches; AI attribution, qualified biometric context or evaluation infrastructure retained with explicit limits" if p.get("frame_id") else "Named India public-service AI attribution or qualified algorithmic/biometric context; purposive seed selection",system_id=sid))
 
 idcols={"deployments":"deployment_id","procurements":"procurement_id","evaluations":"evaluation_id","metrics":"metric_id","controls":"control_id","issues":"issue_id","system_links":"system_link_id"}
 for i,d in enumerate(curation["details"]):
@@ -118,7 +120,7 @@ for i,d in enumerate(curation["details"]):
     rid=stable(table,sid+json.dumps(v,sort_keys=True))
     row={idcols[table]:rid,"system_id":sid,**v}
     if table=="metrics":
-        row["value_qualifier"]="Reported lower/upper range; not diagnostic accuracy" if sid=="sys-catb" else "More than stated lower bound" if sid in ["sys-digiyatra","sys-bhashini","sys-kisan-emitra","sys-npss"] else "About" if sid=="sys-plcs" else "Maximum requirement; not observation" if v["metric_kind"]=="Specification threshold" else "Reported value"
+        row["value_qualifier"]=v.get("value_qualifier") or ("Reported lower/upper range; not diagnostic accuracy" if sid=="sys-catb" else "More than stated lower bound" if sid in ["sys-digiyatra","sys-bhashini","sys-kisan-emitra","sys-npss"] else "About" if sid=="sys-plcs" else "Maximum requirement; not observation" if v["metric_kind"]=="Specification threshold" else "Reported value")
     if table=="procurements":
         row["supplier_institution_id"]=inst(v["supplier_name"]) if v.get("supplier_name") else None
     db[table].append(row);links(table,rid,es)
@@ -138,6 +140,9 @@ for candidate in phase["candidates"]:
     rid=stable("candidate",candidate["name"])
     db["candidate_decisions"].append(dict(candidate_id=rid,name=candidate["name"],decision=candidate["decision"],reason=candidate["reason"],system_id=None,frame_id=candidate["frame_id"]))
     links("candidate_decisions",rid,candidate["evidence"])
+for candidate in broad["candidates"]:
+    rid=stable("candidate","broad-"+candidate["name"])
+    db["candidate_decisions"].append(dict(candidate_id=rid,name=candidate["name"],decision=candidate["decision"],reason=candidate["reason"],system_id=None))
 
 frame_defs=[
  ("frame-agriculture","Ministry of Agriculture and Farmers Welfare",["sys-kisan-emitra","sys-bharat-vistaar"],"Named departmental programmes; other ministry collaborators not reassigned as owned systems."),
@@ -158,6 +163,7 @@ for fid,name,seed_ids,scope in frame_defs:
 rechecks=json.loads((ROOT/"research/registry/SOURCE_RECHECK.json").read_text())
 db["source_rechecks"]=rechecks
 for a in db["assertions"]:
+    if a["system_id"] in [p["system_id"] for p in broad["profiles"]]:continue
     if a["system_id"] not in [s[0] for s in seed.values()] and a["system_id"] in [p["system_id"] for p in phase["profiles"]]:continue
     used={evidence_map[l["evidence_id"]]["source_id"] for l in db["evidence_links"] if l["record_type"]=="assertions" and l["record_id"]==a["assertion_id"]}
     rows=[r for r in rechecks if r["source_id"] in used]
@@ -182,7 +188,7 @@ for s in db["sources"]:
     qs=list(dict.fromkeys(e["quote"] for e in db["evidence"] if e["source_id"]==s["source_id"]))
     # No whole documents: excerpt text only, unique passages shared across uses.
     text=f'{s["title"]}\nOriginal: {s["url"]}\nDocument date: {s["published_date"] or "Undated/uncertain"}\nSource type: {s["source_type"]}\nChecked: {CHECKED}\nSelected excerpts, not original document bytes or an independent audit.\n\n'+"\n\n".join(qs)+"\n"
-    if s["source_id"].startswith("reg-"):assert sum(len(q.split()) for q in qs)<=250
+    if s["source_id"].startswith(("reg-","frame-","ext-")):assert sum(len(q.split()) for q in qs)<=250
     path=OUT/"snapshots"/(s["source_id"]+".txt");path.write_text(text)
     s.update(snapshot="snapshots/"+path.name,snapshot_sha256=hashlib.sha256(path.read_bytes()).hexdigest(),hash_basis="Selected-excerpt UTF-8 snapshot; not original PDF")
 
@@ -190,7 +196,7 @@ for s in db["sources"]:
 db["evidence_links"]=list({r["link_id"]:r for r in db["evidence_links"]}.values())
 for t,rows in db.items():rows.sort(key=lambda r:str(next(iter(r.values()))))
 ids={t:{next(iter(r.values())) for r in rows} for t,rows in db.items()}
-assert len(db["systems"])==36 and len(db["assertions"])==432
+assert len(db["systems"])==72 and len(db["assertions"])==864
 for row in db["evidence_links"]:
     assert row["record_id"] in ids[row["record_type"]]
     assert row["evidence_id"] in ids["evidence"]
@@ -205,7 +211,7 @@ for t in TABLES:
         if row.get("frame_id"):assert row["frame_id"] in ids["institution_coverage"]
         if row.get("assertion_id"):assert row["assertion_id"] in ids["assertions"]
 
-metadata=dict(title="AI Watch: India institution-and-system dataset",version="1.1.0",checked_date=CHECKED,scope="36 named systems/services: 18 purposive seed cases plus 18 fixed-institution-frame documentary additions. Six coverage institutions, not a census or representative national sample; historical, experimental and evaluation-infrastructure units distinguished.",unit="System/service linked to institutions and observations",review="Single analyst; automated baseline source recheck, not independent duplicate coding or user-demand validation",counts={t:len(r) for t,r in db.items()},field_order=FIELDS)
+metadata=dict(title="AI Watch: India institution-and-system dataset",version="1.2.0",checked_date=CHECKED,scope="72 named systems/services: the 36-record seed/institutional release plus 36 broadening-round additions. The original six-institution frame still associates 26 records; the broadening cohort is purposive, not a census or representative national sample. Historical, proposed, suspended, experimental and evaluation-infrastructure units distinguished.",unit="System/service linked to institutions and observations",review="Single analyst; automated original-baseline source recheck, not independent duplicate coding or user-demand validation",counts={t:len(r) for t,r in db.items()},field_order=FIELDS)
 data={"metadata":metadata,**db}
 (OUT/"data.json").write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n")
 
@@ -273,7 +279,7 @@ for s in db["systems"]:
 # Derived statistics describe only this selected corpus and coding state.
 analysis={"scope":metadata["scope"],"coverage_status":dict(Counter(a["evidence_status"] for a in db["assertions"])),"ai_qualification":dict(Counter(s["ai_class"] for s in db["systems"])),"metrics_by_kind":dict(Counter(m["metric_kind"] for m in db["metrics"])),"evaluation_types":[dict(system_id=e["system_id"],evaluation_type=e.get("evaluation_type"),current_version_match=e.get("current_version_match")) for e in db["evaluations"]]}
 (OUT/"analysis.json").write_text(json.dumps(analysis,indent=2)+"\n")
-for name in ["PROTOCOL.md","CODEBOOK.md","RESEARCH_NOTE.md","queries.sql","search-log.json","retrieval-log.json","INSTITUTION_STUDY.md","INSTITUTION_SEARCH.json","INSTITUTION_RETRIEVAL.json","SOURCE_RECHECK.json"]:
+for name in ["PROTOCOL.md","CODEBOOK.md","RESEARCH_NOTE.md","queries.sql","search-log.json","retrieval-log.json","INSTITUTION_STUDY.md","INSTITUTION_SEARCH.json","INSTITUTION_RETRIEVAL.json","SOURCE_RECHECK.json","BROADENING_STUDY.md","BROADENING_SEARCH.json","BROADENING_RETRIEVAL.json","BROADENING_QUOTE_AUDIT.json","BASELINE_1_1_0.json"]:
     src=ROOT/"research/registry"/name
     if src.exists():(OUT/name).write_bytes(src.read_bytes())
 

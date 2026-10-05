@@ -1,0 +1,8 @@
+DoT ASTR product description
+Original: https://deveservices.dot.gov.in/products/astr
+Document date: Undated/uncertain
+Source type: Official product description
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+ASTR is an indigenous and innovative SIM fraud detection tool, using facial recognition technique powered by Artificial Intelligence and Machine Learning

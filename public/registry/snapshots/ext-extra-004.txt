@@ -1,0 +1,12 @@
+SEVA investor chatbot beta reporting
+Original: https://cafemutual.com/news/industry/32720-sebi-launches-generative-ai-for-investors
+Document date: Undated/uncertain
+Source type: Financial-industry reporting
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Investors can use this chatbot to ask general questions on securities markets, master circulars, grievance redressal process and so on.
+
+Since this is beta launch, you may expect only basic functionality from the chatbot.
+
+SEBI has introduced SEBI’s Virtual Assistant (SEVA), an artificial intelligence based chatbot for investors.

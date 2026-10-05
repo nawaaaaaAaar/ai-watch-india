@@ -1,0 +1,10 @@
+DRDO ATMAN development and validation description
+Original: https://www.drdo.gov.in/drdo/ai-based-intelligent-covid-19-detector-technology-medical-assistance-atman
+Document date: Undated/uncertain
+Source type: Official developer account
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+CAIR, DRDO has developed an AI based intelligent, secure, web based, Covid detection application software ATMAN using Chest X-rays
+
+ATMAN has been tested and validated by the doctors from M/s HCG Centre for Academics and Research, Bengaluru and M/s Ankh Life Care, Bengaluru

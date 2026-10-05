@@ -1,0 +1,12 @@
+Krushi Samrudhi Helpline AI integration RFP
+Original: https://home.odisha.gov.in/sites/default/files/2025-03/Krushi%20Samrudhi%20Helpline%20(RFP)-%20FINAL_0.pdf
+Document date: Undated/uncertain
+Source type: Official tender
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+performing quality check of automated advisories generated through AI/ML model and getting it approved before disseminating the same.
+
+Integration of AI/ML voice models developed by the department’s nodal team for the automated dissemination of the advisories starting with pilot areas until scaled up to state level.
+
+advisories review dashboard, leverage current AI chatbot and enhance its features.

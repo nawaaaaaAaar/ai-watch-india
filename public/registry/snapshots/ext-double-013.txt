@@ -1,0 +1,22 @@
+SEBI 2025–26 annual report: distinct AI tools
+Original: https://www.sebi.gov.in/reports-and-statistics/publications/aug-2026/Chapter%2009.pdf
+Document date: Undated/uncertain
+Source type: Official annual report
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+SEBI operationalized Project SUDARSAN, an AI-powered intelligence platform
+
+The tool has been successfully deployed for AMCs at the AMFI.
+
+an AI-powered monitoring and enforcement support tool, R(AI)DAR, was developed and deployed for AMCs.
+
+Project SUDARSAN utilizes advanced multimodal AI to analyze spoken language, visual cues, and contextual intent, including content in regional languages.
+
+The system is currently being used to examine PIT and PFUTP cases.
+
+Since its commencement in November 2025, the platform has identified over 20,000 instances of fraudulent content and posts across social media
+
+Analysis of various datasets like KYC, trade logs etc. to identify suspicious patterns and linkages and preparation of AI generated summary report;
+
+InfoMerge: InfoMerge is an in-house developed application in SEBI Analytics portal for the Investigation Department.

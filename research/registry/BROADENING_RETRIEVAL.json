@@ -1,0 +1,1002 @@
+[
+  {
+    "retrieval_id": "double-001",
+    "query": "CPGRAMS intelligent grievance management AI",
+    "url": "https://www.pgportal.gov.in/Home/AboutUs",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 3382,
+    "extraction_sha256": "e312e1d000ded62afb3fe4f67afa8b4c372ceaa799f61355fce1c22db2e0f40a",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-002",
+    "query": "CPGRAMS intelligent grievance management AI",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296724&reg=48&lang=1",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 24262,
+    "extraction_sha256": "5bde4debdd6d57979b6714968792420ed3f9dd75265b9e751905c957ea76cab6",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-003",
+    "query": "Jeevan Pramaan face authentication technology",
+    "url": "https://jeevanpramaan.gov.in/newassets/jpdocs/JeevanPramaan_FaceApp_3.6_Installation.pdf",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 11401,
+    "extraction_sha256": "13dedf9a7779b8ea7c628633896d247f8a9cc3ec6c19d7fe2504a3b002e4f7de",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-004",
+    "query": "Jeevan Pramaan face authentication technology",
+    "url": "https://jeevanpramaan.gov.in/v2.0/apppackage/appdownload",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 1918,
+    "extraction_sha256": "b8bec6a391ab2a3f23f9ba6ad4a6eb8e83b44837987b84abd56a712134b69588",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-005",
+    "query": "Aadhaar face authentication artificial intelligence",
+    "url": "https://ciso.economictimes.indiatimes.com/news/cybercrime-fraud/uidai-expands-ai-based-fraud-detection-and-biometric-authentication-security/134001656",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 3389,
+    "extraction_sha256": "2d2fd09084f68e03caf7287a3e482155c56a02c778bb5afec3bdd6db6f0cbf1a",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-006",
+    "query": "Aadhaar face authentication artificial intelligence",
+    "url": "https://www.rediff.com/business/report/uidai-uses-ai-for-fraud-detection-launches-aadhaar-face-authentication/20260909.htm",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 6017,
+    "extraction_sha256": "1bfa5c599c811b2e54826f9d356f09d56e8ec541380a23cc206c22c64a291179",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-007",
+    "query": "GST BIFA artificial intelligence fraud analytics",
+    "url": "https://www.icsi.edu/media/webmodules/CSJ/July2026/23.pdf",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 37299,
+    "extraction_sha256": "7d5ab569d9eccf99393ce28c5dd01ec3659f8c766bf32a3fab5d9e7965d18594",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-008",
+    "query": "GST BIFA artificial intelligence fraud analytics",
+    "url": "https://www.ijert.org/the-intersection-of-gst-e-governance-and-ai-in-india-a-critical-evaluation-of-its-framework-ijertv15is042799",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 34378,
+    "extraction_sha256": "dcc8768a4c48c1b32b8b5c4ae968b40ab90b6154f940e7666535c5f07c365666",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-009",
+    "query": "Sanchar Saathi ASTR artificial intelligence",
+    "url": "https://www.techtimes.com/articles/320395/20260714/indias-biometric-ai-disconnects-50-million-fraudulent-mobile-connections.htm",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 20678,
+    "extraction_sha256": "5f70a459040975d7117710c773f77d86fe26ed53b7a84af346a43d0aa0a485a1",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-010",
+    "query": "Sanchar Saathi ASTR artificial intelligence",
+    "url": "https://www.thehindubusinessline.com/info-tech/sanchar-saathi-app-blocks-over-47-cr-fraudulent-mobile-connections-dot/article69869302.ece",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 2446,
+    "extraction_sha256": "d6f94bcfb9721c30435e740b52542cdbbbc26cb8f46798ea75d2afb7be7a9266",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-011",
+    "query": "Financial Fraud Risk Indicator telecom",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307871",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 21648,
+    "extraction_sha256": "860ef9d45a284ccf6ff0c497e6566452418e15ccd63eb4075ff4142b0c0e736a",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-012",
+    "query": "Financial Fraud Risk Indicator telecom",
+    "url": "https://telecom.economictimes.indiatimes.com/news/policy/dot-introduces-financial-fraud-risk-indicator-to-fight-cyber-fraud/121327803",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 5585,
+    "extraction_sha256": "1c6c960f8ef67be2238cf883b21f99f9f827dec9aaf5e3a9b801128a7d3cd9d0",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-013",
+    "query": "SEBI AI surveillance DWBIS",
+    "url": "https://www.sebi.gov.in/reports-and-statistics/publications/aug-2026/Chapter%2009.pdf",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 38907,
+    "extraction_sha256": "1d6eec26326ce5097a38005eaa3d0cffdb949cd0a3238aa6873d72dd05ed9fdd",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-014",
+    "query": "SEBI AI surveillance DWBIS",
+    "url": "https://www.sebi.gov.in/sebi_data/commondocs/jun-2021/Data%20Analytics%20ToR_p.PDF",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 46333,
+    "extraction_sha256": "4219c804932d4f62da8d3a07e5ed7f8be7d91deec712684cab6efbcf151d1aaa",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-015",
+    "query": "RBI DAKSH artificial intelligence supervision",
+    "url": "https://rbi.org.in/scripts/AnnualReportPublications.aspx?Id=1377",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 137976,
+    "extraction_sha256": "c58f5716e4f1a1832be9666cd7024f9bb1222cbeb57c09b03dbd29a8241a9c60",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-016",
+    "query": "RBI DAKSH artificial intelligence supervision",
+    "url": "https://rbi.org.in/scripts/BS_ViewBulletin.aspx?Id=22389",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 18380,
+    "extraction_sha256": "8340294dc72a41f5b2aef5b1b7de98489c27707742e254d99fc8300e91acc906",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-017",
+    "query": "NHAI artificial intelligence road monitoring",
+    "url": "https://nhai.gov.in/nhai/sites/default/files/2026-03/NHAI_Press_Release-NHAI-20-03-2026.pdf",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 2862,
+    "extraction_sha256": "1433d558a6741c40643ee143f6419dfbe92864734b00c3bb81e2825ff9ee1125",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-018",
+    "query": "NHAI artificial intelligence road monitoring",
+    "url": "https://techobserver.in/news/egov/nhai-predictive-maintenance-ai-national-highways-325427/",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 5898,
+    "extraction_sha256": "9339ca0a225fc84d8f7befd042842311df41600538310a57465f06024d763b13",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-019",
+    "query": "IMD MausamGPT artificial intelligence",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2158416&reg=3&lang=2",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 14332,
+    "extraction_sha256": "2cac6d4fd8ded4c623d60eb2fdebdedb9531e1b9a448ef95a2c9788a29272730",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-020",
+    "query": "IMD MausamGPT artificial intelligence",
+    "url": "https://www.moes.gov.in/static/uploads/2026/08/5627acbd36e6772fb8f77a3e92964f51.pdf",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 6731,
+    "extraction_sha256": "7ebaec35974b8f781e4f31f69bba054acfed823b8b456d6586c61dee443e591f",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-021",
+    "query": "India flood forecasting Google CWC AI",
+    "url": "https://research.google/blog/an-inside-look-at-flood-forecasting/",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 10441,
+    "extraction_sha256": "29be67c6a4813f8cf09f98bb1d0bfc41d00f6690d246d86ac800309ccc3c11e4",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-022",
+    "query": "India flood forecasting Google CWC AI",
+    "url": "https://indiaai.gov.in/case-study/using-ai-to-predict-floods-and-save-lives",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 4871,
+    "extraction_sha256": "0d0a8c4ee736a439f789c3df6fae909ff191651b7177cc6c099bc1f468177eca",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-023",
+    "query": "Punjab Police PAIS artificial intelligence",
+    "url": "https://apps.apple.com/in/app/pais/id1451172513",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 4187,
+    "extraction_sha256": "066d34d17dfb8f3172ada8867f2080fa9634d8352829424417cd8596d15537e3",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-024",
+    "query": "Punjab Police PAIS artificial intelligence",
+    "url": "https://apps.apple.com/in/app/pais/id1451172513?l=pa",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 1703,
+    "extraction_sha256": "caa4f3a230a87ce498a8122ee21745ed88313a8d334b6042cf965d371f236111",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-025",
+    "query": "UP Police Trinetra artificial intelligence",
+    "url": "https://www.business-standard.com/article/news-ians/staqu-launches-ai-app-for-up-police-118122700462_1.html",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 2333,
+    "extraction_sha256": "42310b13134e3997376adc6971d408c3847fdde9456924209b606cb80d2a9d61",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-026",
+    "query": "UP Police Trinetra artificial intelligence",
+    "url": "https://timesofindia.indiatimes.com/india/inside-uttar-pradeshs-policing-overhaul-technology-crime-control-and-governance-reforms/articleshow/131750910.cms",
+    "status": "Failed",
+    "error": "not found",
+    "extraction_characters": 0,
+    "extraction_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-027",
+    "query": "UP Police Yaksh artificial intelligence",
+    "url": "https://www.expresscomputer.in/news/up-police-deploys-ai-led-policing-platform-yaksh-to-strengthen-crime-prevention/131285/",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 5395,
+    "extraction_sha256": "71a63870d0617a232487bed2572d9f778dac407af7b67f879d8cec4848d6773a",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-028",
+    "query": "UP Police Yaksh artificial intelligence",
+    "url": "https://www.staqu.com/media/",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 15102,
+    "extraction_sha256": "48be60bbc3bb638b0a141f02c8979e88a46e4494fde7fd5c5c472850c12eecec",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-029",
+    "query": "Kerala Safe Kerala AI cameras",
+    "url": "https://keralakaumudi.com/en/kerala/general/ai-cameras-resume-traffic-fines-in-kerala-rs-273-crore-fine-this-fiscal-year-2024-25-1510750",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 2913,
+    "extraction_sha256": "0bcbc72b8aab0163798db430c1062b106b088f9d55e822cc72eff6673e447ab2",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-030",
+    "query": "Kerala Safe Kerala AI cameras",
+    "url": "https://www.mathrubhumi.com/news/kerala/kerala-ai-camera-traffic-fines-exceed-1000-crore-e7e6mc3j",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 2805,
+    "extraction_sha256": "3428d3a2b732434f17ddf336eae1bdb07d943a7cecddbad7a82324934f689c37",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-031",
+    "query": "Kerala KSMART artificial intelligence",
+    "url": "https://lsgd.kerala.gov.in/en/services/digital-services-description-add-information-kerala-mission/k-smart/",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 11029,
+    "extraction_sha256": "7c474c0efbf10243d77705ff670f10e2ddb4836d91c327d689b151b90e5cd8a9",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-032",
+    "query": "Kerala KSMART artificial intelligence",
+    "url": "https://ikm.gov.in/index.php/en/article/ksmart-launch/1103",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 5640,
+    "extraction_sha256": "5cf2dab5bef668f17b646c2fdbc5e40469a1f2463a9d090e4e6c1ebf196fdde6",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-033",
+    "query": "Telangana Saagu Baagu AI farmers",
+    "url": "https://agricatalogues.in/pdfs/DigitalAgricultureinTelanganaTransformingFarmingthroughTechnology.pdf",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 23921,
+    "extraction_sha256": "8a713afa50ebfc38b5d74189a4e98b5c0ec71c81b6a781775158be0e2d9ab19e",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-034",
+    "query": "Telangana Saagu Baagu AI farmers",
+    "url": "https://www.weforum.org/impact/ai-for-agriculture-in-india/",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 5898,
+    "extraction_sha256": "703caa590c85d2f0662f81fe486e5a8304d4d04ef0716816d88d2b08b91eb523",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-035",
+    "query": "Andhra Pradesh AWARE artificial intelligence disaster",
+    "url": "https://inclusion.in/state-of-governance/2026/03/andhra-pradesh-tops-for-the-third-time/",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 30944,
+    "extraction_sha256": "8a628690ca3b2611aceea734c4273ff56a4478e8bc16545d15aeb8a66e6d7f00",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-036",
+    "query": "Andhra Pradesh AWARE artificial intelligence disaster",
+    "url": "https://vassarlabs.com/from-early-alerts-to-action-how-aware-system-powered-andhra-pradeshs-response-to-cyclone-montha/",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 8085,
+    "extraction_sha256": "94baf8f664009333d921b12a0ba4a55d7014b48a010c7b12c40cfc37e50f3004",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-037",
+    "query": "Tamil Nadu Uzhavan AI pest",
+    "url": "https://www.rediff.com/business/report/how-ai-blockchain-etc-are-revamping-tns-e-services/20200218.htm",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 7693,
+    "extraction_sha256": "2501241f47d23f6770b89069284766e93091ff8362755fdcaa272ff4b58ae983",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-038",
+    "query": "Tamil Nadu Uzhavan AI pest",
+    "url": "https://indiaai.gov.in/article/how-tamil-nadu-is-using-ai-for-better-governance",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 5263,
+    "extraction_sha256": "efd2e6e0a5cb305f87b4e1064078d53341ad62bbfbc5067654d02c5061960ed9",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-039",
+    "query": "Rajasthan RajGPT government AI",
+    "url": "https://ai.rajasthan.gov.in/",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 7221,
+    "extraction_sha256": "6f548020b8c3a344c862e351f87437012a8b966aca17d327386097115b14b5ef",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-040",
+    "query": "Rajasthan RajGPT government AI",
+    "url": "https://ai.rajasthan.gov.in/login",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 849,
+    "extraction_sha256": "7d873dc3c49826353a3adb50f3743888ac48989b800d70d045ca0b7a9992c3a5",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-041",
+    "query": "Odisha Krushak Samrudhi AI advisory",
+    "url": "https://home.odisha.gov.in/sites/default/files/2025-03/Krushi%20Samrudhi%20Helpline%20(RFP)-%20FINAL_0.pdf",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 159384,
+    "extraction_sha256": "4645aa7f1874f979753982e11f113a8fcb655ea961a8ec5d7976b16569cba49c",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-042",
+    "query": "Odisha Krushak Samrudhi AI advisory",
+    "url": "https://www.irri.org/news-and-events/news/paddymitra-chatbot-launched-empower-odishas-farmers-ai-driven-insights",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 5236,
+    "extraction_sha256": "251bb3d672c0a0d1f8d5dfe870786f219ae00fb4d4220d2d4ba0cca5acab456f",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-043",
+    "query": "Kisan Sarathi artificial intelligence",
+    "url": "https://kisansarathi.in/",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 9079,
+    "extraction_sha256": "a24f2e8fbe3a40f3cdab0e25f32887003ce5d4603e654b4be8dcb0877432a7e7",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-044",
+    "query": "Kisan Sarathi artificial intelligence",
+    "url": "https://kisansarathi.in/services_hi.php",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 6688,
+    "extraction_sha256": "43a39b0c67fd820211b8c50e8fa9a03798eabd09469060b2b27f9b3653ce29f6",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-045",
+    "query": "Indian Army SANJAY AI surveillance",
+    "url": "https://pib.gov.in/newsite/erelcontent.aspx?relid=266458",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 2313,
+    "extraction_sha256": "9aabe84fae04deb95fc466ba26b700c371d2f59b8a1de358d632241905a70f58",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-046",
+    "query": "Indian Army SANJAY AI surveillance",
+    "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2095712&reg=3&lang=2",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 5047,
+    "extraction_sha256": "3d119831cd22b68d43a1f915d0e8a1c80d8ccc62f16db647bd4a4fd0d5121dbf",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-047",
+    "query": "Indian Navy AI Acuda",
+    "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=1792935&reg=48&lang=2",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 2732,
+    "extraction_sha256": "ccd9b602039be8dd63f2fb819fd0f7c6368a9edcb4d3706d3dcf5fe9bc1ca20f",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-048",
+    "query": "Indian Navy AI Acuda",
+    "url": "https://www.ddpmod.gov.in/sites/default/files/06ae526892cb9dc6470d38b68a7b426f999b8a4906d7551c13f6cc9be5c1a72e/fa4fda60553a6184d11824db55a749c5f356eb8f0bc05976f5be2dae24896aa3.pdf",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 110969,
+    "extraction_sha256": "ae4990c0e27ab8715153fbc20c28939626e16c4fc496021adba3df8cc3d5c765",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-049",
+    "query": "DRDO ATMAN AI chest xray",
+    "url": "https://www.drdo.gov.in/drdo/ai-based-intelligent-covid-19-detector-technology-medical-assistance-atman",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 1244,
+    "extraction_sha256": "7f5a6ed9b5a0d28cb5d901beb0cd262756239e36fcb362ba5b9d27da3bef897c",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-050",
+    "query": "DRDO ATMAN AI chest xray",
+    "url": "https://www.drdo.gov.in/drdo/hi/node/5619",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 1244,
+    "extraction_sha256": "7f5a6ed9b5a0d28cb5d901beb0cd262756239e36fcb362ba5b9d27da3bef897c",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-051",
+    "query": "AIIMS iOncology artificial intelligence",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/indian-ai-platform-for-cancer-care-featured-in-brics-health-journal/articleshow/134242404.cms",
+    "status": "Failed",
+    "error": "not found",
+    "extraction_characters": 0,
+    "extraction_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-052",
+    "query": "AIIMS iOncology artificial intelligence",
+    "url": "https://indianexpress.com/article/long-reads/aiims-ai-project-cancer-therapy-9169481/",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 8421,
+    "extraction_sha256": "33e1ce74fe71da0dbe099bcbbee76a8d8aaaf65c41b0ff9c586477c4dd174be9",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-053",
+    "query": "Telangana iRASTE AI road safety",
+    "url": "https://indiaai.gov.in/news/telangana-launches-ai-powered-iraste-for-road-safety",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 2432,
+    "extraction_sha256": "27f8501d883ff27300308f1581a7b2a3a47bdcf181d1bb1b829dbf365e15e3b7",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-054",
+    "query": "Telangana iRASTE AI road safety",
+    "url": "https://inai.iiit.ac.in/iraste-telangana.html",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 3243,
+    "extraction_sha256": "e24e6bedda439b3ba91ac929ed0749889bd3a32b2754ac258b90a04a159c4539",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-055",
+    "query": "Nagpur iRASTE AI road safety",
+    "url": "https://dst.gov.in/ai-make-roads-india-safer-drive",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 5289,
+    "extraction_sha256": "0a2276465724e586d1f8ec470f0cca895bb18965f464461eee9e8c81a3ab484c",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-056",
+    "query": "Nagpur iRASTE AI road safety",
+    "url": "https://inai.ai/iraste-nagpur/",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 3262,
+    "extraction_sha256": "e1d82aa3bd2d58d546a1a9aadf880fc911c1746e7ac12ef349beb1d1b40d0885",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-057",
+    "query": "Bengaluru ASTraM artificial intelligence traffic",
+    "url": "https://spectrum.ieee.org/bengaluru-traffic",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 10950,
+    "extraction_sha256": "690354ad454d5a16fab24d39946cd8b081381549a98938755d9f3716344e5bac",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-058",
+    "query": "Bengaluru ASTraM artificial intelligence traffic",
+    "url": "https://www.arcadis.com/en/projects/asia/india/transforming-bengaluru-traffic-with-the-astram-initiative/",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 4107,
+    "extraction_sha256": "8aaf72696e6fd275b64d9230dc65e2bab438f0724a26fabe544a4abd3270f498",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-059",
+    "query": "Delhi ITMS AI traffic",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316953",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 9488,
+    "extraction_sha256": "67b6ebb7d1dd6400829eb99f3610aa695906f02bf96bdaf0daa2f0a36ee3fc42",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-060",
+    "query": "Delhi ITMS AI traffic",
+    "url": "https://www.hindustantimes.com/cities/delhi-news/cabinet-approves-ai-based-traffic-management-system-for-delhi-101790793285201.html",
+    "status": "Failed",
+    "error": "not found",
+    "extraction_characters": 0,
+    "extraction_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-061",
+    "query": "Indian Parliament Sansad AI chatbot",
+    "url": "https://pib.gov.in/PressReleseDetailm.aspx?PRID=2112542&reg=3&lang=1",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 7767,
+    "extraction_sha256": "ca4aa15d1563dcf7800cd3b65a3fc32df3af5ef710c3ff666108ad91a7dc60a9",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-062",
+    "query": "Indian Parliament Sansad AI chatbot",
+    "url": "https://theoutpost.ai/news-story/india-s-parliament-embraces-ai-lok-sabha-and-meit-y-launch-sansad-bhashini-for-multilingual-operations-13411/",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 9098,
+    "extraction_sha256": "d083fd658510e9d8c70862b2334c01013397421ea6da1cefe74b0eed1bffa021",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-063",
+    "query": "Himachal HimBot AI government",
+    "url": "http://www.himachalpr.gov.in/OnePressRelease.aspx?Language=1&ID=45671",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 5227,
+    "extraction_sha256": "6a6605611cf51c1a264dde00e2df9394db98402ff4c47a44ecce394a94756de3",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-064",
+    "query": "Himachal HimBot AI government",
+    "url": "https://www.etvbharat.com/hi/state/ai-document-verification-digital-himachal-government-offices-connected-to-e-office-hps26100500456",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 4304,
+    "extraction_sha256": "ccaf8ea620540eb8ba5b4b40056b2b74559460b3b15b212e3ae5774f36816702",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-065",
+    "query": "NHAI Rajmarg chatbot AI",
+    "url": "https://psuwatch.com/newsupdates/nhai-adds-more-services-to-rajmargyatra-app-but-users-say-the-platform-itself-barely-works",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 4401,
+    "extraction_sha256": "0796ebcde4a279f6f654e440e5dba5b5a304780b8598d5c9e63ebea945baa0b9",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-066",
+    "query": "NHAI Rajmarg chatbot AI",
+    "url": "https://blognhai.wordpress.com/2023/06/26/leveraging-user-centric-technology-to-enhance-national-highways-network/",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 4642,
+    "extraction_sha256": "75580f04179553e7adc0ce3aff34009542fe9908b391808a6ee6ddd1754fbb47",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-067",
+    "query": "Indian postal APT AI",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2260195&reg=1&lang=1",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 3076,
+    "extraction_sha256": "da01a5fde32fafdf4a9de40ef5f13d50d6448ca8c1478d6d852986e797979c3c",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-068",
+    "query": "Indian postal APT AI",
+    "url": "https://www.aarf.asia/current/2026/Feb/Afk5y9O7AbGC0WM.pdf",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 14267,
+    "extraction_sha256": "84b49bb53d8f484aaf19166187dda2fdee608c1d890cb55efa6e16e95dcdca08",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-069",
+    "query": "Delhi Jal Board AI leak detection",
+    "url": "https://visionias.in/current-affairs/upsc-daily-news-summary/article/2025-11-13/the-indian-express/science-and-technology/delhi-jal-board-turns-to-ai-for-water-infra-management-signs-mou-with-iit-kanpur",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 4520,
+    "extraction_sha256": "7f15b1984fa500f3f0b8318f7dd369c480ea66f241a4fc2475855aacb8a062c1",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-070",
+    "query": "Delhi Jal Board AI leak detection",
+    "url": "https://indianexpress.com/article/cities/delhi/delhi-jal-board-turns-to-ai-for-water-infra-management-signs-mou-with-iit-kanpur-10362060/lite/",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 2967,
+    "extraction_sha256": "7d86ac23eb72e126bc0c3623108c6123bfa0dadc3bf066b51cd8236dcdfd837b",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-071",
+    "query": "Odisha eMARG AI road",
+    "url": "https://emarg.gov.in/knowUrRoad.htm",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 630,
+    "extraction_sha256": "9ffa53a03de8c774248cc518a9f22dbe7206ed2c3db65a46c2df25e797db1a7b",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-072",
+    "query": "Odisha eMARG AI road",
+    "url": "https://www.nic.gov.in/project/emarg/",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 3453,
+    "extraction_sha256": "f15456b7147c094dbbf470ad80a2a50eb663f64d068e2ac0b0901c4d2c353518",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-073",
+    "query": "Rajasthan AI silicosis screening",
+    "url": "https://www.nceg.gov.in/assets/pdf/Final_Delhi_Presentation.pdf",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 6903,
+    "extraction_sha256": "b90d3687631c9e3211c978c24b3cd6b50645f7ec5654479b87aab051578e5a3c",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "double-074",
+    "query": "Rajasthan AI silicosis screening",
+    "url": "https://www.drishtiias.com/hindi/state-pcs-current-affairs/ai-based-chest-x-ray-application-launched-in-raj-silicosis-portal",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 3577,
+    "extraction_sha256": "16a55fe982c365c4441de49d52b5b639f17d5bb1960ab4370af99f17164b3c5d",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-001",
+    "query": "GSTN BIFA artificial intelligence official",
+    "url": "https://gstn.org.in/assets/mainDashboard/Pdf/GSTN_Industry_Consultation.pdf",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 12305,
+    "extraction_sha256": "f812f7556b9d41b528b2dad3ef90715551291ad89d87598693cf40b04838a79a",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-002",
+    "query": "UIDAI fingerprint FMR FIR artificial intelligence",
+    "url": "https://uidai.gov.in/images/NEW_SECURITY_MECHANISM_FOR_AADHAAR_BASED_FINGERPRINT_AUTHENTICATION_ENGLISH.pdf",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 2523,
+    "extraction_sha256": "ab1a231374e985769e0b65191f8f0fdb64d355d13ae73740c4c5d2aa9394bd6f",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-003",
+    "query": "SEBI Saathi chatbot AI 2026",
+    "url": "https://www.sebi.gov.in/reports-and-statistics/publications/aug-2026/Chairmans%20Statement.pdf",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 17507,
+    "extraction_sha256": "6e1cdcb2490e308553acba4f9be8abed675286d223b0d0aaba38004af1d9e595",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-004",
+    "query": "SEBI Saathi chatbot AI 2026",
+    "url": "https://cafemutual.com/news/industry/32720-sebi-launches-generative-ai-for-investors",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 919,
+    "extraction_sha256": "9f6a0bf3f9323113fa3986ed785cf62eb68b4018de120f3075abcc6297ddb360",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-005",
+    "query": "Maharashtra MahaVISTAAR AI official",
+    "url": "https://negd.gov.in/isl/Directory/statedata/942",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 4882,
+    "extraction_sha256": "f87374e26ab7991771ca953e56fb06f3c3ebe65fa8886d333e59db34629600ac",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-006",
+    "query": "Maharashtra MahaVISTAAR AI official",
+    "url": "https://aikosh.indiaai.gov.in/home/use-cases/details/mahavistaar_responsible_ai_enabled_agricultural_and_livestock_advisory_at_population_scale_1.html",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 5117,
+    "extraction_sha256": "21b5e52df218483a3f049307eff30a0674f4481ec84cdf449890982c432c31d0",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-007",
+    "query": "NHAI Dashcam Analytics Services June 2026",
+    "url": "https://nhai.gov.in/nhai/sites/default/files/2026-06/NHAI_Press_Release-16-06-2026-EN.pdf",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 3182,
+    "extraction_sha256": "4cc64fb85b1c258b0302a0d25dde2ac851545bde944e3115d2cc67992c11cfdf",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-008",
+    "query": "CWC Google flood forecasting agreement",
+    "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=1947578",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 2811,
+    "extraction_sha256": "8e3e7d79aa838270e464634ac449381a1a2c1de3a7313f517287fdc5c3b1399c",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-009",
+    "query": "CWC Google flood forecasting agreement",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1705785",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 3379,
+    "extraction_sha256": "c7d2e4e66d04f4597f71ff63b5744cfc8d649eab5f5c25a0e7d586d638387d35",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-010",
+    "query": "CPGRAMS IGMS procurement evaluation privacy",
+    "url": "https://pgportal.gov.in/Home/Privacy",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 1820,
+    "extraction_sha256": "836236a5b14a95756579d36b8358ba0d9db57c555d233acd77b6085f8851466f",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-011",
+    "query": "CPGRAMS IGMS procurement evaluation privacy",
+    "url": "https://nceg.gov.in/assets/pdf/Shri_Puneet_Yadav_Department_of_Administrative_Reforms_and_Public_Grievances_GoI.pdf",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 9894,
+    "extraction_sha256": "c39017e2877774242ddcafe13394945caf1b5cc18488b8d4b0aefb1a59c9ee63",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-012",
+    "query": "DoT ASTR October 2026 status",
+    "url": "https://deveservices.dot.gov.in/products/astr",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 1206,
+    "extraction_sha256": "673ddce34220365989271e3662877c37b4bea32b568e04d450702917435e0431",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-013",
+    "query": "Sanchar Saathi ASTR appeal reverify",
+    "url": "https://www.sancharsaathi.gov.in/Home/documents.jsp",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 667,
+    "extraction_sha256": "48e0f57a8c9396eeb5f8a2c38f2d1bb9be9c20f7013322b8f832f8d86697a1d9",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-014",
+    "query": "Punjab PAIS privacy vendor accuracy",
+    "url": "https://play.google.com/store/apps/details?id=com.staqu.vigilante.punjabpolice&hl=en-US",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 1147,
+    "extraction_sha256": "c352d84c880bc00a71c3f1e48c05d71bec6025d652512b2e3550f1768e51cd83",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-015",
+    "query": "Uttar Pradesh YAKSH October 2026 status",
+    "url": "https://uppolice.gov.in/article/en/dgp-up-circulars",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 145100,
+    "extraction_sha256": "5db2a7ca7c5654f74ae3cf5f93a843a14403fbff5c599d4bb42c30cf2004b8db",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-016",
+    "query": "Safe Kerala AI cameras October 2026 status",
+    "url": "https://www.newindianexpress.com/states/kerala/2026/Sep/20/keralas-ai-camera-project-stalls-as-govt-dues-mount-traffic-management-takes-a-hit",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 3461,
+    "extraction_sha256": "bf967d204751e56e3878ba4f262292b948a58282eb4d28171ffe31c47b9b5e45",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-017",
+    "query": "RajGPT RajNivesh artificial intelligence",
+    "url": "https://egov.eletsonline.com/2026/04/rajasthans-responsible-ai-roadmap/",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 3468,
+    "extraction_sha256": "5e70fb1d014fa035b7ce9130d093fae5b94792e9d6f70e89630e92dd5fe6416d",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-018",
+    "query": "Odisha Krushi Samrudhi Helpline October 2026 status",
+    "url": "https://krushisamrudhihelpline.in/en/",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 722,
+    "extraction_sha256": "425722215ab1a2dfd78d403c7ec1bdf6c020a02ee098b0b8998dc2602e957424",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-019",
+    "query": "iOncology AIIMS CDAC research validation",
+    "url": "https://health.economictimes.indiatimes.com/news/health-it/indian-ai-platform-for-cancer-care-featured-in-brics-health-journal/134250031",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 3686,
+    "extraction_sha256": "fa13d197f75a657b23873e9ac69ee52bcdd0286b79e9f6e005e6cf225092e694",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-020",
+    "query": "Kisan Sarathi artificial intelligence launch",
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2244628&reg=6&lang=1",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 4451,
+    "extraction_sha256": "cc7da7c5b79b971e7ea4da8d011773a090a78421dc573e43d6b3feb7b1750450",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-021",
+    "query": "Kisan Sarathi October 2026 status",
+    "url": "https://www.pib.gov.in/FactsheetDetails.aspx?id=150641&NoteId=150641&ModuleId=16&reg=3&lang=1",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 7853,
+    "extraction_sha256": "3e1dca3271fa641ba84a851600bde5c3426618a5aa59ff36cc520fc57423f861",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-022",
+    "query": "Saagu Baagu evaluation sample yield farmers",
+    "url": "https://www3.weforum.org/docs/WEF_Scaling_Agritech_at_the_Last_Mile_2023.pdf",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 48456,
+    "extraction_sha256": "e689bf148f97c5f0e0fc2c2c10484dd5d1685de0b390a3edfdeb24002d909f68",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-023",
+    "query": "UIDAI face authentication October 2026 status",
+    "url": "https://uidai.gov.in/en/authentication",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 10001,
+    "extraction_sha256": "67bcb47e741ba3bc96470647eace1b185552859c1f8e8c60c9625e8569b33451",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-024",
+    "query": "Jeevan Pramaan face authentication alternative grievance",
+    "url": "https://jeevanpramaan.gov.in/v2.0/misc/faq",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 11924,
+    "extraction_sha256": "69a4e6bbb7e1eb4468a4db4571f0c7157a19ded485d0709f0b86f0827e37ad8f",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-025",
+    "query": "Primary source follow-up",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2288303&reg=48&lang=1",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 3900,
+    "extraction_sha256": "5961568ccc539f794dbe884e1d3c706362b3d13a94560030e81ee0b4003ae5e2",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  },
+  {
+    "retrieval_id": "extra-026",
+    "query": "Primary source follow-up",
+    "url": "https://inai.ai/wp-content/uploads/2024/10/Executive-Summary-iRASTE-Telangana.pdf",
+    "status": "Retrieved text; not necessarily usable evidence",
+    "error": null,
+    "extraction_characters": 30103,
+    "extraction_sha256": "d7e3b7c1963c6650a5d274dfad698dedad047d9e374d3c4dba112aa19571d41e",
+    "basis": "SDK fetched text; dates coded from source, not SDK metadata"
+  }
+]

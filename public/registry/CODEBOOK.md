@@ -1,6 +1,6 @@
 # AI Watch: institution-and-system data codebook
 
-Version 1.1.0, India documentary cutoff 5 October 2026. Read the protocol before drawing inferences; this combines a purposive seed with fixed-institution-frame documentary additions, not a national census.
+Version 1.2.0, India documentary cutoff 5 October 2026. Read the protocol before drawing inferences; this combines seed, institutional and purposive broadening cohorts, not a national census.
 
 ## Files and identifiers
 
@@ -10,7 +10,7 @@ Stable system identifiers are manual labels; other IDs use deterministic SHA-256
 
 ## Core tables
 
-- **systems**: `system_id`, name, owner institution ID, sector, jurisdiction, documentary stage, latest dated record, AI basis/class, checking date and selection/unit notes. Explicit AI attribution includes vendor/editorial sources: it does not mean government or independent validation. Six qualified biometric/analytics contexts lack established system-specific AI identification in the reviewed records; BODH has a separate evaluation-infrastructure class. `frame_id` is a documentary association, not ownership. `system_kind` prevents evaluation infrastructure from masquerading as clinical use. A stage is documentary attribution, not a site visit. `legacy_id` links the six inherited cases; null for new cases.
+- **systems**: `system_id`, name, owner institution ID, sector, jurisdiction, documentary stage, latest dated record, AI basis/class, checking date and selection/unit notes. Explicit AI attribution includes vendor/editorial sources: it does not mean government or independent validation. Ten qualified biometric/analytics contexts lack established system-specific AI identification in the reviewed records; BODH has a separate evaluation-infrastructure class. `frame_id` is a documentary association, not ownership. `research_round` distinguishes the eighteen 1.0.0 seed, eighteen 1.1.0 institutional and thirty-six 1.2.0 broadening additions. `system_kind` prevents evaluation infrastructure from masquerading as clinical use. A stage is documentary attribution, not a site visit. `legacy_id` links the six inherited cases; null for new cases.
 - **institutions**: institution ID, name and legal-identity qualifier. Names remain as stated; historical `L & T Infotech Ltd` is not silently replaced by a current corporate successor. Multi-agency responsibility stays in roles rather than being guessed into a single vendor.
 - **system_institutions**: role ID, system ID, institution ID and source-backed role. Technical partnership does not establish an executed current procurement agreement.
 - **system_links**: relation between two included systems, with source and limits. A developer-reported BHASHINI integration is not a reviewed live contract.
@@ -18,7 +18,7 @@ Stable system identifiers are manual labels; other IDs use deterministic SHA-256
 
 ## Procurement, evaluation and safeguards
 
-- **procurements**: record ID/type, system, reported agreement/award date, amount in INR, amount type, supplier label/institution if established, description and current-deployment linkage limit. Records include an allocation, an announced signed historical contract and a news-reported regional award. These are not three independently verified executed current contracts. `189900000` INR is the disclosed arithmetic sum of 7.85 and 11.14 crore, not a national IDS budget.
+- **procurements**: record ID/type, system, reported agreement/award date, amount in INR, amount type, supplier label/institution if established, description and current-deployment linkage limit. Records include an allocation, an announced signed historical contract, a news-reported regional award, an official developed-cost statement and a cabinet-approved estimate. These are not five independently verified executed current contracts. `189900000` INR is the disclosed arithmetic sum of 7.85 and 11.14 crore, not a national IDS budget. Delhi's approved estimate is not spending; SANJAY's official developed cost is not reconciled expenditure.
 - **evaluations**: record ID, system, evaluation type, sample number/unit, setting, current-version match, result summary and optional evidence status. A specification row explicitly says “not measured”; inherited cases retain evaluation-related descriptions with their gaps. Count or filter actual study types before any study inventory claim.
 - **metrics**: record ID, system, metric name, numeric value, optional `value_upper`, unit, kind, measurement scope, denominator and value qualifier. CATB's reported 12–16% range is stored as numeric lower/upper values, not as diagnostic accuracy. A “more than” lower bound is not an exact observed value. A maximum specification threshold is not an observed error rate. A study's total sample is not automatically the denominator of every diagnostic metric.
 - **controls**: source-described safeguard, source/implementation basis, description and optional evidence status. Historical requirements, published grievance contacts and human oversight language are not verified enforcement or successful remedies.

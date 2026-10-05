@@ -1,0 +1,12 @@
+FMR-FIR fingerprint liveness parliamentary answer
+Original: https://uidai.gov.in/images/NEW_SECURITY_MECHANISM_FOR_AADHAAR_BASED_FINGERPRINT_AUTHENTICATION_ENGLISH.pdf
+Document date: 2023-03-22
+Source type: Official parliamentary answer
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+except for few entities who have sought some more time for readiness of their respective applications.
+
+This is an artificial intelligence/machine learning (AI/ML) based modality to check the liveness of the fingerprint and distinguish between genuine finger and spoofed/gummy finger.
+
+The Authority has rolled out new Finger Minutiae Record - Finger Image Record (FMR-FIR) modality for fingerprint based Aadhaar authentications w.e.f. 28.2.2023.

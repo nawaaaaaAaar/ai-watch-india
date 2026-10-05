@@ -1,0 +1,12 @@
+FRI risk categories and suspected-loss claims
+Original: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307871
+Document date: 2026-09-08
+Source type: Official programme statement
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Cumulative savings though use of FRI rose from ₹139.16 crore in August 2025 to ₹5,043.73 crore by August 2026
+
+FRI is developed under DoT's Digital Intelligence Platform (DIP), that classifies mobile numbers into 3 categories namely Medium, High, or Very High risk-based on likelihood of their involvement in financial fraud.
+
+Banks and UPI service providers are already using FRI intelligence to stop or flag transactions involving high and very high risk mobile numbers in real time.

@@ -1,0 +1,12 @@
+NUWR AI acoustic/magnetic analysis project catalogue
+Original: https://www.ddpmod.gov.in/sites/default/files/06ae526892cb9dc6470d38b68a7b426f999b8a4906d7551c13f6cc9be5c1a72e/fa4fda60553a6184d11824db55a749c5f356eb8f0bc05976f5be2dae24896aa3.pdf
+Document date: Undated/uncertain
+Source type: Official defence project catalogue
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Developed by Bharat Forge Ltd
+
+This AI-based system for signature analysis is a project for Indian Navy’s Under Water Range (NUWR) at Goa.
+
+Proposed AI/ Big Data solution will counter all the above issues.

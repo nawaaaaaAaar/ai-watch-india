@@ -8,8 +8,8 @@ const root=new URL('../public/registry/',import.meta.url);
 const d=JSON.parse(fs.readFileSync(new URL('data.json',root)));
 const pk=t=>Object.keys(d[t][0])[0];
 const ids=t=>new Set(d[t].map(r=>r[pk(t)]));
-test('registry is separate: thirty-six named systems with all twelve assertion slots',()=>{
- assert.equal(d.systems.length,36);assert.equal(d.assertions.length,432);
+test('registry is separate: seventy-two named systems with all twelve assertion slots',()=>{
+ assert.equal(d.systems.length,72);assert.equal(d.assertions.length,864);
  for(const s of d.systems)assert.deepEqual(d.assertions.filter(a=>a.system_id===s.system_id).map(a=>a.field),d.metadata.field_order);
  assert.equal(d.systems.filter(s=>s.legacy_id).length,6);
 });
@@ -54,7 +54,7 @@ test('normative IDS alarm threshold is not observed model accuracy',()=>{
  const outcome=d.metrics.find(m=>m.metric_name==='Reported elephants saved');assert.match(outcome.measurement_scope,/not causal IDS-only/);
 });
 test('allocations, historical announced contracts and reported regional awards stay distinct',()=>{
- assert.equal(d.procurements.length,3);
+ assert.equal(d.procurements.length,5);
  assert.equal(d.procurements.find(p=>p.system_id==='sys-bharat-vistaar').amount_inr,1500000000);
  assert.match(d.procurements.find(p=>p.system_id==='sys-bharat-vistaar').amount_type,/not spending/);
  assert.equal(d.procurements.find(p=>p.system_id==='sys-insight').amount_inr,null);
@@ -65,8 +65,8 @@ test('numeric usage lower bounds are explicitly qualified',()=>{
  assert.equal(rows.length,4);for(const m of rows)assert.equal(m.value_qualifier,'More than stated lower bound');
 });
 test('AI subset and qualified contexts are filterable without making biometrics a model claim',()=>{
- assert.equal(filterSystems(d,{ai:'Explicit source attribution'}).length,29);
- assert.equal(filterSystems(d,{ai:'Qualified algorithmic / biometric context'}).length,6);
+ assert.equal(filterSystems(d,{ai:'Explicit source attribution'}).length,61);
+ assert.equal(filterSystems(d,{ai:'Qualified algorithmic / biometric context'}).length,10);
  assert.equal(filterSystems(d,{ai:'AI evaluation infrastructure'}).length,1);
  assert.match(d.systems.find(s=>s.system_id==='sys-insight').ai_basis,/not verified/);
 });
@@ -79,12 +79,12 @@ test('search supports institution, narrative evidence, case insensitive and AND 
 test('filters and source-date sorting are reproducible',()=>{
  const rows=filterSystems(d,{sort:'date'});
  assert.equal(rows.at(-1).latest_record_date,null);
- assert.equal(filterSystems(d,{sector:'Tax administration'}).length,2);
- assert.equal(filterSystems(d,{sector:'Tax administration',ai:'Explicit source attribution'}).length,1);
+ assert.equal(filterSystems(d,{sector:'Tax administration'}).length,3);
+ assert.equal(filterSystems(d,{sector:'Tax administration',ai:'Explicit source attribution'}).length,2);
 });
 test('filtered CSV is typed-context export, escapes formulas and retains null dates',()=>{
  const text=registryCsv(d,filterSystems(d,{sector:'Tax administration'}));
- assert.equal(text.trim().split(/\r?\n/).length,3);assert.match(text,/dossiers\/sys-insight.md/);
+ assert.equal(text.trim().split(/\r?\n/).length,4);assert.match(text,/dossiers\/sys-insight.md/);
  assert(registryCsv(d,[{...d.systems[0],name:'=CMD()'}]).includes("'=CMD()"));
 });
 test('all snapshots have matching SHA-256 and original source URLs',()=>{
@@ -104,7 +104,7 @@ p=pathlib.Path('public/registry')
 c=sqlite3.connect(p/'dataset.sqlite')
 assert c.execute('PRAGMA integrity_check').fetchone()[0]=='ok'
 assert not c.execute('PRAGMA foreign_key_check').fetchall()
-assert c.execute('SELECT COUNT(*) FROM systems').fetchone()[0]==36
+assert c.execute('SELECT COUNT(*) FROM systems').fetchone()[0]==72
 c.executescript((p/'queries.sql').read_text())
 with zipfile.ZipFile(p/'complete-registry.zip') as z:
  assert z.testzip() is None
@@ -116,7 +116,7 @@ with zipfile.ZipFile(p/'complete-registry.zip') as z:
  execFileSync('python',['-c',code],{cwd:new URL('../',import.meta.url)});
 });
 test('new source excerpt selections are bounded and not whole papers',()=>{
- for(const s of d.sources.filter(s=>s.source_id.startsWith('reg-')||s.source_id.startsWith('frame-'))){const qs=d.evidence.filter(e=>e.source_id===s.source_id).map(e=>e.quote);assert(qs.join(' ').split(/\s+/).length<=250);}
+ for(const s of d.sources.filter(s=>/^(reg|frame|ext)-/.test(s.source_id))){const qs=d.evidence.filter(e=>e.source_id===s.source_id).map(e=>e.quote);assert(qs.join(' ').split(/\s+/).length<=250);}
 });
 test('search and retrieval logs preserve failures without copying full article text',()=>{
  const search=JSON.parse(fs.readFileSync(new URL('search-log.json',root)));
@@ -137,7 +137,7 @@ test('fixed six-institution frame is complete and ownership is not inferred',()=
  for(const f of d.institution_coverage){assert.equal(f.base_queries,4);assert.match(f.coverage_status,/not exhaustive/);}
  assert.equal(filterSystems(d,{frame:'frame-home'}).length,4);
  assert.equal(filterSystems(d,{frame:'frame-health'}).length,6);
- assert.equal(filterSystems(d,{frame:'Outside frame'}).length,10);
+ assert.equal(filterSystems(d,{frame:'Outside frame'}).length,46);
 });
 test('same structural source audit covers every baseline source and field',()=>{
  assert.equal(d.source_rechecks.length,50);assert.equal(d.assertion_rechecks.length,216);

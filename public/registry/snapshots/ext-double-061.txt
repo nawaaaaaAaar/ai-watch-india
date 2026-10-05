@@ -1,0 +1,12 @@
+Sansad Bhashini MoU and chatbot proposal
+Original: https://pib.gov.in/PressReleseDetailm.aspx?PRID=2112542&reg=3&lang=1
+Document date: 2025-03-18
+Source type: Official MoU announcement
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Parliamentary data and resources, provided by Sansad, will be used for learning and fine-tuning the AI tools/products.
+
+An MoU was signed between Lok Sabha Secretariat and Ministry of Electronics and Information Technology (MEITY) for the development of Sansad AI solution
+
+AI-Powered Chatbot for Parliament Website

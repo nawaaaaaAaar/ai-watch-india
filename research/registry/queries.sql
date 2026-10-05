@@ -46,3 +46,10 @@ ORDER BY r.status, s.title;
 
 -- Do not combine clinical deployments and evaluation infrastructure.
 SELECT system_kind, COUNT(*) FROM systems GROUP BY system_kind;
+-- Research cohorts are not interchangeable sampling denominators.
+SELECT research_round, COUNT(*) AS named_systems
+FROM systems GROUP BY research_round ORDER BY research_round;
+
+-- Source report dates are not automatically system go-live dates.
+SELECT system_id, event_date, date_precision, stage
+FROM deployments WHERE date_precision LIKE 'Source report date%';

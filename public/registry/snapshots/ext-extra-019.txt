@@ -1,0 +1,14 @@
+iOncology research-mode status September 2026
+Original: https://health.economictimes.indiatimes.com/news/health-it/indian-ai-platform-for-cancer-care-featured-in-brics-health-journal/134250031
+Document date: 2026-09-15
+Source type: Established news reporting
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+iOncology.ai is currently undergoing pilot-stage clinical validation and implementation evaluation
+
+The platform, iOncology.ai, has been developed by the All India Institute of Medical Sciences (AIIMS), New Delhi, and the Centre for Development of Advanced Computing (C-DAC), Pune
+
+iOncology.ai is not yet clinically validated.
+
+It is being evaluated in research mode, with no peer-reviewed evidence yet establishing its diagnostic accuracy, clinical utility or effectiveness.

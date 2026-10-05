@@ -1,0 +1,12 @@
+Tamil Nadu Uzhavan pest-identification account
+Original: https://www.rediff.com/business/report/how-ai-blockchain-etc-are-revamping-tns-e-services/20200218.htm
+Document date: 2020-02-18
+Source type: Established news reporting
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+The interface of the system is an app called Uzhavan.
+
+The Pest Identification System developed by TNeGA aims to mitigate agricultural losses by offering farmers faster pest diagnosis and solutions.
+
+The system at the backend processes the picture using an AI-enabled image processing algorithm to identify the pest or disease.

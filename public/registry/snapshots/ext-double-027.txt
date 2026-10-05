@@ -1,0 +1,12 @@
+YAKSH policing platform description
+Original: https://www.expresscomputer.in/news/up-police-deploys-ai-led-policing-platform-yaksh-to-strengthen-crime-prevention/131285/
+Document date: Undated/uncertain
+Source type: Technology-sector reporting
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Offenders are categorised and colour-coded based on factors such as crime severity, repeat offences, use of weapons and behavioural risk indicators.
+
+Criminal records are created at the police station level and are physically verified by beat officers before being incorporated into the AI system.
+
+YAKSH is built on JARVIS One, a multimodal artificial intelligence platform developed by Staqu.

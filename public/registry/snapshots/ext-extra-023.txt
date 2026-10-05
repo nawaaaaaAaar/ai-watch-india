@@ -1,0 +1,8 @@
+UIDAI authentication service information
+Original: https://uidai.gov.in/en/authentication
+Document date: Undated/uncertain
+Source type: Official service information
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+UIDAI uses face authentication as a process by which an Aadhaar number holder's identity can be verified.

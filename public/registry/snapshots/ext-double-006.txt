@@ -1,0 +1,8 @@
+UIDAI face SDK and AI security reporting
+Original: https://www.rediff.com/business/report/uidai-uses-ai-for-fraud-detection-launches-aadhaar-face-authentication/20260909.htm
+Document date: 2026-09-09
+Source type: Established news reporting
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+The Aadhaar Face Authentication SDK brings UIDAI's Face Authentication capability directly into native Android and iOS applications.

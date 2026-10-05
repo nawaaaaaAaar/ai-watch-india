@@ -1,0 +1,492 @@
+[
+  {
+    "source_id": "ext-double-001",
+    "url": "https://www.pgportal.gov.in/Home/AboutUs",
+    "source_type": "Official service description",
+    "selected_passages": 4,
+    "selected_words": 61,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "e312e1d000ded62afb3fe4f67afa8b4c372ceaa799f61355fce1c22db2e0f40a",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-extra-010",
+    "url": "https://pgportal.gov.in/Home/Privacy",
+    "source_type": "Official portal policy",
+    "selected_passages": 1,
+    "selected_words": 22,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "836236a5b14a95756579d36b8358ba0d9db57c555d233acd77b6085f8851466f",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-extra-011",
+    "url": "https://nceg.gov.in/assets/pdf/Shri_Puneet_Yadav_Department_of_Administrative_Reforms_and_Public_Grievances_GoI.pdf",
+    "source_type": "Official governance presentation",
+    "selected_passages": 2,
+    "selected_words": 19,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "c39017e2877774242ddcafe13394945caf1b5cc18488b8d4b0aefb1a59c9ee63",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-003",
+    "url": "https://jeevanpramaan.gov.in/newassets/jpdocs/JeevanPramaan_FaceApp_3.6_Installation.pdf",
+    "source_type": "Official user manual",
+    "selected_passages": 2,
+    "selected_words": 29,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "13dedf9a7779b8ea7c628633896d247f8a9cc3ec6c19d7fe2504a3b002e4f7de",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-extra-024",
+    "url": "https://jeevanpramaan.gov.in/v2.0/misc/faq",
+    "source_type": "Official service FAQ",
+    "selected_passages": 2,
+    "selected_words": 23,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "69a4e6bbb7e1eb4468a4db4571f0c7157a19ded485d0709f0b86f0827e37ad8f",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-006",
+    "url": "https://www.rediff.com/business/report/uidai-uses-ai-for-fraud-detection-launches-aadhaar-face-authentication/20260909.htm",
+    "source_type": "Established news reporting",
+    "selected_passages": 2,
+    "selected_words": 19,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "1bfa5c599c811b2e54826f9d356f09d56e8ec541380a23cc206c22c64a291179",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-extra-023",
+    "url": "https://uidai.gov.in/en/authentication",
+    "source_type": "Official service information",
+    "selected_passages": 1,
+    "selected_words": 17,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "67bcb47e741ba3bc96470647eace1b185552859c1f8e8c60c9625e8569b33451",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-extra-002",
+    "url": "https://uidai.gov.in/images/NEW_SECURITY_MECHANISM_FOR_AADHAAR_BASED_FINGERPRINT_AUTHENTICATION_ENGLISH.pdf",
+    "source_type": "Official parliamentary answer",
+    "selected_passages": 3,
+    "selected_words": 62,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "ab1a231374e985769e0b65191f8f0fdb64d355d13ae73740c4c5d2aa9394bd6f",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-extra-001",
+    "url": "https://gstn.org.in/assets/mainDashboard/Pdf/GSTN_Industry_Consultation.pdf",
+    "source_type": "Official procurement/industry consultation",
+    "selected_passages": 2,
+    "selected_words": 37,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "f812f7556b9d41b528b2dad3ef90715551291ad89d87598693cf40b04838a79a",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-extra-012",
+    "url": "https://deveservices.dot.gov.in/products/astr",
+    "source_type": "Official product description",
+    "selected_passages": 1,
+    "selected_words": 21,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "673ddce34220365989271e3662877c37b4bea32b568e04d450702917435e0431",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-extra-025",
+    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2288303&reg=48&lang=1",
+    "source_type": "Official parliamentary explanation",
+    "selected_passages": 2,
+    "selected_words": 43,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "5961568ccc539f794dbe884e1d3c706362b3d13a94560030e81ee0b4003ae5e2",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-011",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2307871",
+    "source_type": "Official programme statement",
+    "selected_passages": 3,
+    "selected_words": 76,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "860ef9d45a284ccf6ff0c497e6566452418e15ccd63eb4075ff4142b0c0e736a",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-013",
+    "url": "https://www.sebi.gov.in/reports-and-statistics/publications/aug-2026/Chapter%2009.pdf",
+    "source_type": "Official annual report",
+    "selected_passages": 8,
+    "selected_words": 123,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "1d6eec26326ce5097a38005eaa3d0cffdb949cd0a3238aa6873d72dd05ed9fdd",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-extra-003",
+    "url": "https://www.sebi.gov.in/reports-and-statistics/publications/aug-2026/Chairmans%20Statement.pdf",
+    "source_type": "Official annual-report statement",
+    "selected_passages": 1,
+    "selected_words": 8,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "6e1cdcb2490e308553acba4f9be8abed675286d223b0d0aaba38004af1d9e595",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-extra-004",
+    "url": "https://cafemutual.com/news/industry/32720-sebi-launches-generative-ai-for-investors",
+    "source_type": "Financial-industry reporting",
+    "selected_passages": 3,
+    "selected_words": 48,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "9f6a0bf3f9323113fa3986ed785cf62eb68b4018de120f3075abcc6297ddb360",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-017",
+    "url": "https://nhai.gov.in/nhai/sites/default/files/2026-03/NHAI_Press_Release-NHAI-20-03-2026.pdf",
+    "source_type": "Official programme statement",
+    "selected_passages": 1,
+    "selected_words": 14,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "1433d558a6741c40643ee143f6419dfbe92864734b00c3bb81e2825ff9ee1125",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-extra-007",
+    "url": "https://nhai.gov.in/nhai/sites/default/files/2026-06/NHAI_Press_Release-16-06-2026-EN.pdf",
+    "source_type": "Official programme statement",
+    "selected_passages": 2,
+    "selected_words": 32,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "4cc64fb85b1c258b0302a0d25dde2ac851545bde944e3115d2cc67992c11cfdf",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-020",
+    "url": "https://www.moes.gov.in/static/uploads/2026/08/5627acbd36e6772fb8f77a3e92964f51.pdf",
+    "source_type": "Official parliamentary explanation",
+    "selected_passages": 1,
+    "selected_words": 18,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "7ebaec35974b8f781e4f31f69bba054acfed823b8b456d6586c61dee443e591f",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-extra-008",
+    "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=1947578",
+    "source_type": "Official parliamentary explanation",
+    "selected_passages": 2,
+    "selected_words": 40,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "8e3e7d79aa838270e464634ac449381a1a2c1de3a7313f517287fdc5c3b1399c",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-021",
+    "url": "https://research.google/blog/an-inside-look-at-flood-forecasting/",
+    "source_type": "Developer technical account",
+    "selected_passages": 2,
+    "selected_words": 21,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "29be67c6a4813f8cf09f98bb1d0bfc41d00f6690d246d86ac800309ccc3c11e4",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-023",
+    "url": "https://apps.apple.com/in/app/pais/id1451172513",
+    "source_type": "Police-developer app listing",
+    "selected_passages": 3,
+    "selected_words": 57,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "066d34d17dfb8f3172ada8867f2080fa9634d8352829424417cd8596d15537e3",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-027",
+    "url": "https://www.expresscomputer.in/news/up-police-deploys-ai-led-policing-platform-yaksh-to-strengthen-crime-prevention/131285/",
+    "source_type": "Technology-sector reporting",
+    "selected_passages": 3,
+    "selected_words": 58,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "71a63870d0617a232487bed2572d9f778dac407af7b67f879d8cec4848d6773a",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-extra-015",
+    "url": "https://uppolice.gov.in/article/en/dgp-up-circulars",
+    "source_type": "Official circular index",
+    "selected_passages": 1,
+    "selected_words": 27,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "5db2a7ca7c5654f74ae3cf5f93a843a14403fbff5c599d4bb42c30cf2004b8db",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-extra-016",
+    "url": "https://www.newindianexpress.com/states/kerala/2026/Sep/20/keralas-ai-camera-project-stalls-as-govt-dues-mount-traffic-management-takes-a-hit",
+    "source_type": "Established newspaper reporting",
+    "selected_passages": 3,
+    "selected_words": 39,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "bf967d204751e56e3878ba4f262292b948a58282eb4d28171ffe31c47b9b5e45",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-034",
+    "url": "https://www.weforum.org/impact/ai-for-agriculture-in-india/",
+    "source_type": "Programme-partner account",
+    "selected_passages": 3,
+    "selected_words": 60,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "703caa590c85d2f0662f81fe486e5a8304d4d04ef0716816d88d2b08b91eb523",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-extra-022",
+    "url": "https://www3.weforum.org/docs/WEF_Scaling_Agritech_at_the_Last_Mile_2023.pdf",
+    "source_type": "Programme-partner report",
+    "selected_passages": 1,
+    "selected_words": 14,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "e689bf148f97c5f0e0fc2c2c10484dd5d1685de0b390a3edfdeb24002d909f68",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-036",
+    "url": "https://vassarlabs.com/from-early-alerts-to-action-how-aware-system-powered-andhra-pradeshs-response-to-cyclone-montha/",
+    "source_type": "Developer case study",
+    "selected_passages": 3,
+    "selected_words": 32,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "94baf8f664009333d921b12a0ba4a55d7014b48a010c7b12c40cfc37e50f3004",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-035",
+    "url": "https://inclusion.in/state-of-governance/2026/03/andhra-pradesh-tops-for-the-third-time/",
+    "source_type": "Governance-award publisher account",
+    "selected_passages": 1,
+    "selected_words": 25,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "8a628690ca3b2611aceea734c4273ff56a4478e8bc16545d15aeb8a66e6d7f00",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-037",
+    "url": "https://www.rediff.com/business/report/how-ai-blockchain-etc-are-revamping-tns-e-services/20200218.htm",
+    "source_type": "Established news reporting",
+    "selected_passages": 3,
+    "selected_words": 50,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "2501241f47d23f6770b89069284766e93091ff8362755fdcaa272ff4b58ae983",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-extra-017",
+    "url": "https://egov.eletsonline.com/2026/04/rajasthans-responsible-ai-roadmap/",
+    "source_type": "Public-sector interview/reporting",
+    "selected_passages": 1,
+    "selected_words": 8,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "5e70fb1d014fa035b7ce9130d093fae5b94792e9d6f70e89630e92dd5fe6416d",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-041",
+    "url": "https://home.odisha.gov.in/sites/default/files/2025-03/Krushi%20Samrudhi%20Helpline%20(RFP)-%20FINAL_0.pdf",
+    "source_type": "Official tender",
+    "selected_passages": 3,
+    "selected_words": 57,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "4645aa7f1874f979753982e11f113a8fcb655ea961a8ec5d7976b16569cba49c",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-042",
+    "url": "https://www.irri.org/news-and-events/news/paddymitra-chatbot-launched-empower-odishas-farmers-ai-driven-insights",
+    "source_type": "Implementing-research-institute account",
+    "selected_passages": 3,
+    "selected_words": 50,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "251bb3d672c0a0d1f8d5dfe870786f219ae00fb4d4220d2d4ba0cca5acab456f",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-043",
+    "url": "https://kisansarathi.in/",
+    "source_type": "Official service portal",
+    "selected_passages": 3,
+    "selected_words": 45,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "a24f2e8fbe3a40f3cdab0e25f32887003ce5d4603e654b4be8dcb0877432a7e7",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-extra-021",
+    "url": "https://www.pib.gov.in/FactsheetDetails.aspx?id=150641&NoteId=150641&ModuleId=16&reg=3&lang=1",
+    "source_type": "Official factsheet",
+    "selected_passages": 2,
+    "selected_words": 13,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "3e1dca3271fa641ba84a851600bde5c3426618a5aa59ff36cc520fc57423f861",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-045",
+    "url": "https://pib.gov.in/newsite/erelcontent.aspx?relid=266458",
+    "source_type": "Official programme statement",
+    "selected_passages": 3,
+    "selected_words": 49,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "9aabe84fae04deb95fc466ba26b700c371d2f59b8a1de358d632241905a70f58",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-048",
+    "url": "https://www.ddpmod.gov.in/sites/default/files/06ae526892cb9dc6470d38b68a7b426f999b8a4906d7551c13f6cc9be5c1a72e/fa4fda60553a6184d11824db55a749c5f356eb8f0bc05976f5be2dae24896aa3.pdf",
+    "source_type": "Official defence project catalogue",
+    "selected_passages": 3,
+    "selected_words": 34,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "ae4990c0e27ab8715153fbc20c28939626e16c4fc496021adba3df8cc3d5c765",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-049",
+    "url": "https://www.drdo.gov.in/drdo/ai-based-intelligent-covid-19-detector-technology-medical-assistance-atman",
+    "source_type": "Official developer account",
+    "selected_passages": 2,
+    "selected_words": 43,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "7f5a6ed9b5a0d28cb5d901beb0cd262756239e36fcb362ba5b9d27da3bef897c",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-extra-019",
+    "url": "https://health.economictimes.indiatimes.com/news/health-it/indian-ai-platform-for-cancer-care-featured-in-brics-health-journal/134250031",
+    "source_type": "Established news reporting",
+    "selected_passages": 4,
+    "selected_words": 63,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "fa13d197f75a657b23873e9ac69ee52bcdd0286b79e9f6e005e6cf225092e694",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-052",
+    "url": "https://indianexpress.com/article/long-reads/aiims-ai-project-cancer-therapy-9169481/",
+    "source_type": "Established news reporting",
+    "selected_passages": 1,
+    "selected_words": 41,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "33e1ce74fe71da0dbe099bcbbee76a8d8aaaf65c41b0ff9c586477c4dd174be9",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-extra-026",
+    "url": "https://inai.ai/wp-content/uploads/2024/10/Executive-Summary-iRASTE-Telangana.pdf",
+    "source_type": "Implementing-research-partner evaluation report",
+    "selected_passages": 4,
+    "selected_words": 81,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "d7e3b7c1963c6650a5d274dfad698dedad047d9e374d3c4dba112aa19571d41e",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-055",
+    "url": "https://dst.gov.in/ai-make-roads-india-safer-drive",
+    "source_type": "Official research-programme statement",
+    "selected_passages": 1,
+    "selected_words": 14,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "0a2276465724e586d1f8ec470f0cca895bb18965f464461eee9e8c81a3ab484c",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-058",
+    "url": "https://www.arcadis.com/en/projects/asia/india/transforming-bengaluru-traffic-with-the-astram-initiative/",
+    "source_type": "Developer case study",
+    "selected_passages": 3,
+    "selected_words": 53,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "8aaf72696e6fd275b64d9230dc65e2bab438f0724a26fabe544a4abd3270f498",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-059",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316953",
+    "source_type": "Official cabinet decision",
+    "selected_passages": 4,
+    "selected_words": 79,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "67b6ebb7d1dd6400829eb99f3610aa695906f02bf96bdaf0daa2f0a36ee3fc42",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-061",
+    "url": "https://pib.gov.in/PressReleseDetailm.aspx?PRID=2112542&reg=3&lang=1",
+    "source_type": "Official MoU announcement",
+    "selected_passages": 3,
+    "selected_words": 45,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "ca4aa15d1563dcf7800cd3b65a3fc32df3af5ef710c3ff666108ad91a7dc60a9",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-067",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2260195&reg=1&lang=1",
+    "source_type": "Official ministerial programme statement",
+    "selected_passages": 2,
+    "selected_words": 35,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "da01a5fde32fafdf4a9de40ef5f13d50d6448ca8c1478d6d852986e797979c3c",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-070",
+    "url": "https://indianexpress.com/article/cities/delhi/delhi-jal-board-turns-to-ai-for-water-infra-management-signs-mou-with-iit-kanpur-10362060/lite/",
+    "source_type": "Established news reporting",
+    "selected_passages": 3,
+    "selected_words": 42,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "7d86ac23eb72e126bc0c3623108c6123bfa0dadc3bf066b51cd8236dcdfd837b",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-double-073",
+    "url": "https://www.nceg.gov.in/assets/pdf/Final_Delhi_Presentation.pdf",
+    "source_type": "Official e-governance programme presentation",
+    "selected_passages": 3,
+    "selected_words": 43,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "b90d3687631c9e3211c978c24b3cd6b50645f7ec5654479b87aab051578e5a3c",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-extra-005",
+    "url": "https://negd.gov.in/isl/Directory/statedata/942",
+    "source_type": "Official state solution directory",
+    "selected_passages": 3,
+    "selected_words": 38,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "f87374e26ab7991771ca953e56fb06f3c3ebe65fa8886d333e59db34629600ac",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  },
+  {
+    "source_id": "ext-extra-006",
+    "url": "https://aikosh.indiaai.gov.in/home/use-cases/details/mahavistaar_responsible_ai_enabled_agricultural_and_livestock_advisory_at_population_scale_1.html",
+    "source_type": "Government-hosted programme account",
+    "selected_passages": 2,
+    "selected_words": 37,
+    "all_selected_passages_match": true,
+    "fetched_text_sha256": "21b5e52df218483a3f049307eff30a0674f4481ec84cdf449890982c432c31d0",
+    "review_basis": "Same-analyst selections checked against SDK fetched text; not independent truth verification"
+  }
+]

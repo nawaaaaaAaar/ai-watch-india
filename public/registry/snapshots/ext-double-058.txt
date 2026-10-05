@@ -1,0 +1,12 @@
+ASTraM Bengaluru platform and claimed outcomes
+Original: https://www.arcadis.com/en/projects/asia/india/transforming-bengaluru-traffic-with-the-astram-initiative/
+Document date: Undated/uncertain
+Source type: Developer case study
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+a reduction in congestion up to 20% on critical corridors and emergency response times by 30%.
+
+The ASTraM initiative—Actionable Intelligence for Sustainable Traffic Management—is an AI-driven platform designed to transform Bengaluru traffic management.
+
+citizens can access these real-time traffic updates, incident alerts, and other vital information through the BTP ASTraM citizen companion app

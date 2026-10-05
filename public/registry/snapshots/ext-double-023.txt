@@ -1,0 +1,12 @@
+PAIS developer listing and privacy
+Original: https://apps.apple.com/in/app/pais/id1451172513
+Document date: Undated/uncertain
+Source type: Police-developer app listing
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+The developer, Punjab Police, indicated that the app’s privacy practices may include handling of data as described below.
+
+PAIS - Punjab Artificial Intelligence System is an application that provides the users the ability to add data of criminals and search the criminals using advanced AI-based facial recognition and advanced textual search features.
+
+© Staqu Technologies Pvt Ltd

@@ -1,6 +1,16 @@
 # AI Watch: institution-and-system research protocol
 
-Version 1.1.0; documentary review cutoff 5 October 2026. This is an exploratory India dataset with 36 named systems/services: eighteen original purposive cases and eighteen additions from a fixed institutional documentary-search frame. It is not a national census or probability sample.
+Version 1.2.0; documentary review cutoff 5 October 2026. This is an exploratory India dataset with 72 named systems/services: eighteen original purposive cases, eighteen additions from a fixed institutional documentary-search frame and thirty-six purposive broadening-round additions. It is not a national census or probability sample.
+
+## Broadening round
+
+The third round doubles the previous 36-record release without doubling installations, modules or legacy aliases. Discovery, identity, recency and accountability searches total 153 queries and 693 returned hits; 100 source retrieval receipts include three failed pages. Forty-nine used new source records were manually selected and their published excerpts checked for normalized membership in fetched text. Search hits alone are not evidence.
+
+All thirty-six additions retain the same twelve assertion slots. New deployment observations distinguish source-report dates from actual go-live dates. Procurement estimates, developer claims, partner observational outcomes, tender requirements, beta/proposed services and suspension reporting stay explicitly typed. Unestablished fields retain `n.a.` and their research limits rather than receive a guessed value.
+
+The original six-institution cohort remains 26 records; it is not silently expanded into a new administrative census. `research_round` distinguishes 1.0.0, 1.1.0 and 1.2.0 cohorts. YAKSH/legacy Trinetra is counted as one family, and iRASTE observations in Nagpur/Telangana are one programme-family record. MahaVISTAAR and the proposed Sansad chatbot have explicit relationships to their national foundational services, rather than duplicate unnamed internal channels.
+
+RBI DAKSH, generic K-SMART AI intentions, insufficiently resolved aliases and eMARG development claims remain context/deferred. The source-recheck and assertion-triage tables still describe the original fifty-source/216-field audit; they are not falsely expanded into fresh independent review of all 864 current fields. New coding is same-analyst documentary review, not independent recoding, legal advice or operational testing.
 
 ## Institutional round and source recheck
 
@@ -55,7 +65,7 @@ Selected new excerpts were checked for normalized-text membership against the fe
 
 ## Quality controls and reproducibility
 
-The offline builder checks all system/institution/source relationships and generic evidence links, all 432 assertion slots, stable identifiers, SQLite integrity and foreign keys. The package includes JSON, twenty-one CSV tables, SQLite, schema, dossiers, queries, selected source snapshots, research receipts and checksums. Rebuilding validates consistency of curated inputs; it does not independently establish the truth of institutional claims.
+The offline builder checks all system/institution/source relationships and generic evidence links, all 864 assertion slots, stable identifiers, SQLite integrity and foreign keys. The package includes JSON, twenty-one CSV tables, SQLite, schema, dossiers, queries, selected source snapshots, research receipts and checksums. Rebuilding validates consistency of curated inputs; it does not independently establish the truth of institutional claims.
 
 The release is single-analyst coded. There has been no independent duplicate review, inter-rater reliability measurement, participant interview, live operational inspection, FOI/RTI response collection or user-demand validation. No request was submitted, no purchase/booking made and no personal test data supplied to a service.
 
