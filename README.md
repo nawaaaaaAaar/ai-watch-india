@@ -4,7 +4,16 @@ A complete curated policy-change desk for journalism, governance research and de
 
 ## Included in this release
 
-Curated edition 02 expands the original DPDP release without publishing a public website:
+Curated edition 03 adds implementation evidence without launching a public website:
+
+- Four evidence collections: 56 policy-comparison units plus ten implementation checkpoints, 25 official source snapshots and 40 reusable briefs.
+- A new implementation ledger separates constitution orders, official status wording, recruitment, partnership processes, project selections, reporting mechanisms, redress and voluntary commitments from verified outcomes.
+- Every checkpoint includes multiple source excerpts, a link to its underlying governance recommendation and a records-to-verify checklist.
+- Evidence-status and search filters; ten individual briefs and a collection bundle; mixed-policy exports retain the complete documentary trail.
+- No implementation score, inferred appointment, inferred spending, invented official correction or automatic submission.
+- Study and search-scope documents explain conflicting wording, historical deadlines, extraction limits and negative-finding boundaries.
+
+Edition 02's policy-comparison coverage remains included:
 
 - Three collections, 56 comparisons, 13 official source records and 10 directed English corrections.
 - Synthetic-media/platform duties: 14 units cover all five final amending rules; the comparison distinguishes October draft proposals from later additions using prior-law context.
@@ -50,6 +59,7 @@ The input comparison and coverage register are in `research/`; four extracted pu
 ```sh
 python scripts/build_dataset.py
 python scripts/build_expansion.py
+python scripts/build_implementation.py
 node scripts/package-briefs.mjs
 npm run validate:data
 npm test

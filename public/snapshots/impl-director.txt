@@ -1,0 +1,36 @@
+India AI is currently inviting applications for the position of **Director – IndiaAI Safety Institute** on a purely contractual/ consolidated basis.
+
+|Position|Director – IndiaAI Safety Institute|
+|--|--|
+|No. of Positions|01|
+|Last Date|02.06.2026|
+
+**Roles and Responsibilities **
+
+- Provide overall strategic direction, leadership and oversight for the IndiaAI Safety Institute, including finalisation of its scope of work.
+- Lead and operationalize the Institute’s Hub and Spoke model by establishing and managing structured partnerships with academia, startups, industry, civil society and relevant government ministries and departments.
+- Direct the development of technical tools, guidelines, frameworks, commitments and standards for AI safety that are contextualized to India’s unique challenges and opportunities, including the needs of the developing world.
+
+- Oversee design and execution of AI model evaluation, red-teaming and risk assessment programmes to assess the safety, security and trustworthiness of AI systems developed and deployed in India.
+- Commission and guide indigenous research on AI safety, with a focus on approaches relevant to India’s social, economic, cultural, and linguistic contexts.
+
+- Facilitate coordination across all pillars of the IndiaAI Mission to integrate safety and trust considerations into computing, models, data, innovation, and skilling programmes.
+- Represent IndiaAI Safety Institute at national and international forums, conferences and multilateral engagements.
+- Build institutional capacity by recruiting, mentoring and developing a high-quality multidisciplinary team of researchers, engineers, and policy specialists under the Institute.
+
+- Monitor progress against approved milestones and deliverables, and place issues, risks or deviations before the competent authority for appropriate action.
+- Monitor emerging AI safety risks and developments globally and provide timely advisories and strategic recommendations to the Competent Authority(s).
+- Review implementation processes from time to time and suggest improvements based on experience and programme requirements.
+
+- Submit periodic reports, programme updates and strategic inputs to senior leadership and oversight bodies.
+
+**Important Links:**
+
+|Download Detailed Notification|Click Here (256 KB PDF)|
+|--|--|
+|Apply Here|Click Here|
+|Official Website|Click Here|
+
+**About India AI **
+
+The IndiaAI Mission aims to build a comprehensive ecosystem that fosters AI innovation by democratizing computing access, enhancing data quality, developing indigenous AI capabilities, attracting top AI talent, enabling industry collaboration, providing startup risk capital, ensuring socially impactful AI projects, and promoting ethical AI. This mission drives responsible and inclusive growth of India’s AI ecosystem through its seven pillars.

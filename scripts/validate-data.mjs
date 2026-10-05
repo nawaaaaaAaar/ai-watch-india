@@ -17,3 +17,13 @@ for(const p of e.provisions){
   assert.ok(p.draftText.includes(p.beforeExcerpt)&&p.finalText.includes(p.afterExcerpt));
 }
 console.log('PASS: expanded collection has 56 records, 30 briefs, 13 sources and 10 English corrections.');
+const implementation=JSON.parse(readFileSync(new URL('../src/data/implementation.json',import.meta.url)));
+const editionThree=mergeCollections(d,e,implementation);
+assert.equal(editionThree.provisions.length,66);assert.equal(editionThree.sources.length,25);
+assert.equal(editionThree.provisions.filter(p=>p.contribution).length,40);
+for(const p of implementation.provisions){
+  assert.ok(p.implementationCheckpoint&&p.evidenceStatus&&p.relatedId);
+  assert.ok(p.evidenceTrail.length>=2&&p.requestChecklist.length>=3);
+  assert.ok(p.correctionIds.length===0&&p.type==='Evidence checkpoint');
+}
+console.log('PASS: edition three has 66 evidence units, 40 briefs and 25 sources.');

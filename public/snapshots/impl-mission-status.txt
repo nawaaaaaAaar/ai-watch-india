@@ -1,0 +1,160 @@
+Press Release Page | Press Information Bureau
+
+Ministry of Electronics & IT
+
+## IndiaAI Mission Advances AI-Driven Governance and Public Service Delivery through Collaborative Roadmaps, Innovation Challenges and Capacity Building
+
+### IndiaAI Mission Identifies 762 AI Use Cases Across 62 Ministries, Approves 58 AI Centres of Excellence and 543 Data & AI Labs
+
+Posted On:
+29 JUL 2026 3:55PM by PIB Delhi
+
+India’s AI policy is based on Prime Minister Narendra Modi’s vision of democratizing technology. It is aimed at creating economic opportunities and employment for youth, while addressing risks associated with it.
+
+India’s AI strategy builds on India’s vibrant IT sector with annual revenue of 300 billion dollars and 60 Lakh strong workforce. IndiaAI Mission supports India’s AI ambitions under seven pillars, as under:
+
+- **IndiaAI Compute Pillar:** To establish a high-end, scalable AI computing ecosystem to address the growing requirements of India's rapidly expanding AI startup and research communities.
+- **Foundation Models:** To focus on the development of indigenous Large Language Models (LLMs), Multimodal Models, and domain-specific Small Language Models, ensuring sovereign AI capabilities and addressing India-specific use cases.
+
+- **IndiaAI Application Development Initiative (IADI):** To support the development, scaling, and deployment of impactful AI solutions capable of driving large-scale socio-economic transformation across critical sectors.
+- **IndiaAI FutureSkills**: To build a robust AI talent pipeline by establishing specialised Data and AI Labs in Tier 2 and 3 cities, providing student fellowships, and developing industry-aligned curricula to democratise AI education.
+
+- **AIKosh (IndiaAI Datasets Platform):** To create a unified platform providing seamless access to high-quality datasets, models, and tools, integrating resources from government and non-government entities to foster open innovation.
+- **Safe & Trusted AI:** To enable responsible AI development through indigenous governance frameworks and evaluation tools tailored to India's unique socio-economic and cultural landscape.
+
+- **IndiaAI Startup Financing:** To provide risk capital and support throughout the startup lifecycle, bridging funding gaps from the initial prototyping stage through to commercialization.
+
+Under the Application Development Initiative (IADI), IndiaAI conducted a workshop on AI in public service delivery on 5^th^ April 2024, bringing together representatives from the Central and State Governments. The workshop supported Ministries and Departments in assessing their data capabilities and identifying AI use cases, fostering a consultative and collaborative approach to developing AI roadmaps for governance and public service delivery.
+
+Through innovation challenges, grant programmes and hackathons, IADI has built a pipeline of AI solutions across priority sectors including healthcare, agriculture, governance, climate, cybersecurity and financial regulation, with pathways from ideation to pilot deployment and scale. Under this pillar, the IndiaAI Mission has launched **11 national-level hackathons and innovation challenges** across these sectors.
+
+1. **The IndiaAI Innovation Challenge** focused on AI solutions in healthcare, agriculture, governance, learning disabilities and climate change. 30 solutions were shortlisted in Stage 1 for pilot implementation with Central Ministries, States and Public Sector Organisations. Subsequently, five teams (one per sector) were selected for national-level deployment, with pilots underway across multiple States.
+
+2. **The IndiaAI I4C CyberGuard AI Hackathon**, conducted in collaboration with the Indian Cyber Crime Coordination Centre (I4C), developed AI solutions for classification of cybercrime complaints and identification of emerging crime patterns on the National Cyber Crime Reporting Portal (NCRP). The shortlisted solution has been integrated with I4C systems.
+
+3. **The IndiaAI–GSI Mineral Targeting with AI Hackathon**, organised in partnership with the Geological Survey of India, focused on leveraging AI/ML for advanced mineral prognostication using geoscientific datasets such as geology, geophysics, geochemistry, and remote sensing.
+4. **The Cancer AI & Technology Challenge (CATCH)**, in collaboration with the National Cancer Grid, aims to strengthen cancer screening, diagnostics, treatment support, and healthcare operations. The top shortlisted teams are undergoing ethical review prior to implementation.
+
+5. **The IndiaAI Face Authentication Challenge** aims to enhance the integrity of public examinations through AI-enabled de-duplication and one-to-many photo verification. Two teams have been selected for deployment at the Union Public Service Commission (UPSC), and deployment has commenced.
+6. **The IndiaAI Intelligent Document Processing (IDP) Challenge** aims to automate extraction, classification, validation, and structuring of information from complex multilingual documents. Two shortlisted teams are being deployed at UPSC, and implementation is underway.
+
+7. **The IndiaAI Innovation Challenge 2026**, supported by the Ministry of Ayush and the Ministry of MSME, promotes AI solutions for AYUSH healthcare and MSMEs. Applications have been received across multiple problem statements, with Stage 1 evaluations underway, followed by prototype development and deployment.
+
+viii. **The IndiaAI Challenge for Transforming Governance**, in partnership with the Real Time Governance Society (RTGS), Government of Andhra Pradesh, addresses AI use cases across key departments. Applications have been received, Stage 1 evaluations are underway, and prototype development and pilot implementation are planned.
+
+1. **The IndiaAI Financial Compliance Reporting Challenge**, in collaboration with the National Financial Reporting Authority (NFRA), promotes AI-enabled compliance monitoring and risk assessment.
+2. **The CDSCO–IndiaAI Health Innovation Acceleration Hackathon**, organised with the Central Drugs Standard Control Organisation (CDSCO), focuses on AI-driven automation of regulatory workflows, including document summarisation, anonymisation, and inspection reporting. Prototype development and deployment are planned.
+
+3. **The PMJAY Auto Adjudication Hackathon**, in collaboration with the National Health Authority (NHA), supports the development of AI-based adjudication frameworks for PMJAY claims, resulting in multiple prototypes and pilot deployments.
+
+These initiatives collectively demonstrate that State Governments are actively consulted and engaged through workshops, consultations, and collaborative challenge mechanisms in the formulation and implementation of AI roadmaps for governance and public service delivery.
+
+**AI Centres of Excellence: ** Government has approved a scheme for the establishment of 58 Artificial Intelligence Centres of Excellence (AI-CoEs) across States and Union Territories, in collaboration with the respective State/UT Governments and industry partners. Under the approved framework, Two Artificial Intelligence Centres of Excellence (AI-CoEs) have been allocated for establishment in the state of Tamil Nadu.
+
+**IndiaAI Data & AI Labs (ITIs/Polytechnics): ** Under the IndiaAI FutureSkills pillar, 543 Data & AI Labs across ITIs and Polytechnics in Tier-2 and Tier-3 cities have been approved for establishment to provide training in AI, data annotation, data curation and applied data science. As part of this initiative, 18 Data & AI Labs have been allocated for establishment in Tamil Nadu.
+
+**IndiaAI Fellowships: ** Under the IndiaAI FutureSkills pillar, fellowships are provided to undergraduate, postgraduate and doctoral students for AI education and research. A total of 686 fellowships have been awarded nationally across 178 institutions. Of these, 162 fellowships have been awarded to students from Tamil Nadu, comprising 96 undergraduate, 34 postgraduate and 32 PhD fellowships.
+
+**IndiaAI Impact Summit: ** India hosted the India-AI Impact Summit 2026 in New Delhi from 16^th^ to 21^st^ February 2026. The Hon'ble Prime Minister called upon Ministries and Departments at the inauguration of the India AI Impact Summit 2026 to actively engage with the India AI Impact Expo and identify AI applications relevant to their respective domains to accelerate AI adoption across the Government.
+
+Pursuant to these directions and the deliberations held during the Summit, the Cabinet Secretariat coordinated with Ministries and Departments to identify opportunities for leveraging AI to address governance, service delivery, operational efficiency, and sector-specific challenges. This exercise resulted in the identification of 762 problem statements from 62 Ministries and Departments, which were subsequently shared with MeitY for facilitating AI-enabled interventions.
+
+The Government has undertaken the following steps to ensure that deployment of AI in Government systems, including for citizen-facing services, adheres to standards of transparency, accountability, data privacy, algorithmic fairness and independent audit:
+
+- The **Digital Personal Data Protection Act, 2023 (DPDP Act)** provides a comprehensive framework for processing of personal data, including purpose limitation, data minimisation, informed consent, and rights of access, correction and erasure for data principals; it also requires Significant Data Fiduciaries to appoint a data auditor and undertake periodic Data Protection Impact Assessments.
+
+- Under the **Safe & Trusted AI pillar** of the IndiaAI Mission, 13 Responsible AI projects have been selected across themes including AI bias mitigation, algorithm auditing, explainable AI, privacy-preserving AI and deepfake detection, being implemented by academic institutions, start-ups, industry and civil-society organisations to develop indigenous tools and frameworks including tools for assessing model fairness and an open-source framework for participatory algorithmic auditing.
+
+- **India AI Governance Guidelines** were released on 5th November, 2025, providing a comprehensive national framework for the safe, responsible and inclusive development and deployment of Artificial Intelligence in the country. Pursuant to the Guidelines, the following institutional mechanisms have been initiated, AI Governance and Economic Group (AIGEG), a high-level inter-ministerial body to steer the development of India’s national AI governance strategy; Technology and Policy Expert Committee (TPEC), to support technical and policy recommendations; and AI Safety Institute (AISI), to undertake safety research, develop standards, test AI systems and evaluate emerging risks.
+
+- The **Indian Computer Emergency Response Team (CERT-In)** issued advisories on safety measures against adversarial AI threats in May 2023, launched the Certified Security Professional in Artificial Intelligence (CSPAI) programme with SISA in September 2024, and issued advisories on best practices for the responsible use of Generative AI in March 2025.
+
+- An **IndiaAI Safety Institute** is being established as a hub for indigenous research and development on AI safety, to support India’s technical and institutional infrastructure for AI governance.
+
+This information was submitted by Union Minister of State for Electronics and Information Technology Shri Jitin Prasada in Lok Sabha on 29.07.2026.
+
+********
+
+**Vinod Kumar / Kanishk Sharma**
+
+(Release ID: 2291062) Visitor Counter : 4826
+Read this release in:
+
+हिन्दी , Telugu
+
+Ministry of Electronics & IT
+
+IndiaAI Mission Advances AI-Driven Governance and Public Service Delivery through Collaborative Roadmaps, Innovation Challenges and Capacity Building
+
+IndiaAI Mission Identifies 762 AI Use Cases Across 62 Ministries, Approves 58 AI Centres of Excellence and 543 Data & AI Labs
+
+Posted On:
+29 JUL 2026 3:55PM by PIB Delhi
+
+India’s AI policy is based on Prime Minister Narendra Modi’s vision of democratizing technology. It is aimed at creating economic opportunities and employment for youth, while addressing risks associated with it.
+
+India’s AI strategy builds on India’s vibrant IT sector with annual revenue of 300 billion dollars and 60 Lakh strong workforce. IndiaAI Mission supports India’s AI ambitions under seven pillars, as under:
+
+- **IndiaAI Compute Pillar:** To establish a high-end, scalable AI computing ecosystem to address the growing requirements of India's rapidly expanding AI startup and research communities.
+- **Foundation Models:** To focus on the development of indigenous Large Language Models (LLMs), Multimodal Models, and domain-specific Small Language Models, ensuring sovereign AI capabilities and addressing India-specific use cases.
+
+- **IndiaAI Application Development Initiative (IADI):** To support the development, scaling, and deployment of impactful AI solutions capable of driving large-scale socio-economic transformation across critical sectors.
+- **IndiaAI FutureSkills**: To build a robust AI talent pipeline by establishing specialised Data and AI Labs in Tier 2 and 3 cities, providing student fellowships, and developing industry-aligned curricula to democratise AI education.
+
+- **AIKosh (IndiaAI Datasets Platform):** To create a unified platform providing seamless access to high-quality datasets, models, and tools, integrating resources from government and non-government entities to foster open innovation.
+- **Safe & Trusted AI:** To enable responsible AI development through indigenous governance frameworks and evaluation tools tailored to India's unique socio-economic and cultural landscape.
+
+- **IndiaAI Startup Financing:** To provide risk capital and support throughout the startup lifecycle, bridging funding gaps from the initial prototyping stage through to commercialization.
+
+Under the Application Development Initiative (IADI), IndiaAI conducted a workshop on AI in public service delivery on 5^th^ April 2024, bringing together representatives from the Central and State Governments. The workshop supported Ministries and Departments in assessing their data capabilities and identifying AI use cases, fostering a consultative and collaborative approach to developing AI roadmaps for governance and public service delivery.
+
+Through innovation challenges, grant programmes and hackathons, IADI has built a pipeline of AI solutions across priority sectors including healthcare, agriculture, governance, climate, cybersecurity and financial regulation, with pathways from ideation to pilot deployment and scale. Under this pillar, the IndiaAI Mission has launched **11 national-level hackathons and innovation challenges** across these sectors.
+
+1. **The IndiaAI Innovation Challenge** focused on AI solutions in healthcare, agriculture, governance, learning disabilities and climate change. 30 solutions were shortlisted in Stage 1 for pilot implementation with Central Ministries, States and Public Sector Organisations. Subsequently, five teams (one per sector) were selected for national-level deployment, with pilots underway across multiple States.
+
+2. **The IndiaAI I4C CyberGuard AI Hackathon**, conducted in collaboration with the Indian Cyber Crime Coordination Centre (I4C), developed AI solutions for classification of cybercrime complaints and identification of emerging crime patterns on the National Cyber Crime Reporting Portal (NCRP). The shortlisted solution has been integrated with I4C systems.
+
+3. **The IndiaAI–GSI Mineral Targeting with AI Hackathon**, organised in partnership with the Geological Survey of India, focused on leveraging AI/ML for advanced mineral prognostication using geoscientific datasets such as geology, geophysics, geochemistry, and remote sensing.
+4. **The Cancer AI & Technology Challenge (CATCH)**, in collaboration with the National Cancer Grid, aims to strengthen cancer screening, diagnostics, treatment support, and healthcare operations. The top shortlisted teams are undergoing ethical review prior to implementation.
+
+5. **The IndiaAI Face Authentication Challenge** aims to enhance the integrity of public examinations through AI-enabled de-duplication and one-to-many photo verification. Two teams have been selected for deployment at the Union Public Service Commission (UPSC), and deployment has commenced.
+6. **The IndiaAI Intelligent Document Processing (IDP) Challenge** aims to automate extraction, classification, validation, and structuring of information from complex multilingual documents. Two shortlisted teams are being deployed at UPSC, and implementation is underway.
+
+7. **The IndiaAI Innovation Challenge 2026**, supported by the Ministry of Ayush and the Ministry of MSME, promotes AI solutions for AYUSH healthcare and MSMEs. Applications have been received across multiple problem statements, with Stage 1 evaluations underway, followed by prototype development and deployment.
+
+viii. **The IndiaAI Challenge for Transforming Governance**, in partnership with the Real Time Governance Society (RTGS), Government of Andhra Pradesh, addresses AI use cases across key departments. Applications have been received, Stage 1 evaluations are underway, and prototype development and pilot implementation are planned.
+
+1. **The IndiaAI Financial Compliance Reporting Challenge**, in collaboration with the National Financial Reporting Authority (NFRA), promotes AI-enabled compliance monitoring and risk assessment.
+2. **The CDSCO–IndiaAI Health Innovation Acceleration Hackathon**, organised with the Central Drugs Standard Control Organisation (CDSCO), focuses on AI-driven automation of regulatory workflows, including document summarisation, anonymisation, and inspection reporting. Prototype development and deployment are planned.
+
+3. **The PMJAY Auto Adjudication Hackathon**, in collaboration with the National Health Authority (NHA), supports the development of AI-based adjudication frameworks for PMJAY claims, resulting in multiple prototypes and pilot deployments.
+
+These initiatives collectively demonstrate that State Governments are actively consulted and engaged through workshops, consultations, and collaborative challenge mechanisms in the formulation and implementation of AI roadmaps for governance and public service delivery.
+
+**AI Centres of Excellence: ** Government has approved a scheme for the establishment of 58 Artificial Intelligence Centres of Excellence (AI-CoEs) across States and Union Territories, in collaboration with the respective State/UT Governments and industry partners. Under the approved framework, Two Artificial Intelligence Centres of Excellence (AI-CoEs) have been allocated for establishment in the state of Tamil Nadu.
+
+**IndiaAI Data & AI Labs (ITIs/Polytechnics): ** Under the IndiaAI FutureSkills pillar, 543 Data & AI Labs across ITIs and Polytechnics in Tier-2 and Tier-3 cities have been approved for establishment to provide training in AI, data annotation, data curation and applied data science. As part of this initiative, 18 Data & AI Labs have been allocated for establishment in Tamil Nadu.
+
+**IndiaAI Fellowships: ** Under the IndiaAI FutureSkills pillar, fellowships are provided to undergraduate, postgraduate and doctoral students for AI education and research. A total of 686 fellowships have been awarded nationally across 178 institutions. Of these, 162 fellowships have been awarded to students from Tamil Nadu, comprising 96 undergraduate, 34 postgraduate and 32 PhD fellowships.
+
+**IndiaAI Impact Summit: ** India hosted the India-AI Impact Summit 2026 in New Delhi from 16^th^ to 21^st^ February 2026. The Hon'ble Prime Minister called upon Ministries and Departments at the inauguration of the India AI Impact Summit 2026 to actively engage with the India AI Impact Expo and identify AI applications relevant to their respective domains to accelerate AI adoption across the Government.
+
+Pursuant to these directions and the deliberations held during the Summit, the Cabinet Secretariat coordinated with Ministries and Departments to identify opportunities for leveraging AI to address governance, service delivery, operational efficiency, and sector-specific challenges. This exercise resulted in the identification of 762 problem statements from 62 Ministries and Departments, which were subsequently shared with MeitY for facilitating AI-enabled interventions.
+
+The Government has undertaken the following steps to ensure that deployment of AI in Government systems, including for citizen-facing services, adheres to standards of transparency, accountability, data privacy, algorithmic fairness and independent audit:
+
+- The **Digital Personal Data Protection Act, 2023 (DPDP Act)** provides a comprehensive framework for processing of personal data, including purpose limitation, data minimisation, informed consent, and rights of access, correction and erasure for data principals; it also requires Significant Data Fiduciaries to appoint a data auditor and undertake periodic Data Protection Impact Assessments.
+
+- Under the **Safe & Trusted AI pillar** of the IndiaAI Mission, 13 Responsible AI projects have been selected across themes including AI bias mitigation, algorithm auditing, explainable AI, privacy-preserving AI and deepfake detection, being implemented by academic institutions, start-ups, industry and civil-society organisations to develop indigenous tools and frameworks including tools for assessing model fairness and an open-source framework for participatory algorithmic auditing.
+
+- **India AI Governance Guidelines** were released on 5th November, 2025, providing a comprehensive national framework for the safe, responsible and inclusive development and deployment of Artificial Intelligence in the country. Pursuant to the Guidelines, the following institutional mechanisms have been initiated, AI Governance and Economic Group (AIGEG), a high-level inter-ministerial body to steer the development of India’s national AI governance strategy; Technology and Policy Expert Committee (TPEC), to support technical and policy recommendations; and AI Safety Institute (AISI), to undertake safety research, develop standards, test AI systems and evaluate emerging risks.
+
+- The **Indian Computer Emergency Response Team (CERT-In)** issued advisories on safety measures against adversarial AI threats in May 2023, launched the Certified Security Professional in Artificial Intelligence (CSPAI) programme with SISA in September 2024, and issued advisories on best practices for the responsible use of Generative AI in March 2025.
+
+- An **IndiaAI Safety Institute** is being established as a hub for indigenous research and development on AI safety, to support India’s technical and institutional infrastructure for AI governance.
+
+This information was submitted by Union Minister of State for Electronics and Information Technology Shri Jitin Prasada in Lok Sabha on 29.07.2026.
+
+**Vinod Kumar / Kanishk Sharma**
+
+(Release ID: 2291062)

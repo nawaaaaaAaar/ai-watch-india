@@ -6,17 +6,17 @@ export const SGI_FINAL='https://www.meity.gov.in/static/uploads/2026/02/f55fe524
 export const SGI_CORRECTION='https://www.meity.gov.in/static/uploads/2026/03/20c30107195f68865104dd4e16176f4d.pdf';
 export const REPO = 'https://github.com/nawaaaaaAaar/ai-watch-india';
 export const ORIGINAL_CONTRIBUTIONS=['rule-8','rule-14','rule-13','schedule-fourth','rule-7','rule-11','schedule-second','rule-1','rule-6','rule-3','rule-15','rule-23'];
-export function mergeCollections(original, expansion) {
+export function mergeCollections(original, expansion, implementation) {
   const families=[{id:'dpdp',title:'Digital Personal Data Protection Rules, 2025',shortTitle:'DPDP Rules',
     status:'Notified rules + corrigenda',description:'Consultation draft to final rules, preserving correction and timing uncertainty.',
     coverage:'All 23 final rules and seven schedules; eight directed English corrections.',count:30,
     contributionCount:12,defaultId:'rule-8',scope:'Complete final-provision inventory, not current court-status or later-amendment certification.',
     timeline:[{date:'03 Jan 2025',title:'Consultation draft',detail:'22 rules and seven schedules'},
       {date:'13 Nov 2025',title:'Notified final',detail:'13/14 Nov publication basis flagged'},
-      {date:'10 Dec 2025',title:'Corrigenda',detail:'Eight substitutions; Gazette dated 11 Dec'}]},...expansion.families];
-  return {title:'Three Indian digital-policy collections',checked:'DPDP: 4 October 2026; expansion: 5 October 2026',
-    families,sources:[...original.sources,...expansion.sources],
-    provisions:[...original.provisions.map(p=>({...p,familyId:'dpdp',comparisonKind:'Draft to final',contribution:ORIGINAL_CONTRIBUTIONS.includes(p.id)})),...expansion.provisions],
+      {date:'10 Dec 2025',title:'Corrigenda',detail:'Eight substitutions; Gazette dated 11 Dec'}]},...expansion.families,...(implementation?.families||[])];
+  return {title:implementation?'Four Indian digital-policy evidence collections':'Three Indian digital-policy collections',checked:'DPDP: 4 October 2026; expansion: 5 October 2026',
+    families,sources:[...original.sources,...expansion.sources,...(implementation?.sources||[])],
+    provisions:[...original.provisions.map(p=>({...p,familyId:'dpdp',comparisonKind:'Draft to final',contribution:ORIGINAL_CONTRIBUTIONS.includes(p.id)})),...expansion.provisions,...(implementation?.provisions||[])],
     corrections:[...original.corrections.map(c=>({...c,familyId:'dpdp',sourceUrl:CORRECTION_URL})),...expansion.corrections]};
 }
 export function evidenceLinks(p) {
@@ -53,6 +53,7 @@ export function createBrief(data, notebook, date=new Date().toISOString()) {
   if(records.some(p=>!p.familyId||p.familyId==='dpdp'))out+='DPDP: the official rule specifies publication, one-year and eighteen-month commencement groups. The 13/14 November publication-date basis is unresolved in this collection; computed calendar dates are not presented as settled deadlines. Notified does not mean every duty is operative. See the [official Rules]('+FINAL_URL+') and the [corrigenda]('+CORRECTION_URL+').\n\n';
   if(records.some(p=>p.familyId==='sgi'))out+='Synthetic media: the [amendment]('+SGI_FINAL+') states commencement on 20 February 2026; English citations were [corrected on 26 February]('+SGI_CORRECTION+'). This is not exhaustive current court-status certification. Some comparisons use prior consolidated law because the final change was absent from the consultation draft.\n\n';
   if(records.some(p=>p.familyId==='aig'))out+='AI governance: recommendation lineage, not a one-to-one legal redline. The published guidelines do not themselves enact every recommended mandate, deadline or institution. Later implementation must be separately verified.\n\n';
+  if(records.some(p=>p.familyId==='impl'))out+='Implementation evidence: constitution, recruitment, selections, commitments and operational outcomes are different milestones. Status describes the reviewed records, not an audit or proof of absence. Sources were checked on 5 October 2026; no agency confirmation was requested.\n\n';
   for(const p of records) {
     const links=evidenceLinks(p);
     out+=`## ${p.label}: ${p.title}\n\nCollection: ${p.familyId||'dpdp'}. Comparison: ${p.comparisonKind||'Draft to final'}. Type: ${p.type}. Actor/class: ${p.actor}. Earlier context: ${p.draftLabel}.\n\n`;
@@ -60,13 +61,16 @@ export function createBrief(data, notebook, date=new Date().toISOString()) {
     out+=`### Textual observation\n\n${p.summary} [${links.beforeLocator}](${links.before}) [${links.afterLocator}](${links.after})\n\n`;
     out+=`Earlier excerpt (${p.beforeLabel||'consultation draft'}, as extracted):\n\n> ${p.beforeExcerpt}\n\nLater excerpt (${p.afterLabel||'final'}, as printed, as extracted):\n\n> ${p.afterExcerpt}\n\n`;
     out+=`### Analyst interpretation\n\n${p.interpretation}\n\n### Limits and follow-up\n\n${p.caution}\n\nReporting question: ${p.question}\n\n`;
+    if(p.evidenceTrail)out+='### Implementation evidence trail\n\n'+p.evidenceTrail.map(e=>`[${e.title}: ${e.locator}](${e.url})\n\n> ${e.quote}\n`).join('\n')+'\n';
+    if(p.requestChecklist)out+='### Records to request or verify\n\n'+p.requestChecklist.map(x=>`- ${x}`).join('\n')+'\nThis is a research checklist, not a filed information request or a determination of the appropriate legal procedure.\n\n';
     if(p.correctionIds.length) out+=`Corrections relevant to this provision: ${p.correctionIds.join(', ')}. Check the [official correcting instrument](${p.familyId==='sgi'?SGI_CORRECTION:CORRECTION_URL}) and compare as-printed versus corrected text before quoting.\n\n`;
     if(['rule-5','rule-15','rule-16','rule-23'].includes(p.id)) out+=`Parent statute context: [DPDP Act](${ACT_URL}). Read statutory limits as well as the rule.\n\n`;
     const reviews=notebook.reviews.filter(r=>r.provisionId===p.id);
     if(reviews.length) out+='### Local review history\n\n'+reviews.map(r=>`- ${r.timestamp} | ${r.status} | ${r.reviewer}: ${r.note}`).join('\n')+'\n\n';
   }
   const usedFamilies=new Set(records.map(p=>p.familyId||'dpdp'));
-  const relevantSources=data.sources.filter(s=>usedFamilies.has(s.id.startsWith('sgi-')?'sgi':s.id.startsWith('aig-')?'aig':'dpdp'));
+  const usedIds=new Set(records.flatMap(p=>[p.beforeSourceId,p.afterSourceId,...(p.evidenceTrail||[]).map(e=>e.sourceId)]).filter(Boolean));
+  const relevantSources=data.sources.filter(s=>usedIds.has(s.id)||usedFamilies.has(s.id.startsWith('impl-')?'impl':s.id.startsWith('sgi-')?'sgi':s.id.startsWith('aig-')?'aig':'dpdp'));
   out+='## Source provenance\n\n'+relevantSources.map(s=>`- [${s.title}](${s.url}), ${s.instrument}. Document date: ${s.documentDate}. Publication metadata: ${s.publication}. Snapshot integrity: ${s.hashType}; ${s.hash}.`).join('\n')+'\n';
   return out;
 }

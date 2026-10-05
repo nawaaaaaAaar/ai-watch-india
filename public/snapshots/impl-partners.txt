@@ -1,0 +1,474 @@
+Call for Expression of Interest: IndiaAI Safety Institute Partners 
+Submission Guidelines 
+1. Background 
+The Ministry of Electronics and IT (‘MeitY’) has launched the national-level IndiaAI Mission to 
+democratize and catalyze the AI research and innovation ecosystem in India.  
+The "Safe & Trusted AI" pillar of the mission emphasizes the need to ensure the responsible
+
+development, deployment, and adoption of AI in India. This involves the development of technical 
+tools, guidelines, frameworks, commitments, and standards that are contextualized to India’s 
+unique challenges and opportunities with respect to harnessing AI’s transformative potential. 
+To implement the objectives of the pillar, IndiaAI has created the IndiaAI Safety Institute. This
+
+Institute will advance science-based and indigenous research on AI governance, pioneering 
+innovative approaches to AI safety that are relevant to the developing world.  
+2. IndiaAI Safety Institute 
+The IndiaAI Safety Institute will guide the broader objectives of fostering safety, transparency, 
+accountability, and fairness in AI solutions and building trust in the use of the technology. Among
+
+other things, the IndiaAI Safety Institute will: 
+a) Establish and ensure implementation of India’s Safe and Trusted AI principles; 
+b) Undertake research and development of indigenous tools, technologies, benchmarks, 
+measurement systems, and other outputs that promote safe AI practices and mitigation of 
+existing as well as emerging AI risks and harms; 
+c) Establish robust frameworks, guidelines, commitments, protocols, best practices and other 
+support structures for India-specific AI governance;
+
+d) Unite and foster collaboration between AI developers, deployers, academia, government, 
+industry, startups and civil society organizations in support of safe and trusted AI; 
+e) Coordinate with relevant government bodies and standard-setting organizations to ensure 
+harmonization of efforts towards AI governance; 
+f) Form and oversee sectoral Sub-Committees that will complement efforts of and work in
+
+conjunction with sectoral regulators;  
+g) Conduct workshops, awareness, and training programs to empower key stakeholders in 
+managing and mitigating AI risks effectively; 
+h) Bolster India’s readiness to address the capabilities of the next generation of AI models 
+and/or systems; 
+i) Support India’s efforts towards global cooperation on AI, bringing forth the unique
+
+challenges and opportunities of the developing world; 
+j) Formulate partnerships with international institutions, including academic and research 
+institutions, other AI Safety Institutes and global AI experts to co-design and adapt 
+international best practices on Safe and Trusted AI. 
+3. IndiaAI Safety Institute Partners 
+The IndiaAI Safety Institute is responsible for ensuring that AI in India is developed, deployed,
+
+and adopted in a safe, secure, inclusive, and trustworthy manner, protecting Indian citizens from 
+any harm from the use of AI. In support of its efforts, the IndiaAI Safety Institute is calling for 
+expressions of interest for onboarding partners to create a network to expand its capacity, 
+harnessing the broader community's potential, interests, and capabilities. 
+IndiaAI seeks to leverage the additional resources and capabilities made available through the 
+network of IndiaAI Safety Institute partners to augment its research and development work,
+
+enhancing the country’s overall preparedness for next-generation AI technologies and enabling 
+governance structures tailored to India's specific needs.  
+Through this initiative, IndiaAI Safety Institute also aims to create a convening space for 
+collaborators to have an informed dialogue and enable the sharing of information and knowledge 
+with respect to AI advancements.
+
+This call for expression of interest is an integral part of IndiaAI’s overall vision of collaboration 
+with researchers, academia, industry, other government agencies, and startups to address 
+challenges associated with the development and deployment of AI.  
+4. Scope of Work 
+The IndiaAI Safety Institute partners will support its mandate of advancing indigenous research
+
+and development for Safe and Trusted AI development, deployment and use in India. Each 
+IndiaAI Safety Institute Partner will establish a dedicated IndiaAI Safety Institute Cell to deliver 
+on the scope of work allocated to the partner institute. The various IndiaAI Safety Institute Cells 
+will function as decentralized capacity of the IndiaAI safety institute, executing the assigned
+
+technical mandate.  
+The scope of work of each partner institution is envisaged to be dynamic to respond to the fast-
+evolving needs and challenges of the AI ecosystem. The IndiaAI Safety Institute will allocate the 
+scope of work amongst the network of selected partner institutions based on the following:  
+a) Expertise of the partner institution;  
+b) Proposed areas of support indicated by the institution; 
+c) Detailed proposal for each proposed area of support; 
+d) Composition of the proposed IndiaAI Safety Cell; 
+e) Work plan of the IndiaAI Safety Institute.
+
+4.1 Broad Areas of Work 
+IndiaAI Safety Institute Partners may support the Safety Institute across any of the following 
+broad areas of work: 
+a) Technical Research on AI Safety; 
+b) Legal research on AI Safety (including on India-specific AI governance); 
+c) Meta-Data and Data Quality Standards;
+
+d) Data Governance; 
+e) Capacity Building (including workshops, training exercises, and sensitivity programs); 
+f) AI Testing, Evaluation, and Benchmarking; 
+g) Design and Development of AI Tools and Frameworks (including provenance tools, privacy-
+enhancing technologies, and machine unlearning tools, among others);
+
+h) AI Red-Teaming; 
+i) AI Metrology; 
+j) India-specific common terminologies, taxonomies and risk inventories including mitigation 
+stratgeies; 
+k) Models, and/or products to support and demonstrate pathways to enable safe and 
+trustworthy AI systems; 
+l) Data Collaboratives / Curation and maintenance of high-quality datasets 
+4.2 Institutional Capacity 
+Each partner organization will establish a dedicated IndiaAI Safety Cell. This specialized unit will 
+be responsible for executing the allocated mandate of the partner institution.
+
+Structure and Composition of the IndiaAI Safety Cell 
+a) The Cell shall be headed by a Lead, who must have demonstrated expertise in the relevant 
+areas highlighted in the partner institution’s proposal.  
+a. The Lead will be expected to devote at least 50% of their time to the activities of the 
+Safety Cell to ensure sustained leadership and technical oversight.
+
+b. The Lead must have over 10 years of experience in AI Safety research. 
+b) The Cell will be supported by a minimum of three full-time technical staff, including: 
+a. One technical resource who will be co-located with the IndiaAI Safety Institute at 
+IndiaAI, Ministry of Electronics and Information Technology (MeitY), New Delhi.
+
+b. Two technical resources stationed at the Partner Institute. 
+c. Each Technical Resource must have 5 years of demonstrated experience in design, 
+development and deployment of AI/ML products and solutions. 
+c) The Cell must also be supported by other part-time resources of the partner institution(s) 
+with the required qualification to implement the scope of the proposal.
+
+d) IndiaAI reserves the right to modify the minimum requirements for qualification of the 
+IndiaAI Safety Institute cell based on emerging challenges and opportunities within the AI 
+landscape. 
+Functional Mandate 
+a) The IndiaAI Safety Cell will be responsible for executing the tasks allocated to the partner 
+institution. 
+b) It will actively collaborate with other Safety Cells across partner organizations as well as 
+with the IndiaAI Safety Institute, ensuring:
+
+a. Consistency in evaluation approaches and methodologies. 
+b. Interoperability in tools, systems, and datasets. 
+c. Shared learning and collective progress through knowledge exchange, joint research, 
+and technical consultations.  
+d. Harmonization of implementation strategies and building collaborative synergies 
+across Cells. 
+5. Eligibility
+
+The Applicants should meet the following criteria to be eligible for evaluation under this EoI: 
+S. No.  
+ Prequalification Eligibility Criteria of Applicants Documents Required 
+5.1 
+The applicant must be a Legal Entity i.e., a company 
+incorporated in India under the Companies Act, 
+1956 or 2013
+
+OR 
+Registered as a partnership firm under the 
+Partnership Act, 1932 or a limited liability 
+partnership under the Limited Liability Partnership 
+Act, 2008 in India 
+OR 
+An entity registered under the Indian Trust Act, 
+1992 
+OR 
+a) Incorporation Certificate of 
+the company/Memorandum
+
+of Association (MoA) / Article 
+of Association (AoA) 
+b) PAN Card of the registered 
+legal entity 
+c) GST certificate of the 
+registered legal entity 
+d) 
+Certified 
+copy 
+of 
+registration 
+e) Partnership Deed; copy of 
+Statement 
+filed 
+in 
+the 
+Register of Firms disclosing 
+names, 
+addresses 
+and
+
+Registered under the Micro, Small and Medium 
+Enterprises Development Act, 2006 
+OR 
+Registered under Societies Registration Act, 1860 
+OR 
+A start-up should adhere to the extant norms as 
+notified by DPIIT  
+OR 
+Any Central/State government organization/agency 
+And  
+The entity must have at least 51% shareholding with
+
+Indian citizens or persons of Indian origin and the 
+entity should not be a subsidiary company of any 
+foreign corporation. 
+relevant details of all partners 
+of the Partnership Firm 
+f) 
+MSME 
+Certificate 
+(if 
+applicable) 
+g) 
+Any 
+other 
+supporting 
+document, 
+as
+
+may 
+be 
+required. 
+5.2 
+Educational Institutions: Organizations should have 
+the pre-existing Lab infrastructure (Lab having 
+Workstations, Servers, Project Staff etc.) for project 
+implementation along with relevant research 
+publication.  
+All Institutions falling in the following categories 
+would be eligible to participate: 
+a) Indian Institutes of Technologies (IITs)
+
+b) National Institutes of Technologies (NITs) 
+c) Indian Institutes of Information Technology 
+(IIITs) 
+d) Indian Institutes of Science Education and 
+Research (IISERs) 
+e) Central Universities/Deemed Universities 
+under Central/State Government 
+f) Colleges/Institutions
+
+of 
+National 
+Importance/Eminence 
+g) R&D 
+Organizations/Institutions 
+(Having 
+B.Tech /MTech/PhD courses) 
+Private 
+Universities/ 
+Private 
+Deemed 
+Universities/Private Colleges: Private Institutions 
+that 
+offer 
+undergraduate/postgraduate/diploma/certificate
+
+programs in Artificial Intelligence are eligible to 
+apply. Institutions should be approved by AICTE 
+and/or the Institution should be accredited by NAAC 
+(National Assessment and Accreditation Council of 
+UGC). 
+5.3 
+The participating institution must: 
+a) Have demonstrable expertise in the field of AI. 
+b) Not be insolvent, in receivership, bankrupt or 
+being wound up, not have its affairs administered by 
+Self-declaration duly signed 
+by the authorized signatory of 
+the 
+company 
+on 
+official 
+Letterhead.
+
+a court or a judicial officer, not have its business 
+activities suspended and must not be the subject of 
+legal proceedings for any of the aforesaid reasons. 
+c) (Including their affiliates, subsidiaries, or 
+contractors for any part of the contract): 
+a. Not stand declared ineligible/ blacklisted/
+
+banned/ 
+debarred 
+by 
+the 
+Procuring 
+Organisation 
+or 
+any 
+Ministry/ 
+Department/CPSE/State government from 
+participation in its procurement processes; 
+and/ or 
+b. Not be convicted (within three years 
+preceding the last date of EOI submission) or
+
+stand 
+declared 
+ineligible/ 
+suspended/ 
+blacklisted/ 
+banned/ 
+debarred 
+by 
+appropriate agencies of the Government of 
+India/CPSE/State 
+government 
+from 
+participation in procurement processes of all 
+its entities, for: 
+c. Offenses involving moral turpitude in 
+business dealings under the Prevention of 
+Corruption Act, 1988 or any other law; 
+and/or 
+d. Offenses under the Indian Penal Code or any 
+other law for causing any loss of life/ limbs/ 
+property or endangering Public Health
+
+during 
+the 
+execution 
+of 
+a 
+public 
+procurement contract and/ or 
+Suspected to be or of doubtful loyalty to the 
+Country or a National Security risk as determined by 
+appropriate agencies of the Government of India. 
+ 
+6. Process 
+IndiaAI is seeking responses from all eligible institutions (see eligibility) with relevant technical
+
+capabilities to join the IndiaAI Safety Institute network and contribute through research, tools, 
+data resources, frameworks, and technical expertise to augment the Institute’s capacity to 
+enable Safe and Trusted AI.  
+There may be continuing opportunities to participate and be onboarded through subsequent 
+EoIs, which will remain open to participants who are not selected initially.
+
+6.1 Submission Guidelines 
+a) Eligible organizations are to submit only one response detailing all focus areas for 
+collaboration.  Multiple responses by the same organization will lead to disqualification 
+from the application process. 
+b) Applicants must submit complete EOI response webforms by 11:59 PM IST on the 9th of
+
+June 2025 to be considered. Incomplete applications, applications submitted through other 
+means or applications submitted past the deadline will be rejected. 
+c) The total length of the Proforma should not exceed 20 pages. 
+d) Applicants are welcome to apply jointly with other partner organizations. Roles and 
+responsibilities of each institution must be detailed in the Proforma.
+
+e) Applicants should read and adhere to the Terms and Conditions governing the Grant-in-
+Aid. 
+f) Any information found to be inaccurate will lead to the disqualification of the application. 
+g) IndiaAI may contact applicants if there are further questions regarding the completed EoI 
+webforms.  
+6.2 Funding Guidelines
+
+Applicants are advised to adhere to the following guidelines when submitting budgetary 
+requirements for their projects: 
+a) Partner institutions are to support 50% of the total project cost estimated. 
+b) IndiaAI’s share of Funding will not be allocated for the purchase of hardware platforms like 
+workstations, servers, laptops, or computers.
+
+c) The allocation for 'Contingency’ should not exceed 5% of the total project budget. 
+d) The allocation for Overhead' should not exceed 10% of the total project budget. 
+e) The allocation for 'Travel' should not exceed 5% of the total project budget.
+
+f) A breakdown of the capital equipment and manpower allocation required for the proposed 
+project should be provided.  
+g) An indicative list of consumable items (if any) must be provided in the budget.  
+6.3 Terms and Conditions 
+Acquisition & Management of Assets 
+The grantee institution shall maintain an audited record in the form of a register for permanent 
+and semi-permanent assets acquired solely or mainly out of the IndiaAI grant. The applicable 
+procedures for procurement shall be followed for acquisition of assets.
+
+a) The assets referred to above will be the property of IndiaAI and should not, without prior 
+sanction of IndiaAI, be disposed of, encumbered or utilized for purposes other than those 
+for which the grant has been sanctioned. 
+b) The grantee institution shall send a list of assets referred above to IndiaAI at the end of
+
+each financial year as well as at the time of seeking further installments of the grant; should 
+the grantee institution at any time cease to exist, such assets shall revert to IndiaAI. 
+Utilization of grants and Audit 
+a) The grantee institution should maintain a separate audited account for the IndiaAI Safety 
+Institute Cell. If it is found expedient to keep a part or whole of the grant in a bank account
+
+earning interest, the interest, thus earned, should be reported to IndiaAI. The interest so 
+earned will be treated as a credit to the grantee institution to be adjusted towards future 
+installment of the grant; IndiaAI or its nominee/s will have the right of access to the books 
+and accounts of the grantee institution for which reasonable prior notice would be given.
+
+b) The grantee institution shall render an audited statement of accounts and utilization 
+certificate to IndiaAI, every year. The audited statement of accounts relating to grants given 
+during the financial year together with the comments of the auditor regarding the 
+observance of the conditions governing the grant should be forwarded to the IndiaAI within
+
+six months following the end of the relevant financial year. 
+c) The utilization of grant for the intended purposes will be looked into by the Auditor of 
+grantee institution according to the directives issued by the Government of India at the 
+instance of the Comptroller and Auditor General and the specific mention about it will be 
+made in the audit report. 
+d) The grantee institution shall render progress-cum-achievement reports at intervals of not 
+exceeding six months on the progress made on all aspects of the IndiaAI Safety Institute 
+Cell including expenditure incurred on various approved items during the period.
+
+e) The grantee institution will refund the unspent balance in addition to the interest, if any 
+accrued on the unspent balance in the total outlay of the IndiaAI Safety Institute Cell.  
+f) IndiaAI, an IBD under Digital India Corporation or MeitY will be at liberty to take appropriate
+
+action under the Rule 212(1) of GFR 2005 relating to utilization of funds in the specified 
+time and where such certificate is not received from the grantee within the prescribed time 
+(reference General Financial Rules 2005).  
+g) Grantee institution is not allowed to entrust the implementation of any project for which
+
+grants-in-aid is received to another institution and to divert the grant-in-aid received from 
+IndiaAI as assistance to the latter institution. 
+h) IndiaAI reserves the right to modify these terms and conditions governing the grant-in-
+aid from time to time reflecting the directions of the Government of India. 
+In case of any dispute on any other matter related to the project during the course of its
+
+implementation, the decision of the CEO, IndiaAI shall be final. 
+Inquiries 
+All inquiries regarding the IndiaAI Safety Institute Partners as well as this EoI must be submitted 
+in writing exclusively to the following email address: 
+fellow1.gpai-india@meity.gov.in. 
+6.4 Evaluation of EOIs
+
+IndiaAI will select partners who have submitted a complete EOI based on a variety of parameters 
+including the breadth and depth of their technical expertise, cost-effectiveness, prior experience 
+in collaborating with the Government on AI/emerging technology projects, AI research and 
+development experience, proposed areas of support, among others. 
+Each proposed area of support will be evaluated independently and comparatively against other 
+submissions within the same thematic area.
+
+IndiaAI reserves the right to apply additional criteria, as deemed appropriate, to ensure strategic 
+alignment with the IndiaAI Safety Institute’s mandate. 
+IndiaAI will establish an independent evaluation committee for evaluation of each completed and 
+eligible expression of interest. The decision of the IndiaAI will be final and binding. 
+6.5 Allocating Scope of Work to IndiaAI Safety Institute Partners
+
+The IndiaAI Safety Institute will allocate the scope of work to each of the selected partner 
+institutions along with defined timelines based on the expertise of the institution, areas of 
+support proposed within their respective EoI application, and detailed proposals for each 
+proposed area of support. The strength of the proposed IndiaAI Safety Institute cell will also be
+
+evaluated.   
+Each selected partner institution will be required to enter into an agreement with IndiaAI, which 
+will also include their agreed-upon mandate and scope of work.   
+The IndiaAI Safety Institute will retain the final authority in determining the allocation of work. It 
+also reserves the right to direct multiple partner institutions to collaborate jointly on specific
+
+workstreams, wherever such collaboration is deemed necessary or appropriate to fulfill the 
+objectives of the IndiaAI Safety Institute. 
+7. Timelines 
+# 
+Particulars 
+Date 
+a) 
+Date of EoI Publishing 
+9th May 2025 
+b) 
+Last Date for EoI Submission 
+9th June 2025 
+ 
+8. Intellectual Property Rights
+
+8.1 The work of the IndiaAI Safety Institute (‘Collective Outputs’) will be open and transparent, 
+provide a hub for interested parties to collaborate and co-create outputs. All Collective Outputs 
+of the IndiaAI Safety Institute shall be dedicated to the public domain to be freely used by all, 
+with the exception highlighted under 8.3.
+
+8.2 The Collective Outputs, including research and development results, reports, training 
+material, tools, and other outputs of IndiaAI Safety Institute will be published on the Institute 
+website & AIKosh and other communication channels of Government of India (including IndiaAI 
+Portal, MyGov, among others.), at the discretion of IndiaAI. All IndiaAI Safety Institute Partners
+
+affiliated with the Collective Output will be duly credited and their contribution attributed at the 
+discretion of IndiaAI. 
+8.3 IndiaAI may classify certain Collective Outputs as confidential and may restrict the publication 
+of such outputs, including any outputs that may raise national security concerns. All efforts will 
+be undertaken by IndiaAI to make all relevant partners aware of such classification prior to
+
+undertaking any work on the respective output.

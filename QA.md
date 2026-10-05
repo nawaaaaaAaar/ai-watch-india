@@ -53,3 +53,9 @@ The following controls and claims require new execution rather than being inferr
 - No observed runtime errors or private-content POSTs.
 
 Edition 02 execution passed 30 automated tests and 169 explicit development-browser assertions. Detailed results and boundaries are recorded in `EXPANSION_VERIFICATION.md`; production-preview checks are recorded separately there.
+
+## Edition 03 implementation inventory
+
+New execution covers the implementation ledger, ten evidence trails and related recommendation links; seven status-filter categories; search/combined/empty/reset states; ten brief downloads and the implementation bundle; study and search-log downloads; twelve additional snapshot downloads and hashes; four-family filters and mixed exports; notes and notebook round-trips; disabled automatic diff and absent invented correction controls; original DPDP/SGI correction cycles; desktop/mobile/theme and modal keyboard checks; download failure/retry; and no observed private-content POST or JavaScript page error.
+
+Executed results are recorded in `IMPLEMENTATION_VERIFICATION.md`. Earlier release reports remain historical records, not current totals.
