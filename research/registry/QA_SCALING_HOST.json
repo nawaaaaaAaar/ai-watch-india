@@ -1,0 +1,202 @@
+{
+  "release": "1.3.0",
+  "environment": "Deployed existing private preview",
+  "checks": [
+    {
+      "label": "hosted full registry",
+      "passed": true
+    },
+    {
+      "label": "hosted scaling cohort",
+      "passed": true
+    },
+    {
+      "label": "hosted fixed frame boundary",
+      "passed": true
+    },
+    {
+      "label": "hosted empty search",
+      "passed": true
+    },
+    {
+      "label": "hosted twelve fields sys-mulehunter",
+      "passed": true
+    },
+    {
+      "label": "hosted correct identity sys-mulehunter",
+      "passed": true
+    },
+    {
+      "label": "hosted twelve fields sys-poshan-frs",
+      "passed": true
+    },
+    {
+      "label": "hosted correct identity sys-poshan-frs",
+      "passed": true
+    },
+    {
+      "label": "hosted twelve fields sys-adalat-ai",
+      "passed": true
+    },
+    {
+      "label": "hosted correct identity sys-adalat-ai",
+      "passed": true
+    },
+    {
+      "label": "hosted twelve fields sys-cag-paras",
+      "passed": true
+    },
+    {
+      "label": "hosted correct identity sys-cag-paras",
+      "passed": true
+    },
+    {
+      "label": "hosted twelve fields sys-shiksha-copilot",
+      "passed": true
+    },
+    {
+      "label": "hosted correct identity sys-shiksha-copilot",
+      "passed": true
+    },
+    {
+      "label": "hosted twelve fields sys-nagpur-iitms",
+      "passed": true
+    },
+    {
+      "label": "hosted correct identity sys-nagpur-iitms",
+      "passed": true
+    },
+    {
+      "label": "hosted twelve fields sys-ompts",
+      "passed": true
+    },
+    {
+      "label": "hosted correct identity sys-ompts",
+      "passed": true
+    },
+    {
+      "label": "hosted twelve fields sys-bharatgen",
+      "passed": true
+    },
+    {
+      "label": "hosted correct identity sys-bharatgen",
+      "passed": true
+    },
+    {
+      "label": "hosted developer provenance",
+      "passed": true
+    },
+    {
+      "label": "hosted retrieval basis",
+      "passed": true
+    },
+    {
+      "label": "hosted actual download complete-registry.zip",
+      "passed": true
+    },
+    {
+      "label": "hosted actual download dataset.sqlite",
+      "passed": true
+    },
+    {
+      "label": "hosted actual download data.json",
+      "passed": true
+    },
+    {
+      "label": "hosted actual download SCALING_STUDY.md",
+      "passed": true
+    },
+    {
+      "label": "hosted actual download SCALING_QUOTE_AUDIT.json",
+      "passed": true
+    },
+    {
+      "label": "hosted actual download sources.csv",
+      "passed": true
+    },
+    {
+      "label": "hosted actual download evidence.csv",
+      "passed": true
+    },
+    {
+      "label": "hosted actual download controls.csv",
+      "passed": true
+    },
+    {
+      "label": "hosted actual download evidence_links.csv",
+      "passed": true
+    },
+    {
+      "label": "hosted actual download assertions.csv",
+      "passed": true
+    },
+    {
+      "label": "hosted actual download source_rechecks.csv",
+      "passed": true
+    }
+  ],
+  "passed": 33,
+  "downloads": [
+    {
+      "file": "complete-registry.zip",
+      "bytes": 1961066,
+      "sha256": "7b3c4c5af158f4570863f0db8f7f48b63008718e0f26151932340abbc069a26a"
+    },
+    {
+      "file": "dataset.sqlite",
+      "bytes": 1617920,
+      "sha256": "77d317a8065c16f7f38636cbd470957819f0948dd83bc0e31feb8e7e07c8b30d"
+    },
+    {
+      "file": "data.json",
+      "bytes": 1990596,
+      "sha256": "59b93500019144ce28db5228b5144a39f83bcd4448034c5de538b322bcea3a81"
+    },
+    {
+      "file": "SCALING_STUDY.md",
+      "bytes": 283461,
+      "sha256": "97ff82ca33f268f1434363d7239fdb9e9b1c25619b5ad5f8624f22e0ff08beb4"
+    },
+    {
+      "file": "SCALING_QUOTE_AUDIT.json",
+      "bytes": 47645,
+      "sha256": "d41fd36e4389279fd44efb099db26438e93e3acd41f3390ac81076346fb549d5"
+    },
+    {
+      "file": "sources.csv",
+      "bytes": 86520,
+      "sha256": "fcdb689b7fafb58ce25f4f8212610d6cfd6cde0435ef7bd1d4cd1a6beb90a0b3"
+    },
+    {
+      "file": "evidence.csv",
+      "bytes": 108660,
+      "sha256": "ca8cfd0a75307f093a782ee1792ab892c9a39bf279dc0e8645543d2e65365784"
+    },
+    {
+      "file": "controls.csv",
+      "bytes": 6114,
+      "sha256": "fb089fdbe243c50c5025cc696ff92defb8bc32b09db6f76c4d067671e2670017"
+    },
+    {
+      "file": "evidence_links.csv",
+      "bytes": 189448,
+      "sha256": "bff237523274c8c70c96525c3e83d63446a10ca9d513d16cf2f56b7164127970"
+    },
+    {
+      "file": "assertions.csv",
+      "bytes": 445085,
+      "sha256": "375125fe7a31f9915f5102bf8bc27660c0b6b3015c3a13146448f80a59742ae5"
+    },
+    {
+      "file": "source_rechecks.csv",
+      "bytes": 34387,
+      "sha256": "93aa62907c6d3f6d8de40a125df417046bc17de2d93f42ed0406d618f77c582e"
+    }
+  ],
+  "pageErrors": [],
+  "notes": [
+    "Actual hosted downloads byte-compared with final repository files; archive/SQLite/JSON hashes match clean-checkout rebuild.",
+    "Eight new dossier identities and twelve-field completeness, cohort/frame/search/unknown routes, developer provenance and cached retrieval basis inspected.",
+    "Desktop and 375px mobile layouts, cohort filtering and expanded evidence exercised. One harness assertion initially expected incorrect unknown-state wording; corrected after inspecting the actual state."
+  ]
+}

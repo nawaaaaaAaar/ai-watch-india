@@ -1,0 +1,1797 @@
+{
+  "release": "1.3.0",
+  "checks": [
+    {
+      "label": "all 144 records visible",
+      "passed": true
+    },
+    {
+      "label": "sys-aadhaar-face title",
+      "passed": true
+    },
+    {
+      "label": "sys-aadhaar-face all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-aarogya-ai title",
+      "passed": true
+    },
+    {
+      "label": "sys-aarogya-ai all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-abhigyan title",
+      "passed": true
+    },
+    {
+      "label": "sys-abhigyan all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-adalat-ai title",
+      "passed": true
+    },
+    {
+      "label": "sys-adalat-ai all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-aditi title",
+      "passed": true
+    },
+    {
+      "label": "sys-aditi all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-advait title",
+      "passed": true
+    },
+    {
+      "label": "sys-advait all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-adya title",
+      "passed": true
+    },
+    {
+      "label": "sys-adya all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-ahmedabad-atcs title",
+      "passed": true
+    },
+    {
+      "label": "sys-ahmedabad-atcs all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-ai-manthan title",
+      "passed": true
+    },
+    {
+      "label": "sys-ai-manthan all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-anuvadini title",
+      "passed": true
+    },
+    {
+      "label": "sys-anuvadini all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-apt title",
+      "passed": true
+    },
+    {
+      "label": "sys-apt all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-army-ims title",
+      "passed": true
+    },
+    {
+      "label": "sys-army-ims all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-army-storm title",
+      "passed": true
+    },
+    {
+      "label": "sys-army-storm all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-askdisha title",
+      "passed": true
+    },
+    {
+      "label": "sys-askdisha all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-assam-shiksha title",
+      "passed": true
+    },
+    {
+      "label": "sys-assam-shiksha all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-astr title",
+      "passed": true
+    },
+    {
+      "label": "sys-astr all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-astram title",
+      "passed": true
+    },
+    {
+      "label": "sys-astram all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-atman title",
+      "passed": true
+    },
+    {
+      "label": "sys-atman all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-awaas-ai title",
+      "passed": true
+    },
+    {
+      "label": "sys-awaas-ai all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-aware title",
+      "passed": true
+    },
+    {
+      "label": "sys-aware all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-ayushman-sarathi title",
+      "passed": true
+    },
+    {
+      "label": "sys-ayushman-sarathi all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-bel-lynx title",
+      "passed": true
+    },
+    {
+      "label": "sys-bel-lynx all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-beml-fatigue title",
+      "passed": true
+    },
+    {
+      "label": "sys-beml-fatigue all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-beml-mining title",
+      "passed": true
+    },
+    {
+      "label": "sys-beml-mining all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-bharat-vistaar title",
+      "passed": true
+    },
+    {
+      "label": "sys-bharat-vistaar all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-bharatgen title",
+      "passed": true
+    },
+    {
+      "label": "sys-bharatgen all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-bhashini title",
+      "passed": true
+    },
+    {
+      "label": "sys-bhashini all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-bhopal-itms title",
+      "passed": true
+    },
+    {
+      "label": "sys-bhopal-itms all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-bifa title",
+      "passed": true
+    },
+    {
+      "label": "sys-bifa all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-bmc-tb title",
+      "passed": true
+    },
+    {
+      "label": "sys-bmc-tb all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-bodh title",
+      "passed": true
+    },
+    {
+      "label": "sys-bodh all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-ca-gpt title",
+      "passed": true
+    },
+    {
+      "label": "sys-ca-gpt all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-cag-parakh title",
+      "passed": true
+    },
+    {
+      "label": "sys-cag-parakh all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-cag-paras title",
+      "passed": true
+    },
+    {
+      "label": "sys-cag-paras all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-catb title",
+      "passed": true
+    },
+    {
+      "label": "sys-catb all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-cctns2 title",
+      "passed": true
+    },
+    {
+      "label": "sys-cctns2 all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-cdot-trinetra title",
+      "passed": true
+    },
+    {
+      "label": "sys-cdot-trinetra all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-cropic title",
+      "passed": true
+    },
+    {
+      "label": "sys-cropic all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-crpi title",
+      "passed": true
+    },
+    {
+      "label": "sys-crpi all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-cwc-google title",
+      "passed": true
+    },
+    {
+      "label": "sys-cwc-google all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-cyberguard title",
+      "passed": true
+    },
+    {
+      "label": "sys-cyberguard all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-cyberwall title",
+      "passed": true
+    },
+    {
+      "label": "sys-cyberwall all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-delhi-itms title",
+      "passed": true
+    },
+    {
+      "label": "sys-delhi-itms all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-dharavi-didi title",
+      "passed": true
+    },
+    {
+      "label": "sys-dharavi-didi all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-digiyatra title",
+      "passed": true
+    },
+    {
+      "label": "sys-digiyatra all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-diksha title",
+      "passed": true
+    },
+    {
+      "label": "sys-diksha all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-divya-identity title",
+      "passed": true
+    },
+    {
+      "label": "sys-divya-identity all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-djb-twin title",
+      "passed": true
+    },
+    {
+      "label": "sys-djb-twin all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-dmrc-predictive title",
+      "passed": true
+    },
+    {
+      "label": "sys-dmrc-predictive all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-ejaadui title",
+      "passed": true
+    },
+    {
+      "label": "sys-ejaadui all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-epaarvai title",
+      "passed": true
+    },
+    {
+      "label": "sys-epaarvai all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-esanjeevani title",
+      "passed": true
+    },
+    {
+      "label": "sys-esanjeevani all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-fest title",
+      "passed": true
+    },
+    {
+      "label": "sys-fest all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-fmr-fir title",
+      "passed": true
+    },
+    {
+      "label": "sys-fmr-fir all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-fri title",
+      "passed": true
+    },
+    {
+      "label": "sys-fri all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-goa-online-ai title",
+      "passed": true
+    },
+    {
+      "label": "sys-goa-online-ai all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-goa-tourism-ai title",
+      "passed": true
+    },
+    {
+      "label": "sys-goa-tourism-ai all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-grse-anvesha title",
+      "passed": true
+    },
+    {
+      "label": "sys-grse-anvesha all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-grse-jigyasa title",
+      "passed": true
+    },
+    {
+      "label": "sys-grse-jigyasa all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-gujarat-vsk-ai title",
+      "passed": true
+    },
+    {
+      "label": "sys-gujarat-vsk-ai all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-hyderabad-itms title",
+      "passed": true
+    },
+    {
+      "label": "sys-hyderabad-itms all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-igms title",
+      "passed": true
+    },
+    {
+      "label": "sys-igms all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-imd-monsoon-ai title",
+      "passed": true
+    },
+    {
+      "label": "sys-imd-monsoon-ai all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-infomerge title",
+      "passed": true
+    },
+    {
+      "label": "sys-infomerge all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-insight title",
+      "passed": true
+    },
+    {
+      "label": "sys-insight all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-iob-buddy title",
+      "passed": true
+    },
+    {
+      "label": "sys-iob-buddy all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-ioncology title",
+      "passed": true
+    },
+    {
+      "label": "sys-ioncology all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-iraste title",
+      "passed": true
+    },
+    {
+      "label": "sys-iraste all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-itms title",
+      "passed": true
+    },
+    {
+      "label": "sys-itms all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-jeevan-pramaan title",
+      "passed": true
+    },
+    {
+      "label": "sys-jeevan-pramaan all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-kaaval-ai title",
+      "passed": true
+    },
+    {
+      "label": "sys-kaaval-ai all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-karnataka-tutor title",
+      "passed": true
+    },
+    {
+      "label": "sys-karnataka-tutor all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-kerala-court-cms title",
+      "passed": true
+    },
+    {
+      "label": "sys-kerala-court-cms all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-khushi title",
+      "passed": true
+    },
+    {
+      "label": "sys-khushi all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-kisan-emitra title",
+      "passed": true
+    },
+    {
+      "label": "sys-kisan-emitra all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-kisan-sarathi title",
+      "passed": true
+    },
+    {
+      "label": "sys-kisan-sarathi all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-ksh title",
+      "passed": true
+    },
+    {
+      "label": "sys-ksh all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-madhunetrai title",
+      "passed": true
+    },
+    {
+      "label": "sys-madhunetrai all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-madukkarai-elephant title",
+      "passed": true
+    },
+    {
+      "label": "sys-madukkarai-elephant all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-maha-ai title",
+      "passed": true
+    },
+    {
+      "label": "sys-maha-ai all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-maha-metaverse title",
+      "passed": true
+    },
+    {
+      "label": "sys-maha-metaverse all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-mahacrimeos title",
+      "passed": true
+    },
+    {
+      "label": "sys-mahacrimeos all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-mahamuni title",
+      "passed": true
+    },
+    {
+      "label": "sys-mahamuni all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-mahavistaar title",
+      "passed": true
+    },
+    {
+      "label": "sys-mahavistaar all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-mana-mitra title",
+      "passed": true
+    },
+    {
+      "label": "sys-mana-mitra all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-mausamgpt title",
+      "passed": true
+    },
+    {
+      "label": "sys-mausamgpt all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-mds title",
+      "passed": true
+    },
+    {
+      "label": "sys-mds all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-mulehunter title",
+      "passed": true
+    },
+    {
+      "label": "sys-mulehunter all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-muntra title",
+      "passed": true
+    },
+    {
+      "label": "sys-muntra all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-mvis title",
+      "passed": true
+    },
+    {
+      "label": "sys-mvis all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-nagpur-iitms title",
+      "passed": true
+    },
+    {
+      "label": "sys-nagpur-iitms all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-nalsa-vani title",
+      "passed": true
+    },
+    {
+      "label": "sys-nalsa-vani all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-navy-afib title",
+      "passed": true
+    },
+    {
+      "label": "sys-navy-afib all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-ncs-ai title",
+      "passed": true
+    },
+    {
+      "label": "sys-ncs-ai all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-nhai-das title",
+      "passed": true
+    },
+    {
+      "label": "sys-nhai-das all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-nic-ivaani title",
+      "passed": true
+    },
+    {
+      "label": "sys-nic-ivaani all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-nic-taani title",
+      "passed": true
+    },
+    {
+      "label": "sys-nic-taani all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-nic-vani title",
+      "passed": true
+    },
+    {
+      "label": "sys-nic-vani all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-niti-ai-saarthi title",
+      "passed": true
+    },
+    {
+      "label": "sys-niti-ai-saarthi all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-npss title",
+      "passed": true
+    },
+    {
+      "label": "sys-npss all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-nuwr-analysis title",
+      "passed": true
+    },
+    {
+      "label": "sys-nuwr-analysis all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-ompts title",
+      "passed": true
+    },
+    {
+      "label": "sys-ompts all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-paddymitra title",
+      "passed": true
+    },
+    {
+      "label": "sys-paddymitra all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-pais title",
+      "passed": true
+    },
+    {
+      "label": "sys-pais all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-pihu title",
+      "passed": true
+    },
+    {
+      "label": "sys-pihu all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-plcs title",
+      "passed": true
+    },
+    {
+      "label": "sys-plcs all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-poshan-frs title",
+      "passed": true
+    },
+    {
+      "label": "sys-poshan-frs all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-pune-traffic-ai title",
+      "passed": true
+    },
+    {
+      "label": "sys-pune-traffic-ai all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-raidar title",
+      "passed": true
+    },
+    {
+      "label": "sys-raidar all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-rail-ids title",
+      "passed": true
+    },
+    {
+      "label": "sys-rail-ids all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-rail-vss title",
+      "passed": true
+    },
+    {
+      "label": "sys-rail-vss all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-railmadad title",
+      "passed": true
+    },
+    {
+      "label": "sys-railmadad all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-raj-silicosis title",
+      "passed": true
+    },
+    {
+      "label": "sys-raj-silicosis all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-rajgpt title",
+      "passed": true
+    },
+    {
+      "label": "sys-rajgpt all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-saagu-baagu title",
+      "passed": true
+    },
+    {
+      "label": "sys-saagu-baagu all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-safe-kerala title",
+      "passed": true
+    },
+    {
+      "label": "sys-safe-kerala all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-samagra-ai title",
+      "passed": true
+    },
+    {
+      "label": "sys-samagra-ai all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-sanjay title",
+      "passed": true
+    },
+    {
+      "label": "sys-sanjay all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-sansad-chatbot title",
+      "passed": true
+    },
+    {
+      "label": "sys-sansad-chatbot all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-sasya title",
+      "passed": true
+    },
+    {
+      "label": "sys-sasya all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-sathee-ai title",
+      "passed": true
+    },
+    {
+      "label": "sys-sathee-ai all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-seeker title",
+      "passed": true
+    },
+    {
+      "label": "sys-seeker all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-seva title",
+      "passed": true
+    },
+    {
+      "label": "sys-seva all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-shiksha-copilot title",
+      "passed": true
+    },
+    {
+      "label": "sys-shiksha-copilot all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-sia title",
+      "passed": true
+    },
+    {
+      "label": "sys-sia all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-silent-sentry title",
+      "passed": true
+    },
+    {
+      "label": "sys-silent-sentry all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-simba title",
+      "passed": true
+    },
+    {
+      "label": "sys-simba all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-smart-annavani title",
+      "passed": true
+    },
+    {
+      "label": "sys-smart-annavani all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-sudarsan title",
+      "passed": true
+    },
+    {
+      "label": "sys-sudarsan all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-supace title",
+      "passed": true
+    },
+    {
+      "label": "sys-supace all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-susahyak title",
+      "passed": true
+    },
+    {
+      "label": "sys-susahyak all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-suvas title",
+      "passed": true
+    },
+    {
+      "label": "sys-suvas all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-swayam-plus-ai title",
+      "passed": true
+    },
+    {
+      "label": "sys-swayam-plus-ai all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-tejasvi title",
+      "passed": true
+    },
+    {
+      "label": "sys-tejasvi all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-teres title",
+      "passed": true
+    },
+    {
+      "label": "sys-teres all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-tn-police-frs title",
+      "passed": true
+    },
+    {
+      "label": "sys-tn-police-frs all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-trailguard-wb title",
+      "passed": true
+    },
+    {
+      "label": "sys-trailguard-wb all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-tscop title",
+      "passed": true
+    },
+    {
+      "label": "sys-tscop all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-uday title",
+      "passed": true
+    },
+    {
+      "label": "sys-uday all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-universe title",
+      "passed": true
+    },
+    {
+      "label": "sys-universe all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-upsc title",
+      "passed": true
+    },
+    {
+      "label": "sys-upsc all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-uzhavan-pest title",
+      "passed": true
+    },
+    {
+      "label": "sys-uzhavan-pest all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-vlog title",
+      "passed": true
+    },
+    {
+      "label": "sys-vlog all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "sys-yaksh title",
+      "passed": true
+    },
+    {
+      "label": "sys-yaksh all twelve fields",
+      "passed": true
+    },
+    {
+      "label": "cohort 1.0.0",
+      "passed": true
+    },
+    {
+      "label": "cohort 1.1.0",
+      "passed": true
+    },
+    {
+      "label": "cohort 1.2.0",
+      "passed": true
+    },
+    {
+      "label": "cohort 1.3.0",
+      "passed": true
+    },
+    {
+      "label": "new cohort outside fixed frame",
+      "passed": true
+    },
+    {
+      "label": "cohort/frame empty combination",
+      "passed": true
+    },
+    {
+      "label": "outside frame 118",
+      "passed": true
+    },
+    {
+      "label": "registry-filter-ai_class",
+      "passed": true
+    },
+    {
+      "label": "registry-filter-sector",
+      "passed": true
+    },
+    {
+      "label": "registry-filter-stage",
+      "passed": true
+    },
+    {
+      "label": "date sort null last",
+      "passed": true
+    },
+    {
+      "label": "empty query",
+      "passed": true
+    },
+    {
+      "label": "empty reset",
+      "passed": true
+    },
+    {
+      "label": "72-row cohort CSV actual download",
+      "passed": true
+    },
+    {
+      "label": "cohort/kind export columns",
+      "passed": true
+    },
+    {
+      "label": "sys-mulehunter evidence expands",
+      "passed": true
+    },
+    {
+      "label": "sys-mulehunter retrieval basis visible",
+      "passed": true
+    },
+    {
+      "label": "sys-mulehunter external source",
+      "passed": true
+    },
+    {
+      "label": "sys-poshan-frs evidence expands",
+      "passed": true
+    },
+    {
+      "label": "sys-poshan-frs retrieval basis visible",
+      "passed": true
+    },
+    {
+      "label": "sys-poshan-frs external source",
+      "passed": true
+    },
+    {
+      "label": "sys-adalat-ai evidence expands",
+      "passed": true
+    },
+    {
+      "label": "sys-adalat-ai retrieval basis visible",
+      "passed": true
+    },
+    {
+      "label": "sys-adalat-ai external source",
+      "passed": true
+    },
+    {
+      "label": "sys-cag-paras evidence expands",
+      "passed": true
+    },
+    {
+      "label": "sys-cag-paras retrieval basis visible",
+      "passed": true
+    },
+    {
+      "label": "sys-cag-paras external source",
+      "passed": true
+    },
+    {
+      "label": "sys-shiksha-copilot evidence expands",
+      "passed": true
+    },
+    {
+      "label": "sys-shiksha-copilot retrieval basis visible",
+      "passed": true
+    },
+    {
+      "label": "sys-shiksha-copilot external source",
+      "passed": true
+    },
+    {
+      "label": "sys-nagpur-iitms evidence expands",
+      "passed": true
+    },
+    {
+      "label": "sys-nagpur-iitms retrieval basis visible",
+      "passed": true
+    },
+    {
+      "label": "sys-nagpur-iitms external source",
+      "passed": true
+    },
+    {
+      "label": "sys-goa-online-ai evidence expands",
+      "passed": true
+    },
+    {
+      "label": "sys-goa-online-ai retrieval basis visible",
+      "passed": true
+    },
+    {
+      "label": "sys-goa-online-ai external source",
+      "passed": true
+    },
+    {
+      "label": "sys-bharatgen evidence expands",
+      "passed": true
+    },
+    {
+      "label": "sys-bharatgen retrieval basis visible",
+      "passed": true
+    },
+    {
+      "label": "sys-bharatgen external source",
+      "passed": true
+    },
+    {
+      "label": "sys-ompts evidence expands",
+      "passed": true
+    },
+    {
+      "label": "sys-ompts retrieval basis visible",
+      "passed": true
+    },
+    {
+      "label": "sys-ompts external source",
+      "passed": true
+    },
+    {
+      "label": "download bytes complete-registry.zip",
+      "passed": true
+    },
+    {
+      "label": "download bytes data.json",
+      "passed": true
+    },
+    {
+      "label": "download bytes dataset.sqlite",
+      "passed": true
+    },
+    {
+      "label": "download bytes SCALING_STUDY.md",
+      "passed": true
+    },
+    {
+      "label": "download bytes SCALING_SEARCH.json",
+      "passed": true
+    },
+    {
+      "label": "download bytes SCALING_RETRIEVAL.json",
+      "passed": true
+    },
+    {
+      "label": "download bytes SCALING_QUOTE_AUDIT.json",
+      "passed": true
+    },
+    {
+      "label": "download bytes BASELINE_1_2_0.json",
+      "passed": true
+    },
+    {
+      "label": "download bytes PROTOCOL.md",
+      "passed": true
+    },
+    {
+      "label": "download bytes CODEBOOK.md",
+      "passed": true
+    },
+    {
+      "label": "download bytes systems.csv",
+      "passed": true
+    },
+    {
+      "label": "download bytes institutions.csv",
+      "passed": true
+    },
+    {
+      "label": "download bytes system_institutions.csv",
+      "passed": true
+    },
+    {
+      "label": "download bytes system_links.csv",
+      "passed": true
+    },
+    {
+      "label": "download bytes deployments.csv",
+      "passed": true
+    },
+    {
+      "label": "download bytes procurements.csv",
+      "passed": true
+    },
+    {
+      "label": "download bytes evaluations.csv",
+      "passed": true
+    },
+    {
+      "label": "download bytes metrics.csv",
+      "passed": true
+    },
+    {
+      "label": "download bytes controls.csv",
+      "passed": true
+    },
+    {
+      "label": "download bytes policies.csv",
+      "passed": true
+    },
+    {
+      "label": "download bytes system_policy_links.csv",
+      "passed": true
+    },
+    {
+      "label": "download bytes assertions.csv",
+      "passed": true
+    },
+    {
+      "label": "download bytes evidence.csv",
+      "passed": true
+    },
+    {
+      "label": "download bytes evidence_links.csv",
+      "passed": true
+    },
+    {
+      "label": "download bytes sources.csv",
+      "passed": true
+    },
+    {
+      "label": "download bytes issues.csv",
+      "passed": true
+    },
+    {
+      "label": "download bytes candidate_decisions.csv",
+      "passed": true
+    },
+    {
+      "label": "download bytes institution_coverage.csv",
+      "passed": true
+    },
+    {
+      "label": "download bytes coverage_systems.csv",
+      "passed": true
+    },
+    {
+      "label": "keyboard download bytes source_rechecks.csv",
+      "passed": true
+    },
+    {
+      "label": "keyboard download bytes assertion_rechecks.csv",
+      "passed": true
+    },
+    {
+      "label": "keyboard download bytes manifest.json",
+      "passed": true
+    },
+    {
+      "label": "keyboard download bytes manifest.sha256",
+      "passed": true
+    },
+    {
+      "label": "keyboard download bytes analysis.json",
+      "passed": true
+    },
+    {
+      "label": "keyboard download bytes schema.json",
+      "passed": true
+    },
+    {
+      "label": "keyboard download bytes queries.sql",
+      "passed": true
+    },
+    {
+      "label": "download bytes dossiers/sys-adalat-ai.md",
+      "passed": true
+    },
+    {
+      "label": "download bytes snapshots/grow-sr-017.txt",
+      "passed": true
+    },
+    {
+      "label": "unknown ID state",
+      "passed": true
+    },
+    {
+      "label": "HTML fallback rejected",
+      "passed": true
+    },
+    {
+      "label": "data failure retry exposed",
+      "passed": true
+    },
+    {
+      "label": "retry restored dataset",
+      "passed": true
+    },
+    {
+      "label": "supporting-policy notebook selection preserved",
+      "passed": true
+    },
+    {
+      "label": "actual supporting-policy notebook.json",
+      "passed": true
+    },
+    {
+      "label": "actual supporting-policy brief.md",
+      "passed": true
+    },
+    {
+      "label": "actual supporting-policy brief.csv",
+      "passed": true
+    },
+    {
+      "label": "desktop page fits",
+      "passed": true
+    },
+    {
+      "label": "desktop dark toggle",
+      "passed": true
+    },
+    {
+      "label": "long desktop dossier fits",
+      "passed": true
+    },
+    {
+      "label": "mobile explorer fits",
+      "passed": true
+    },
+    {
+      "label": "mobile cohort",
+      "passed": true
+    },
+    {
+      "label": "mobile narrative search",
+      "passed": true
+    },
+    {
+      "label": "mobile cohort search",
+      "passed": true
+    },
+    {
+      "label": "mobile row to dossier",
+      "passed": true
+    },
+    {
+      "label": "mobile expanded dossier fits",
+      "passed": true
+    },
+    {
+      "label": "mobile data room fits",
+      "passed": true
+    },
+    {
+      "label": "mobile dark toggle",
+      "passed": true
+    },
+    {
+      "label": "mobile light return",
+      "passed": true
+    },
+    {
+      "label": "keyboard download bytes complete-registry.zip",
+      "passed": true
+    },
+    {
+      "label": "keyboard download bytes data.json",
+      "passed": true
+    },
+    {
+      "label": "keyboard download bytes dataset.sqlite",
+      "passed": true
+    },
+    {
+      "label": "keyboard download bytes SCALING_STUDY.md",
+      "passed": true
+    },
+    {
+      "label": "keyboard download bytes SCALING_QUOTE_AUDIT.json",
+      "passed": true
+    },
+    {
+      "label": "keyboard download bytes systems.csv",
+      "passed": true
+    },
+    {
+      "label": "keyboard download bytes institutions.csv",
+      "passed": true
+    },
+    {
+      "label": "keyboard download bytes system_institutions.csv",
+      "passed": true
+    },
+    {
+      "label": "keyboard download bytes system_links.csv",
+      "passed": true
+    }
+  ],
+  "passed": 398,
+  "downloads": [
+    {
+      "file": "complete-registry.zip",
+      "bytes": 1961066,
+      "sha256": "7b3c4c5af158f4570863f0db8f7f48b63008718e0f26151932340abbc069a26a"
+    },
+    {
+      "file": "data.json",
+      "bytes": 1990596,
+      "sha256": "59b93500019144ce28db5228b5144a39f83bcd4448034c5de538b322bcea3a81"
+    },
+    {
+      "file": "dataset.sqlite",
+      "bytes": 1617920,
+      "sha256": "77d317a8065c16f7f38636cbd470957819f0948dd83bc0e31feb8e7e07c8b30d"
+    },
+    {
+      "file": "SCALING_STUDY.md",
+      "bytes": 283461,
+      "sha256": "97ff82ca33f268f1434363d7239fdb9e9b1c25619b5ad5f8624f22e0ff08beb4"
+    },
+    {
+      "file": "SCALING_SEARCH.json",
+      "bytes": 858567,
+      "sha256": "4c78eb49a5867f82e0a7b72ace9244995f7eb637e3d47dfc1a752e6288efd816"
+    },
+    {
+      "file": "SCALING_RETRIEVAL.json",
+      "bytes": 128929,
+      "sha256": "a2b419a41380fc458fc4aa0f9a7a1c3de0dc73f926675740553913848b31e33c"
+    },
+    {
+      "file": "SCALING_QUOTE_AUDIT.json",
+      "bytes": 47645,
+      "sha256": "d41fd36e4389279fd44efb099db26438e93e3acd41f3390ac81076346fb549d5"
+    },
+    {
+      "file": "BASELINE_1_2_0.json",
+      "bytes": 1232000,
+      "sha256": "db69aafbc8ec2d9fe5610312146982bb6d6a663924d8e59a48c6bc97f78edae1"
+    },
+    {
+      "file": "PROTOCOL.md",
+      "bytes": 15593,
+      "sha256": "e955d0b72e6fe7ed884ceee95a98e8b5bb6f2bdc29914a12854943c9eb1d3a6c"
+    },
+    {
+      "file": "CODEBOOK.md",
+      "bytes": 11228,
+      "sha256": "407f8d090a4aef2dd045f31f1e2f59970bfe2d2ec32049f28f130dc656a6ed7c"
+    },
+    {
+      "file": "systems.csv",
+      "bytes": 90663,
+      "sha256": "af64c17dfbfb4bc06027d2383fa6a25806a7046e3963a1b613be529a3dc911ae"
+    },
+    {
+      "file": "institutions.csv",
+      "bytes": 17565,
+      "sha256": "005185d4f5c3b77710d5702973d7040da73c64c8734d06f3bd459323600494e9"
+    },
+    {
+      "file": "system_institutions.csv",
+      "bytes": 22066,
+      "sha256": "ecff853bed4b8333ba3ba31490d3114e03aa365b23123b6987d84ebaac8782a0"
+    },
+    {
+      "file": "system_links.csv",
+      "bytes": 1005,
+      "sha256": "9ab70c23ad4d43fa3ccffcc2af73e7f508ed36a858106ebb12076dd72a4e62f3"
+    },
+    {
+      "file": "deployments.csv",
+      "bytes": 41074,
+      "sha256": "c80286e41b1b48f9f25667a9c24e327c07dc434aefadd886af940cf49e9fe151"
+    },
+    {
+      "file": "procurements.csv",
+      "bytes": 1903,
+      "sha256": "2cb38038b593c91eb1a30b7c7c7dd8f0d68ce83e1ae50686d4691105e652adfd"
+    },
+    {
+      "file": "evaluations.csv",
+      "bytes": 3065,
+      "sha256": "a4159b38718529561f8fb44e9a29eb5f5a074aa1568a5d6feaaef6ba87e3337d"
+    },
+    {
+      "file": "metrics.csv",
+      "bytes": 5672,
+      "sha256": "9ec560ee5b230b10f00739e3bc5eea3f97684864be873709f300a6c8f906714b"
+    },
+    {
+      "file": "controls.csv",
+      "bytes": 5838,
+      "sha256": "834033f643e05980ef3855003f8dcfeadf98ea2a8cb3e8a6fb72c9b31c8e946f"
+    },
+    {
+      "file": "policies.csv",
+      "bytes": 526,
+      "sha256": "d2404936dc338f25bcc91c0fe4dadf5c16aa1936019175396528dca8fd2b2fc8"
+    },
+    {
+      "file": "system_policy_links.csv",
+      "bytes": 738,
+      "sha256": "d08d4340e7ead56278781d33db69e5eee1bfc47bd47d81358eee731ce4846885"
+    },
+    {
+      "file": "assertions.csv",
+      "bytes": 445009,
+      "sha256": "cfdf3f09477452cf8b54cc1dc4f2f0508beef2f423d083fda0a174543ff6e9c1"
+    },
+    {
+      "file": "evidence.csv",
+      "bytes": 108288,
+      "sha256": "f1f2446b0eb8e8ec87903a8963a862645c991b2b25232e0d7020c02bc9d27c9a"
+    },
+    {
+      "file": "evidence_links.csv",
+      "bytes": 188613,
+      "sha256": "d2f476a06294f0be99210bfacc6165d459e8e0a7498ba240728e6cdced2c70b4"
+    },
+    {
+      "file": "sources.csv",
+      "bytes": 86447,
+      "sha256": "83a99380747f04e96ad45982cfee46fa2d6fde99209e7bb60033b003e9b437e3"
+    },
+    {
+      "file": "issues.csv",
+      "bytes": 8251,
+      "sha256": "6cccd0d10e12546e0f99b9a80bcc654caaae4cf54f516998271d64c56e703e8a"
+    },
+    {
+      "file": "candidate_decisions.csv",
+      "bytes": 37693,
+      "sha256": "3095172ba062b4b1ffd71588d5a846426c4c2e1ecb922d797d3659f9129d53a8"
+    },
+    {
+      "file": "institution_coverage.csv",
+      "bytes": 2141,
+      "sha256": "488d34ef69447f40193d1034ec42d0eccdb914f487376230a50fbc5413a8f96f"
+    },
+    {
+      "file": "coverage_systems.csv",
+      "bytes": 3290,
+      "sha256": "941908d6dce3abc27dde0df860ef40acaa053a0a6e6cc840ae7d303603057c4c"
+    },
+    {
+      "file": "source_rechecks.csv",
+      "bytes": 34387,
+      "sha256": "93aa62907c6d3f6d8de40a125df417046bc17de2d93f42ed0406d618f77c582e"
+    },
+    {
+      "file": "assertion_rechecks.csv",
+      "bytes": 43468,
+      "sha256": "9053d03a594914eb15f252a55304db985ea463d359a76a9c63a49d4d723fb828"
+    },
+    {
+      "file": "manifest.json",
+      "bytes": 62726,
+      "sha256": "dfd85550feb443a4397ff8e1393d5c2295c27953c5ee68f986bb8684d179657b"
+    },
+    {
+      "file": "manifest.sha256",
+      "bytes": 80,
+      "sha256": "6ad6dcdbe567bcc62f1506935ca9b8bdc91ce82d8549feda4f8c889b162f8094"
+    },
+    {
+      "file": "analysis.json",
+      "bytes": 3219,
+      "sha256": "8888b202db1b9efc2df9ae6d7a1d68bae9daf9a0250695e18664f1f73a8564fc"
+    },
+    {
+      "file": "schema.json",
+      "bytes": 3932,
+      "sha256": "2a12db1093a6b45cd1de3f5fe3a5637c519157950dadc652efe67cb05667e9cf"
+    },
+    {
+      "file": "queries.sql",
+      "bytes": 2952,
+      "sha256": "1162b90b161cd1daf61c37024e936a32519d48aae8787a9cc29a38030ed5cc0d"
+    },
+    {
+      "file": "dossiers/sys-adalat-ai.md",
+      "bytes": 9244,
+      "sha256": "7e89b76b3f825bd33c14ef5abe1a4e399a2d811c08b4fab2327053abf6e690b0"
+    },
+    {
+      "file": "snapshots/grow-sr-017.txt",
+      "bytes": 853,
+      "sha256": "c235316368f8b9d29b232f3b066a4e2293016e0154270527671e2e585b94f807"
+    }
+  ],
+  "pageErrors": [],
+  "notes": [
+    "All 144 dossier routes checked for title and twelve accountability fields; cohort/frame/search/sort/empty/failure/retry/notebook workflows exercised.",
+    "All 21 linked-table CSVs exercised on the release candidate. Final archive, SQLite, JSON, study, quote audit, manifest and systems/institutions/relationships were downloaded again after metadata/control edits. Changed final tables were also verified in hosted QA.",
+    "Headless mouse batch downloads and a later keyboard batch intermittently stopped emitting download events; successful individual/keyboard retries and hosted downloads were byte-compared. Root cause is not established; not silently claimed as all-success first-pass.",
+    "Desktop/mobile light/dark, expanded evidence, scoped scrolling and no page-wide overflow checked."
+  ]
+}
