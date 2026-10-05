@@ -1,0 +1,10 @@
+Wadhwani AI eSanjeevani developer submission
+Original: https://solve.mit.edu/solutions/73043
+Document date: Undated/uncertain
+Source type: Developer account
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+The SIPF uses a rule-based logical workflow to enable the accurate collection of chief complaints by engaging patients with relevant questions.
+
+We also collaborate closely with C-DAC, the technology service provider for the eSanjeevani platform, to ensure that our code is easy to integrate with the existing platform and meets the high standards required for deployment in public healthcare.

@@ -1,0 +1,10 @@
+SamagraX Kisan e-Mitra developer portfolio
+Original: https://samagrax.samagragovernance.in/agriculture/
+Document date: Undated/uncertain
+Source type: Developer account
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Integrated with BHASHINI, Kisan e-Mitra allows farmers to speak or type in their queries in over 11 languages
+
+A pan-India informational chatbot that responds to farmer queries and offers transparency around the application status, eligibility, and other information related to the PM-Kisan scheme.

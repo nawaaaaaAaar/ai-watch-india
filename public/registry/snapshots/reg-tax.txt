@@ -1,0 +1,12 @@
+Parliamentary explanation of ADVAIT and tax analytics
+Original: https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1911271
+Document date: 2023-03-27
+Source type: Government parliamentary explanation
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+The project uses capabilities of big data and Artificial Intelligence as well.
+
+The Project ADVAIT (Advanced Analytics in Indirect Taxes) has been rolled out in 2021, as a flagship analytics project for Indirect Taxes, by Central Board for Indirect Taxes and Customs (CBIC).
+
+aid and assist officers in their day-to-day operations that range from reporting and ensuring tax compliance to detecting tax evasion.

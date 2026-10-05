@@ -1,0 +1,12 @@
+BMC–Qure.ai TB screening pilot reporting
+Original: https://indiaai.gov.in/news/this-ai-software-detects-tuberculosis-in-asymptomatic-patients-in-the-early-stage
+Document date: 2023-03-29
+Source type: Government-hosted news article
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+when around 9,702 were asked to return for the clinical evaluation and sputum collection to confirm the diagnosis, only 2,376 turned up, among which 704 turned out to have confirmed TB diagnosis.
+
+Almost 57,781 patients have undergone the screening of AI-powered x-ray scanners at civic hospitals as a part of the project. 10,225 people were marked as having presumptive TB.
+
+around 1 lakh people underwent AI-powered x-ray scans for diagnosing TB at nine BMC hospitals in 2021 and 2022. BMC, along with qure.ai, a digital start-up company, initiated this study.

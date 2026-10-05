@@ -1,0 +1,8 @@
+ICMR local telemedicine research brief
+Original: https://nihrjodhpur.icmr.org.in/uploads/policybriefs/1782386587_1.PolicyBrief_Telemedicine.pdf
+Document date: Undated/uncertain
+Source type: Government research brief
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+the AI-driven Clinical Decision Support System (AI-CDSS), which has achieved 90% validation accuracy using 4,401 locally sourced patient records, should be integrated into the eSanjeevani platform

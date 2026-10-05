@@ -1,0 +1,8 @@
+Wadhwani AI healthcare programme page
+Original: https://www.wadhwaniai.org/impact/healthcare/
+Document date: Undated/uncertain
+Source type: Developer account
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+CDSS structures telemedicine patient data via eSanjeevani, suggesting diagnoses and treatments in real time. Integrated since March 2023, it supports 350,000 daily consultations across 31 conditions.

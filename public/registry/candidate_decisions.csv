@@ -1,0 +1,27 @@
+candidate_id,name,decision,reason,system_id
+candidate-1475a931c03a1f8d,IndiaAI Impact Casebooks,Related resource,Sectoral India/global casebooks already exist; not proof of exclusive dataset novelty.,
+candidate-3c099ed05fbbcf3c,Digi Yatra RTI request,Context only,"Questions requested are not an authority reply, supplier award or operational evidence.",
+candidate-76b37d3dd2ce1443,Nigeria qXR clinical study,Excluded as Indian deployment validation,Different country and setting; cannot validate the BMC pilot.,
+candidate-798bb7a54afd8049,AIKosh,Context only,Training-data repository is not coded as a public-service deployment unit.,
+candidate-7f6c538fdb884044,BharatGen,Not included in this seed,Model/programme announcement alone was not converted into a named institution/service deployment.,
+candidate-c1250331be9aceff,Generic elephant-detection IoT prototype,Excluded as Railway IDS validation,Reviewed deployment identity was not established.,
+candidate-d6583065ac14cc63,NITI frontier-tech Qure.ai submission,Context only,Page explicitly disclaims endorsement/certification/validation; not an independent BMC evaluation.,
+candidate-d80388e98c44aae7,DCI Social Protection AI Hub Kisan e-Mitra entry,Related resource,"Existing structured use-case documentation; independent primary-source coding here, not an exclusive discovery.",
+sys-advait,ADVAIT,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-advait
+sys-askdisha,AskDISHA 2.0,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-askdisha
+sys-bharat-vistaar,Bharat-VISTAAR,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-bharat-vistaar
+sys-bhashini,BHASHINI language-AI services,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-bhashini
+sys-bmc-tb,BMC–Qure.ai AI-assisted TB screening pilot,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-bmc-tb
+sys-cyberguard,I4C CyberGuard,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-cyberguard
+sys-digiyatra,Digi Yatra,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-digiyatra
+sys-epaarvai,e-Paarvai,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-epaarvai
+sys-esanjeevani,eSanjeevani clinical decision support,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-esanjeevani
+sys-fest,RTA FEST,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-fest
+sys-insight,Project Insight,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-insight
+sys-kisan-emitra,Kisan e-Mitra,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-kisan-emitra
+sys-mahacrimeos,MahaCrimeOS investigation support,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-mahacrimeos
+sys-plcs,Pensioners Life Certificate through Selfie (PLCS),Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-plcs
+sys-rail-ids,Elephant Intrusion Detection System,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-rail-ids
+sys-supace,SUPACE research assistance,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-supace
+sys-suvas,SUVAS judicial translation,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-suvas
+sys-upsc,UPSC face authentication,Included,Named India public-service AI attribution or qualified algorithmic/biometric context; purposive selection,sys-upsc

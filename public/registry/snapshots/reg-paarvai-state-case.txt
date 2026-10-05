@@ -1,0 +1,10 @@
+Government-hosted e-Paarvai implementation case
+Original: https://abhinavpahal.nic.in/uploads/jiRLj8ssnLClarity%20in%20Governance%20Heralds%20Clear%20Vision.pdf
+Document date: Undated/uncertain
+Source type: Government case compendium
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+The AI Model is rolled out using an Android App (e-Paarvai) where the field workers capture the eye of the patient and know whether they have mature cataract, immature cataract, IOL or no cataract.
+
+The e-Paarvai app is currently being used by the Tamil Nadu State Control Blindness Society (TNSBCS) to screen citizens in more than 30 districts in Tamil Nadu.

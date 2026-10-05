@@ -1,0 +1,14 @@
+National eSanjeevani CDSS implementation-study abstract
+Original: https://doi.org/10.1101/2025.11.22.25340800
+Document date: Undated/uncertain
+Source type: Research abstract; full manuscript not reviewed
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+This study did not receive any funding.
+
+The validated CDSS was implemented in eSanjeevani 2.0, providing real-time differential diagnosis and departmental recommendations during assisted and non-assisted teleconsultations.
+
+This study, conducted between 2022–2024 by an AI Centre of Excellence of the Government of India, focused on developing, validating, and implementing a knowledge-based CDSS symptom entry Physician Assistance Form (PAF) within eSanjeevani—India’s national teleconsultation platform.
+
+Expert clinicians validated the symptom repository, logic flow, and AI-generated diagnoses.

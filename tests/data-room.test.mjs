@@ -107,5 +107,5 @@ test('statutory context does not increase comparison or collection counts',()=>{
 test('static download handler preserves binary blobs',()=>{
   const app=bytes('src/main.tsx').toString();
   assert.match(app,/response\.blob\(\)/);assert.match(app,/downloadBlob/);
-  assert.ok(app.includes('Complete data room'));
+  assert.ok(app.includes('Earlier corpus archive'));
 });

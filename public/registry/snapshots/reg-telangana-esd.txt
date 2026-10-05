@@ -1,0 +1,14 @@
+Telangana Electronic Services Delivery initiatives
+Original: https://it.telangana.gov.in/initiatives/electronic-services-delivery/
+Document date: Undated/uncertain
+Source type: Government service description
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Through Friendly Electronic Services of Transport (FEST), launched in July, 2020, the citizens of Telangana can avail numerous services of the Transport Department through a Smartphone
+
+PLCS is the first usecase of RTDAI and has been launched in April, 2019.
+
+RTDAI enables a document-less, presence-less governance mechanism using Big Data, AI, ML, etc.
+
+Except for services where a driving test or physical inspection of the vehicle is required, all services would be offered in a contactless and presence-less manner through FEST.

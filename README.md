@@ -1,10 +1,24 @@
 # AI Watch
 
-A complete curated policy-change desk for journalism, governance research and decision preparation. Compare official wording, inspect corrections and uncertainty, and export source-backed working briefs.
+A source-linked India institution-and-system dataset for governance researchers and journalists, with a website as its interface. Inspect deployment, procurement, evaluation, safeguards and redress evidence; download linked CSV tables, JSON and SQLite. The earlier policy-change desk remains supporting evidence.
 
 The website brand is **AI Watch**, with **India evidence desk** identifying the current research scope. The repository address remains `ai-watch-india`; historical research packages retain their original “AI Watch India” titles and unchanged evidence.
 
 ## Included in this release
+
+Institution-and-system dataset v1.0.0 is now the primary homepage and research direction:
+
+- Eighteen purposively selected systems/services and twenty-one source-named institutions, including historical, experimental and qualified biometric/analytics contexts. This is not a national census.
+- Seventeen linked tables, all 216 accountability assertion slots and unique selected excerpts from fifty source records. These are different units, not inflated contribution counts.
+- Source-qualified deployment observations, allocation/contract/award distinctions, evaluations and typed metrics. Requirements, usage and clinical findings are not pooled as accuracy scores.
+- Every system has a full downloadable source-linked dossier. CSV, JSON, SQLite, schema, runnable SQL, protocol, codebook, research note, research receipts and a deterministic checksummed archive are available at `public/registry/`.
+- Twelve new researched profiles join the original six cases. AI attribution is filterable: fourteen explicitly attributed and four qualified biometric/analytics contexts. Explicit attribution includes vendor/editorial descriptions, not independent or government validation.
+- This round logs 62 discovery/follow-up/recency queries; failed retrievals and foreign/context-only material are documented. Single-analyst coding, purposive selection and lack of user validation remain explicit.
+- Original policy URLs, comparisons, corrections, private notebook behaviour and historical archives are preserved separately; systems are not mixed into the old policy-provision denominator.
+
+Start with `research/registry/RESEARCH_NOTE.md`, then `PROTOCOL.md` and `CODEBOOK.md`. Reproduce the dataset offline with `npm run package:registry`; run `npm test` and `npm run build`. The source coding input is `research/registry-curation.json`; the six inherited cases come from the existing `public/combined-data.json`. Network access/model keys are not needed to rebuild. For independent source verification, use the original URLs and documented retrieval limitations.
+
+## Earlier supporting collections
 
 Curated edition 05 makes every stored field accessible through the complete data room:
 
@@ -120,7 +134,13 @@ For maintainers: update the curated source/observation, regenerate data and brie
 
 ```text
 shared/schema.ts            Typed data/review model
-src/main.tsx                Nine routed workspace views
+src/main.tsx                Primary registry and preserved supporting routes
+src/Registry.tsx            System explorer, dossiers and data/method downloads
+src/registry-lib.mjs        Research filters and safe system CSV export
+research/registry-curation.json Reviewed source/observation inputs
+research/registry/          Protocol, codebook, findings, SQL and research receipts
+scripts/build_registry.py   Offline relational data, SQLite and archive compiler
+public/registry/            Complete linked dataset and source excerpt snapshots
 src/lib.mjs                 Filters, validation and exports
 src/data/policy.json        Curated provision/source collection
 src/data/expansion.json     SGI and AI-guidelines collections

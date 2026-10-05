@@ -1,0 +1,14 @@
+Allahabad translation-vetting notice
+Original: https://www.allahabadhighcourt.in/event/event_16290_18-09-2023.pdf
+Document date: Undated/uncertain
+Source type: Court administrative notice
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+High Court of Judicature at Allahabad invites application from desirous Advocates practising at this High Court to create a panel of Vetters for vetting of software generated translation of its Reportable Judgments from English into Hindi.
+
+A disclaimer shall be included in the footer of each page of the vetted judgment.
+
+After due vetting & corrections, the said Vetters shall return the same, certifying the correctness of the translation.
+
+The remuneration for vetting & correction of the software generated translation of the judgments of this Court will be paid at the rate of Re. 1/- per word of the English version.

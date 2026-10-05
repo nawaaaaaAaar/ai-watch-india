@@ -1,0 +1,14 @@
+e-Paarvai cataract field study
+Original: https://pmc.ncbi.nlm.nih.gov/articles/PMC10538832/
+Document date: 2023-08-01
+Source type: Published journal study
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+The two screeners used the app to screen 2,619 eyes of 1,407 patients. In detecting cataracts, the app showed high sensitivity (96%) but low specificity (25%), an overall accuracy of 88%, a PPV of 92.3%, and an NPV of 57.8%.
+
+The diagnosis of the app was compared with that of trained ophthalmologists based on slit-lamp examinations, the gold standard
+
+In this prospective diagnostic study conducted between January and April 2022 at a large tertiary-care eye hospital in South India, two screeners were trained to use the app.
+
+Patients aged >40 years and with a best-corrected visual acuity <20/40 were recruited for the study.

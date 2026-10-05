@@ -1,0 +1,10 @@
+RDSO elephant IDS specification v1.0
+Original: https://rdso.indianrailways.gov.in/uploads/2024-10-23-Signed%20specification%20EIDS.pdf
+Document date: 2024-10-24
+Source type: Government technical specification
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+The system is expected to be capable of detecting the primary events (clause 3) without fail (100% success rate of detection).
+
+The alarms if found false in physical verification shall not exceed 5% of all the alarms being generated per section per month or as defined by user Railway.

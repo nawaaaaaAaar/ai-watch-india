@@ -1,0 +1,2961 @@
+{
+  "sources": [
+    {
+      "source_id": "reg-digi-parliament",
+      "title": "Digi Yatra expansion parliamentary answer",
+      "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS273_Y4e9cy.pdf?source=lsapps",
+      "source_type": "Government parliamentary answer",
+      "published_date": "2026-08-06",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "Starting with 3 airports in December 2022, Digi Yatra is now available at 39 airports.",
+        "Since launch, Digi Yatra app has been downloaded over 2.5 Crore times and it has been used more than 10.75 Crore times by passengers to travel through Digi Yatra enabled airports.",
+        "Regular security assessments, vulnerability assessments and audits are undertaken to strengthen the overall security posture of the platform.",
+        "The data is purged from the system within 24 hours of the scheduled departure time of the flight."
+      ]
+    },
+    {
+      "source_id": "reg-digi-privacy",
+      "title": "Digi Yatra Foundation privacy policy",
+      "url": "https://digiyatrafoundation.com/privacy-policy/",
+      "source_type": "Operator privacy terms",
+      "published_date": "2024-10-27",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "DYF is a not-for-profit company incorporated under Section 8 of the Companies Act 2013, for the implementation of a digital ecosystem i.e., Digi Yatra Central Ecosystem",
+        "DYF has developed the Digi Yatra Application and DYCE platform, which provides a unique and memorable digital travel experience for air travellers (passengers/users) using real time selfie-based facial biometric validation",
+        "DYCE – 14 Days as Transaction log.",
+        "You can opt out of Digi Yatra by deleting your VC and Travel Credentials data or uninstalling the app.",
+        "For any questions, complaints, or concerns about the processing of your personal information or this privacy policy, you can contact the Digi Yatra Foundation (DYF) at dataprivacy@DigiYatraFoundation.com"
+      ]
+    },
+    {
+      "source_id": "reg-digi-guidelines",
+      "title": "Digi Yatra Biometric Boarding Guidelines v7.8",
+      "url": "https://www.civilaviation.gov.in/sites/default/files/2024-01/Digi%20Yatra%20Guidelines_1.pdf",
+      "source_type": "Government operating guidelines",
+      "published_date": "2021-03-04",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "AIRPORT ENTRY GATE. NON-BIOMETRIC PROCESS (PASSENGER WITHOUT DIGI YATRA ID TRAVEL CREDENTIAL/ BIOMETRIC REGISTRATION)"
+      ]
+    },
+    {
+      "source_id": "reg-digi-scale",
+      "title": "Digi Yatra May 2026 usage milestone",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2267024&reg=3&lang=1",
+      "source_type": "Government statement",
+      "published_date": "2026-05-30",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "Right now, Digi Yatra is active at 38 airports, and by next year, 27 more airports will be enabled."
+      ]
+    },
+    {
+      "source_id": "reg-cag-bhashini",
+      "title": "CAG-BHASHINI Anuvaad launch",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2317011",
+      "source_type": "Government statement",
+      "published_date": "2026-09-30",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "today launched “CAG-BHASHINI Anuvaad” , an AI-enabled document translation solution developed by BHASHINI to support the translation of official CAG documents and audit-related reports.",
+        "while complementing existing institutional processes and maintaining appropriate human oversight.",
+        "BHASHINI powers over 800 government websites, has enabled more than 9 billion cumulative AI inferences, processes over 24 million AI inferences daily",
+        "The Digital India BHASHINI Division (DIBD), under the Digital India Corporation (DIC), Ministry of Electronics and Information Technology (MeitY), Government of India"
+      ]
+    },
+    {
+      "source_id": "reg-bhashini-terms",
+      "title": "BHASHINI terms of use",
+      "url": "https://bhashini.gov.in/gyankosh?tab=terms-of-use&fromFooter=true",
+      "source_type": "Platform terms",
+      "published_date": null,
+      "date_basis": "Undated; not assigned retrieval date",
+      "quotes": [
+        "these results are inherently probabilistic and may not always be precise, contextually appropriate, or free of error.",
+        "The User is solely responsible for verifying the accuracy and appropriateness of any result obtained from the Platform before any reliance or dissemination.",
+        "Users may submit grievances by email or in writing, providing full details of the issue along with supporting information.",
+        "Email: ceo-dibd@digitalindia.gov.in"
+      ]
+    },
+    {
+      "source_id": "reg-bhashini-scale",
+      "title": "BHASHINI July 2026 service activity",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2280490&reg=3&lang=1",
+      "source_type": "Government statement",
+      "published_date": "2026-07-02",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "BHASHINI powers over 800 government websites, processes more than 20 million AI inferences every day, and has enabled over 8 billion cumulative AI inferences."
+      ]
+    },
+    {
+      "source_id": "reg-kisan",
+      "title": "AI agriculture backgrounder: Kisan e-Mitra",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2227914&reg=3&lang=1",
+      "source_type": "Government backgrounder",
+      "published_date": "2026-02-14",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "Kisan e-Mitra, launched in 2023, is a voice-enabled, AI-powered chatbot designed to support farmers by answering queries on key government schemes",
+        "The platform operates in 11 regional languages and currently addresses over 8,000 farmer queries each day.",
+        "As of December 2025, it has successfully responded to more than 93 lakh queries"
+      ]
+    },
+    {
+      "source_id": "reg-kisan-developer",
+      "title": "SamagraX Kisan e-Mitra developer portfolio",
+      "url": "https://samagrax.samagragovernance.in/agriculture/",
+      "source_type": "Developer account",
+      "published_date": null,
+      "date_basis": "Undated; not assigned retrieval date",
+      "quotes": [
+        "A pan-India informational chatbot that responds to farmer queries and offers transparency around the application status, eligibility, and other information related to the PM-Kisan scheme.",
+        "Integrated with BHASHINI, Kisan e-Mitra allows farmers to speak or type in their queries in over 11 languages"
+      ]
+    },
+    {
+      "source_id": "reg-kisan-parliament",
+      "title": "Farmer grievance-redress parliamentary answer",
+      "url": "https://www.sansad.in/getFile/loksabhaquestions/annex/185/AU2612_qsk9qb.pdf?source=pqals",
+      "source_type": "Government parliamentary answer",
+      "published_date": "2025-08-05",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "a voice-based PM-KISAN AI Chatbot (Kisan e-Mitra) was developed.",
+        "The system also provides each citizen with a unique grievance ID for tracking, facilities for appeal in case of dissatisfaction with the resolution, and feedback capture after closure.",
+        "The chatbot had resolved over 95 lakh queries from 53 lakh farmers as on 15.07.2025."
+      ]
+    },
+    {
+      "source_id": "reg-vistaar",
+      "title": "Bharat-VISTAAR rollout parliamentary explanation",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2239788&reg=3&lang=1",
+      "source_type": "Government parliamentary explanation",
+      "published_date": "2026-03-13",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "a multilingual Artificial intelligence (AI) powered tool, has been announced in the Union Budget 2026–27 with an total allocation of Rs. 150 Crore",
+        "In the Phase I launched on 17th February, 2026, the platform is available in Hindi and English languages",
+        "including a dedicated telephone number (155261), a voice-based AI chatbot, a web portal of the Ministry of Agriculture & Farmers’ Welfare and a downloadable mobile application.",
+        "In addition, the government conducts periodic security audits of all these IT systems and monitors risks."
+      ]
+    },
+    {
+      "source_id": "reg-vistaar-portal",
+      "title": "Bharat-VISTAAR service portal",
+      "url": "https://vistaar.da.gov.in/",
+      "source_type": "Government service portal",
+      "published_date": null,
+      "date_basis": "Undated; not assigned retrieval date",
+      "quotes": [
+        "Interface and audio content available in 22+ regional Indian languages.",
+        "A federated DPI containing a Central Node and State Nodes, facilitating secure data exchange and AI-driven insights through open protocols."
+      ]
+    },
+    {
+      "source_id": "reg-irctc-interface",
+      "title": "AskDISHA 2.0 booking interface",
+      "url": "https://revamp.irctc.corover.ai/",
+      "source_type": "Service/developer interface",
+      "published_date": null,
+      "date_basis": "Undated; not assigned retrieval date",
+      "quotes": [
+        "AskDISHA 2.0 (Digital Interaction To Seek Help Anytime) is an Artificial Intelligence (AI), Machine learning (ML) and NLP based Virtual Assistant (ChatBot, VoiceBot)",
+        "IRCTC Authorized Partner"
+      ]
+    },
+    {
+      "source_id": "reg-irctc-report-mirror",
+      "title": "IRCTC annual report 2020-21, exchange-filed copy",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1f482507-98ed-4566-8323-ea95fc1f82be.pdf",
+      "source_type": "Institution annual report",
+      "published_date": "2021-09-06",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "With the success of its AI-based Chatbot in its digital journey, IRCTC with its technical partner CoRover Private Limited, a Bengaluru based conversational AI start-up",
+        "Ask DISHA (Digital Interaction to Seek Help Any Time) is an AI powered multi-format, multi-lingual and multi-channel Virtual Assistant, presently providing enquiry services to IRCTC users.",
+        "This platform will be extended for booking e-tickets by IRCTC users."
+      ]
+    },
+    {
+      "source_id": "reg-irctc-terms",
+      "title": "IRCTC e-ticketing terms and conditions",
+      "url": "https://contents.irctc.co.in/en/Terms%20and%20conditions.pdf",
+      "source_type": "Service terms",
+      "published_date": null,
+      "date_basis": "Undated; not assigned retrieval date",
+      "quotes": [
+        "For Cancellation E-tickets: etickets@irctc.co.in"
+      ]
+    },
+    {
+      "source_id": "reg-tax",
+      "title": "Parliamentary explanation of ADVAIT and tax analytics",
+      "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1911271",
+      "source_type": "Government parliamentary explanation",
+      "published_date": "2023-03-27",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "The Project ADVAIT (Advanced Analytics in Indirect Taxes) has been rolled out in 2021, as a flagship analytics project for Indirect Taxes, by Central Board for Indirect Taxes and Customs (CBIC).",
+        "The project uses capabilities of big data and Artificial Intelligence as well.",
+        "aid and assist officers in their day-to-day operations that range from reporting and ensuring tax compliance to detecting tax evasion."
+      ]
+    },
+    {
+      "source_id": "reg-insight-contract",
+      "title": "Project Insight signed-contract announcement",
+      "url": "https://pib.gov.in/newsite/PrintRelease.aspx?relid=147283",
+      "source_type": "Government contract announcement",
+      "published_date": "2016-07-19",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "The Income Tax Department has today signed a contract with L & T Infotech Ltd for implementation of Project Insight.",
+        "The Project will be rolled out in three phases and the first phase is expected to go live in May 2017.",
+        "enable taxpayers to resolve simple compliance related issues in an online manner without visiting the Income tax office."
+      ]
+    },
+    {
+      "source_id": "reg-insight-portal",
+      "title": "Project Insight reporting portal explanation",
+      "url": "https://report.insight.gov.in/reporting-webapp/portal/recentArticle",
+      "source_type": "Government service description",
+      "published_date": null,
+      "date_basis": "Undated; not assigned retrieval date",
+      "quotes": [
+        "The project also operationalizes two new centres namely Income Tax Transaction Analysis Centre (INTRAC) and Compliance Management Centralized Processing Centre (CMCPC).",
+        "The Income Tax Transaction Analysis Centre (INTRAC) leverages data analytics in tax administration",
+        "A dedicated compliance portal would be used to capture response on compliance issues in a structured manner for effective compliance monitoring and evaluation."
+      ]
+    },
+    {
+      "source_id": "reg-rail-ids",
+      "title": "Railway elephant IDS parliamentary explanation",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2223196&reg=48&lang=2",
+      "source_type": "Government parliamentary explanation",
+      "published_date": "2026-02-04",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "development of AI-enabled Intrusion Detection System (IDS) for detecting presence of elephants on Railway tracks using Distributed Acoustic Sensors (DAS).",
+        "The system is designed to generate alerts for loco pilots, station masters and Control Room about the movement of elephants in proximity of railway tracks, for taking timely preventive action.",
+        "Presently, IDS system is working over 141 Rkms on critical & vulnerable locations identified by forest department in Northeast Frontier Railway."
+      ]
+    },
+    {
+      "source_id": "reg-ids-specification",
+      "title": "RDSO elephant IDS specification v1.0",
+      "url": "https://rdso.indianrailways.gov.in/uploads/2024-10-23-Signed%20specification%20EIDS.pdf",
+      "source_type": "Government technical specification",
+      "published_date": "2024-10-24",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "The system is expected to be capable of detecting the primary events (clause 3) without fail (100% success rate of detection).",
+        "The alarms if found false in physical verification shall not exceed 5% of all the alarms being generated per section per month or as defined by user Railway."
+      ]
+    },
+    {
+      "source_id": "reg-ids-award-report",
+      "title": "Southern Railway IDS contract reporting",
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2024/Sep/22/system-being-installed-at-rs-19-cr-to-curb-jumbo-deaths-on-rly-tracks-southern-railway",
+      "source_type": "News reporting",
+      "published_date": "2024-09-22",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "contract was awarded on August 1 for the cost of Rs 7.85 crore in Kerala region and Rs 11.14 crore in Tamil Nadu region to MS Bitcom Technologies, Noida."
+      ]
+    },
+    {
+      "source_id": "reg-rail-current",
+      "title": "NFR elephant-prevention reporting",
+      "url": "https://indianexpress.com/article/india/ai-alerts-plan-bee-railways-saved-255-elephants-northeast-10906293/",
+      "source_type": "News reporting",
+      "published_date": "2026-10-05",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "Northeast Frontier Railway says 255 elephants were saved from train collisions between January and September 2026 using AI-based alerts, 'Plan Bee', speed restrictions and enhanced vigilance.",
+        "including 106 in Alipurduar Division, 14 in Rangiya, 122 in Lumding and 15 in Tinsukia Division"
+      ]
+    },
+    {
+      "source_id": "reg-telangana-esd",
+      "title": "Telangana Electronic Services Delivery initiatives",
+      "url": "https://it.telangana.gov.in/initiatives/electronic-services-delivery/",
+      "source_type": "Government service description",
+      "published_date": null,
+      "date_basis": "Undated; not assigned retrieval date",
+      "quotes": [
+        "PLCS is the first usecase of RTDAI and has been launched in April, 2019.",
+        "Through Friendly Electronic Services of Transport (FEST), launched in July, 2020, the citizens of Telangana can avail numerous services of the Transport Department through a Smartphone",
+        "Except for services where a driving test or physical inspection of the vehicle is required, all services would be offered in a contactless and presence-less manner through FEST.",
+        "RTDAI enables a document-less, presence-less governance mechanism using Big Data, AI, ML, etc."
+      ]
+    },
+    {
+      "source_id": "reg-plcs",
+      "title": "Telangana PLCS IndiaAI case study",
+      "url": "https://indiaai.gov.in/case-study/telangana-government-leveraging-the-power-of-ai-and-ml-for-pensioners",
+      "source_type": "Government-hosted editorial case study",
+      "published_date": "2020-10-27",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "PLCS uses an artificial intelligence-based liveness check solution, big data and machine learning based demographic check solution, and deep learning-based image comparison solution.",
+        "The success rate in authentication of pensioners is about 93 per cent, and it can be as high as 96-98 per cent as the system learns and improves over time."
+      ]
+    },
+    {
+      "source_id": "reg-plcs-faq",
+      "title": "Telangana mobile-service FAQ",
+      "url": "https://mgov.telangana.gov.in/faqnew.html",
+      "source_type": "Government service FAQ",
+      "published_date": null,
+      "date_basis": "Undated; not assigned retrieval date",
+      "quotes": [
+        "User has to register by providing relevant details like Bank Account Number or PPO ID, Name, Voter Card Number, Assembly Constituency ID along with user's live photo."
+      ]
+    },
+    {
+      "source_id": "reg-paarvai-study",
+      "title": "e-Paarvai cataract field study",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10538832/",
+      "source_type": "Published journal study",
+      "published_date": "2023-08-01",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "In this prospective diagnostic study conducted between January and April 2022 at a large tertiary-care eye hospital in South India, two screeners were trained to use the app.",
+        "Patients aged >40 years and with a best-corrected visual acuity <20/40 were recruited for the study.",
+        "The two screeners used the app to screen 2,619 eyes of 1,407 patients. In detecting cataracts, the app showed high sensitivity (96%) but low specificity (25%), an overall accuracy of 88%, a PPV of 92.3%, and an NPV of 57.8%.",
+        "The diagnosis of the app was compared with that of trained ophthalmologists based on slit-lamp examinations, the gold standard"
+      ]
+    },
+    {
+      "source_id": "reg-paarvai-state-case",
+      "title": "Government-hosted e-Paarvai implementation case",
+      "url": "https://abhinavpahal.nic.in/uploads/jiRLj8ssnLClarity%20in%20Governance%20Heralds%20Clear%20Vision.pdf",
+      "source_type": "Government case compendium",
+      "published_date": null,
+      "date_basis": "Undated; not assigned retrieval date",
+      "quotes": [
+        "The e-Paarvai app is currently being used by the Tamil Nadu State Control Blindness Society (TNSBCS) to screen citizens in more than 30 districts in Tamil Nadu.",
+        "The AI Model is rolled out using an Android App (e-Paarvai) where the field workers capture the eye of the patient and know whether they have mature cataract, immature cataract, IOL or no cataract."
+      ]
+    },
+    {
+      "source_id": "reg-paarvai-listing",
+      "title": "e-Paarvai TNeGA app listing",
+      "url": "https://play.google.com/store/apps/details?id=com.codevector.cataract_detection_app&hl=en_US",
+      "source_type": "Developer app-store declaration",
+      "published_date": "2021-12-24",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "NHM in collaboration with TNeGA developed an AI-based Android mobile application",
+        "No data collected",
+        "You can request that data be deleted",
+        "info.tnega@tn.gov.in"
+      ]
+    },
+    {
+      "source_id": "reg-qxr-bmc",
+      "title": "BMC–Qure.ai TB screening pilot reporting",
+      "url": "https://indiaai.gov.in/news/this-ai-software-detects-tuberculosis-in-asymptomatic-patients-in-the-early-stage",
+      "source_type": "Government-hosted news article",
+      "published_date": "2023-03-29",
+      "date_basis": "Source-stated date",
+      "quotes": [
+        "around 1 lakh people underwent AI-powered x-ray scans for diagnosing TB at nine BMC hospitals in 2021 and 2022. BMC, along with qure.ai, a digital start-up company, initiated this study.",
+        "Almost 57,781 patients have undergone the screening of AI-powered x-ray scanners at civic hospitals as a part of the project. 10,225 people were marked as having presumptive TB.",
+        "when around 9,702 were asked to return for the clinical evaluation and sputum collection to confirm the diagnosis, only 2,376 turned up, among which 704 turned out to have confirmed TB diagnosis."
+      ]
+    }
+  ],
+  "profiles": [
+    {
+      "system_id": "sys-digiyatra",
+      "name": "Digi Yatra",
+      "owner": "Digi Yatra Foundation",
+      "sector": "Aviation and travel",
+      "jurisdiction": "India",
+      "stage": "Reported operational",
+      "latest_record_date": "2026-08-06",
+      "ai_basis": "Biometric system; model-specific AI architecture not verified",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "Foundation-operated biometric air-travel service; not coded as government ownership.",
+          "evidence": [
+            {
+              "source_id": "reg-digi-privacy",
+              "quote": "DYF is a not-for-profit company incorporated under Section 8 of the Companies Act 2013, for the implementation of a digital ecosystem i.e., Digi Yatra Central Ecosystem",
+              "locator": "Selected passage 1: Digi Yatra Foundation privacy policy"
+            },
+            {
+              "source_id": "reg-digi-privacy",
+              "quote": "DYF has developed the Digi Yatra Application and DYCE platform, which provides a unique and memorable digital travel experience for air travellers (passengers/users) using real time selfie-based facial biometric validation",
+              "locator": "Selected passage 2: Digi Yatra Foundation privacy policy"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "Facial credential supports airport identity/boarding workflows for passengers.",
+          "evidence": [
+            {
+              "source_id": "reg-digi-privacy",
+              "quote": "DYF has developed the Digi Yatra Application and DYCE platform, which provides a unique and memorable digital travel experience for air travellers (passengers/users) using real time selfie-based facial biometric validation",
+              "locator": "Selected passage 2: Digi Yatra Foundation privacy policy"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "39 airports reported in August 2026; May's 38-airport record is earlier, not a contradiction.",
+          "evidence": [
+            {
+              "source_id": "reg-digi-parliament",
+              "quote": "Starting with 3 airports in December 2022, Digi Yatra is now available at 39 airports.",
+              "locator": "Selected passage 1: Digi Yatra expansion parliamentary answer"
+            },
+            {
+              "source_id": "reg-digi-scale",
+              "quote": "Right now, Digi Yatra is active at 38 airports, and by next year, 27 more airports will be enabled.",
+              "locator": "Selected passage 1: Digi Yatra May 2026 usage milestone"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; a current executed ecosystem-wide supplier/airport contract was not reviewed.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; a current ecosystem-wide cost or disbursement record was not established.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Selfie and verifiable credentials are described; end-to-end live data flow was not independently inspected.",
+          "evidence": [
+            {
+              "source_id": "reg-digi-privacy",
+              "quote": "DYF has developed the Digi Yatra Application and DYCE platform, which provides a unique and memorable digital travel experience for air travellers (passengers/users) using real time selfie-based facial biometric validation",
+              "locator": "Selected passage 2: Digi Yatra Foundation privacy policy"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Government reports audits and usage; no reviewed false-match/rejection distribution or audit report.",
+          "evidence": [
+            {
+              "source_id": "reg-digi-parliament",
+              "quote": "Since launch, Digi Yatra app has been downloaded over 2.5 Crore times and it has been used more than 10.75 Crore times by passengers to travel through Digi Yatra enabled airports.",
+              "locator": "Selected passage 2: Digi Yatra expansion parliamentary answer"
+            },
+            {
+              "source_id": "reg-digi-parliament",
+              "quote": "Regular security assessments, vulnerability assessments and audits are undertaken to strengthen the overall security posture of the platform.",
+              "locator": "Selected passage 3: Digi Yatra expansion parliamentary answer"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Historical guidelines retain a non-biometric gate process; actual current handling of mismatch/consent refusals was not tested.",
+          "evidence": [
+            {
+              "source_id": "reg-digi-guidelines",
+              "quote": "AIRPORT ENTRY GATE. NON-BIOMETRIC PROCESS (PASSENGER WITHOUT DIGI YATRA ID TRAVEL CREDENTIAL/ BIOMETRIC REGISTRATION)",
+              "locator": "Selected passage 1: Digi Yatra Biometric Boarding Guidelines v7.8"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Airport purge claim is 24 hours; operator terms separately describe a 14-day transaction log, so 24 hours is not universal retention.",
+          "evidence": [
+            {
+              "source_id": "reg-digi-parliament",
+              "quote": "The data is purged from the system within 24 hours of the scheduled departure time of the flight.",
+              "locator": "Selected passage 4: Digi Yatra expansion parliamentary answer"
+            },
+            {
+              "source_id": "reg-digi-privacy",
+              "quote": "DYCE – 14 Days as Transaction log.",
+              "locator": "Selected passage 3: Digi Yatra Foundation privacy policy"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Privacy grievance contact and opt-out are published; response quality and gate-access remedy not tested.",
+          "evidence": [
+            {
+              "source_id": "reg-digi-privacy",
+              "quote": "You can opt out of Digi Yatra by deleting your VC and Travel Credentials data or uninstalling the app.",
+              "locator": "Selected passage 4: Digi Yatra Foundation privacy policy"
+            },
+            {
+              "source_id": "reg-digi-privacy",
+              "quote": "For any questions, complaints, or concerns about the processing of your personal information or this privacy policy, you can contact the Digi Yatra Foundation (DYF) at dataprivacy@DigiYatraFoundation.com",
+              "locator": "Selected passage 5: Digi Yatra Foundation privacy policy"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "Public guidelines, terms and a parliamentary reply are retained.",
+          "evidence": [
+            {
+              "source_id": "reg-digi-guidelines",
+              "quote": "AIRPORT ENTRY GATE. NON-BIOMETRIC PROCESS (PASSENGER WITHOUT DIGI YATRA ID TRAVEL CREDENTIAL/ BIOMETRIC REGISTRATION)",
+              "locator": "Selected passage 1: Digi Yatra Biometric Boarding Guidelines v7.8"
+            },
+            {
+              "source_id": "reg-digi-parliament",
+              "quote": "Starting with 3 airports in December 2022, Digi Yatra is now available at 39 airports.",
+              "locator": "Selected passage 1: Digi Yatra expansion parliamentary answer"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Dated domestic availability is documented; international rollout and October airport-level readiness are not certified.",
+          "evidence": [
+            {
+              "source_id": "reg-digi-parliament",
+              "quote": "Starting with 3 airports in December 2022, Digi Yatra is now available at 39 airports.",
+              "locator": "Selected passage 1: Digi Yatra expansion parliamentary answer"
+            }
+          ]
+        }
+      ],
+      "operator_type": "Operator-stated Section 8 not-for-profit company",
+      "reviewed_as_of": "2026-10-05"
+    },
+    {
+      "system_id": "sys-bhashini",
+      "name": "BHASHINI language-AI services",
+      "owner": "Digital India BHASHINI Division",
+      "sector": "Language and administrative access",
+      "jurisdiction": "India",
+      "stage": "Reported operational",
+      "latest_record_date": "2026-09-30",
+      "ai_basis": "Explicit AI in official source",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "DIBD under DIC/MeitY provides language-AI services.",
+          "evidence": [
+            {
+              "source_id": "reg-cag-bhashini",
+              "quote": "The Digital India BHASHINI Division (DIBD), under the Digital India Corporation (DIC), Ministry of Electronics and Information Technology (MeitY), Government of India",
+              "locator": "Selected passage 4: CAG-BHASHINI Anuvaad launch"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "Language translation supports public-facing and institutional workflows; CAG report translation is a named deployment.",
+          "evidence": [
+            {
+              "source_id": "reg-cag-bhashini",
+              "quote": "today launched “CAG-BHASHINI Anuvaad” , an AI-enabled document translation solution developed by BHASHINI to support the translation of official CAG documents and audit-related reports.",
+              "locator": "Selected passage 1: CAG-BHASHINI Anuvaad launch"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "July service-activity report and September CAG launch retained as different dated events.",
+          "evidence": [
+            {
+              "source_id": "reg-bhashini-scale",
+              "quote": "BHASHINI powers over 800 government websites, processes more than 20 million AI inferences every day, and has enabled over 8 billion cumulative AI inferences.",
+              "locator": "Selected passage 1: BHASHINI July 2026 service activity"
+            },
+            {
+              "source_id": "reg-cag-bhashini",
+              "quote": "today launched “CAG-BHASHINI Anuvaad” , an AI-enabled document translation solution developed by BHASHINI to support the translation of official CAG documents and audit-related reports.",
+              "locator": "Selected passage 1: CAG-BHASHINI Anuvaad launch"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; complete current model/provider and executed contract inventory was not reviewed.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; no system-specific spending series was established.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Platform provides AI translation; CAG integration is described, but full model/version/data inventory not verified.",
+          "evidence": [
+            {
+              "source_id": "reg-cag-bhashini",
+              "quote": "today launched “CAG-BHASHINI Anuvaad” , an AI-enabled document translation solution developed by BHASHINI to support the translation of official CAG documents and audit-related reports.",
+              "locator": "Selected passage 1: CAG-BHASHINI Anuvaad launch"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Usage volumes and a probabilistic-output disclaimer do not establish translation accuracy for CAG audit reports.",
+          "evidence": [
+            {
+              "source_id": "reg-cag-bhashini",
+              "quote": "BHASHINI powers over 800 government websites, has enabled more than 9 billion cumulative AI inferences, processes over 24 million AI inferences daily",
+              "locator": "Selected passage 3: CAG-BHASHINI Anuvaad launch"
+            },
+            {
+              "source_id": "reg-bhashini-terms",
+              "quote": "these results are inherently probabilistic and may not always be precise, contextually appropriate, or free of error.",
+              "locator": "Selected passage 1: BHASHINI terms of use"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "CAG launch describes human oversight and terms require user verification; current review logs/SOP not inspected.",
+          "evidence": [
+            {
+              "source_id": "reg-cag-bhashini",
+              "quote": "while complementing existing institutional processes and maintaining appropriate human oversight.",
+              "locator": "Selected passage 2: CAG-BHASHINI Anuvaad launch"
+            },
+            {
+              "source_id": "reg-bhashini-terms",
+              "quote": "The User is solely responsible for verifying the accuracy and appropriateness of any result obtained from the Platform before any reliance or dissemination.",
+              "locator": "Selected passage 2: BHASHINI terms of use"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; complete current CAG-specific retention/processor terms were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "A grievance channel is published; effectiveness and CAG-report correction procedure not tested.",
+          "evidence": [
+            {
+              "source_id": "reg-bhashini-terms",
+              "quote": "Users may submit grievances by email or in writing, providing full details of the issue along with supporting information.",
+              "locator": "Selected passage 3: BHASHINI terms of use"
+            },
+            {
+              "source_id": "reg-bhashini-terms",
+              "quote": "Email: ceo-dibd@digitalindia.gov.in",
+              "locator": "Selected passage 4: BHASHINI terms of use"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "Public launch and terms are available.",
+          "evidence": [
+            {
+              "source_id": "reg-cag-bhashini",
+              "quote": "today launched “CAG-BHASHINI Anuvaad” , an AI-enabled document translation solution developed by BHASHINI to support the translation of official CAG documents and audit-related reports.",
+              "locator": "Selected passage 1: CAG-BHASHINI Anuvaad launch"
+            },
+            {
+              "source_id": "reg-bhashini-terms",
+              "quote": "these results are inherently probabilistic and may not always be precise, contextually appropriate, or free of error.",
+              "locator": "Selected passage 1: BHASHINI terms of use"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "A launch and aggregate activity are not proof of every integration's operational effectiveness.",
+          "evidence": [
+            {
+              "source_id": "reg-cag-bhashini",
+              "quote": "today launched “CAG-BHASHINI Anuvaad” , an AI-enabled document translation solution developed by BHASHINI to support the translation of official CAG documents and audit-related reports.",
+              "locator": "Selected passage 1: CAG-BHASHINI Anuvaad launch"
+            },
+            {
+              "source_id": "reg-cag-bhashini",
+              "quote": "BHASHINI powers over 800 government websites, has enabled more than 9 billion cumulative AI inferences, processes over 24 million AI inferences daily",
+              "locator": "Selected passage 3: CAG-BHASHINI Anuvaad launch"
+            }
+          ]
+        }
+      ],
+      "reviewed_as_of": "2026-10-05"
+    },
+    {
+      "system_id": "sys-kisan-emitra",
+      "name": "Kisan e-Mitra",
+      "owner": "Department of Agriculture and Farmers Welfare",
+      "sector": "Agriculture and benefits information",
+      "jurisdiction": "India",
+      "stage": "Reported operational",
+      "latest_record_date": "2026-02-14",
+      "ai_basis": "Explicit AI in official source",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "Agriculture department's PM-KISAN assistance chatbot.",
+          "evidence": [
+            {
+              "source_id": "reg-kisan-parliament",
+              "quote": "a voice-based PM-KISAN AI Chatbot (Kisan e-Mitra) was developed.",
+              "locator": "Selected passage 1: Farmer grievance-redress parliamentary answer"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "Queries and application/eligibility information, not verified autonomous benefit adjudication.",
+          "evidence": [
+            {
+              "source_id": "reg-kisan",
+              "quote": "Kisan e-Mitra, launched in 2023, is a voice-enabled, AI-powered chatbot designed to support farmers by answering queries on key government schemes",
+              "locator": "Selected passage 1: AI agriculture backgrounder: Kisan e-Mitra"
+            },
+            {
+              "source_id": "reg-kisan-developer",
+              "quote": "A pan-India informational chatbot that responds to farmer queries and offers transparency around the application status, eligibility, and other information related to the PM-Kisan scheme.",
+              "locator": "Selected passage 1: SamagraX Kisan e-Mitra developer portfolio"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "Launched in 2023, with queries reported through December 2025.",
+          "evidence": [
+            {
+              "source_id": "reg-kisan",
+              "quote": "Kisan e-Mitra, launched in 2023, is a voice-enabled, AI-powered chatbot designed to support farmers by answering queries on key government schemes",
+              "locator": "Selected passage 1: AI agriculture backgrounder: Kisan e-Mitra"
+            },
+            {
+              "source_id": "reg-kisan",
+              "quote": "As of December 2025, it has successfully responded to more than 93 lakh queries",
+              "locator": "Selected passage 3: AI agriculture backgrounder: Kisan e-Mitra"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "SamagraX portfolio describes the chatbot and BHASHINI integration; current executed contract and later component lineage not verified.",
+          "evidence": [
+            {
+              "source_id": "reg-kisan-developer",
+              "quote": "A pan-India informational chatbot that responds to farmer queries and offers transparency around the application status, eligibility, and other information related to the PM-Kisan scheme.",
+              "locator": "Selected passage 1: SamagraX Kisan e-Mitra developer portfolio"
+            },
+            {
+              "source_id": "reg-kisan-developer",
+              "quote": "Integrated with BHASHINI, Kisan e-Mitra allows farmers to speak or type in their queries in over 11 languages",
+              "locator": "Selected passage 2: SamagraX Kisan e-Mitra developer portfolio"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; component-specific procurement value or spending not established.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Voice/text and scheme information integration are described; full current architecture and personal-data handling not established.",
+          "evidence": [
+            {
+              "source_id": "reg-kisan-developer",
+              "quote": "A pan-India informational chatbot that responds to farmer queries and offers transparency around the application status, eligibility, and other information related to the PM-Kisan scheme.",
+              "locator": "Selected passage 1: SamagraX Kisan e-Mitra developer portfolio"
+            },
+            {
+              "source_id": "reg-kisan-developer",
+              "quote": "Integrated with BHASHINI, Kisan e-Mitra allows farmers to speak or type in their queries in over 11 languages",
+              "locator": "Selected passage 2: SamagraX Kisan e-Mitra developer portfolio"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Query counts are reported; independent answer correctness, language error and benefit-resolution outcomes not verified.",
+          "evidence": [
+            {
+              "source_id": "reg-kisan",
+              "quote": "The platform operates in 11 regional languages and currently addresses over 8,000 farmer queries each day.",
+              "locator": "Selected passage 2: AI agriculture backgrounder: Kisan e-Mitra"
+            },
+            {
+              "source_id": "reg-kisan",
+              "quote": "As of December 2025, it has successfully responded to more than 93 lakh queries",
+              "locator": "Selected passage 3: AI agriculture backgrounder: Kisan e-Mitra"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current chatbot escalation/override SOP was not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; chatbot-specific retention and processor terms were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Parliament describes CPGRAMS appeal facilities and the chatbot; this is not proof the chatbot itself resolves a contested benefit.",
+          "evidence": [
+            {
+              "source_id": "reg-kisan-parliament",
+              "quote": "a voice-based PM-KISAN AI Chatbot (Kisan e-Mitra) was developed.",
+              "locator": "Selected passage 1: Farmer grievance-redress parliamentary answer"
+            },
+            {
+              "source_id": "reg-kisan-parliament",
+              "quote": "The system also provides each citizen with a unique grievance ID for tracking, facilities for appeal in case of dissatisfaction with the resolution, and feedback capture after closure.",
+              "locator": "Selected passage 2: Farmer grievance-redress parliamentary answer"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "Government and developer records are public.",
+          "evidence": [
+            {
+              "source_id": "reg-kisan",
+              "quote": "Kisan e-Mitra, launched in 2023, is a voice-enabled, AI-powered chatbot designed to support farmers by answering queries on key government schemes",
+              "locator": "Selected passage 1: AI agriculture backgrounder: Kisan e-Mitra"
+            },
+            {
+              "source_id": "reg-kisan-developer",
+              "quote": "A pan-India informational chatbot that responds to farmer queries and offers transparency around the application status, eligibility, and other information related to the PM-Kisan scheme.",
+              "locator": "Selected passage 1: SamagraX Kisan e-Mitra developer portfolio"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Historical launch/usage and current portfolio do not establish every October component or outcome.",
+          "evidence": [
+            {
+              "source_id": "reg-kisan",
+              "quote": "Kisan e-Mitra, launched in 2023, is a voice-enabled, AI-powered chatbot designed to support farmers by answering queries on key government schemes",
+              "locator": "Selected passage 1: AI agriculture backgrounder: Kisan e-Mitra"
+            },
+            {
+              "source_id": "reg-kisan",
+              "quote": "As of December 2025, it has successfully responded to more than 93 lakh queries",
+              "locator": "Selected passage 3: AI agriculture backgrounder: Kisan e-Mitra"
+            }
+          ]
+        }
+      ],
+      "reviewed_as_of": "2026-10-05"
+    },
+    {
+      "system_id": "sys-bharat-vistaar",
+      "name": "Bharat-VISTAAR",
+      "owner": "Department of Agriculture and Farmers Welfare",
+      "sector": "Agriculture and benefits information",
+      "jurisdiction": "India",
+      "stage": "Phase-I launch reported",
+      "latest_record_date": "2026-03-13",
+      "ai_basis": "Explicit AI in official source",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "Agriculture ministry's voice-first agricultural information platform.",
+          "evidence": [
+            {
+              "source_id": "reg-vistaar",
+              "quote": "including a dedicated telephone number (155261), a voice-based AI chatbot, a web portal of the Ministry of Agriculture & Farmers’ Welfare and a downloadable mobile application.",
+              "locator": "Selected passage 3: Bharat-VISTAAR rollout parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "Advisory and scheme-information access; not verified autonomous eligibility adjudication.",
+          "evidence": [
+            {
+              "source_id": "reg-vistaar",
+              "quote": "a multilingual Artificial intelligence (AI) powered tool, has been announced in the Union Budget 2026–27 with an total allocation of Rs. 150 Crore",
+              "locator": "Selected passage 1: Bharat-VISTAAR rollout parliamentary explanation"
+            },
+            {
+              "source_id": "reg-vistaar",
+              "quote": "including a dedicated telephone number (155261), a voice-based AI chatbot, a web portal of the Ministry of Agriculture & Farmers’ Welfare and a downloadable mobile application.",
+              "locator": "Selected passage 3: Bharat-VISTAAR rollout parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Phase I launched 17 February 2026 in Hindi/English; undated portal advertises 22+ languages, with later rollout not verified.",
+          "evidence": [
+            {
+              "source_id": "reg-vistaar",
+              "quote": "In the Phase I launched on 17th February, 2026, the platform is available in Hindi and English languages",
+              "locator": "Selected passage 2: Bharat-VISTAAR rollout parliamentary explanation"
+            },
+            {
+              "source_id": "reg-vistaar-portal",
+              "quote": "Interface and audio content available in 22+ regional Indian languages.",
+              "locator": "Selected passage 1: Bharat-VISTAAR service portal"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; complete supplier chain and executed platform contracts were not reviewed.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Rs 150 crore is described as an allocation, not verified spending or a supplier award.",
+          "evidence": [
+            {
+              "source_id": "reg-vistaar",
+              "quote": "a multilingual Artificial intelligence (AI) powered tool, has been announced in the Union Budget 2026–27 with an total allocation of Rs. 150 Crore",
+              "locator": "Selected passage 1: Bharat-VISTAAR rollout parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Telephone, chatbot, web/app and federated API architecture described; component versions not verified.",
+          "evidence": [
+            {
+              "source_id": "reg-vistaar",
+              "quote": "including a dedicated telephone number (155261), a voice-based AI chatbot, a web portal of the Ministry of Agriculture & Farmers’ Welfare and a downloadable mobile application.",
+              "locator": "Selected passage 3: Bharat-VISTAAR rollout parliamentary explanation"
+            },
+            {
+              "source_id": "reg-vistaar-portal",
+              "quote": "A federated DPI containing a Central Node and State Nodes, facilitating secure data exchange and AI-driven insights through open protocols.",
+              "locator": "Selected passage 2: Bharat-VISTAAR service portal"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Government reports periodic security audits; audit reports and advisory accuracy were not reviewed.",
+          "evidence": [
+            {
+              "source_id": "reg-vistaar",
+              "quote": "In addition, the government conducts periodic security audits of all these IT systems and monitors risks.",
+              "locator": "Selected passage 4: Bharat-VISTAAR rollout parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; advisory escalation/human-review SOP not established.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Government self-report of security audits is retained; actual access logs/retention enforcement not audited.",
+          "evidence": [
+            {
+              "source_id": "reg-vistaar",
+              "quote": "In addition, the government conducts periodic security audits of all these IT systems and monitors risks.",
+              "locator": "Selected passage 4: Bharat-VISTAAR rollout parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; platform-specific AI-error appeal outcome or escalation procedure not verified.",
+          "evidence": []
+        },
+        {
+          "status": "Documented",
+          "statement": "Dated rollout explanation and a public portal are available.",
+          "evidence": [
+            {
+              "source_id": "reg-vistaar",
+              "quote": "In the Phase I launched on 17th February, 2026, the platform is available in Hindi and English languages",
+              "locator": "Selected passage 2: Bharat-VISTAAR rollout parliamentary explanation"
+            },
+            {
+              "source_id": "reg-vistaar-portal",
+              "quote": "Interface and audio content available in 22+ regional Indian languages.",
+              "locator": "Selected passage 1: Bharat-VISTAAR service portal"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Undated portal breadth does not silently overwrite dated Phase-I scope.",
+          "evidence": [
+            {
+              "source_id": "reg-vistaar",
+              "quote": "In the Phase I launched on 17th February, 2026, the platform is available in Hindi and English languages",
+              "locator": "Selected passage 2: Bharat-VISTAAR rollout parliamentary explanation"
+            },
+            {
+              "source_id": "reg-vistaar-portal",
+              "quote": "Interface and audio content available in 22+ regional Indian languages.",
+              "locator": "Selected passage 1: Bharat-VISTAAR service portal"
+            }
+          ]
+        }
+      ],
+      "reviewed_as_of": "2026-10-05"
+    },
+    {
+      "system_id": "sys-askdisha",
+      "name": "AskDISHA 2.0",
+      "owner": "Indian Railway Catering and Tourism Corporation Limited",
+      "sector": "Rail passenger services",
+      "jurisdiction": "India",
+      "stage": "Service interface observed",
+      "latest_record_date": "2021-09-06",
+      "ai_basis": "Explicit AI in institutional report and service interface",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "IRCTC's virtual assistant; current interface identifies an authorized partner.",
+          "evidence": [
+            {
+              "source_id": "reg-irctc-report-mirror",
+              "quote": "Ask DISHA (Digital Interaction to Seek Help Any Time) is an AI powered multi-format, multi-lingual and multi-channel Virtual Assistant, presently providing enquiry services to IRCTC users.",
+              "locator": "Selected passage 2: IRCTC annual report 2020-21, exchange-filed copy"
+            },
+            {
+              "source_id": "reg-irctc-interface",
+              "quote": "IRCTC Authorized Partner",
+              "locator": "Selected passage 2: AskDISHA 2.0 booking interface"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "Enquiries and booking support; no purchase or automated decision was tested.",
+          "evidence": [
+            {
+              "source_id": "reg-irctc-report-mirror",
+              "quote": "Ask DISHA (Digital Interaction to Seek Help Any Time) is an AI powered multi-format, multi-lingual and multi-channel Virtual Assistant, presently providing enquiry services to IRCTC users.",
+              "locator": "Selected passage 2: IRCTC annual report 2020-21, exchange-filed copy"
+            },
+            {
+              "source_id": "reg-irctc-interface",
+              "quote": "AskDISHA 2.0 (Digital Interaction To Seek Help Anytime) is an Artificial Intelligence (AI), Machine learning (ML) and NLP based Virtual Assistant (ChatBot, VoiceBot)",
+              "locator": "Selected passage 1: AskDISHA 2.0 booking interface"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "2021 report describes enquiry service and planned booking; current interface provides booking features. Undated UI is not assigned a launch date.",
+          "evidence": [
+            {
+              "source_id": "reg-irctc-report-mirror",
+              "quote": "Ask DISHA (Digital Interaction to Seek Help Any Time) is an AI powered multi-format, multi-lingual and multi-channel Virtual Assistant, presently providing enquiry services to IRCTC users.",
+              "locator": "Selected passage 2: IRCTC annual report 2020-21, exchange-filed copy"
+            },
+            {
+              "source_id": "reg-irctc-report-mirror",
+              "quote": "This platform will be extended for booking e-tickets by IRCTC users.",
+              "locator": "Selected passage 3: IRCTC annual report 2020-21, exchange-filed copy"
+            },
+            {
+              "source_id": "reg-irctc-interface",
+              "quote": "AskDISHA 2.0 (Digital Interaction To Seek Help Anytime) is an Artificial Intelligence (AI), Machine learning (ML) and NLP based Virtual Assistant (ChatBot, VoiceBot)",
+              "locator": "Selected passage 1: AskDISHA 2.0 booking interface"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "CoRover named as historical technical partner; current executed terms/award not reviewed.",
+          "evidence": [
+            {
+              "source_id": "reg-irctc-report-mirror",
+              "quote": "With the success of its AI-based Chatbot in its digital journey, IRCTC with its technical partner CoRover Private Limited, a Bengaluru based conversational AI start-up",
+              "locator": "Selected passage 1: IRCTC annual report 2020-21, exchange-filed copy"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; component-specific current contract price and disbursements not established.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "AI/ML/NLP voice/chat functions stated; current model/version and complete data-flow map not verified.",
+          "evidence": [
+            {
+              "source_id": "reg-irctc-interface",
+              "quote": "AskDISHA 2.0 (Digital Interaction To Seek Help Anytime) is an Artificial Intelligence (AI), Machine learning (ML) and NLP based Virtual Assistant (ChatBot, VoiceBot)",
+              "locator": "Selected passage 1: AskDISHA 2.0 booking interface"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; independent current response accuracy or booking-error evaluation not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; assistant-specific handoff/override SOP not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; assistant-specific retention/processor terms were not established.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "IRCTC terms provide an e-ticket cancellation contact, not a verified AI-error complaint outcome.",
+          "evidence": [
+            {
+              "source_id": "reg-irctc-terms",
+              "quote": "For Cancellation E-tickets: etickets@irctc.co.in",
+              "locator": "Selected passage 1: IRCTC e-ticketing terms and conditions"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "Public interface, historical annual-report copy and ticketing terms retained.",
+          "evidence": [
+            {
+              "source_id": "reg-irctc-interface",
+              "quote": "AskDISHA 2.0 (Digital Interaction To Seek Help Anytime) is an Artificial Intelligence (AI), Machine learning (ML) and NLP based Virtual Assistant (ChatBot, VoiceBot)",
+              "locator": "Selected passage 1: AskDISHA 2.0 booking interface"
+            },
+            {
+              "source_id": "reg-irctc-report-mirror",
+              "quote": "Ask DISHA (Digital Interaction to Seek Help Any Time) is an AI powered multi-format, multi-lingual and multi-channel Virtual Assistant, presently providing enquiry services to IRCTC users.",
+              "locator": "Selected passage 2: IRCTC annual report 2020-21, exchange-filed copy"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "2025-26 report was listed in the live report library but PDF retrieval failed; it is not presented as reviewed.",
+          "evidence": [
+            {
+              "source_id": "reg-irctc-report-mirror",
+              "quote": "Ask DISHA (Digital Interaction to Seek Help Any Time) is an AI powered multi-format, multi-lingual and multi-channel Virtual Assistant, presently providing enquiry services to IRCTC users.",
+              "locator": "Selected passage 2: IRCTC annual report 2020-21, exchange-filed copy"
+            }
+          ]
+        }
+      ],
+      "reviewed_as_of": "2026-10-05"
+    },
+    {
+      "system_id": "sys-advait",
+      "name": "ADVAIT",
+      "owner": "Central Board of Indirect Taxes and Customs",
+      "sector": "Tax administration",
+      "jurisdiction": "India",
+      "stage": "Historical rollout reported",
+      "latest_record_date": "2023-03-27",
+      "ai_basis": "Explicit AI in official source",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "CBIC's indirect-tax analytics project.",
+          "evidence": [
+            {
+              "source_id": "reg-tax",
+              "quote": "The Project ADVAIT (Advanced Analytics in Indirect Taxes) has been rolled out in 2021, as a flagship analytics project for Indirect Taxes, by Central Board for Indirect Taxes and Customs (CBIC).",
+              "locator": "Selected passage 1: Parliamentary explanation of ADVAIT and tax analytics"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "Supports officers' tax-compliance and evasion-detection work; not proof of fully automated tax determinations.",
+          "evidence": [
+            {
+              "source_id": "reg-tax",
+              "quote": "aid and assist officers in their day-to-day operations that range from reporting and ensuring tax compliance to detecting tax evasion.",
+              "locator": "Selected passage 3: Parliamentary explanation of ADVAIT and tax analytics"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "Rollout in 2021 stated by government in March 2023.",
+          "evidence": [
+            {
+              "source_id": "reg-tax",
+              "quote": "The Project ADVAIT (Advanced Analytics in Indirect Taxes) has been rolled out in 2021, as a flagship analytics project for Indirect Taxes, by Central Board for Indirect Taxes and Customs (CBIC).",
+              "locator": "Selected passage 1: Parliamentary explanation of ADVAIT and tax analytics"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current platform supplier/contract record not reviewed.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; component-specific award value or spending not established.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Big-data and AI capabilities stated; actual current model/version inventory and data lineage not verified.",
+          "evidence": [
+            {
+              "source_id": "reg-tax",
+              "quote": "The project uses capabilities of big data and Artificial Intelligence as well.",
+              "locator": "Selected passage 2: Parliamentary explanation of ADVAIT and tax analytics"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; independent error distributions or deployment-specific evaluation not established.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Official description is officer assistance; actual case-selection and override SOP not reviewed.",
+          "evidence": [
+            {
+              "source_id": "reg-tax",
+              "quote": "aid and assist officers in their day-to-day operations that range from reporting and ensuring tax compliance to detecting tax evasion.",
+              "locator": "Selected passage 3: Parliamentary explanation of ADVAIT and tax analytics"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific retention/processor/access-control evidence not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; ADVAIT-specific correction/appeal procedure not established; general tax remedies are not inferred.",
+          "evidence": []
+        },
+        {
+          "status": "Documented",
+          "statement": "Official parliamentary explanation retained.",
+          "evidence": [
+            {
+              "source_id": "reg-tax",
+              "quote": "The Project ADVAIT (Advanced Analytics in Indirect Taxes) has been rolled out in 2021, as a flagship analytics project for Indirect Taxes, by Central Board for Indirect Taxes and Customs (CBIC).",
+              "locator": "Selected passage 1: Parliamentary explanation of ADVAIT and tax analytics"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Historical rollout is not certification of October 2026 operation.",
+          "evidence": [
+            {
+              "source_id": "reg-tax",
+              "quote": "The Project ADVAIT (Advanced Analytics in Indirect Taxes) has been rolled out in 2021, as a flagship analytics project for Indirect Taxes, by Central Board for Indirect Taxes and Customs (CBIC).",
+              "locator": "Selected passage 1: Parliamentary explanation of ADVAIT and tax analytics"
+            }
+          ]
+        }
+      ],
+      "reviewed_as_of": "2026-10-05"
+    },
+    {
+      "system_id": "sys-insight",
+      "name": "Project Insight",
+      "owner": "Income Tax Department",
+      "sector": "Tax administration",
+      "jurisdiction": "India",
+      "stage": "Phased platform described",
+      "latest_record_date": null,
+      "ai_basis": "Analytics documented; project-specific AI model not verified",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "Income Tax Department's data-warehousing/compliance platform.",
+          "evidence": [
+            {
+              "source_id": "reg-insight-contract",
+              "quote": "The Income Tax Department has today signed a contract with L & T Infotech Ltd for implementation of Project Insight.",
+              "locator": "Selected passage 1: Project Insight signed-contract announcement"
+            },
+            {
+              "source_id": "reg-insight-portal",
+              "quote": "The project also operationalizes two new centres namely Income Tax Transaction Analysis Centre (INTRAC) and Compliance Management Centralized Processing Centre (CMCPC).",
+              "locator": "Selected passage 1: Project Insight reporting portal explanation"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "Data analytics supports tax-compliance work; autonomous final assessment not established.",
+          "evidence": [
+            {
+              "source_id": "reg-insight-portal",
+              "quote": "The Income Tax Transaction Analysis Centre (INTRAC) leverages data analytics in tax administration",
+              "locator": "Selected passage 2: Project Insight reporting portal explanation"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Historical contract and phased portal description retained; expected May 2017 date is not recorded as achieved go-live.",
+          "evidence": [
+            {
+              "source_id": "reg-insight-contract",
+              "quote": "The Project will be rolled out in three phases and the first phase is expected to go live in May 2017.",
+              "locator": "Selected passage 2: Project Insight signed-contract announcement"
+            },
+            {
+              "source_id": "reg-insight-portal",
+              "quote": "The project also operationalizes two new centres namely Income Tax Transaction Analysis Centre (INTRAC) and Compliance Management Centralized Processing Centre (CMCPC).",
+              "locator": "Selected passage 1: Project Insight reporting portal explanation"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Government announces a signed L & T Infotech contract; executed agreement/current continuation not reviewed.",
+          "evidence": [
+            {
+              "source_id": "reg-insight-contract",
+              "quote": "The Income Tax Department has today signed a contract with L & T Infotech Ltd for implementation of Project Insight.",
+              "locator": "Selected passage 1: Project Insight signed-contract announcement"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; signed-contract announcement reviewed here does not state an award amount.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "INTRAC analytics and centralized compliance centre described; current specific AI model not verified.",
+          "evidence": [
+            {
+              "source_id": "reg-insight-portal",
+              "quote": "The project also operationalizes two new centres namely Income Tax Transaction Analysis Centre (INTRAC) and Compliance Management Centralized Processing Centre (CMCPC).",
+              "locator": "Selected passage 1: Project Insight reporting portal explanation"
+            },
+            {
+              "source_id": "reg-insight-portal",
+              "quote": "The Income Tax Transaction Analysis Centre (INTRAC) leverages data analytics in tax administration",
+              "locator": "Selected passage 2: Project Insight reporting portal explanation"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; deployment-specific false-alert/evaluation distributions not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; specific model-flag review/override SOP not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific current retention and access-control enforcement not established.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Online compliance-response route described; model-specific contestability outcomes not established.",
+          "evidence": [
+            {
+              "source_id": "reg-insight-contract",
+              "quote": "enable taxpayers to resolve simple compliance related issues in an online manner without visiting the Income tax office.",
+              "locator": "Selected passage 3: Project Insight signed-contract announcement"
+            },
+            {
+              "source_id": "reg-insight-portal",
+              "quote": "A dedicated compliance portal would be used to capture response on compliance issues in a structured manner for effective compliance monitoring and evaluation.",
+              "locator": "Selected passage 3: Project Insight reporting portal explanation"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "Government contract announcement and portal description retained.",
+          "evidence": [
+            {
+              "source_id": "reg-insight-contract",
+              "quote": "The Income Tax Department has today signed a contract with L & T Infotech Ltd for implementation of Project Insight.",
+              "locator": "Selected passage 1: Project Insight signed-contract announcement"
+            },
+            {
+              "source_id": "reg-insight-portal",
+              "quote": "The project also operationalizes two new centres namely Income Tax Transaction Analysis Centre (INTRAC) and Compliance Management Centralized Processing Centre (CMCPC).",
+              "locator": "Selected passage 1: Project Insight reporting portal explanation"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Included as algorithmic-context record, not proof that all platform components are AI.",
+          "evidence": [
+            {
+              "source_id": "reg-insight-portal",
+              "quote": "The Income Tax Transaction Analysis Centre (INTRAC) leverages data analytics in tax administration",
+              "locator": "Selected passage 2: Project Insight reporting portal explanation"
+            }
+          ]
+        }
+      ],
+      "reviewed_as_of": "2026-10-05"
+    },
+    {
+      "system_id": "sys-rail-ids",
+      "name": "Elephant Intrusion Detection System",
+      "owner": "Indian Railways",
+      "sector": "Rail safety and wildlife",
+      "jurisdiction": "India; Northeast Frontier and other railway corridors",
+      "stage": "Reported operational",
+      "latest_record_date": "2026-10-05",
+      "ai_basis": "Explicit AI in official source",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "Indian Railways' acoustic-sensing elephant warning system.",
+          "evidence": [
+            {
+              "source_id": "reg-rail-ids",
+              "quote": "development of AI-enabled Intrusion Detection System (IDS) for detecting presence of elephants on Railway tracks using Distributed Acoustic Sensors (DAS).",
+              "locator": "Selected passage 1: Railway elephant IDS parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "Alerts railway personnel for preventive action; not verified autonomous train control.",
+          "evidence": [
+            {
+              "source_id": "reg-rail-ids",
+              "quote": "The system is designed to generate alerts for loco pilots, station masters and Control Room about the movement of elephants in proximity of railway tracks, for taking timely preventive action.",
+              "locator": "Selected passage 2: Railway elephant IDS parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "141 route-km official working extent in February; October outcome reporting is multi-intervention, not independently audited deployment telemetry.",
+          "evidence": [
+            {
+              "source_id": "reg-rail-ids",
+              "quote": "Presently, IDS system is working over 141 Rkms on critical & vulnerable locations identified by forest department in Northeast Frontier Railway.",
+              "locator": "Selected passage 3: Railway elephant IDS parliamentary explanation"
+            },
+            {
+              "source_id": "reg-rail-current",
+              "quote": "Northeast Frontier Railway says 255 elephants were saved from train collisions between January and September 2026 using AI-based alerts, 'Plan Bee', speed restrictions and enhanced vigilance.",
+              "locator": "Selected passage 1: NFR elephant-prevention reporting"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "News reports a Southern Railway award to MS Bitcom Technologies; executed award and current statewide/corridor contract lineage not reviewed.",
+          "evidence": [
+            {
+              "source_id": "reg-ids-award-report",
+              "quote": "contract was awarded on August 1 for the cost of Rs 7.85 crore in Kerala region and Rs 11.14 crore in Tamil Nadu region to MS Bitcom Technologies, Noida.",
+              "locator": "Selected passage 1: Southern Railway IDS contract reporting"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Two regional contract values reported in news; not an official expenditure ledger.",
+          "evidence": [
+            {
+              "source_id": "reg-ids-award-report",
+              "quote": "contract was awarded on August 1 for the cost of Rs 7.85 crore in Kerala region and Rs 11.14 crore in Tamil Nadu region to MS Bitcom Technologies, Noida.",
+              "locator": "Selected passage 1: Southern Railway IDS contract reporting"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "DAS and optical-fibre sensing described; deployed model/signature/version inventory not verified.",
+          "evidence": [
+            {
+              "source_id": "reg-rail-ids",
+              "quote": "development of AI-enabled Intrusion Detection System (IDS) for detecting presence of elephants on Railway tracks using Distributed Acoustic Sensors (DAS).",
+              "locator": "Selected passage 1: Railway elephant IDS parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "RDSO 100% detection and maximum 5% false-alarm share are specification requirements, not achieved measurements.",
+          "evidence": [
+            {
+              "source_id": "reg-ids-specification",
+              "quote": "The system is expected to be capable of detecting the primary events (clause 3) without fail (100% success rate of detection).",
+              "locator": "Selected passage 1: RDSO elephant IDS specification v1.0"
+            },
+            {
+              "source_id": "reg-ids-specification",
+              "quote": "The alarms if found false in physical verification shall not exceed 5% of all the alarms being generated per section per month or as defined by user Railway.",
+              "locator": "Selected passage 2: RDSO elephant IDS specification v1.0"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Alerts go to loco pilots/station masters/control room; actual handling logs not reviewed.",
+          "evidence": [
+            {
+              "source_id": "reg-rail-ids",
+              "quote": "The system is designed to generate alerts for loco pilots, station masters and Control Room about the movement of elephants in proximity of railway tracks, for taking timely preventive action.",
+              "locator": "Selected passage 2: Railway elephant IDS parliamentary explanation"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; complete operational retention/security configuration not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; system-specific incident correction/escalation outcomes not established.",
+          "evidence": []
+        },
+        {
+          "status": "Documented",
+          "statement": "Official working-extent statement, specification and later reporting retained.",
+          "evidence": [
+            {
+              "source_id": "reg-rail-ids",
+              "quote": "Presently, IDS system is working over 141 Rkms on critical & vulnerable locations identified by forest department in Northeast Frontier Railway.",
+              "locator": "Selected passage 3: Railway elephant IDS parliamentary explanation"
+            },
+            {
+              "source_id": "reg-ids-specification",
+              "quote": "The alarms if found false in physical verification shall not exceed 5% of all the alarms being generated per section per month or as defined by user Railway.",
+              "locator": "Selected passage 2: RDSO elephant IDS specification v1.0"
+            },
+            {
+              "source_id": "reg-rail-current",
+              "quote": "Northeast Frontier Railway says 255 elephants were saved from train collisions between January and September 2026 using AI-based alerts, 'Plan Bee', speed restrictions and enhanced vigilance.",
+              "locator": "Selected passage 1: NFR elephant-prevention reporting"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "October headline aggregate 255 differs from division sum 257; causes and contribution of AI alone not established.",
+          "evidence": [
+            {
+              "source_id": "reg-rail-current",
+              "quote": "Northeast Frontier Railway says 255 elephants were saved from train collisions between January and September 2026 using AI-based alerts, 'Plan Bee', speed restrictions and enhanced vigilance.",
+              "locator": "Selected passage 1: NFR elephant-prevention reporting"
+            },
+            {
+              "source_id": "reg-rail-current",
+              "quote": "including 106 in Alipurduar Division, 14 in Rangiya, 122 in Lumding and 15 in Tinsukia Division",
+              "locator": "Selected passage 2: NFR elephant-prevention reporting"
+            }
+          ]
+        }
+      ],
+      "reviewed_as_of": "2026-10-05"
+    },
+    {
+      "system_id": "sys-plcs",
+      "name": "Pensioners Life Certificate through Selfie (PLCS)",
+      "owner": "Telangana Electronic Service Delivery",
+      "sector": "Pension identity and access",
+      "jurisdiction": "Telangana",
+      "stage": "Historical use reported",
+      "latest_record_date": null,
+      "ai_basis": "Explicit AI in government-hosted case study",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "Telangana ESD lists PLCS as an RTDAI use case.",
+          "evidence": [
+            {
+              "source_id": "reg-telangana-esd",
+              "quote": "PLCS is the first usecase of RTDAI and has been launched in April, 2019.",
+              "locator": "Selected passage 1: Telangana Electronic Services Delivery initiatives"
+            },
+            {
+              "source_id": "reg-telangana-esd",
+              "quote": "RTDAI enables a document-less, presence-less governance mechanism using Big Data, AI, ML, etc.",
+              "locator": "Selected passage 4: Telangana Electronic Services Delivery initiatives"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "Liveness, demographics and image comparison support pensioner authentication; direct benefit cancellation not established.",
+          "evidence": [
+            {
+              "source_id": "reg-plcs",
+              "quote": "PLCS uses an artificial intelligence-based liveness check solution, big data and machine learning based demographic check solution, and deep learning-based image comparison solution.",
+              "locator": "Selected passage 1: Telangana PLCS IndiaAI case study"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Government page dates launch to April 2019; current operational coverage not established from undated page.",
+          "evidence": [
+            {
+              "source_id": "reg-telangana-esd",
+              "quote": "PLCS is the first usecase of RTDAI and has been launched in April, 2019.",
+              "locator": "Selected passage 1: Telangana Electronic Services Delivery initiatives"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current component supplier and executed award not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; component award value or spending not established.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Identity/demographic inputs and live photograph described; complete current data lineage not verified.",
+          "evidence": [
+            {
+              "source_id": "reg-plcs-faq",
+              "quote": "User has to register by providing relevant details like Bank Account Number or PPO ID, Name, Voter Card Number, Assembly Constituency ID along with user's live photo.",
+              "locator": "Selected passage 1: Telangana mobile-service FAQ"
+            },
+            {
+              "source_id": "reg-plcs",
+              "quote": "PLCS uses an artificial intelligence-based liveness check solution, big data and machine learning based demographic check solution, and deep learning-based image comparison solution.",
+              "locator": "Selected passage 1: Telangana PLCS IndiaAI case study"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Case study reports about 93% success and a possible 96–98% trajectory; sample, error definition and independent validation not provided here.",
+          "evidence": [
+            {
+              "source_id": "reg-plcs",
+              "quote": "The success rate in authentication of pensioners is about 93 per cent, and it can be as high as 96-98 per cent as the system learns and improves over time.",
+              "locator": "Selected passage 2: Telangana PLCS IndiaAI case study"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current rejection alternative, exception and human override SOP not verified.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; service-specific retention and processor controls not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; model-specific rejection/correction appeal route not established.",
+          "evidence": []
+        },
+        {
+          "status": "Documented",
+          "statement": "Government service and FAQ records and an editorial case study retained.",
+          "evidence": [
+            {
+              "source_id": "reg-telangana-esd",
+              "quote": "PLCS is the first usecase of RTDAI and has been launched in April, 2019.",
+              "locator": "Selected passage 1: Telangana Electronic Services Delivery initiatives"
+            },
+            {
+              "source_id": "reg-plcs-faq",
+              "quote": "User has to register by providing relevant details like Bank Account Number or PPO ID, Name, Voter Card Number, Assembly Constituency ID along with user's live photo.",
+              "locator": "Selected passage 1: Telangana mobile-service FAQ"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Historical success claim is not a measured current accuracy result or certification of October service availability.",
+          "evidence": [
+            {
+              "source_id": "reg-plcs",
+              "quote": "The success rate in authentication of pensioners is about 93 per cent, and it can be as high as 96-98 per cent as the system learns and improves over time.",
+              "locator": "Selected passage 2: Telangana PLCS IndiaAI case study"
+            }
+          ]
+        }
+      ],
+      "reviewed_as_of": "2026-10-05"
+    },
+    {
+      "system_id": "sys-fest",
+      "name": "RTA FEST",
+      "owner": "Telangana Transport Department",
+      "sector": "Transport licensing and access",
+      "jurisdiction": "Telangana",
+      "stage": "Historical use reported",
+      "latest_record_date": null,
+      "ai_basis": "RTDAI AI context; component model not verified",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "Transport Department services through Telangana ESD's FEST initiative.",
+          "evidence": [
+            {
+              "source_id": "reg-telangana-esd",
+              "quote": "Through Friendly Electronic Services of Transport (FEST), launched in July, 2020, the citizens of Telangana can avail numerous services of the Transport Department through a Smartphone",
+              "locator": "Selected passage 2: Telangana Electronic Services Delivery initiatives"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "Smartphone access to transport services; required driving tests/vehicle inspection remain outside contactless scope.",
+          "evidence": [
+            {
+              "source_id": "reg-telangana-esd",
+              "quote": "Through Friendly Electronic Services of Transport (FEST), launched in July, 2020, the citizens of Telangana can avail numerous services of the Transport Department through a Smartphone",
+              "locator": "Selected passage 2: Telangana Electronic Services Delivery initiatives"
+            },
+            {
+              "source_id": "reg-telangana-esd",
+              "quote": "Except for services where a driving test or physical inspection of the vehicle is required, all services would be offered in a contactless and presence-less manner through FEST.",
+              "locator": "Selected passage 3: Telangana Electronic Services Delivery initiatives"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "July 2020 launch stated; current per-service active coverage not established.",
+          "evidence": [
+            {
+              "source_id": "reg-telangana-esd",
+              "quote": "Through Friendly Electronic Services of Transport (FEST), launched in July, 2020, the citizens of Telangana can avail numerous services of the Transport Department through a Smartphone",
+              "locator": "Selected passage 2: Telangana Electronic Services Delivery initiatives"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; current executed component contracts and supplier chain not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; service-specific contract value and spending not established.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Listed within RTDAI service context; specific deployed models/versions/data flows not verified.",
+          "evidence": [
+            {
+              "source_id": "reg-telangana-esd",
+              "quote": "RTDAI enables a document-less, presence-less governance mechanism using Big Data, AI, ML, etc.",
+              "locator": "Selected passage 4: Telangana Electronic Services Delivery initiatives"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; independent service-specific rejection/error evaluation not established.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Physical tests/inspections expressly excepted; current biometric-error override SOP not reviewed.",
+          "evidence": [
+            {
+              "source_id": "reg-telangana-esd",
+              "quote": "Except for services where a driving test or physical inspection of the vehicle is required, all services would be offered in a contactless and presence-less manner through FEST.",
+              "locator": "Selected passage 3: Telangana Electronic Services Delivery initiatives"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; service-specific retention and processor controls not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; FEST-specific automated-authentication appeal outcome not established.",
+          "evidence": []
+        },
+        {
+          "status": "Documented",
+          "statement": "Government service-description page retained.",
+          "evidence": [
+            {
+              "source_id": "reg-telangana-esd",
+              "quote": "Through Friendly Electronic Services of Transport (FEST), launched in July, 2020, the citizens of Telangana can avail numerous services of the Transport Department through a Smartphone",
+              "locator": "Selected passage 2: Telangana Electronic Services Delivery initiatives"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Historical launch and broad RTDAI context are not proof every current transport function uses AI.",
+          "evidence": [
+            {
+              "source_id": "reg-telangana-esd",
+              "quote": "Through Friendly Electronic Services of Transport (FEST), launched in July, 2020, the citizens of Telangana can avail numerous services of the Transport Department through a Smartphone",
+              "locator": "Selected passage 2: Telangana Electronic Services Delivery initiatives"
+            },
+            {
+              "source_id": "reg-telangana-esd",
+              "quote": "RTDAI enables a document-less, presence-less governance mechanism using Big Data, AI, ML, etc.",
+              "locator": "Selected passage 4: Telangana Electronic Services Delivery initiatives"
+            }
+          ]
+        }
+      ],
+      "reviewed_as_of": "2026-10-05"
+    },
+    {
+      "system_id": "sys-epaarvai",
+      "name": "e-Paarvai",
+      "owner": "Tamil Nadu e-Governance Agency and Tamil Nadu State Control Blindness Society",
+      "sector": "Public healthcare",
+      "jurisdiction": "Tamil Nadu",
+      "stage": "Historical field use reported",
+      "latest_record_date": "2023-08-01",
+      "ai_basis": "Explicit AI in government and research sources",
+      "fields": [
+        {
+          "status": "Documented",
+          "statement": "TNeGA/NHM-developed screening app used by TNSBCS according to government-hosted case.",
+          "evidence": [
+            {
+              "source_id": "reg-paarvai-listing",
+              "quote": "NHM in collaboration with TNeGA developed an AI-based Android mobile application",
+              "locator": "Selected passage 1: e-Paarvai TNeGA app listing"
+            },
+            {
+              "source_id": "reg-paarvai-state-case",
+              "quote": "The e-Paarvai app is currently being used by the Tamil Nadu State Control Blindness Society (TNSBCS) to screen citizens in more than 30 districts in Tamil Nadu.",
+              "locator": "Selected passage 1: Government-hosted e-Paarvai implementation case"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "Field-worker cataract screening/classification supports referral; not autonomous surgery eligibility.",
+          "evidence": [
+            {
+              "source_id": "reg-paarvai-state-case",
+              "quote": "The AI Model is rolled out using an Android App (e-Paarvai) where the field workers capture the eye of the patient and know whether they have mature cataract, immature cataract, IOL or no cataract.",
+              "locator": "Selected passage 2: Government-hosted e-Paarvai implementation case"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Undated case describes more than 30 districts; 2022 field study is dated research, not October deployment coverage.",
+          "evidence": [
+            {
+              "source_id": "reg-paarvai-state-case",
+              "quote": "The e-Paarvai app is currently being used by the Tamil Nadu State Control Blindness Society (TNSBCS) to screen citizens in more than 30 districts in Tamil Nadu.",
+              "locator": "Selected passage 1: Government-hosted e-Paarvai implementation case"
+            },
+            {
+              "source_id": "reg-paarvai-study",
+              "quote": "In this prospective diagnostic study conducted between January and April 2022 at a large tertiary-care eye hospital in South India, two screeners were trained to use the app.",
+              "locator": "Selected passage 1: e-Paarvai cataract field study"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "TNeGA/NHM developer roles documented; production component contract/vendor inventory not established.",
+          "evidence": [
+            {
+              "source_id": "reg-paarvai-listing",
+              "quote": "NHM in collaboration with TNeGA developed an AI-based Android mobile application",
+              "locator": "Selected passage 1: e-Paarvai TNeGA app listing"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; deployment budget or maintenance expenditure not established.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Eye images and four-way screening classification described; complete current model/version/data inventory not verified.",
+          "evidence": [
+            {
+              "source_id": "reg-paarvai-state-case",
+              "quote": "The AI Model is rolled out using an Android App (e-Paarvai) where the field workers capture the eye of the patient and know whether they have mature cataract, immature cataract, IOL or no cataract.",
+              "locator": "Selected passage 2: Government-hosted e-Paarvai implementation case"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "Published field study reports sensitivity 96%, specificity 25% and accuracy 88% on 2,619 eyes/1,407 selected patients; not a general population/current-version benchmark.",
+          "evidence": [
+            {
+              "source_id": "reg-paarvai-study",
+              "quote": "In this prospective diagnostic study conducted between January and April 2022 at a large tertiary-care eye hospital in South India, two screeners were trained to use the app.",
+              "locator": "Selected passage 1: e-Paarvai cataract field study"
+            },
+            {
+              "source_id": "reg-paarvai-study",
+              "quote": "Patients aged >40 years and with a best-corrected visual acuity <20/40 were recruited for the study.",
+              "locator": "Selected passage 2: e-Paarvai cataract field study"
+            },
+            {
+              "source_id": "reg-paarvai-study",
+              "quote": "The two screeners used the app to screen 2,619 eyes of 1,407 patients. In detecting cataracts, the app showed high sensitivity (96%) but low specificity (25%), an overall accuracy of 88%, a PPV of 92.3%, and an NPV of 57.8%.",
+              "locator": "Selected passage 3: e-Paarvai cataract field study"
+            },
+            {
+              "source_id": "reg-paarvai-study",
+              "quote": "The diagnosis of the app was compared with that of trained ophthalmologists based on slit-lamp examinations, the gold standard",
+              "locator": "Selected passage 4: e-Paarvai cataract field study"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Field workers operate app and study compares ophthalmologists; current referral/override SOP not verified.",
+          "evidence": [
+            {
+              "source_id": "reg-paarvai-state-case",
+              "quote": "The AI Model is rolled out using an Android App (e-Paarvai) where the field workers capture the eye of the patient and know whether they have mature cataract, immature cataract, IOL or no cataract.",
+              "locator": "Selected passage 2: Government-hosted e-Paarvai implementation case"
+            },
+            {
+              "source_id": "reg-paarvai-study",
+              "quote": "The diagnosis of the app was compared with that of trained ophthalmologists based on slit-lamp examinations, the gold standard",
+              "locator": "Selected passage 4: e-Paarvai cataract field study"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "App-store developer declares no data collected and deletion request option; declaration is not a live data-flow audit.",
+          "evidence": [
+            {
+              "source_id": "reg-paarvai-listing",
+              "quote": "No data collected",
+              "locator": "Selected passage 2: e-Paarvai TNeGA app listing"
+            },
+            {
+              "source_id": "reg-paarvai-listing",
+              "quote": "You can request that data be deleted",
+              "locator": "Selected passage 3: e-Paarvai TNeGA app listing"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Developer support contact published; clinical-error review/remedy not verified.",
+          "evidence": [
+            {
+              "source_id": "reg-paarvai-listing",
+              "quote": "info.tnega@tn.gov.in",
+              "locator": "Selected passage 4: e-Paarvai TNeGA app listing"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "Public implementation case, developer listing and full published field study retained.",
+          "evidence": [
+            {
+              "source_id": "reg-paarvai-state-case",
+              "quote": "The e-Paarvai app is currently being used by the Tamil Nadu State Control Blindness Society (TNSBCS) to screen citizens in more than 30 districts in Tamil Nadu.",
+              "locator": "Selected passage 1: Government-hosted e-Paarvai implementation case"
+            },
+            {
+              "source_id": "reg-paarvai-study",
+              "quote": "The two screeners used the app to screen 2,619 eyes of 1,407 patients. In detecting cataracts, the app showed high sensitivity (96%) but low specificity (25%), an overall accuracy of 88%, a PPV of 92.3%, and an NPV of 57.8%.",
+              "locator": "Selected passage 3: e-Paarvai cataract field study"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Current rollout, later model versions and actual privacy compliance not independently verified.",
+          "evidence": [
+            {
+              "source_id": "reg-paarvai-state-case",
+              "quote": "The e-Paarvai app is currently being used by the Tamil Nadu State Control Blindness Society (TNSBCS) to screen citizens in more than 30 districts in Tamil Nadu.",
+              "locator": "Selected passage 1: Government-hosted e-Paarvai implementation case"
+            },
+            {
+              "source_id": "reg-paarvai-listing",
+              "quote": "No data collected",
+              "locator": "Selected passage 2: e-Paarvai TNeGA app listing"
+            }
+          ]
+        }
+      ],
+      "reviewed_as_of": "2026-10-05"
+    },
+    {
+      "system_id": "sys-bmc-tb",
+      "name": "BMC–Qure.ai AI-assisted TB screening pilot",
+      "owner": "Brihanmumbai Municipal Corporation",
+      "sector": "Public healthcare",
+      "jurisdiction": "Mumbai, Maharashtra",
+      "stage": "Historical pilot reported",
+      "latest_record_date": "2023-03-29",
+      "ai_basis": "AI in attributed institutional reporting; specific product/version not verified",
+      "fields": [
+        {
+          "status": "Partial",
+          "statement": "Government-hosted news attributes a nine-hospital pilot to BMC and Qure.ai; direct signed agency records not reviewed.",
+          "evidence": [
+            {
+              "source_id": "reg-qxr-bmc",
+              "quote": "around 1 lakh people underwent AI-powered x-ray scans for diagnosing TB at nine BMC hospitals in 2021 and 2022. BMC, along with qure.ai, a digital start-up company, initiated this study.",
+              "locator": "Selected passage 1: BMC–Qure.ai TB screening pilot reporting"
+            }
+          ]
+        },
+        {
+          "status": "Documented",
+          "statement": "AI-assisted X-ray screening flags presumptive cases for clinical evaluation/sputum confirmation; not sole confirmed diagnosis.",
+          "evidence": [
+            {
+              "source_id": "reg-qxr-bmc",
+              "quote": "Almost 57,781 patients have undergone the screening of AI-powered x-ray scanners at civic hospitals as a part of the project. 10,225 people were marked as having presumptive TB.",
+              "locator": "Selected passage 2: BMC–Qure.ai TB screening pilot reporting"
+            },
+            {
+              "source_id": "reg-qxr-bmc",
+              "quote": "when around 9,702 were asked to return for the clinical evaluation and sputum collection to confirm the diagnosis, only 2,376 turned up, among which 704 turned out to have confirmed TB diagnosis.",
+              "locator": "Selected passage 3: BMC–Qure.ai TB screening pilot reporting"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "2021–2022 pilot reported in 2023; current coverage not verified.",
+          "evidence": [
+            {
+              "source_id": "reg-qxr-bmc",
+              "quote": "around 1 lakh people underwent AI-powered x-ray scans for diagnosing TB at nine BMC hospitals in 2021 and 2022. BMC, along with qure.ai, a digital start-up company, initiated this study.",
+              "locator": "Selected passage 1: BMC–Qure.ai TB screening pilot reporting"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Qure.ai is a named pilot partner; exact product/version and executed agreement not established.",
+          "evidence": [
+            {
+              "source_id": "reg-qxr-bmc",
+              "quote": "around 1 lakh people underwent AI-powered x-ray scans for diagnosing TB at nine BMC hospitals in 2021 and 2022. BMC, along with qure.ai, a digital start-up company, initiated this study.",
+              "locator": "Selected passage 1: BMC–Qure.ai TB screening pilot reporting"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; executed pilot contract value or funding/disbursement record not established.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Chest X-ray screening described; complete current clinical-data lineage and product version not established.",
+          "evidence": [
+            {
+              "source_id": "reg-qxr-bmc",
+              "quote": "Almost 57,781 patients have undergone the screening of AI-powered x-ray scanners at civic hospitals as a part of the project. 10,225 people were marked as having presumptive TB.",
+              "locator": "Selected passage 2: BMC–Qure.ai TB screening pilot reporting"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Reported screening/referral/confirmation counts are workflow observations, not a diagnostic sensitivity/specificity validation.",
+          "evidence": [
+            {
+              "source_id": "reg-qxr-bmc",
+              "quote": "Almost 57,781 patients have undergone the screening of AI-powered x-ray scanners at civic hospitals as a part of the project. 10,225 people were marked as having presumptive TB.",
+              "locator": "Selected passage 2: BMC–Qure.ai TB screening pilot reporting"
+            },
+            {
+              "source_id": "reg-qxr-bmc",
+              "quote": "when around 9,702 were asked to return for the clinical evaluation and sputum collection to confirm the diagnosis, only 2,376 turned up, among which 704 turned out to have confirmed TB diagnosis.",
+              "locator": "Selected passage 3: BMC–Qure.ai TB screening pilot reporting"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "Clinical evaluation and sputum confirmation follow flags; current override/adverse-event protocol not established.",
+          "evidence": [
+            {
+              "source_id": "reg-qxr-bmc",
+              "quote": "when around 9,702 were asked to return for the clinical evaluation and sputum collection to confirm the diagnosis, only 2,376 turned up, among which 704 turned out to have confirmed TB diagnosis.",
+              "locator": "Selected passage 3: BMC–Qure.ai TB screening pilot reporting"
+            }
+          ]
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; deployment-specific retention and processor terms not established.",
+          "evidence": []
+        },
+        {
+          "status": "Not verified",
+          "statement": "n.a.; patient correction/AI-error review and remedy outcome not established.",
+          "evidence": []
+        },
+        {
+          "status": "Partial",
+          "statement": "Attributed reporting retained; no direct operational registry or signed agreement reviewed.",
+          "evidence": [
+            {
+              "source_id": "reg-qxr-bmc",
+              "quote": "around 1 lakh people underwent AI-powered x-ray scans for diagnosing TB at nine BMC hospitals in 2021 and 2022. BMC, along with qure.ai, a digital start-up company, initiated this study.",
+              "locator": "Selected passage 1: BMC–Qure.ai TB screening pilot reporting"
+            }
+          ]
+        },
+        {
+          "status": "Partial",
+          "statement": "An unrelated qXR study in Nigeria and vendor-global impact numbers are not assigned to this Indian pilot.",
+          "evidence": [
+            {
+              "source_id": "reg-qxr-bmc",
+              "quote": "around 1 lakh people underwent AI-powered x-ray scans for diagnosing TB at nine BMC hospitals in 2021 and 2022. BMC, along with qure.ai, a digital start-up company, initiated this study.",
+              "locator": "Selected passage 1: BMC–Qure.ai TB screening pilot reporting"
+            }
+          ]
+        }
+      ],
+      "name_basis": "Descriptive institutional pilot label; qXR/version linkage not verified",
+      "reviewed_as_of": "2026-10-05"
+    }
+  ],
+  "details": [
+    {
+      "table": "deployments",
+      "system_id": "sys-digiyatra",
+      "values": {
+        "event_date": "2026-05-30",
+        "date_precision": "day",
+        "stage": "Reported operational",
+        "place": "38 airports",
+        "description": "Official May coverage; not later October coverage."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-digi-scale",
+          "quote": "Right now, Digi Yatra is active at 38 airports, and by next year, 27 more airports will be enabled.",
+          "locator": "Selected passage 1: Digi Yatra May 2026 usage milestone"
+        }
+      ]
+    },
+    {
+      "table": "deployments",
+      "system_id": "sys-digiyatra",
+      "values": {
+        "event_date": "2026-08-06",
+        "date_precision": "day",
+        "stage": "Reported operational",
+        "place": "39 airports",
+        "description": "Parliamentary availability; not independent site audit."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-digi-parliament",
+          "quote": "Starting with 3 airports in December 2022, Digi Yatra is now available at 39 airports.",
+          "locator": "Selected passage 1: Digi Yatra expansion parliamentary answer"
+        }
+      ]
+    },
+    {
+      "table": "metrics",
+      "system_id": "sys-digiyatra",
+      "values": {
+        "metric_name": "Reported usage",
+        "value": 107500000,
+        "unit": "uses",
+        "metric_kind": "Usage self-report",
+        "measurement_scope": "Cumulative to August parliamentary answer; not unique travellers",
+        "denominator": null
+      },
+      "evidence": [
+        {
+          "source_id": "reg-digi-parliament",
+          "quote": "Since launch, Digi Yatra app has been downloaded over 2.5 Crore times and it has been used more than 10.75 Crore times by passengers to travel through Digi Yatra enabled airports.",
+          "locator": "Selected passage 2: Digi Yatra expansion parliamentary answer"
+        }
+      ]
+    },
+    {
+      "table": "controls",
+      "system_id": "sys-digiyatra",
+      "values": {
+        "control_type": "Alternative process",
+        "implementation_basis": "Historical guideline",
+        "description": "Non-biometric entry process retained in 2021 guidelines; current practice not tested."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-digi-guidelines",
+          "quote": "AIRPORT ENTRY GATE. NON-BIOMETRIC PROCESS (PASSENGER WITHOUT DIGI YATRA ID TRAVEL CREDENTIAL/ BIOMETRIC REGISTRATION)",
+          "locator": "Selected passage 1: Digi Yatra Biometric Boarding Guidelines v7.8"
+        }
+      ]
+    },
+    {
+      "table": "policies",
+      "system_id": "sys-digiyatra",
+      "values": {
+        "title": "Digi Yatra Biometric Boarding Guidelines v7.8",
+        "status": "Historical operating guideline",
+        "relation": "Direct system guideline; current implementation unverified"
+      },
+      "evidence": [
+        {
+          "source_id": "reg-digi-guidelines",
+          "quote": "AIRPORT ENTRY GATE. NON-BIOMETRIC PROCESS (PASSENGER WITHOUT DIGI YATRA ID TRAVEL CREDENTIAL/ BIOMETRIC REGISTRATION)",
+          "locator": "Selected passage 1: Digi Yatra Biometric Boarding Guidelines v7.8"
+        }
+      ]
+    },
+    {
+      "table": "deployments",
+      "system_id": "sys-bhashini",
+      "values": {
+        "event_date": "2026-07-02",
+        "date_precision": "day",
+        "stage": "Reported operational",
+        "place": "India government services",
+        "description": "Platform-level activity, not 800 separately inventoried deployments."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-bhashini-scale",
+          "quote": "BHASHINI powers over 800 government websites, processes more than 20 million AI inferences every day, and has enabled over 8 billion cumulative AI inferences.",
+          "locator": "Selected passage 1: BHASHINI July 2026 service activity"
+        }
+      ]
+    },
+    {
+      "table": "deployments",
+      "system_id": "sys-bhashini",
+      "values": {
+        "event_date": "2026-09-30",
+        "date_precision": "day",
+        "stage": "Launch reported",
+        "place": "Comptroller and Auditor General of India",
+        "institution_name": "Comptroller and Auditor General of India",
+        "description": "CAG-BHASHINI Anuvaad named launch; no completed output audit."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-cag-bhashini",
+          "quote": "today launched “CAG-BHASHINI Anuvaad” , an AI-enabled document translation solution developed by BHASHINI to support the translation of official CAG documents and audit-related reports.",
+          "locator": "Selected passage 1: CAG-BHASHINI Anuvaad launch"
+        }
+      ]
+    },
+    {
+      "table": "metrics",
+      "system_id": "sys-bhashini",
+      "values": {
+        "metric_name": "Daily AI inferences",
+        "value": 24000000,
+        "unit": "inferences/day",
+        "metric_kind": "Usage self-report",
+        "measurement_scope": "September government statement says over this value; not unique users or quality",
+        "denominator": null
+      },
+      "evidence": [
+        {
+          "source_id": "reg-cag-bhashini",
+          "quote": "BHASHINI powers over 800 government websites, has enabled more than 9 billion cumulative AI inferences, processes over 24 million AI inferences daily",
+          "locator": "Selected passage 3: CAG-BHASHINI Anuvaad launch"
+        }
+      ]
+    },
+    {
+      "table": "controls",
+      "system_id": "sys-bhashini",
+      "values": {
+        "control_type": "Human review",
+        "implementation_basis": "Government design statement and terms",
+        "description": "Human oversight described; users must verify outputs. Operational review logs not reviewed."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-cag-bhashini",
+          "quote": "while complementing existing institutional processes and maintaining appropriate human oversight.",
+          "locator": "Selected passage 2: CAG-BHASHINI Anuvaad launch"
+        },
+        {
+          "source_id": "reg-bhashini-terms",
+          "quote": "The User is solely responsible for verifying the accuracy and appropriateness of any result obtained from the Platform before any reliance or dissemination.",
+          "locator": "Selected passage 2: BHASHINI terms of use"
+        }
+      ]
+    },
+    {
+      "table": "deployments",
+      "system_id": "sys-kisan-emitra",
+      "values": {
+        "event_date": "2023",
+        "date_precision": "year",
+        "stage": "Launch reported",
+        "place": "India",
+        "description": "Launch year only; exact day not assigned from an unreviewed source."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-kisan",
+          "quote": "Kisan e-Mitra, launched in 2023, is a voice-enabled, AI-powered chatbot designed to support farmers by answering queries on key government schemes",
+          "locator": "Selected passage 1: AI agriculture backgrounder: Kisan e-Mitra"
+        }
+      ]
+    },
+    {
+      "table": "metrics",
+      "system_id": "sys-kisan-emitra",
+      "values": {
+        "metric_name": "Answered queries",
+        "value": 9300000,
+        "unit": "queries",
+        "metric_kind": "Usage self-report",
+        "measurement_scope": "More than this value as of December 2025; not verified successful grievances",
+        "denominator": null
+      },
+      "evidence": [
+        {
+          "source_id": "reg-kisan",
+          "quote": "As of December 2025, it has successfully responded to more than 93 lakh queries",
+          "locator": "Selected passage 3: AI agriculture backgrounder: Kisan e-Mitra"
+        }
+      ]
+    },
+    {
+      "table": "system_institutions",
+      "system_id": "sys-kisan-emitra",
+      "values": {
+        "name": "SamagraX",
+        "role": "Developer portfolio association; executed award unverified"
+      },
+      "evidence": [
+        {
+          "source_id": "reg-kisan-developer",
+          "quote": "A pan-India informational chatbot that responds to farmer queries and offers transparency around the application status, eligibility, and other information related to the PM-Kisan scheme.",
+          "locator": "Selected passage 1: SamagraX Kisan e-Mitra developer portfolio"
+        }
+      ]
+    },
+    {
+      "table": "system_links",
+      "system_id": "sys-kisan-emitra",
+      "values": {
+        "target_system_id": "sys-bhashini",
+        "relation": "Developer-reported integration",
+        "note": "Not a verified current component contract"
+      },
+      "evidence": [
+        {
+          "source_id": "reg-kisan-developer",
+          "quote": "Integrated with BHASHINI, Kisan e-Mitra allows farmers to speak or type in their queries in over 11 languages",
+          "locator": "Selected passage 2: SamagraX Kisan e-Mitra developer portfolio"
+        }
+      ]
+    },
+    {
+      "table": "issues",
+      "system_id": "sys-kisan-emitra",
+      "values": {
+        "issue_type": "Unreconciled usage wording",
+        "description": "August 2025 answer says over 95 lakh queries resolved as of 15 July; February 2026 backgrounder says over 93 lakh queries responded to as of December 2025. Lower bounds and different wording are not necessarily a decrease, but definitions and consistency were not reconciled."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-kisan-parliament",
+          "quote": "The chatbot had resolved over 95 lakh queries from 53 lakh farmers as on 15.07.2025.",
+          "locator": "Selected passage 3: Farmer grievance-redress parliamentary answer"
+        },
+        {
+          "source_id": "reg-kisan",
+          "quote": "As of December 2025, it has successfully responded to more than 93 lakh queries",
+          "locator": "Selected passage 3: AI agriculture backgrounder: Kisan e-Mitra"
+        }
+      ]
+    },
+    {
+      "table": "deployments",
+      "system_id": "sys-bharat-vistaar",
+      "values": {
+        "event_date": "2026-02-17",
+        "date_precision": "day",
+        "stage": "Phase-I launch reported",
+        "place": "India; Phase-I Hindi and English",
+        "description": "Launch date from March government explanation."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-vistaar",
+          "quote": "In the Phase I launched on 17th February, 2026, the platform is available in Hindi and English languages",
+          "locator": "Selected passage 2: Bharat-VISTAAR rollout parliamentary explanation"
+        }
+      ]
+    },
+    {
+      "table": "procurements",
+      "system_id": "sys-bharat-vistaar",
+      "values": {
+        "record_type": "Budget allocation statement",
+        "award_date": null,
+        "amount_inr": 1500000000,
+        "amount_type": "Allocation; not spending",
+        "supplier_name": null,
+        "current_deployment_link": "Platform allocation; no reviewed executed award",
+        "description": "Union Budget 2026-27 allocation reported as Rs 150 crore."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-vistaar",
+          "quote": "a multilingual Artificial intelligence (AI) powered tool, has been announced in the Union Budget 2026–27 with an total allocation of Rs. 150 Crore",
+          "locator": "Selected passage 1: Bharat-VISTAAR rollout parliamentary explanation"
+        }
+      ]
+    },
+    {
+      "table": "issues",
+      "system_id": "sys-bharat-vistaar",
+      "values": {
+        "issue_type": "Scope tension",
+        "description": "Dated Phase-I Hindi/English versus undated 22+ language portal; later expansion may explain the difference but is not verified."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-vistaar",
+          "quote": "In the Phase I launched on 17th February, 2026, the platform is available in Hindi and English languages",
+          "locator": "Selected passage 2: Bharat-VISTAAR rollout parliamentary explanation"
+        },
+        {
+          "source_id": "reg-vistaar-portal",
+          "quote": "Interface and audio content available in 22+ regional Indian languages.",
+          "locator": "Selected passage 1: Bharat-VISTAAR service portal"
+        }
+      ]
+    },
+    {
+      "table": "system_institutions",
+      "system_id": "sys-askdisha",
+      "values": {
+        "name": "CoRover Private Limited",
+        "role": "Technical partner in 2020-21 report; current agreement unverified"
+      },
+      "evidence": [
+        {
+          "source_id": "reg-irctc-report-mirror",
+          "quote": "With the success of its AI-based Chatbot in its digital journey, IRCTC with its technical partner CoRover Private Limited, a Bengaluru based conversational AI start-up",
+          "locator": "Selected passage 1: IRCTC annual report 2020-21, exchange-filed copy"
+        }
+      ]
+    },
+    {
+      "table": "deployments",
+      "system_id": "sys-askdisha",
+      "values": {
+        "event_date": "2021-09-06",
+        "date_precision": "day",
+        "stage": "Historical enquiry service reported",
+        "place": "IRCTC users",
+        "description": "Historical report; booking still stated as future."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-irctc-report-mirror",
+          "quote": "Ask DISHA (Digital Interaction to Seek Help Any Time) is an AI powered multi-format, multi-lingual and multi-channel Virtual Assistant, presently providing enquiry services to IRCTC users.",
+          "locator": "Selected passage 2: IRCTC annual report 2020-21, exchange-filed copy"
+        },
+        {
+          "source_id": "reg-irctc-report-mirror",
+          "quote": "This platform will be extended for booking e-tickets by IRCTC users.",
+          "locator": "Selected passage 3: IRCTC annual report 2020-21, exchange-filed copy"
+        }
+      ]
+    },
+    {
+      "table": "deployments",
+      "system_id": "sys-askdisha",
+      "values": {
+        "event_date": null,
+        "date_precision": "undated",
+        "stage": "Service interface observed",
+        "place": "IRCTC–CoRover interface",
+        "description": "Observed 5 October 2026; no booking was submitted."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-irctc-interface",
+          "quote": "AskDISHA 2.0 (Digital Interaction To Seek Help Anytime) is an Artificial Intelligence (AI), Machine learning (ML) and NLP based Virtual Assistant (ChatBot, VoiceBot)",
+          "locator": "Selected passage 1: AskDISHA 2.0 booking interface"
+        }
+      ]
+    },
+    {
+      "table": "deployments",
+      "system_id": "sys-advait",
+      "values": {
+        "event_date": "2021",
+        "date_precision": "year",
+        "stage": "Historical rollout reported",
+        "place": "CBIC",
+        "description": "Rollout year stated in 2023 explanation; no precise start date invented."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-tax",
+          "quote": "The Project ADVAIT (Advanced Analytics in Indirect Taxes) has been rolled out in 2021, as a flagship analytics project for Indirect Taxes, by Central Board for Indirect Taxes and Customs (CBIC).",
+          "locator": "Selected passage 1: Parliamentary explanation of ADVAIT and tax analytics"
+        }
+      ]
+    },
+    {
+      "table": "procurements",
+      "system_id": "sys-insight",
+      "values": {
+        "record_type": "Government announcement of signed contract",
+        "award_date": "2016-07-19",
+        "amount_inr": null,
+        "amount_type": "Not stated in reviewed record",
+        "supplier_name": "L & T Infotech Ltd",
+        "current_deployment_link": "Historical implementation agreement; current continuation unverified",
+        "description": "Not an executed agreement archive or current supplier certification."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-insight-contract",
+          "quote": "The Income Tax Department has today signed a contract with L & T Infotech Ltd for implementation of Project Insight.",
+          "locator": "Selected passage 1: Project Insight signed-contract announcement"
+        }
+      ]
+    },
+    {
+      "table": "deployments",
+      "system_id": "sys-insight",
+      "values": {
+        "event_date": "2017-05",
+        "date_precision": "month",
+        "stage": "Expected launch",
+        "place": "Income Tax Department",
+        "description": "Expected first phase only; not treated as achieved date."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-insight-contract",
+          "quote": "The Project will be rolled out in three phases and the first phase is expected to go live in May 2017.",
+          "locator": "Selected passage 2: Project Insight signed-contract announcement"
+        }
+      ]
+    },
+    {
+      "table": "deployments",
+      "system_id": "sys-rail-ids",
+      "values": {
+        "event_date": "2026-02-04",
+        "date_precision": "day",
+        "stage": "Reported operational",
+        "place": "Northeast Frontier Railway: 141 route-km",
+        "description": "Sanctioned work elsewhere is not counted as completed working extent."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-rail-ids",
+          "quote": "Presently, IDS system is working over 141 Rkms on critical & vulnerable locations identified by forest department in Northeast Frontier Railway.",
+          "locator": "Selected passage 3: Railway elephant IDS parliamentary explanation"
+        }
+      ]
+    },
+    {
+      "table": "procurements",
+      "system_id": "sys-rail-ids",
+      "values": {
+        "record_type": "Contract reported in news",
+        "award_date": "2024-08-01",
+        "amount_inr": 189900000,
+        "amount_type": "Reported combined award value; not expenditure",
+        "supplier_name": "MS Bitcom Technologies",
+        "current_deployment_link": "Southern Railway regional works; not verified nationwide supplier",
+        "description": "Rs 7.85 + 11.14 crore, arithmetic sum; underlying executed award not reviewed."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-ids-award-report",
+          "quote": "contract was awarded on August 1 for the cost of Rs 7.85 crore in Kerala region and Rs 11.14 crore in Tamil Nadu region to MS Bitcom Technologies, Noida.",
+          "locator": "Selected passage 1: Southern Railway IDS contract reporting"
+        }
+      ]
+    },
+    {
+      "table": "evaluations",
+      "system_id": "sys-rail-ids",
+      "values": {
+        "evaluation_type": "Specification; not measured evaluation",
+        "sample_n": null,
+        "sample_unit": null,
+        "setting": "RDSO requirement",
+        "current_version_match": "Not a measurement",
+        "result_summary": "Detection and false-alarm targets; acceptance results not reviewed."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-ids-specification",
+          "quote": "The system is expected to be capable of detecting the primary events (clause 3) without fail (100% success rate of detection).",
+          "locator": "Selected passage 1: RDSO elephant IDS specification v1.0"
+        },
+        {
+          "source_id": "reg-ids-specification",
+          "quote": "The alarms if found false in physical verification shall not exceed 5% of all the alarms being generated per section per month or as defined by user Railway.",
+          "locator": "Selected passage 2: RDSO elephant IDS specification v1.0"
+        }
+      ]
+    },
+    {
+      "table": "metrics",
+      "system_id": "sys-rail-ids",
+      "values": {
+        "metric_name": "Maximum false-alarm share",
+        "value": 5,
+        "unit": "% generated alarms/section/month",
+        "metric_kind": "Specification threshold",
+        "measurement_scope": "Not observed false-positive rate; user Railway may define",
+        "denominator": "All generated alarms in section/month"
+      },
+      "evidence": [
+        {
+          "source_id": "reg-ids-specification",
+          "quote": "The alarms if found false in physical verification shall not exceed 5% of all the alarms being generated per section per month or as defined by user Railway.",
+          "locator": "Selected passage 2: RDSO elephant IDS specification v1.0"
+        }
+      ]
+    },
+    {
+      "table": "metrics",
+      "system_id": "sys-rail-ids",
+      "values": {
+        "metric_name": "Reported elephants saved",
+        "value": 255,
+        "unit": "elephants",
+        "metric_kind": "Multi-intervention outcome self-report",
+        "measurement_scope": "January–September 2026, news quoting NFR; not causal IDS-only attribution",
+        "denominator": null
+      },
+      "evidence": [
+        {
+          "source_id": "reg-rail-current",
+          "quote": "Northeast Frontier Railway says 255 elephants were saved from train collisions between January and September 2026 using AI-based alerts, 'Plan Bee', speed restrictions and enhanced vigilance.",
+          "locator": "Selected passage 1: NFR elephant-prevention reporting"
+        }
+      ]
+    },
+    {
+      "table": "issues",
+      "system_id": "sys-rail-ids",
+      "values": {
+        "issue_type": "Numeric inconsistency",
+        "description": "Headline aggregate 255; four division values 106+14+122+15 sum to 257. Retained unresolved, not interpreted as system failure."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-rail-current",
+          "quote": "Northeast Frontier Railway says 255 elephants were saved from train collisions between January and September 2026 using AI-based alerts, 'Plan Bee', speed restrictions and enhanced vigilance.",
+          "locator": "Selected passage 1: NFR elephant-prevention reporting"
+        },
+        {
+          "source_id": "reg-rail-current",
+          "quote": "including 106 in Alipurduar Division, 14 in Rangiya, 122 in Lumding and 15 in Tinsukia Division",
+          "locator": "Selected passage 2: NFR elephant-prevention reporting"
+        }
+      ]
+    },
+    {
+      "table": "policies",
+      "system_id": "sys-rail-ids",
+      "values": {
+        "title": "RDSO elephant IDS specification v1.0",
+        "status": "Technical specification",
+        "relation": "System technical requirements, not achieved performance"
+      },
+      "evidence": [
+        {
+          "source_id": "reg-ids-specification",
+          "quote": "The system is expected to be capable of detecting the primary events (clause 3) without fail (100% success rate of detection).",
+          "locator": "Selected passage 1: RDSO elephant IDS specification v1.0"
+        },
+        {
+          "source_id": "reg-ids-specification",
+          "quote": "The alarms if found false in physical verification shall not exceed 5% of all the alarms being generated per section per month or as defined by user Railway.",
+          "locator": "Selected passage 2: RDSO elephant IDS specification v1.0"
+        }
+      ]
+    },
+    {
+      "table": "deployments",
+      "system_id": "sys-plcs",
+      "values": {
+        "event_date": "2019-04",
+        "date_precision": "month",
+        "stage": "Historical launch reported",
+        "place": "Telangana",
+        "description": "Date from undated ESD page; October 2026 current coverage unverified."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-telangana-esd",
+          "quote": "PLCS is the first usecase of RTDAI and has been launched in April, 2019.",
+          "locator": "Selected passage 1: Telangana Electronic Services Delivery initiatives"
+        }
+      ]
+    },
+    {
+      "table": "metrics",
+      "system_id": "sys-plcs",
+      "values": {
+        "metric_name": "Authentication success claim",
+        "value": 93,
+        "unit": "%",
+        "metric_kind": "Case-study claim; protocol unavailable",
+        "measurement_scope": "About 93%; not current independently measured accuracy",
+        "denominator": "Not supplied in reviewed case study"
+      },
+      "evidence": [
+        {
+          "source_id": "reg-plcs",
+          "quote": "The success rate in authentication of pensioners is about 93 per cent, and it can be as high as 96-98 per cent as the system learns and improves over time.",
+          "locator": "Selected passage 2: Telangana PLCS IndiaAI case study"
+        }
+      ]
+    },
+    {
+      "table": "deployments",
+      "system_id": "sys-fest",
+      "values": {
+        "event_date": "2020-07",
+        "date_precision": "month",
+        "stage": "Historical launch reported",
+        "place": "Telangana",
+        "description": "Physical test and inspection exceptions retained."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-telangana-esd",
+          "quote": "Through Friendly Electronic Services of Transport (FEST), launched in July, 2020, the citizens of Telangana can avail numerous services of the Transport Department through a Smartphone",
+          "locator": "Selected passage 2: Telangana Electronic Services Delivery initiatives"
+        },
+        {
+          "source_id": "reg-telangana-esd",
+          "quote": "Except for services where a driving test or physical inspection of the vehicle is required, all services would be offered in a contactless and presence-less manner through FEST.",
+          "locator": "Selected passage 3: Telangana Electronic Services Delivery initiatives"
+        }
+      ]
+    },
+    {
+      "table": "evaluations",
+      "system_id": "sys-epaarvai",
+      "values": {
+        "evaluation_type": "Prospective diagnostic field study",
+        "sample_n": 1407,
+        "sample_unit": "patients; 2619 eyes",
+        "setting": "Tertiary eye hospital, South India; Jan–Apr 2022; >40 years and BCVA <20/40",
+        "current_version_match": "Current production version not verified",
+        "result_summary": "96% sensitivity, 25% specificity, 88% accuracy; selected sample and reference standard retained."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-paarvai-study",
+          "quote": "In this prospective diagnostic study conducted between January and April 2022 at a large tertiary-care eye hospital in South India, two screeners were trained to use the app.",
+          "locator": "Selected passage 1: e-Paarvai cataract field study"
+        },
+        {
+          "source_id": "reg-paarvai-study",
+          "quote": "Patients aged >40 years and with a best-corrected visual acuity <20/40 were recruited for the study.",
+          "locator": "Selected passage 2: e-Paarvai cataract field study"
+        },
+        {
+          "source_id": "reg-paarvai-study",
+          "quote": "The two screeners used the app to screen 2,619 eyes of 1,407 patients. In detecting cataracts, the app showed high sensitivity (96%) but low specificity (25%), an overall accuracy of 88%, a PPV of 92.3%, and an NPV of 57.8%.",
+          "locator": "Selected passage 3: e-Paarvai cataract field study"
+        },
+        {
+          "source_id": "reg-paarvai-study",
+          "quote": "The diagnosis of the app was compared with that of trained ophthalmologists based on slit-lamp examinations, the gold standard",
+          "locator": "Selected passage 4: e-Paarvai cataract field study"
+        }
+      ]
+    },
+    {
+      "table": "metrics",
+      "system_id": "sys-epaarvai",
+      "values": {
+        "metric_name": "Sensitivity",
+        "value": 96,
+        "unit": "%",
+        "metric_kind": "Study measurement",
+        "measurement_scope": "2022 field study, cataract detection, selected tertiary-hospital sample",
+        "denominator": "2619 eyes from 1407 patients; metric-specific denominator not reconstructed"
+      },
+      "evidence": [
+        {
+          "source_id": "reg-paarvai-study",
+          "quote": "The two screeners used the app to screen 2,619 eyes of 1,407 patients. In detecting cataracts, the app showed high sensitivity (96%) but low specificity (25%), an overall accuracy of 88%, a PPV of 92.3%, and an NPV of 57.8%.",
+          "locator": "Selected passage 3: e-Paarvai cataract field study"
+        }
+      ]
+    },
+    {
+      "table": "metrics",
+      "system_id": "sys-epaarvai",
+      "values": {
+        "metric_name": "Specificity",
+        "value": 25,
+        "unit": "%",
+        "metric_kind": "Study measurement",
+        "measurement_scope": "2022 field study, cataract detection, selected tertiary-hospital sample",
+        "denominator": "2619 eyes from 1407 patients; metric-specific denominator not reconstructed"
+      },
+      "evidence": [
+        {
+          "source_id": "reg-paarvai-study",
+          "quote": "The two screeners used the app to screen 2,619 eyes of 1,407 patients. In detecting cataracts, the app showed high sensitivity (96%) but low specificity (25%), an overall accuracy of 88%, a PPV of 92.3%, and an NPV of 57.8%.",
+          "locator": "Selected passage 3: e-Paarvai cataract field study"
+        }
+      ]
+    },
+    {
+      "table": "metrics",
+      "system_id": "sys-epaarvai",
+      "values": {
+        "metric_name": "Accuracy",
+        "value": 88,
+        "unit": "%",
+        "metric_kind": "Study measurement",
+        "measurement_scope": "2022 field study, cataract detection, selected tertiary-hospital sample",
+        "denominator": "2619 eyes from 1407 patients; metric-specific denominator not reconstructed"
+      },
+      "evidence": [
+        {
+          "source_id": "reg-paarvai-study",
+          "quote": "The two screeners used the app to screen 2,619 eyes of 1,407 patients. In detecting cataracts, the app showed high sensitivity (96%) but low specificity (25%), an overall accuracy of 88%, a PPV of 92.3%, and an NPV of 57.8%.",
+          "locator": "Selected passage 3: e-Paarvai cataract field study"
+        }
+      ]
+    },
+    {
+      "table": "metrics",
+      "system_id": "sys-epaarvai",
+      "values": {
+        "metric_name": "Positive predictive value",
+        "value": 92.3,
+        "unit": "%",
+        "metric_kind": "Study measurement",
+        "measurement_scope": "2022 field study, cataract detection, selected tertiary-hospital sample",
+        "denominator": "2619 eyes from 1407 patients; metric-specific denominator not reconstructed"
+      },
+      "evidence": [
+        {
+          "source_id": "reg-paarvai-study",
+          "quote": "The two screeners used the app to screen 2,619 eyes of 1,407 patients. In detecting cataracts, the app showed high sensitivity (96%) but low specificity (25%), an overall accuracy of 88%, a PPV of 92.3%, and an NPV of 57.8%.",
+          "locator": "Selected passage 3: e-Paarvai cataract field study"
+        }
+      ]
+    },
+    {
+      "table": "metrics",
+      "system_id": "sys-epaarvai",
+      "values": {
+        "metric_name": "Negative predictive value",
+        "value": 57.8,
+        "unit": "%",
+        "metric_kind": "Study measurement",
+        "measurement_scope": "2022 field study, cataract detection, selected tertiary-hospital sample",
+        "denominator": "2619 eyes from 1407 patients; metric-specific denominator not reconstructed"
+      },
+      "evidence": [
+        {
+          "source_id": "reg-paarvai-study",
+          "quote": "The two screeners used the app to screen 2,619 eyes of 1,407 patients. In detecting cataracts, the app showed high sensitivity (96%) but low specificity (25%), an overall accuracy of 88%, a PPV of 92.3%, and an NPV of 57.8%.",
+          "locator": "Selected passage 3: e-Paarvai cataract field study"
+        }
+      ]
+    },
+    {
+      "table": "deployments",
+      "system_id": "sys-bmc-tb",
+      "values": {
+        "event_date": "2021–2022",
+        "date_precision": "range",
+        "stage": "Historical pilot reported",
+        "place": "Nine BMC hospitals, Mumbai",
+        "description": "Attributed reporting; current operation and exact software version not verified."
+      },
+      "evidence": [
+        {
+          "source_id": "reg-qxr-bmc",
+          "quote": "around 1 lakh people underwent AI-powered x-ray scans for diagnosing TB at nine BMC hospitals in 2021 and 2022. BMC, along with qure.ai, a digital start-up company, initiated this study.",
+          "locator": "Selected passage 1: BMC–Qure.ai TB screening pilot reporting"
+        }
+      ]
+    },
+    {
+      "table": "system_institutions",
+      "system_id": "sys-bmc-tb",
+      "values": {
+        "name": "Qure.ai",
+        "role": "Pilot partner named in reporting; agreement unverified"
+      },
+      "evidence": [
+        {
+          "source_id": "reg-qxr-bmc",
+          "quote": "around 1 lakh people underwent AI-powered x-ray scans for diagnosing TB at nine BMC hospitals in 2021 and 2022. BMC, along with qure.ai, a digital start-up company, initiated this study.",
+          "locator": "Selected passage 1: BMC–Qure.ai TB screening pilot reporting"
+        }
+      ]
+    },
+    {
+      "table": "metrics",
+      "system_id": "sys-bmc-tb",
+      "values": {
+        "metric_name": "Returned for confirmation",
+        "value": 2376,
+        "unit": "people",
+        "metric_kind": "Reported clinical workflow count",
+        "measurement_scope": "2021–2022 pilot reporting; not algorithm accuracy",
+        "denominator": "Around 9702 asked to return"
+      },
+      "evidence": [
+        {
+          "source_id": "reg-qxr-bmc",
+          "quote": "when around 9,702 were asked to return for the clinical evaluation and sputum collection to confirm the diagnosis, only 2,376 turned up, among which 704 turned out to have confirmed TB diagnosis.",
+          "locator": "Selected passage 3: BMC–Qure.ai TB screening pilot reporting"
+        }
+      ]
+    }
+  ]
+}

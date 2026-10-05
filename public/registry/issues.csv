@@ -1,0 +1,16 @@
+issue_id,system_id,issue_type,description
+issues-331bad35dc0e6a8c,sys-supace,Current-status limits,n.a. A later final regulation or routine SUPACE deployment was not verified after recency searches. This is not proof that neither exists.
+issues-4484c4bf77706392,sys-mahacrimeos,Current-status limits,n.a. A current government-confirmed rollout inventory and operational audit were not obtained. This is not proof of non-use.
+issues-4b4fa84f7b9c6eb8,sys-supace,Evaluation & error rates,"n.a. Current independent citation, omission and hallucination tests or courtroom outcome evaluations were not verified."
+issues-6530b690b4a3cb0a,sys-esanjeevani,Evaluation & error rates,"A national implementation-study abstract reports expert-clinician validation and implementation, but independent numeric error rates were not established in the retrieved text and full manuscript access was blocked. A separate local 4,401-record study's 90% figure is not the existing national system's score."
+issues-6db2f2952081b10b,sys-esanjeevani,Current-status limits,"The dated response supports reported integrated use, not independent safety certification or all October operational details. The programme utilisation study raises privacy and access recommendations, but is not a deployed-CDSS accuracy study."
+issues-6f6454c9de1cf44b,sys-suvas,Current-status limits,"The reviewed records support assistive translation use, not perfect equivalence or current uniform governance across courts."
+issues-8c5f6f818d8b394c,sys-cyberguard,Evaluation & error rates,"n.a. 'Improved speed and accuracy' is an official qualitative claim, not a production benchmark with error distributions."
+issues-8f78d3d82d7c9314,sys-upsc,Current-status limits,"The October source confirms reported scaled use, not independently audited accuracy or every current operational detail."
+issues-997ecd7af89e5023,sys-rail-ids,Numeric inconsistency,"Headline aggregate 255; four division values 106+14+122+15 sum to 257. Retained unresolved, not interpreted as system failure."
+issues-b97c9d4c9cd8bfc0,sys-cyberguard,Current-status limits,"Official integration is documented as a source claim; live access, coverage and decision impact were not independently tested."
+issues-c8a6f56b0a16660c,sys-mahacrimeos,Evaluation & error rates,"n.a. Independent error, bias, accuracy and workload evaluations were not verified; vendor anecdotes are not benchmarks."
+issues-d0f406a9ce4188a4,sys-suvas,Evaluation & error rates,"n.a. Independent legal-semantic error rates by language, case type and model version were not verified."
+issues-d9ed2f6f12fb3100,sys-bharat-vistaar,Scope tension,Dated Phase-I Hindi/English versus undated 22+ language portal; later expansion may explain the difference but is not verified.
+issues-ebfd52d9545d04d4,sys-upsc,Evaluation & error rates,UPSC reports six-to-eight-second typical authentication; no independent false-accept/reject or subgroup evaluation was verified.
+issues-ec23f26b1ee23a65,sys-kisan-emitra,Unreconciled usage wording,"August 2025 answer says over 95 lakh queries resolved as of 15 July; February 2026 backgrounder says over 93 lakh queries responded to as of December 2025. Lower bounds and different wording are not necessarily a decrease, but definitions and consistency were not reconciled."

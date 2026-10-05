@@ -1,0 +1,12 @@
+Microsoft CrimeOS customer story
+Original: https://www.microsoft.com/en-in/aifirstmovers/FY26CrimeOS
+Document date: Undated/uncertain
+Source type: Vendor account
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+MARVEL worked to adapt CrimeOS AI, developed by CyberEye - Microsoft AI Partner, to finetune it for compliance with state investigation protocols and further configure it in Marathi for easy adoption across the force.
+
+This was successfully deployed as a pilot across 25 police stations in Nagpur Rural, including the Cyber Crime Police Station (CCPS).
+
+MahaCrimeOS AI ingests complaints in any format such as PDFs, audio, handwritten notes, or images, and then uses multimodal intelligence to extract critical information in any language.

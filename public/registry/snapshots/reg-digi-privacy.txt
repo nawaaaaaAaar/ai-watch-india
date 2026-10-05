@@ -1,0 +1,16 @@
+Digi Yatra Foundation privacy policy
+Original: https://digiyatrafoundation.com/privacy-policy/
+Document date: 2024-10-27
+Source type: Operator privacy terms
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+DYF has developed the Digi Yatra Application and DYCE platform, which provides a unique and memorable digital travel experience for air travellers (passengers/users) using real time selfie-based facial biometric validation
+
+DYCE – 14 Days as Transaction log.
+
+For any questions, complaints, or concerns about the processing of your personal information or this privacy policy, you can contact the Digi Yatra Foundation (DYF) at dataprivacy@DigiYatraFoundation.com
+
+DYF is a not-for-profit company incorporated under Section 8 of the Companies Act 2013, for the implementation of a digital ecosystem i.e., Digi Yatra Central Ecosystem
+
+You can opt out of Digi Yatra by deleting your VC and Travel Credentials data or uninstalling the app.

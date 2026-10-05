@@ -1,0 +1,528 @@
+[
+  {
+    "source_id": "reg-casebooks",
+    "url": "https://impact.indiaai.gov.in/events/released-compendium",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2026-02-16",
+    "text_sha256": "cadcb8f4935bb72a0670517911badabcecc5eb574c20ad1eaa7613763e89fbb3",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-cag-bhashini",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2317011",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2025-11-20",
+    "text_sha256": "400e0c0cad3427753d2d2a6f9de3627a780e9fe8d5cfbdb8ba4c7cd4aa57ada1",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-bhashini-scale",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2280490&reg=3&lang=1",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2025-11-20",
+    "text_sha256": "43054fbf8829bed18afdd3ab2083726d44aa66032d3cb8a569f3d73f1c3e9e7f",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-kisan",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2227914&reg=3&lang=1",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2025-11-20",
+    "text_sha256": "e042061ce21cfd073a457cec15ec7e83a6d1c0b194d98d8463f84fcd29a6d463",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-vistaar",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2239788&reg=3&lang=1",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2025-11-20",
+    "text_sha256": "a9e8b4f538b7cb6c701399d9d3c880aede970e0a78dddd11e735347f851483d3",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-vistaar-launch",
+    "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2229256",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2025-11-20",
+    "text_sha256": "56a8eba2fd6573590d46e93e781071520b7c6651d228b35deeadaad4cd33b7fa",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-tax",
+    "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1911271",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2023-03-27",
+    "text_sha256": "f2a47ccff49bfef14837a519c9223cb59810b02e99f701fe6d7b45a6de213bc0",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-advait-wco",
+    "url": "https://www.wcoomd.org/-/media/wco/public/global/pdf/topics/facilitation/ressources/permanent-technical-committee/239-240/item-ix_technology-and-innovation_india.pdf",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "2a231e801927485a6e064503280e45242ff15738a2382f8ce422ffa5ff487aa5",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-rail-ids",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2223196&reg=48&lang=2",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2025-11-20",
+    "text_sha256": "fc49cda8de658a09842f5785ba6b6cda5e5a47e1d16d25d2a0337b945dbc46f3",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-telangana-esd",
+    "url": "https://it.telangana.gov.in/initiatives/electronic-services-delivery/",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "8536b28e1ddfe29dc3a299f1cecb33b062ecd1cae1c98005feced792711346a8",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-plcs",
+    "url": "https://indiaai.gov.in/case-study/telangana-government-leveraging-the-power-of-ai-and-ml-for-pensioners",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2020-10-27",
+    "text_sha256": "1c7a102df5319d44d3fee5c100f52d1f83db83140c4a3a657218c0b1eaf29d3f",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-plcs-report",
+    "url": "https://it.telangana.gov.in/wp-content/uploads/2023/02/Telangana-Year-of-AI-2020-Report.pdf",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "0acdbccef0d0b4519889944ffe1ff3ac42a33278865c5c6c3040a3b862a0b662",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-paarvai-study",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10538832/",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2023-08-01",
+    "text_sha256": "dfccae4414a39ea2240327ddd804da6df36ea65485f1ad39873f15973180bb4a",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-paarvai-listing",
+    "url": "https://play.google.com/store/apps/details?id=com.codevector.cataract_detection_app&hl=en_US",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "e7bd9019265a5d1432302c91832638259d449da42780fd7e731d0a4393ebd2a4",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-paarvai-overview",
+    "url": "https://indiaai.gov.in/article/inside-tamil-nadu-e-governance-agency-s-ai-for-good-pursuit",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2022-06-30",
+    "text_sha256": "d8461d4aef35b79aeac3353b20631587797f4cefb0fcf433b395889941e1cb47",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-qxr-niti",
+    "url": "https://frontiertech.niti.gov.in/story/ai-driven-tuberculosis-diagnosis-a-transformative-solution-for-indias-healthcare-challenges/",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2025-07-30",
+    "text_sha256": "bcb7a2b9494d024ae7e840d9c478ed2c158f86deed701ef86ef74f16def27aba",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-cyber-parliament",
+    "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU4116_8SSZxg.pdf?source=lsapps",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "9e02923b622c3f57f95e49181631dbe57af49335cddc725b5805cc8a8d3c301e",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-suvas-parliament",
+    "url": "https://sansad.in/getFile/annex/258/AU1064.pdf?source=pqars",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "4b8d7b7463b0550deb9dcfc2ffe528fdaa33616c724b64e09cfe2efe5cf4e606",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-health-brief",
+    "url": "https://intelehealth.org/wp-content/uploads/2026/09/eSanjeevani-policy-brief_Intelehealth.pdf",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "58e834dc17f5e5c821048c92891125566921922fa5deba6af5a28efeba80ce99",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-health-current",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2227410&reg=3&lang=1",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2025-11-20",
+    "text_sha256": "307462201dd12b9b880561f89b8064f85a09e473de8a2f3714915bce8b0bf29a",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-digi-scale",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2267024&reg=3&lang=1",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2025-11-20",
+    "text_sha256": "b80bb61ffd764198babced90151f8c1b7744872e1cdd445f0cbd664943fba2b1",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-digi-privacy",
+    "url": "https://digiyatrafoundation.com/privacy-policy/",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2024-10-31",
+    "text_sha256": "349ca761f340a247de9da2db68f7aa22f9913fca3467d06bc1555df4dd626257",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-digi-guidelines",
+    "url": "https://www.civilaviation.gov.in/sites/default/files/2024-01/Digi%20Yatra%20Guidelines_1.pdf",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "d40230add79c7ecb3245b34baa646c66b8bca865c906b1ddf4c0dfa3f22c3d50",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-digi-rti",
+    "url": "https://panoptic.in/right-to-information/RTI-00032",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2019-10-19",
+    "text_sha256": "cdf211ec69a841ff58f334039697c67b5319a3955b94181b4ef762637b6a57b5",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-insight-contract",
+    "url": "https://pib.gov.in/newsite/PrintRelease.aspx?relid=147283",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "99104ecd2d88f66931cb986279aa08715ea3032f0205c0592cedd841e59e952f",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-insight-portal",
+    "url": "https://report.insight.gov.in/reporting-webapp/portal/recentArticle",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "de4cb95b8260987cdde4763eace40e3d36a08ad2bbf0c7b96941940374681f9a",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-insight-overview",
+    "url": "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=154926&ModuleId=3",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2025-03-31",
+    "text_sha256": "fe4c8a46a134f3b4cb1a5a6c2c15872ed42eb448bcef4c0c60ca2d7d28a2fdc9",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-ids-specification",
+    "url": "https://rdso.indianrailways.gov.in/uploads/2024-10-23-Signed%20specification%20EIDS.pdf",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "350a98953801d5de8b4597a208ad5d5a7ab46ec21aba7296d3f636da7d07b4bb",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-ids-poc",
+    "url": "https://rdso.indianrailways.gov.in/uploads/2024-10-23-Signed%20PoC%20format%20EIDS.pdf",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "d0b3d7f230fe424eafba4bd42f5cca3c846fbda735e54ed580eec303b6c3723b",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-ids-award-report",
+    "url": "https://www.newindianexpress.com/states/tamil-nadu/2024/Sep/22/system-being-installed-at-rs-19-cr-to-curb-jumbo-deaths-on-rly-tracks-southern-railway",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2024-09-22",
+    "text_sha256": "5d217766a472077cfb0bdcb0099c09ac8915a455864b2947ac6e9eff6690e32e",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-plcs-faq",
+    "url": "https://mgov.telangana.gov.in/faqnew.html",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "9acdd198c1bbf1dc9fdd5d848cac2d7d00dd735cd03d6e2e063b0a25c45f59ca",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-paarvai-state-case",
+    "url": "https://abhinavpahal.nic.in/uploads/jiRLj8ssnLClarity%20in%20Governance%20Heralds%20Clear%20Vision.pdf",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "70d6c3c26b39a6d94ce7b6fd1ef9d5c28eaeef4ff97cf014b58b89093bccb99c",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-qxr-bmc",
+    "url": "https://indiaai.gov.in/news/this-ai-software-detects-tuberculosis-in-asymptomatic-patients-in-the-early-stage",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2023-03-29",
+    "text_sha256": "5e9a3f852729e040569fa22bfa64a0c97dec02ca3679c66a72983a7ebcf5f134",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-qxr-study",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11622919/",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2023-10-06",
+    "text_sha256": "baaaa3689c96e5057156f3a0a81c3436a2d301704c7c35f950b77c00d9af39de",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-irctc-reports",
+    "url": "https://irctc.com/annual-report.php",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2011-12-01",
+    "text_sha256": "6b4868c21a9e60b9eddfd2b9131aae797c403356a1fe51bcb0089d1a7a5e8ec9",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-irctc-terms",
+    "url": "https://contents.irctc.co.in/en/Terms%20and%20conditions.pdf",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "de0d6b219a24c9922fbe93fd40def89f281bcefc931a7cc954d6315857a6eb56",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-kisan-parliament",
+    "url": "https://www.sansad.in/getFile/loksabhaquestions/annex/185/AU2612_qsk9qb.pdf?source=pqals",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "bc1f931ad0006f33fde87a2caee83e8fe8eb9fbe0a94a52e6da39f935e3cba0d",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-kisan-developer",
+    "url": "https://samagrax.samagragovernance.in/agriculture/",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "f25f2109da0b6bfaab3f58d71e1114c54f17cd0688c91ecc853232ebf11e8e28",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-related-data",
+    "url": "https://socialprotectionai.org/use-case/IND-001/print",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2026-06-30",
+    "text_sha256": "ab97eed6194bdccf80b108d6e8a0b0d4e2f4d155fe7689e29ebc3be353f5a724",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-vistaar-portal",
+    "url": "https://vistaar.da.gov.in/",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "4b412ba63cdead4c59f9db7768ab072c373c72e21071f205333e1580d6b40233",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-bhashini-terms",
+    "url": "https://bhashini.gov.in/gyankosh?tab=terms-of-use&fromFooter=true",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "8465e159eb2a4c15e9b4683350825a3440794240929c8080011ad9d40c70a77d",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-cag-order",
+    "url": "https://cag.gov.in/uploads/ae_circulars_office_orders/CircularsOfficeOrders-06965f544d60278-12071490.pdf",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "a92f86e119801f19b33b2ede6fc55e87fe4c2a3e234d4edde5a6b00150485ad1",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-irctc-interface",
+    "url": "https://revamp.irctc.corover.ai/",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "70ddfae8b4a61ed297d1e6d3c29d8e29102fe4980fd67b544c784d505ee36ece",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-irctc-report-mirror",
+    "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1f482507-98ed-4566-8323-ea95fc1f82be.pdf",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "6ef48d49bb991c22934279958b2c09e762929c1eb8389a7329c2657a18efb13b",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-digi-parliament",
+    "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS273_Y4e9cy.pdf?source=lsapps",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": null,
+    "text_sha256": "8137ec684e3964a440310bc351ec5548fbbb68d36301fa89b4410c166fb1a16b",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-rail-current",
+    "url": "https://indianexpress.com/article/india/ai-alerts-plan-bee-railways-saved-255-elephants-northeast-10906293/",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2026-10-04",
+    "text_sha256": "3735509a0ff96b477e8ff5841dd1ed7e249f644eef7c0f0f7ae01572f312c39e",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-paarvai-update",
+    "url": "https://indiaai.gov.in/article/e-paarvai-cataract-detection-and-screening-system-by-tamil-nadu-government",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Fetched",
+    "error": null,
+    "sdk_metadata_date": "2021-08-11",
+    "text_sha256": "a62984854adf9609907b8e42c3e5a99a2cbfcca994d340ca217a79d3e6074337",
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-plcs-training",
+    "url": "https://mcrhrdi.gov.in/splfc2-2022/week2/Presence%20less%20contact%20less%20Citizen%20services%20in%20using%20AI,%20ML%20and%20deep%20learning%20MCHHRD%2026th%20Sep%202022%20V1.pdf",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Failed",
+    "error": "error parsing data for \"https://mcrhrdi.gov.in/splfc2-2022/week2/Presence%20less%20contact%20less%20Citizen%20services%20in%20using%20AI,%20ML%20and%20deep%20learning%20MCHHRD%2026th%20Sep%202022%20V1.pdf\" in table 'crawler/v2/pages': crawler error fetcher_error: fetcher_error",
+    "sdk_metadata_date": null,
+    "text_sha256": null,
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-irctc-current",
+    "url": "https://irctc.com/assets/images2/IRCTC_AR2025_26(7Sep26).pdf",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Failed",
+    "error": "error parsing data for \"https://irctc.com/assets/images2/IRCTC_AR2025_26(7Sep26).pdf\" in table 'crawler/v2/pages': crawler error disallow_by_robots: disallow_by_robots",
+    "sdk_metadata_date": null,
+    "text_sha256": null,
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-irctc-prior",
+    "url": "https://irctc.com/assets/images/IRCTC%20_AR25%20_07.08.2025(07.08.2025).pdf",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Failed",
+    "error": "error parsing data for \"https://irctc.com/assets/images/IRCTC%20_AR25%20_07.08.2025(07.08.2025).pdf\" in table 'crawler/v2/pages': crawler error disallow_by_robots: disallow_by_robots",
+    "sdk_metadata_date": null,
+    "text_sha256": null,
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-plcs-training-alt",
+    "url": "https://mcrhrdi.gov.in/splfc2023/week5/Presence%20less%20contact%20less%20Citizen%20services%20in%20using%20AI,%20ML%20and%20deep%20learning%20MCHHRD%2014th%20July%202022.pdf",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Failed",
+    "error": "error parsing data for \"https://mcrhrdi.gov.in/splfc2023/week5/Presence%20less%20contact%20less%20Citizen%20services%20in%20using%20AI,%20ML%20and%20deep%20learning%20MCHHRD%2014th%20July%202022.pdf\" in table 'crawler/v2/pages': crawler error fetcher_error: fetcher_error",
+    "sdk_metadata_date": null,
+    "text_sha256": null,
+    "rule": "SDK metadata date is not accepted over source-stated date; fetched text is not reproduced in this log."
+  },
+  {
+    "source_id": "reg-irctc-current",
+    "url": "https://irctc.com/assets/images2/IRCTC_AR2025_26(7Sep26).pdf",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Live library link inspected; PDF retrieval failed",
+    "error": "Not reviewed",
+    "rule": "Annual report library inspected via cloud browser because SDK cleaned index was stale; no report claims coded."
+  },
+  {
+    "source_id": "reg-plcs-training",
+    "url": "https://mcrhrdi.gov.in/splfc2-2022/week2/Presence%20less%20contact%20less%20Citizen%20services%20in%20using%20AI,%20ML%20and%20deep%20learning%20MCHHRD%2026th%20Sep%202022%20V1.pdf",
+    "checked_date": "2026-10-05",
+    "retrieval_status": "Browser fallback 404",
+    "error": "Not reviewed",
+    "rule": "Search snippet was not substituted as evidence."
+  }
+]

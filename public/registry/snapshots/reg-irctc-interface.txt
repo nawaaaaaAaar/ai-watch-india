@@ -1,0 +1,10 @@
+AskDISHA 2.0 booking interface
+Original: https://revamp.irctc.corover.ai/
+Document date: Undated/uncertain
+Source type: Service/developer interface
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+IRCTC Authorized Partner
+
+AskDISHA 2.0 (Digital Interaction To Seek Help Anytime) is an Artificial Intelligence (AI), Machine learning (ML) and NLP based Virtual Assistant (ChatBot, VoiceBot)

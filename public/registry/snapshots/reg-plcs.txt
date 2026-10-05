@@ -1,0 +1,10 @@
+Telangana PLCS IndiaAI case study
+Original: https://indiaai.gov.in/case-study/telangana-government-leveraging-the-power-of-ai-and-ml-for-pensioners
+Document date: 2020-10-27
+Source type: Government-hosted editorial case study
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+PLCS uses an artificial intelligence-based liveness check solution, big data and machine learning based demographic check solution, and deep learning-based image comparison solution.
+
+The success rate in authentication of pensioners is about 93 per cent, and it can be as high as 96-98 per cent as the system learns and improves over time.

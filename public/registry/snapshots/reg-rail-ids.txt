@@ -1,0 +1,12 @@
+Railway elephant IDS parliamentary explanation
+Original: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2223196&reg=48&lang=2
+Document date: 2026-02-04
+Source type: Government parliamentary explanation
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+development of AI-enabled Intrusion Detection System (IDS) for detecting presence of elephants on Railway tracks using Distributed Acoustic Sensors (DAS).
+
+Presently, IDS system is working over 141 Rkms on critical & vulnerable locations identified by forest department in Northeast Frontier Railway.
+
+The system is designed to generate alerts for loco pilots, station masters and Control Room about the movement of elephants in proximity of railway tracks, for taking timely preventive action.

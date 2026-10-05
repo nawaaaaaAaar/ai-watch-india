@@ -1,0 +1,10 @@
+Bharat-VISTAAR service portal
+Original: https://vistaar.da.gov.in/
+Document date: Undated/uncertain
+Source type: Government service portal
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+A federated DPI containing a Central Node and State Nodes, facilitating secure data exchange and AI-driven insights through open protocols.
+
+Interface and audio content available in 22+ regional Indian languages.

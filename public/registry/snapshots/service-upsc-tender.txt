@@ -1,0 +1,12 @@
+UPSC biometric/AI tender specification
+Original: https://upsc.gov.in/sites/default/files/Tender-AadhaarQRFaceRecgAI-Corrgn_Eng-180724.pdf
+Document date: Undated/uncertain
+Source type: Official tender
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+6.1.11 The Service Provider has to perform physical verification of candidates’ photos with Application Database (provided by UPSC) at the time of security gate entry.
+
+Tender responses are invited from PSUs for Aadhaar based Fingerprint Authentication/Digital Fingerprint Capturing & Facial Recognition of Candidates, QR Code Scanning of e-Admit Cards and Live AI-based CCTV Surveillance
+
+6.1.12 After the completion of the entire process as per the scope of work, the Service Provider will hold the data on its Secured Cloud Server with 256-bit encryption for a minimum period of one (01) year from the date of the examination or 30 days after the declaration of final result of the examination, whichever is later.

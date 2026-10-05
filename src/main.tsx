@@ -15,10 +15,11 @@ import gapRegister from '../public/data-room/gaps.json';
 import type { Dataset, Notebook, Provision, Review } from '../shared/schema';
 import { ACT_URL, CORRECTION_URL, DRAFT_URL, FINAL_URL, REPO, createBrief, csv, accountabilityCsv, filterProvisions, validateNotebook, correctionDraft,mergeCollections,evidenceLinks } from './lib.mjs';
 import './style.css';
+import Registry from './Registry';
 
 const data=mergeCollections(raw,expansion,implementation,publicServices,contextSources) as Dataset;
 const families=data.families!;
-const icons={desk:BookOpen,compare:GitCompareArrows,sources:FileText,corrections:ListChecks,brief:NotebookPen,contributions:FileText,implementation:ListChecks,systems:ShieldCheck,data:Download,method:ShieldCheck};
+const icons={registry:Search,registrydata:Download,desk:BookOpen,compare:GitCompareArrows,sources:FileText,corrections:ListChecks,brief:NotebookPen,contributions:FileText,implementation:ListChecks,systems:ShieldCheck,data:Download,method:ShieldCheck};
 const contributions=data.provisions.filter(p=>p.contribution);
 const sourceFamily=(id:string)=>id.startsWith('service-')?'service':id.startsWith('impl-')?'impl':id.startsWith('sgi-')?'sgi':id.startsWith('aig-')?'aig':'dpdp';
 function FamilySelect({value,onChange,testid}:{value:string,onChange:(s:string)=>void,testid:string}){return <label className="family-selector">Evidence collection<select value={value} onChange={e=>onChange(e.target.value)} data-testid={testid}><option value="All">All five collections</option>{families.map(f=><option key={f.id} value={f.id}>{f.shortTitle}</option>)}</select></label>}
@@ -48,7 +49,7 @@ function App(){
       if(!anchor||anchor.href.startsWith('blob:'))return;
       event.preventDefault();
       fetch(anchor.href).then(async response=>{
-        if(!response.ok)throw Error('File unavailable');
+        if(!response.ok||response.headers.get('content-type')?.includes('text/html'))throw Error('File unavailable');
         const blob=await response.blob();
         const name=new URL(anchor.href).pathname.split('/').pop()||'research.txt';
         downloadBlob(name,blob);
@@ -70,8 +71,8 @@ function App(){
   },[report]);
   const toggle=(id:string)=>setNotebook(n=>({...n,selected:n.selected.includes(id)?n.selected.filter(x=>x!==id):[...n.selected,id]}));
   function saveReview(review:Review){setNotebook(n=>({...n,reviews:[...n.reviews,review]}));setNotice('Review saved in this session. Export your notebook to keep it.')}
-  const section=location.startsWith('/data')?'data':location.startsWith('/systems')?'systems':location.startsWith('/implementation')?'implementation':location.startsWith('/compare')?'compare':location.startsWith('/sources')?'sources':location.startsWith('/corrections')?'corrections':location.startsWith('/brief')?'brief':location.startsWith('/contributions')?'contributions':location.startsWith('/method')?'method':'desk';
-  const nav=[['desk','/','The desk'],['compare','/compare/rule-8','Compare provisions'],['implementation','/implementation','Implementation ledger'],['systems','/systems','Public-service cases'],['data','/data','Complete data room'],['contributions','/contributions',`${contributions.length} contributions`],['sources','/sources','Source library'],['corrections','/corrections','Corrections'],['brief','/brief','Your brief'],['method','/method','Method & limits']];
+  const section=location==='/registry-data'?'registrydata':location==='/'||location.startsWith('/system/')?'registry':location.startsWith('/data')?'data':location.startsWith('/systems')?'systems':location.startsWith('/implementation')?'implementation':location.startsWith('/compare')?'compare':location.startsWith('/sources')?'sources':location.startsWith('/corrections')?'corrections':location.startsWith('/brief')?'brief':location.startsWith('/contributions')?'contributions':location.startsWith('/method')?'method':'desk';
+  const nav=[['registry','/','Systems dataset'],['registrydata','/registry-data','Data & research method'],['desk','/desk','Supporting policy desk'],['compare','/compare/rule-8','Compare provisions'],['implementation','/implementation','Implementation ledger'],['systems','/systems','Earlier service case files'],['data','/data','Earlier corpus archive'],['contributions','/contributions','Policy research briefs'],['sources','/sources','Policy source library'],['corrections','/corrections','Corrections'],['brief','/brief','Policy notebook'],['method','/method','Earlier method & limits']];
   return <div className="shell">
     <a className="skip" href="#main" onClick={e=>{e.preventDefault();document.getElementById('main')?.focus()}}>Skip to content</a>
     <aside className="rail">
@@ -79,14 +80,17 @@ function App(){
       <div className="rail-rule"/>
       <p className="rail-label">WORKSPACE</p>
       <nav aria-label="Main navigation">{nav.map(([id,path,label])=>{const Icon=icons[id as keyof typeof icons];return <Link key={id} href={path} className={section===id?'nav active':'nav'} data-testid={`nav-${id}`} aria-current={section===id?'page':undefined}><Icon size={18}/><span>{label}</span>{id==='brief'&&<span className="nav-count">{notebook.selected.length}</span>}</Link>})}</nav>
-      <div className="rail-bottom"><span className="status-dot"/>Curated, not a live feed<p>Five collections · India<br/>Expanded 05 Oct 2026</p><OutLink href={REPO} testid="link-repo">Open-source repository</OutLink></div>
+      <div className="rail-bottom"><span className="status-dot"/>Curated, not a live feed<p>Institution & system data<br/>India · 05 Oct 2026</p><OutLink href={REPO} testid="link-repo">Open-source repository</OutLink></div>
     </aside>
     <div className="body">
-      <header className="topbar"><div className="crumb">Workspace <span>/</span> {nav.find(x=>x[0]===section)?.[2]}</div><div className="top-actions"><span className="edition">CURATED EDITION 05</span><button className="icon-button" aria-label={`Switch to ${theme==='light'?'dark':'light'} mode`} title="Change theme" data-testid="button-theme" onClick={()=>setTheme(theme==='light'?'dark':'light')}>{theme==='light'?<Moon size={18}/>:<Sun size={18}/>}</button><Link href="/brief" className="btn small" data-testid="button-open-brief"><NotebookPen size={16}/>Your brief <span>{notebook.selected.length}</span></Link></div></header>
+      <header className="topbar"><div className="crumb">Workspace <span>/</span> {nav.find(x=>x[0]===section)?.[2]}</div><div className="top-actions"><span className="edition">DATASET RELEASE 01</span><button className="icon-button" aria-label={`Switch to ${theme==='light'?'dark':'light'} mode`} title="Change theme" data-testid="button-theme" onClick={()=>setTheme(theme==='light'?'dark':'light')}>{theme==='light'?<Moon size={18}/>:<Sun size={18}/>}</button><Link href="/brief" className="btn small" data-testid="button-open-brief"><NotebookPen size={16}/>Policy notebook <span>{notebook.selected.length}</span></Link></div></header>
       {notice&&<div className="notice" role="status" data-testid="status-notice">{notice}<button aria-label="Dismiss notification" data-testid="button-dismiss-notice" onClick={()=>setNotice('')}><X size={16}/></button></div>}
       <main id="main" tabIndex={-1}>
       <Switch>
-        <Route path="/"><Desk notebook={notebook} toggle={toggle}/></Route>
+        <Route path="/"><Registry/></Route>
+        <Route path="/system/:id">{params=><Registry mode="system" id={params.id}/>}</Route>
+        <Route path="/registry-data"><Registry mode="data"/></Route>
+        <Route path="/desk"><Desk notebook={notebook} toggle={toggle}/></Route>
         <Route path="/compare/:id">{params=><Compare id={params.id} notebook={notebook} toggle={toggle} saveReview={saveReview} report={p=>{setReport(p);setReason('');setEvidence('');setReportError('')}}/>}</Route>
         <Route path="/sources"><Sources/></Route>
         <Route path="/corrections"><Corrections/></Route>

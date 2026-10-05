@@ -1,0 +1,48 @@
+{
+  "scope": "18 purposively selected named systems/services, historical and experimental cases included. Not a census, representative sample or operational/legal audit.",
+  "coverage_status": {
+    "Documented": 53,
+    "Not verified": 62,
+    "Partial": 99,
+    "Conflicting sources": 2
+  },
+  "ai_qualification": {
+    "Explicit source attribution": 14,
+    "Qualified algorithmic / biometric context": 4
+  },
+  "metrics_by_kind": {
+    "Usage self-report": 3,
+    "Study measurement": 5,
+    "Multi-intervention outcome self-report": 1,
+    "Reported clinical workflow count": 1,
+    "Specification threshold": 1,
+    "Case-study claim; protocol unavailable": 1
+  },
+  "evaluation_types": [
+    {
+      "system_id": "sys-upsc",
+      "evaluation_type": "Evaluation-related documentary evidence; not verified current performance",
+      "current_version_match": "Not established"
+    },
+    {
+      "system_id": "sys-cyberguard",
+      "evaluation_type": "Evaluation-related documentary evidence; not verified current performance",
+      "current_version_match": "Not established"
+    },
+    {
+      "system_id": "sys-esanjeevani",
+      "evaluation_type": "Evaluation-related documentary evidence; not verified current performance",
+      "current_version_match": "Not established"
+    },
+    {
+      "system_id": "sys-epaarvai",
+      "evaluation_type": "Prospective diagnostic field study",
+      "current_version_match": "Current production version not verified"
+    },
+    {
+      "system_id": "sys-rail-ids",
+      "evaluation_type": "Specification; not measured evaluation",
+      "current_version_match": "Not a measurement"
+    }
+  ]
+}

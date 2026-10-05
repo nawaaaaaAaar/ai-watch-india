@@ -1,0 +1,12 @@
+Lok Sabha telemedicine/CDSS response
+Original: https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps
+Document date: 2026-08-07
+Source type: Parliamentary response
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Further, the AI based Clinical Decision Support System (CDSS) available on this platform also enables a systematic capture of the diseases symptoms through a detailed patient assistance form, and identification of possible diseases.
+
+It also makes recommendation of a specialist doctor through a ‘rule engine’ and offers a differential diagnosis of possible diseases to the doctor at the hub end, thus facilitating connect of the patients with specialists as well as aiding consultations.
+
+Since its integration in April, 2023 till July, 2026, nearly 30.4 crore eSanjeevani consultations across all States/UTs have been benefited from standardized data capture and nearly 2.13 crore AI based differential diagnosis, ensuring consistency across health and wellness centres.

@@ -1,0 +1,14 @@
+Digi Yatra expansion parliamentary answer
+Original: https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS273_Y4e9cy.pdf?source=lsapps
+Document date: 2026-08-06
+Source type: Government parliamentary answer
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Regular security assessments, vulnerability assessments and audits are undertaken to strengthen the overall security posture of the platform.
+
+Since launch, Digi Yatra app has been downloaded over 2.5 Crore times and it has been used more than 10.75 Crore times by passengers to travel through Digi Yatra enabled airports.
+
+Starting with 3 airports in December 2022, Digi Yatra is now available at 39 airports.
+
+The data is purged from the system within 24 hours of the scheduled departure time of the flight.

@@ -1,0 +1,148 @@
+{
+  "tables": {
+    "systems": [
+      "system_id",
+      "name",
+      "sector",
+      "jurisdiction",
+      "stage",
+      "latest_record_date",
+      "ai_basis",
+      "legacy_id",
+      "owner_institution_id",
+      "checked_date",
+      "unit",
+      "selection",
+      "ai_class",
+      "ai_class_basis"
+    ],
+    "institutions": [
+      "institution_id",
+      "name",
+      "legal_identity_status"
+    ],
+    "system_institutions": [
+      "role_id",
+      "system_id",
+      "institution_id",
+      "role"
+    ],
+    "system_links": [
+      "system_link_id",
+      "system_id",
+      "target_system_id",
+      "relation",
+      "note"
+    ],
+    "deployments": [
+      "deployment_id",
+      "system_id",
+      "event_date",
+      "date_precision",
+      "stage",
+      "place",
+      "description",
+      "institution_name"
+    ],
+    "procurements": [
+      "procurement_id",
+      "system_id",
+      "record_type",
+      "award_date",
+      "amount_inr",
+      "amount_type",
+      "supplier_name",
+      "current_deployment_link",
+      "description",
+      "supplier_institution_id"
+    ],
+    "evaluations": [
+      "evaluation_id",
+      "system_id",
+      "evaluation_type",
+      "sample_n",
+      "sample_unit",
+      "setting",
+      "current_version_match",
+      "result_summary",
+      "evidence_status"
+    ],
+    "metrics": [
+      "metric_id",
+      "system_id",
+      "metric_name",
+      "value",
+      "unit",
+      "metric_kind",
+      "measurement_scope",
+      "denominator",
+      "value_qualifier"
+    ],
+    "controls": [
+      "control_id",
+      "system_id",
+      "control_type",
+      "implementation_basis",
+      "description",
+      "evidence_status"
+    ],
+    "policies": [
+      "policy_id",
+      "title",
+      "status"
+    ],
+    "system_policy_links": [
+      "policy_link_id",
+      "system_id",
+      "policy_id",
+      "relation"
+    ],
+    "assertions": [
+      "assertion_id",
+      "system_id",
+      "field",
+      "value",
+      "evidence_status",
+      "checked_date",
+      "coding_basis"
+    ],
+    "evidence": [
+      "evidence_id",
+      "source_id",
+      "quote",
+      "locator"
+    ],
+    "evidence_links": [
+      "link_id",
+      "record_type",
+      "record_id",
+      "evidence_id"
+    ],
+    "sources": [
+      "source_id",
+      "title",
+      "url",
+      "source_type",
+      "published_date",
+      "date_basis",
+      "checked_date",
+      "snapshot",
+      "snapshot_sha256",
+      "hash_basis"
+    ],
+    "issues": [
+      "issue_id",
+      "system_id",
+      "issue_type",
+      "description"
+    ],
+    "candidate_decisions": [
+      "candidate_id",
+      "name",
+      "decision",
+      "reason",
+      "system_id"
+    ]
+  },
+  "generic_link_rule": "evidence_links.record_type names a table; record_id matches its first-column primary key. Enforced by builder/tests; SQLite cannot express a polymorphic FK."
+}

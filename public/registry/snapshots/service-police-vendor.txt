@@ -1,0 +1,10 @@
+Microsoft MahaCrimeOS feature
+Original: https://news.microsoft.com/source/asia/features/a-race-against-time-maharashtra-police-get-an-ai-copilot-to-fight-cybercrime/
+Document date: 2025-12-12
+Source type: Vendor account
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Since April, police there have been using MahaCrimeOS AI, a customized crime investigation platform powered by Microsoft Foundry that helps them process complaints faster and navigate complex data and procedures — all crucial functions for handling cybercrime.
+
+On Dec. 12, 2025, the government of Maharashtra and Microsoft announced that MahaCrimeOS AI will be extended from Nagpur’s 23 police stations to all 1,100 police stations across the state.

@@ -1,0 +1,12 @@
+Project Insight reporting portal explanation
+Original: https://report.insight.gov.in/reporting-webapp/portal/recentArticle
+Document date: Undated/uncertain
+Source type: Government service description
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+The Income Tax Transaction Analysis Centre (INTRAC) leverages data analytics in tax administration
+
+A dedicated compliance portal would be used to capture response on compliance issues in a structured manner for effective compliance monitoring and evaluation.
+
+The project also operationalizes two new centres namely Income Tax Transaction Analysis Centre (INTRAC) and Compliance Management Centralized Processing Centre (CMCPC).

@@ -1,0 +1,12 @@
+Official judicial AI backgrounder
+Original: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=48&lang=2
+Document date: 2026-02-11
+Source type: Official explanation
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Supreme Court and High Court AI Translation Committees oversee quality and constitutional accuracy. AI use remains assistive, with translations reviewed within judicial frameworks to support access to justice.
+
+For this, SUVAS (Supreme Court Vidhik Anuvaad Software), an AI-driven translation tool of the Supreme Court, converts English judgments and orders into vernacular languages, enhancing accessibility and regional language use in courts. These translated judgments are hosted on the e-SCR portal, significantly expanding public access.
+
+The Supreme Court Portal for Assistance in Court Efficiency (SUPACE) is an AI-based system designed to help identify relevant precedents and understand the factual matrix of cases. SUPACE remains in an experimental stage and is not yet deployed for regular judicial use.

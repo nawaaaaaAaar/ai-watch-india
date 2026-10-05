@@ -1,0 +1,12 @@
+CyberGuard hackathon results
+Original: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2132817&reg=3&lang=1
+Document date: Undated/uncertain
+Source type: Official announcement
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+These models can interpret complex inputs such as handwritten FIRs, screenshots, and audio calls with improved speed and accuracy.
+
+Winners of IndiaAI I4C CyberGuard AI Hackathon Team Lead Names of the Team members Affiliated Organization Nisarg Gandhi Patel Darshankumar Shankarbhai and Bhensdadiya Kevin Vasantbhai S4AI Technologies LLP Lasya Ippagunta Shubham Luharuka and Puneet Hegde CloudSEK Information Security Limited Meet Bisht Rohit Ganaka and Yukta Chauhan Voldebug Innovations Pvt. Ltd.
+
+The Hackathon resulted in the development of AI-based solutions to enhance the classification of cybercrime complaints and support the identification of emerging crime patterns, trends, and modus operandi on the National Cyber Crime Reporting Portal (NCRP).

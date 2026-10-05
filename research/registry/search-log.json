@@ -1,0 +1,2120 @@
+[
+  {
+    "stage": "discovery",
+    "query": "India public sector AI deployment database",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "India advances AI-ready data infrastructure across key ...",
+        "url": "https://www.siasat.com/india-advances-ai-ready-data-infrastructure-across-key-sectors-govt-3438729/",
+        "domain": "www.siasat.com"
+      },
+      {
+        "title": "Datasets",
+        "url": "https://aikosh.indiaai.gov.in/home/datasets",
+        "domain": "aikosh.indiaai.gov.in"
+      },
+      {
+        "title": "static.pib.gov.in \u203a 2026 \u203a febIndia AI Governance Guidelines",
+        "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/feb/doc2026215790801.pdf",
+        "domain": "static.pib.gov.in"
+      },
+      {
+        "title": "AIKosh Home",
+        "url": "https://aikosh.indiaai.gov.in/",
+        "domain": "aikosh.indiaai.gov.in"
+      },
+      {
+        "title": "India takes baby steps to Sarkar(AI)",
+        "url": "https://economictimes.com/tech/artificial-intelligence/india-takes-baby-steps-to-sarkarai/articleshow/126127141.cms",
+        "domain": "economictimes.com"
+      },
+      {
+        "title": "INDIAai | Pillars",
+        "url": "https://indiaai.gov.in/",
+        "domain": "indiaai.gov.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "discovery",
+    "query": "IndiaAI public sector use cases compendium",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "IndiaAI Mission Advances AI-Driven Governance and Public ... - PIB",
+        "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2291062",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "About the AI Impact Casebooks",
+        "url": "https://impact.indiaai.gov.in/events/released-compendium",
+        "domain": "impact.indiaai.gov.in"
+      },
+      {
+        "title": "aikosh.indiaai.gov.inAIKosh Home",
+        "url": "https://aikosh.indiaai.gov.in/home/",
+        "domain": "aikosh.indiaai.gov.in"
+      },
+      {
+        "title": "Top 10 AI Prompts and Use Cases and in the Government ...",
+        "url": "https://www.nucamp.co/blog/coding-bootcamp-india-ind-government-top-10-ai-prompts-and-use-cases-and-in-the-government-industry-in-india",
+        "domain": "www.nucamp.co"
+      },
+      {
+        "title": "Press Release: Press Information Bureau",
+        "url": "https://www.pib.gov.in/PressReleseDetail.aspx?PRID=2229305&reg=6&lang=1",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "MeitY launches INDIAai's 75@75 compendium",
+        "url": "https://indiaai.gov.in/news/meity-launches-indiaai-s-75-75-compendium",
+        "domain": "indiaai.gov.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "discovery",
+    "query": "Digi Yatra facial recognition deployment 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "superkalam.com \u203a current-affairs \u203a articlesDigi Yatra International Departures Pilot: 5 Airports from Oct",
+        "url": "https://superkalam.com/current-affairs/articles/digi-yatra-international-departures-pilot",
+        "domain": "superkalam.com"
+      },
+      {
+        "title": "www.hindustantimes.com \u203a india-news \u203a government-toGovernment to test Digi Yatra at major airports for ...",
+        "url": "https://www.hindustantimes.com/india-news/government-to-test-digi-yatra-at-major-airports-for-international-departures-between-october-and-december-101789949430843.html",
+        "domain": "www.hindustantimes.com"
+      },
+      {
+        "title": "english.mathrubhumi.com \u203a features \u203a specialsTravelling Internationally through India? DigiYatra now ...",
+        "url": "https://english.mathrubhumi.com/features/specials/india-digiyatra-mandatory-international-transit-four-airports-g3amcga6",
+        "domain": "english.mathrubhumi.com"
+      },
+      {
+        "title": "www.latestly.com \u203a india \u203a newsDigi Yatra for International Departures: Government Plans ...",
+        "url": "https://www.latestly.com/india/news/digi-yatra-for-international-departures-government-plans-trials-across-5-major-airports-7620230.html",
+        "domain": "www.latestly.com"
+      },
+      {
+        "title": "India Implements DigiYatra Biometric Transit System at 4 Airports",
+        "url": "https://www.linkedin.com/posts/themainstream_themainstream-digiyatra-biometrictravel-activity-7469651957742264321-mM7a",
+        "domain": "www.linkedin.com"
+      },
+      {
+        "title": "Digi Yatra crosses 10 crore journeys, set to expand to 27 more airports",
+        "url": "https://infra.economictimes.indiatimes.com/news/aviation/digi-yatra-crosses-10-crore-journeys-set-to-expand-to-27-more-airports/131420778",
+        "domain": "infra.economictimes.indiatimes.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "discovery",
+    "query": "Bhashini government translation deployment 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "India Deploys Homegrown AI at Red Fort, Pledges AI Training for ...",
+        "url": "https://www.techtimes.com/articles/324582/20260815/india-deploys-homegrown-ai-red-fort-pledges-ai-training-ten-million-youth.htm",
+        "domain": "www.techtimes.com"
+      },
+      {
+        "title": "Digital India BHASHINI Division Showcases Voice-First Multilingual ...",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2216760&reg=3&lang=2",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "AI-powered live transmission, translation deployed in Delhi Assembly: Speaker - The Economic Times",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-powered-live-transmission-translation-deployed-in-delhi-assembly-speaker/articleshow/133029565.cms",
+        "domain": "economictimes.indiatimes.com"
+      },
+      {
+        "title": "Digital India BHASHINI Division and CAG Launch ...",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2317011",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "Government Launches CAG-BHASHINI Anuvaad to Translate Official Audit Reports",
+        "url": "https://the420.in/cag-bhashini-anuvaad-ai-translation-government-audit-reports/",
+        "domain": "the420.in"
+      },
+      {
+        "title": "BHASHINI Showcases Multilingual AI Innovations at NCeG 2026 - PIB",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2280490&reg=3&lang=1",
+        "domain": "www.pib.gov.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "discovery",
+    "query": "Kisan e Mitra chatbot official 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Kisan-eMitra Chatbot",
+        "url": "https://beed.gov.in/en/service/kisan-emitra-chatbot/",
+        "domain": "beed.gov.in"
+      },
+      {
+        "title": "PM-Kisan Samman Nidhi",
+        "url": "https://pmkisan.gov.in/",
+        "domain": "pmkisan.gov.in"
+      },
+      {
+        "title": "www.sarkariworld.com \u203a pm-kisan-portal-pmkisan-govPM-Kisan 2026: e-KYC, Status, Registration, Instalment ...",
+        "url": "https://www.sarkariworld.com/pm-kisan-portal-pmkisan-gov-in-guide-2026",
+        "domain": "www.sarkariworld.com"
+      },
+      {
+        "title": "Artificial Intelligence (AI) Transforming Indian Agriculture",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2227914&reg=48&lang=2",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "Exploring Pradhan Mantri-KISAN AI Chatbot",
+        "url": "https://indiaai.gov.in/article/exploring-pradhan-mantri-kisan-ai-chatbot",
+        "domain": "indiaai.gov.in"
+      },
+      {
+        "title": "Artificial Intelligence (AI) Transforming Indian Agriculture - PIB",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2227914&reg=3&lang=1",
+        "domain": "www.pib.gov.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "discovery",
+    "query": "Bharat VISTAAR launch agriculture 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Union Minister Shri Shivraj Singh Chouhan to launch 'Bharat-VISTAAR'",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2228842&reg=3&lang=2",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "Rollout Of BHARAT-VISTAAR Platform",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2239788&reg=3&lang=1",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "ICAR Institutes across the Country Host Live Webcast ...",
+        "url": "https://icar.org.in/en/icar-institutes-across-country-host-live-webcast-bharat-vistaar-launch-reinforcing-digital",
+        "domain": "icar.org.in"
+      },
+      {
+        "title": "Amid the AI Summit in Delhi, Union Minister Shri Shivraj Singh Chouhan launched the artificial intelligence-based scheme \u2018Bharat VISTAAR\u2019 Phase 1 in Rajasthan",
+        "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2229256",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "How Bharat-VISTAAR Is Connecting 140M+ Farmers to ...",
+        "url": "https://frontiertech.niti.gov.in/story/how-bharat-vistaar-is-connecting-140m-farmers-to-smarter-agriculture/",
+        "domain": "frontiertech.niti.gov.in"
+      },
+      {
+        "title": "Agriculture ministry launches Bharat-VISTAAR, a multilingual AI tool for digital fam advisories | India News - The Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/agriculture-ministry-launches-bharat-vistaar-a-multilingual-ai-tool-for-digital-fam-advisories/articleshow/128472775.cms",
+        "domain": "timesofindia.indiatimes.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "discovery",
+    "query": "Ask DISHA IRCTC artificial intelligence 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Book Train Tickets with AskDISHA Chatbot | IRCTC - CoRover.ai",
+        "url": "https://revamp.irctc.corover.ai/",
+        "domain": "revamp.irctc.corover.ai"
+      },
+      {
+        "title": "Irctc - Latest irctc , Information & Updates",
+        "url": "https://cio.economictimes.indiatimes.com/tag/irctc",
+        "domain": "cio.economictimes.indiatimes.com"
+      },
+      {
+        "title": "Book, cancel, and track train tickets with ease",
+        "url": "https://economictimes.com/wealth/save/book-cancel-and-track-train-tickets-with-ease-what-irctcs-askdisha-2-0-offers-passengers-check-its-features-how-to-book-train-tickets-check-refund-status-and-more/articleshow/121464138.cms",
+        "domain": "economictimes.com"
+      },
+      {
+        "title": "IRCTC's Ask Disha 2.0 AI Chatbot Handles 10B Queries ...",
+        "url": "https://www.linkedin.com/posts/nitishkhunteta_ai-chatbot-ml-activity-7430569325096402944-mAjU",
+        "domain": "www.linkedin.com"
+      },
+      {
+        "title": "IRCTC \u0935\u0930 \u0924\u093f\u0915\u0940\u091f \u092c\u0941\u0915\u093f\u0902\u0917\u091a\u093e \u0928\u0935\u093e \u092b\u0902\u0921\u093e; \u091a\u0945\u091f\u092c\u0949\u091f\u094d\u0938 \u0906\u0923\u093f 'AI \u090f\u091c\u0902\u091f\u094d\u0938' \u0938\u0947\u0915\u0902\u0926\u093e\u0924 \u0915\u0930\u0923\u093e\u0930 \u0924\u0941\u092e\u091a\u0947 \u0915\u093e\u092e",
+        "url": "https://maharashtratimes.com/gadget-news/mobile-phones/new-trend-on-irctc-chatbots-and-ai-agents-to-book-your-train-tickets-in-seconds/articleshow/134477450.cms",
+        "domain": "maharashtratimes.com"
+      },
+      {
+        "title": "IRCTC's AI-based initiative 'ASK DISHA' to help govt bodies answer queries",
+        "url": "https://www.business-standard.com/article/technology/irctc-s-ai-based-initiative-ask-disha-to-help-govt-bodies-answer-queries-121022601433_1.html",
+        "domain": "www.business-standard.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "discovery",
+    "query": "CBIC ADVAIT artificial intelligence risk management",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "PowerPoint Presentation",
+        "url": "https://gstcouncil.gov.in/sites/default/files/2024-04/08-a_ncecsc_dg_sys.pptx",
+        "domain": "gstcouncil.gov.in"
+      },
+      {
+        "title": "Both direct and indirect tax departments employ data ...",
+        "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1911271",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "ADVAIT: How AI is Revolutionizing Customs Compliance in India | Argha Roy Choudhury, ACMA posted on the topic | LinkedIn",
+        "url": "https://www.linkedin.com/posts/argha-roy-choudhury-acma-807a811b6_advait-cbic-aiintrade-activity-7352238589293842432-T6pD",
+        "domain": "www.linkedin.com"
+      },
+      {
+        "title": "April 2023",
+        "url": "https://www.wcoomd.org/-/media/wco/public/global/pdf/topics/facilitation/ressources/permanent-technical-committee/239-240/item-ix_technology-and-innovation_india.pdf",
+        "domain": "www.wcoomd.org"
+      },
+      {
+        "title": "CBIC - Advait EO Status 09 Jan 2024",
+        "url": "https://www.scribd.com/presentation/846728140/CBIC-Advait-EO-Status-09-Jan-2024",
+        "domain": "www.scribd.com"
+      },
+      {
+        "title": "Evolution of customs administration powered by technology",
+        "url": "https://www.financialexpress.com/business/industry-evolution-of-customs-administration-powered-by-technology-2965795/",
+        "domain": "www.financialexpress.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "discovery",
+    "query": "Income Tax Project Insight artificial intelligence",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "AI Steps Into The Tax Office: India\u2019s Revenue Revolution Goes ...",
+        "url": "https://news.abplive.com/technology/ai-steps-into-the-tax-office-india-s-revenue-revolution-goes-digital-1806041",
+        "domain": "news.abplive.com"
+      },
+      {
+        "title": "ARTICLE Artificial Intelligence and Tax Compliance - ICSI",
+        "url": "https://www.icsi.edu/media/webmodules/CSJ/April-2025/15.pdf",
+        "domain": "www.icsi.edu"
+      },
+      {
+        "title": "Intelligent Administration: The New Era of Tax Governance - TaxGuru",
+        "url": "https://taxguru.in/corporate-law/intelligent-administration-era-tax-governance.html",
+        "domain": "taxguru.in"
+      },
+      {
+        "title": "AI-Driven Tax Governance in India - Drishti IAS",
+        "url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/ai-driven-tax-governance-in-india",
+        "domain": "www.drishtiias.com"
+      },
+      {
+        "title": "AI in Tax Administration: Opportunities & Challenges - NEXT IAS",
+        "url": "https://www.nextias.com/ca/editorial-analysis/20-03-2026/ai-tax-administration",
+        "domain": "www.nextias.com"
+      },
+      {
+        "title": "AI and algorithms are the new paradigms in Indian taxation",
+        "url": "https://www.techcircle.in/2025/05/29/ai-and-algorithms-are-the-new-paradigms-at-indian-i-t-deloitte-india-s-pritin-kumar/",
+        "domain": "www.techcircle.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "discovery",
+    "query": "Indian Railways intrusion detection elephants AI 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Indian Railways' AI-enabled Intrusion Detection System (IDS)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2223196&reg=48&lang=2",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "How Kavach and AI Are Strengthening Railway Safety ...",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2224380&reg=3&lang=1",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "AI Alerts to \u2018Plan Bee': How Railways saved 255 elephants from train collisions in northeast",
+        "url": "https://indianexpress.com/article/india/ai-alerts-plan-bee-railways-saved-255-elephants-northeast-10906293/",
+        "domain": "indianexpress.com"
+      },
+      {
+        "title": "www.indiatoday.in \u203a information \u203a storyDid you know? This AI system helps stop elephant-train ...",
+        "url": "https://www.indiatoday.in/information/story/did-you-know-this-ai-system-helps-stop-elephant-train-collisions-in-india-2940934-2026-07-05",
+        "domain": "www.indiatoday.in"
+      },
+      {
+        "title": "Indian Railways Deploys AI-Enabled Intrusion Detection ...",
+        "url": "https://railwaysyearbook.in/indian-railways-deploys-ai-enabled-intrusion-detection-system-to-prevent-elephant-deaths-on-railway-tracks/",
+        "domain": "railwaysyearbook.in"
+      },
+      {
+        "title": "Indian Railways introduces AI system to prevent elephant-train collisions",
+        "url": "https://thenewsmill.com/2026/02/indian-railways-introduces-ai-system-to-prevent-elephant-train-collisions/",
+        "domain": "thenewsmill.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "discovery",
+    "query": "Telangana pensioners life certificate artificial intelligence",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Telangana government leveraging the power of AI and ML ... - IndiaAI",
+        "url": "https://indiaai.gov.in/case-study/telangana-government-leveraging-the-power-of-ai-and-ml-for-pensioners",
+        "domain": "indiaai.gov.in"
+      },
+      {
+        "title": "Our pixelated selves: How AI is helping pensioners in Telangana",
+        "url": "https://indiaai.gov.in/article/our-pixelated-selves-how-ai-is-helping-pensioners-in-telangana",
+        "domain": "indiaai.gov.in"
+      },
+      {
+        "title": "Information Technology Electronics",
+        "url": "https://it.telangana.gov.in/wp-content/uploads/2023/02/Telangana-Year-of-AI-2020-Report.pdf",
+        "domain": "it.telangana.gov.in"
+      },
+      {
+        "title": "How AI, Big Data and Machine Learning are Transforming ...",
+        "url": "https://egov.eletsonline.com/2019/05/how-ai-big-data-and-machine-learning-are-transforming-pensioners-lives-in-telangana/",
+        "domain": "egov.eletsonline.com"
+      },
+      {
+        "title": "Telangana\u2019s e-governance measures are aimed towards easing lives of citizens: GT Venkateshwara Rao - Elets eGov | Elets",
+        "url": "https://egov.eletsonline.com/2020/05/telanganas-e-governance-measures-are-aimed-towards-easing-lives-of-citizens-gt-venkateshwara-rao/",
+        "domain": "egov.eletsonline.com"
+      },
+      {
+        "title": "telanganatoday.com \u203a pensioners-can-submit-digitalPensioners can submit digital life certificate using Jeevan ...",
+        "url": "https://telanganatoday.com/pensioners-can-submit-digital-life-certificate-using-jeevan-pramaan-t-folio-apps",
+        "domain": "telanganatoday.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "discovery",
+    "query": "Telangana RTA FEST artificial intelligence service",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Press Note",
+        "url": "https://transport.telangana.gov.in/pdf_uploads/Press%20Note%20on%20Chatbot1598608559.pdf",
+        "domain": "transport.telangana.gov.in"
+      },
+      {
+        "title": "Telangana is emerging as world leader in AI adoption in governance: Jayesh Ranjan",
+        "url": "https://government.economictimes.indiatimes.com/news/technology/telangana-is-emerging-as-world-leader-in-ai-adoption-in-governance-jayesh-ranjan-principal-secretary-it/79740587",
+        "domain": "government.economictimes.indiatimes.com"
+      },
+      {
+        "title": "Electronic Services Delivery (ESD) \u2013 Department of Information Technology, Electronics & Communications",
+        "url": "https://it.telangana.gov.in/initiatives/electronic-services-delivery/",
+        "domain": "it.telangana.gov.in"
+      },
+      {
+        "title": "Digital Transformation Part 1",
+        "url": "https://mcrhrdi.gov.in/splfc2023/week2/Digital%20Transformation%20Part%201.pdf",
+        "domain": "mcrhrdi.gov.in"
+      },
+      {
+        "title": "TRANSPORT",
+        "url": "https://khammam.telangana.gov.in/transport/",
+        "domain": "khammam.telangana.gov.in"
+      },
+      {
+        "title": "www.it.telangana.gov.in",
+        "url": "https://hysea.in/hysea.in/wp-content/uploads/2022/06/Telangana-IT-EC-Department-Annual-Report-2021-22.pdf",
+        "domain": "hysea.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "discovery",
+    "query": "Tamil Nadu e Paarvai AI screening",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "e Paarvai - Apps on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.codevector.cataract_detection_app&hl=en_US",
+        "domain": "play.google.com"
+      },
+      {
+        "title": "Now, an AI-based app helps detect cataracts in Tamil Nadu",
+        "url": "https://government.economictimes.indiatimes.com/news/digital-india/now-an-ai-based-app-helps-detect-cataracts-in-tamil-nadu/85425813",
+        "domain": "government.economictimes.indiatimes.com"
+      },
+      {
+        "title": "Inside Tamil Nadu e-Governance Agency's AI for good ...",
+        "url": "https://indiaai.gov.in/article/inside-tamil-nadu-e-governance-agency-s-ai-for-good-pursuit",
+        "domain": "indiaai.gov.in"
+      },
+      {
+        "title": "Accuracy of an artificial intelligence-based mobile application ... - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10538832/",
+        "domain": "pmc.ncbi.nlm.nih.gov"
+      },
+      {
+        "title": "AI-based cataract screening app developed by TNeGA - IndiaAI",
+        "url": "https://indiaai.gov.in/news/ai-based-cataract-screening-app-developed-by-tnega",
+        "domain": "indiaai.gov.in"
+      },
+      {
+        "title": "Operational Excellence Using Design Thinking for Social Change - Vijaya Sunder M, Rithica Mamidi, Rajendra K. Srivastava, 2025",
+        "url": "https://journals.sagepub.com/doi/10.1177/2694104X251349091",
+        "domain": "journals.sagepub.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "discovery",
+    "query": "Mumbai tuberculosis qXR government screening",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "www.gov.uk \u00b7 tuberculosis-testing-in-indiaTuberculosis testing in India - GOV.UK",
+        "url": "https://www.gov.uk/government/publications/india-tuberculosis-test-clinics-for-a-uk-visa/tuberculosis-testing-in-india",
+        "domain": "www.gov.uk"
+      },
+      {
+        "title": "QURE.AI: REVOLUTIONIZING HEALTHCARE THROUGH AI-POWERED ...",
+        "url": "https://medikaldevice.com/informations/qure-ai/",
+        "domain": "medikaldevice.com"
+      },
+      {
+        "title": "Explaining qXR, an AI powered TB screening tool|IHF",
+        "url": "https://www.indiahealthfund.org/portfolio-qure-ai/",
+        "domain": "www.indiahealthfund.org"
+      },
+      {
+        "title": "AI That Reads X-Rays In Seconds And Brings Expert ...",
+        "url": "https://frontiertech.niti.gov.in/story/smart-scans-bring-early-diagnosis-to-millions/",
+        "domain": "frontiertech.niti.gov.in"
+      },
+      {
+        "title": "National Tuberculosis Elimination Programme (NTEP) | India",
+        "url": "https://phd.maharashtra.gov.in/en/scheme/national-tuberculosis-elimination-programme-ntep/",
+        "domain": "phd.maharashtra.gov.in"
+      },
+      {
+        "title": "AI-Driven Scans, Early Action: Qure.ai's Answer to India's TB ...",
+        "url": "https://frontiertech.niti.gov.in/story/ai-driven-tuberculosis-diagnosis-a-transformative-solution-for-indias-healthcare-challenges/",
+        "domain": "frontiertech.niti.gov.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "discovery",
+    "query": "UPSC facial authentication SOP October 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Press Release: Press Information Bureau",
+        "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2268879&reg=3&lang=1",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "UPSC's face-scan system carried out 12,000 verifications a minute during CSE Prelims 2026",
+        "url": "https://indianexpress.com/article/education/upscs-face-scan-system-carried-out-12000-verifications-a-minute-during-cse-prelims-2026-10724263/",
+        "domain": "indianexpress.com"
+      },
+      {
+        "title": "UPSC Face Authentication 2026: How It Works & ...",
+        "url": "https://padhai.ai/upsc-update/notifications/upsc-face-authentication",
+        "domain": "padhai.ai"
+      },
+      {
+        "title": "Union Public Service Commission at 100: A century of meritocracy and inclusion",
+        "url": "https://ddnews.gov.in/en/union-public-service-commission-at-100-a-century-of-meritocracy-and-inclusion",
+        "domain": "ddnews.gov.in"
+      },
+      {
+        "title": "UPSC Face Authentication 2026 \u2013 AI Identity Verification ...",
+        "url": "https://www.legacyias.com/upsc-face-authentication-2026/",
+        "domain": "www.legacyias.com"
+      },
+      {
+        "title": "UPSC Rolls Out Face Authentication for Candidate Identity Verification",
+        "url": "https://vajiramandravi.com/upsc-exam/upsc-rolls-out-face-authentication-for-candidate-identity-verification/",
+        "domain": "vajiramandravi.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "discovery",
+    "query": "CyberGuard I4C integrated evaluation 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "IndiaAI Mission Identifies 762 AI Use Cases, Approves 58 Centres of Excellence",
+        "url": "https://currentaffairspulse.com/article/2026-07-29-indiaai-mission-governance-progress",
+        "domain": "currentaffairspulse.com"
+      },
+      {
+        "title": "[PDF] government of india - Digital Sansad",
+        "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU4116_8SSZxg.pdf?source=lsapps",
+        "domain": "sansad.in"
+      },
+      {
+        "title": "CYBERGUARD - Advanced Cybersecurity Solutions for ...",
+        "url": "https://cyberguard-eu.eu/",
+        "domain": "cyberguard-eu.eu"
+      },
+      {
+        "title": "huanghaiwan.com \u00b7 posts \u00b7 cyberguard-mid-2026-reviewCyberguard \u673a\u573a 2026 \u5e74\u4e2d\u66f4\u65b0\u8bc4\u6d4b\uff1a\u591a\u7ebf\u8def IEPL \u5168\u9762\u5347\u7ea7\uff0c\u00a518/\u6708\u8d77...",
+        "url": "https://huanghaiwan.com/posts/cyberguard-mid-2026-review/",
+        "domain": "huanghaiwan.com"
+      },
+      {
+        "title": "Enhancing Maritime Cybersecurity ECSF Role Alignment",
+        "url": "https://www.enisa.europa.eu/media/56862",
+        "domain": "www.enisa.europa.eu"
+      },
+      {
+        "title": "IndiaAI Mission clears 58 AI CoE, 543 data & AI labs",
+        "url": "https://www.communicationstoday.co.in/indiaai-mission-clears-58-ai-coe-543-data-ai-labs/",
+        "domain": "www.communicationstoday.co.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "discovery",
+    "query": "SUVAS judicial translation procurement evaluation",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "ahIllIHeh\\'3",
+        "url": "https://cdnbbsr.s3waas.gov.in/s3ec03ac73001b1d44f4925449ce09d9f5/uploads/2023/09/2023092013.pdf",
+        "domain": "cdnbbsr.s3waas.gov.in"
+      },
+      {
+        "title": "sansad.in \u203a getFile \u203a annexGOVERNMENT OF INDIA MINISTRY OF LAW AND JUSTICE DEPARTMENT OF ...",
+        "url": "https://sansad.in/getFile/annex/258/AU1064.pdf?source=pqars",
+        "domain": "sansad.in"
+      },
+      {
+        "title": "GOVERNMENT OF INDIA MINISTRY OF LAW AND ...",
+        "url": "https://eparlib.sansad.in/bitstream/123456789/1465709/1/AS147.pdf",
+        "domain": "eparlib.sansad.in"
+      },
+      {
+        "title": "6 AI Platforms for Legal Document Translation Every Lawyer ...",
+        "url": "https://lawbhoomi.com/6-ai-platforms-for-legal-document-translation-every-lawyer-should-know-in-2026/",
+        "domain": "lawbhoomi.com"
+      },
+      {
+        "title": "[PDF] International Journal of Research Publication and Reviews - ijrpr",
+        "url": "https://ijrpr.com/uploads/V6ISSUE5/IJRPR44538.pdf",
+        "domain": "ijrpr.com"
+      },
+      {
+        "title": "www.anuvad.ai \u203a blog \u203a anuvaad-suvas-court-translationHow India's Supreme Court Translates Documents: Inside ...",
+        "url": "https://www.anuvad.ai/blog/anuvaad-suvas-court-translation",
+        "domain": "www.anuvad.ai"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "discovery",
+    "query": "SUPACE final regulations operational October 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Press Release Page | Press Information Bureau",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2226283&reg=3&lang=1",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "lawworld.ai \u203a articles \u203a articlesFrom SUVAS to SUPACE: The Judiciary Adopted AI Before the Bar ...",
+        "url": "https://lawworld.ai/articles/articles/from-suvas-to-supace-the-judiciary-adopted-ai-before-the-bar-did",
+        "domain": "lawworld.ai"
+      },
+      {
+        "title": "Press Note Details: Press Information Bureau",
+        "url": "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=157293&ModuleId=3&reg=48&lang=1",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "2026 Regulatory Calendar",
+        "url": "https://www.regcompliancewatch.com/2026-regulatory-calendar/",
+        "domain": "www.regcompliancewatch.com"
+      },
+      {
+        "title": "SC unveils AI Portal \u2018SUPACE\u2019 \u2013 IAS Score",
+        "url": "https://iasscore.in/current-affairs/sc-unveils-ai-portal-supace-8-29",
+        "domain": "iasscore.in"
+      },
+      {
+        "title": "spmrf.org \u203a artificial-intelligence-in-the-indianArtificial Intelligence in the Indian Judiciary SUPACE, SUVAS ...",
+        "url": "https://spmrf.org/artificial-intelligence-in-the-indian-judiciary-supace-suvas-and-the-limits-of-assistive-automation/",
+        "domain": "spmrf.org"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "discovery",
+    "query": "eSanjeevani CDSS clinical evaluation 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Resource Blog Archives | Intelehealth",
+        "url": "https://intelehealth.org/category/resource_blog/",
+        "domain": "intelehealth.org"
+      },
+      {
+        "title": "GOVERNMENT OF INDIA",
+        "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS284_ZZWF4R.pdf?source=lsapps",
+        "domain": "sansad.in"
+      },
+      {
+        "title": "A Comparative Analysis of e-Sanjeevani and an AI-Driven ...",
+        "url": "https://ijersem.com/wp-content/uploads/2026/05/12503.pdf",
+        "domain": "ijersem.com"
+      },
+      {
+        "title": "intelehealth.org \u203a wp-content \u203a uploadsImproving the eSanjeevani program & tech platform to Unlock ...",
+        "url": "https://intelehealth.org/wp-content/uploads/2026/09/eSanjeevani-policy-brief_Intelehealth.pdf",
+        "domain": "intelehealth.org"
+      },
+      {
+        "title": "\u0908-\u0938\u0902\u091c\u0940\u0935\u0928\u0940 \u2013 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u091f\u0947\u0932\u0940\u092e\u0947\u0921\u093f\u0938\u093f\u0928 \u0938\u0947\u0935\u093e - C-DAC",
+        "url": "https://www.cdac.in/index.aspx?id=product_details&productId=eSanjeevaniNationalTelemedicineService",
+        "domain": "www.cdac.in"
+      },
+      {
+        "title": "Transforming Healthcare Delivery Through Artificial Intelligence",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2227410&reg=3&lang=1",
+        "domain": "www.pib.gov.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "discovery",
+    "query": "MahaCrimeOS rollout contract September 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Maharashtra Rolls Out Microsoft-Powered MahaCrimeOS AI to All 1,100 Police Stations for Cybercrime Investigation \u2013 Outlook Business",
+        "url": "https://www.outlookbusiness.com/deeptech/artificial-intelligence/maharashtra-rolls-out-microsoft-powered-mahacrimeos-ai-to-all-1100-police-stations-for-cybercrime-investigation",
+        "domain": "www.outlookbusiness.com"
+      },
+      {
+        "title": "Satya Nadella launches Microsoft's cybercrime AI copilot across ...",
+        "url": "https://www.cnbctv18.com/india/satya-nadella-launches-microsofts-cybercrime-ai-copilot-across-1100-maharashtra-police-stations-19789246.htm/amp",
+        "domain": "www.cnbctv18.com"
+      },
+      {
+        "title": "Maharashtra partners with Microsoft to deploy AI system for cybercrime investigations - The Economic Times",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/maharashtra-partners-with-microsoft-to-deploy-ai-system-for-cybercrime-investigations/articleshow/125928433.cms",
+        "domain": "economictimes.indiatimes.com"
+      },
+      {
+        "title": "Asia's Premier News Agency - India News, Business & Political, National & International, Bollywood, Sports | ANI News",
+        "url": "https://www.aninews.in/topic/mahacrimeos-ai/",
+        "domain": "www.aninews.in"
+      },
+      {
+        "title": "MahaCrimeOS AI: How Maharashtra Police Is Using AI to Fight Cybercri\u2026",
+        "url": "https://vajiramandravi.com/current-affairs/mahacrimeos-ai-how-maharashtra-police-is-using-ai-to-fight-cybercrime/",
+        "domain": "vajiramandravi.com"
+      },
+      {
+        "title": "Maharashtra Deploys AI-Powered MahaCrimeOS for ...",
+        "url": "https://www.linkedin.com/posts/anilzuitshi_devendrasatyanadellameet-activity-7405228808909479936-ElIg",
+        "domain": "www.linkedin.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "Digi Yatra PIB October 2026 airports",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Press Release Page | Press Information Bureau",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2267024&reg=3&lang=1",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "Digi Yatra crosses 10 crore usage across 38 airports - PIB",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2267024&reg=1&lang=1",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "www.visaverge.com \u203a travel \u203a india-plans-digi-yatraDigi Yatra International Trial at 5 Airports in 2026",
+        "url": "https://www.visaverge.com/travel/india-plans-digi-yatra-e-passports-and-e-boarding-passes-trials-at-5-airports-for-international-flights/",
+        "domain": "www.visaverge.com"
+      },
+      {
+        "title": "upsc.karka.ai \u203a current-affairs \u203a readDigi Yatra to Cover International Flights and Foreign Travellers",
+        "url": "https://upsc.karka.ai/current-affairs/read/digi-yatra-to-cover-international-flights-and-foreign-travellers-20260924",
+        "domain": "upsc.karka.ai"
+      },
+      {
+        "title": "Indian Infra Report on X: \"  India plans to test Digi Yatra for ...",
+        "url": "https://x.com/Indianinfoguide/status/2101990793158480043",
+        "domain": "x.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "Digi Yatra foundation privacy policy voluntary facial data",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Privacy",
+        "url": "https://digiyatrafoundation.com/privacy-policy/",
+        "domain": "digiyatrafoundation.com"
+      },
+      {
+        "title": "Digi Yatra Biometric Boarding System",
+        "url": "https://www.civilaviation.gov.in/sites/default/files/2023-07/Digi%20Yatra%20Policy%20(DIGI%20YATRA).pdf",
+        "domain": "www.civilaviation.gov.in"
+      },
+      {
+        "title": "Digi Yatra Guidelines 1 - Ministry of Civil Aviation",
+        "url": "https://www.civilaviation.gov.in/sites/default/files/2024-01/Digi%20Yatra%20Guidelines_1.pdf",
+        "domain": "www.civilaviation.gov.in"
+      },
+      {
+        "title": "anantamias.com \u203a digi-yatraDigiYatra: Features, Airports Covered, Privacy Concerns and ...",
+        "url": "https://anantamias.com/digi-yatra/",
+        "domain": "anantamias.com"
+      },
+      {
+        "title": "Digi Yatra: IT wanted guard rails against data misuse, aviation said ...",
+        "url": "https://indianexpress.com/article/express-exclusive/digi-yatra-it-wanted-guard-rails-aviation-said-app-will-be-new-normal-9571500/",
+        "domain": "indianexpress.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "Digi Yatra airport procurement tender facial recognition",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Pune airport to get facial recognition technology",
+        "url": "https://indianexpress.com/article/cities/pune/pune-airport-to-get-facial-recognition-technology-5997946/",
+        "domain": "indianexpress.com"
+      },
+      {
+        "title": "Search Tenders for Digi Yatra in India",
+        "url": "https://www.tenderdetail.com/Indian-tender/digi-yatra-tenders",
+        "domain": "www.tenderdetail.com"
+      },
+      {
+        "title": "RTI to Airports Authority of India on DigiYatra",
+        "url": "https://panoptic.in/right-to-information/RTI-00032",
+        "domain": "panoptic.in"
+      },
+      {
+        "title": "From Aadhaar to Digiyatra, How Japan Is Helping Build India\u2019s Tech Infrastructure",
+        "url": "https://thewire.in/economy/tech/from-aadhaar-to-digiyatra-how-japan-is-helping-build-indias-tech-infrastructure",
+        "domain": "thewire.in"
+      },
+      {
+        "title": "IDEMIA secure tender to work on \u201cDigiYatra\u201d project",
+        "url": "https://identityweek.net/idemia-secure-tender-to-work-on-digiyatra-project/",
+        "domain": "identityweek.net"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "Bhashini CAG Anuvaad review translated audit reports",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Digital India BHASHINI Division and CAG Launch \u201cCAG ... - PIB",
+        "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317011&reg=1&lang=1",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "Digital India BHASHINI Division and CAG Launch \u201c ...",
+        "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317011&reg=6&lang=1",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": ",:.fi\\,",
+        "url": "https://cag.gov.in/uploads/ae_circulars_office_orders/CircularsOfficeOrders-06965f544d60278-12071490.pdf",
+        "domain": "cag.gov.in"
+      },
+      {
+        "title": "What is the name of the AI-enabled translation solution ...",
+        "url": "https://www.gktoday.in/question/what-is-the-name-of-the-ai-enabled-translation-solution-launched-joint",
+        "domain": "www.gktoday.in"
+      },
+      {
+        "title": "BHASHINI, CAG Launch AI-Powered Translation Solution ...",
+        "url": "https://apacnewsnetwork.com/2026/09/bhashini-cag-launch-ai-powered-translation-solution-for-official-documents/",
+        "domain": "apacnewsnetwork.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "Bhashini procurement translation accuracy privacy",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Terms of Use",
+        "url": "https://bhashini.gov.in/gyankosh?tab=terms-of-use&fromFooter=true",
+        "domain": "bhashini.gov.in"
+      },
+      {
+        "title": "Government of India - Bhashini",
+        "url": "https://uat-bhashini.bhashini.co.in/gyankosh?tab=privacy-policy&fromFooter=true",
+        "domain": "uat-bhashini.bhashini.co.in"
+      },
+      {
+        "title": "Bhashini - Indian productivity App",
+        "url": "https://swadeshiapps.com/productivity/bhashini",
+        "domain": "swadeshiapps.com"
+      },
+      {
+        "title": "Bhashini - App Store - Apple",
+        "url": "https://apps.apple.com/ca/app/bhashini/id6446089978",
+        "domain": "apps.apple.com"
+      },
+      {
+        "title": "BHASHINI, GeM Sign MoU for Multilingual Public Procurement in India",
+        "url": "https://techobserver.in/news/egov/bhashini-gem-mou-multilingual-procurement-india-325315/?amp",
+        "domain": "techobserver.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "Kisan e Mitra chatbot grievance privacy evaluation",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "IND-001 \u2014 PM-KISAN Kisan e-Mitra AI Chatbot | AI Hub",
+        "url": "https://socialprotectionai.org/use-case/IND-001/print",
+        "domain": "socialprotectionai.org"
+      },
+      {
+        "title": "The Promise of Artificial Intelligence",
+        "url": "https://openknowledge.worldbank.org/server/api/core/bitstreams/6e2b8ce7-3e66-4c21-a0d3-f4b2377da7bd/content",
+        "domain": "openknowledge.worldbank.org"
+      },
+      {
+        "title": "government of india",
+        "url": "https://sansad.in/getFile/annex/266/AU2096_8M5CLR.pdf?source=pqars",
+        "domain": "sansad.in"
+      },
+      {
+        "title": "Kisan e-Mitra",
+        "url": "https://mcqquestion.com/articles/kisan-e-mitra/",
+        "domain": "mcqquestion.com"
+      },
+      {
+        "title": "lu2612 - sansad.in",
+        "url": "https://www.sansad.in/getFile/loksabhaquestions/annex/185/AU2612_qsk9qb.pdf?source=pqals",
+        "domain": "www.sansad.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "Kisan e Mitra developer procurement Samagra",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "IND-001 \u2014 PM-KISAN Kisan e-Mitra AI Chatbot | AI Hub",
+        "url": "https://socialprotectionai.org/use-case/IND-001/print",
+        "domain": "socialprotectionai.org"
+      },
+      {
+        "title": "SamagraX | Transforming Governance",
+        "url": "https://samagrax.samagragovernance.in/agriculture/",
+        "domain": "samagrax.samagragovernance.in"
+      },
+      {
+        "title": "Integrated Government Online Directory",
+        "url": "https://igod.gov.in/organization/LKNfInUBxrox_NfiSIBI/SPMA/list",
+        "domain": "igod.gov.in"
+      },
+      {
+        "title": "Empowering India\u2019s Annadatas",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2269182&reg=48&lang=1",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "SamagraX - Samagra | Transforming Governance",
+        "url": "https://samagragovernance.in/samagrax/",
+        "domain": "samagragovernance.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "Bharat VISTAAR human expert escalation evaluation",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "AI for the Kisan Call Centre 1551: Fixing India's Farmer Helpline",
+        "url": "https://aisewak.com/blog/ai-kisan-call-centre-1551",
+        "domain": "aisewak.com"
+      },
+      {
+        "title": "vistaar.da.gov.inBharatVistaar",
+        "url": "https://vistaar.da.gov.in/",
+        "domain": "vistaar.da.gov.in"
+      },
+      {
+        "title": "vistaar/README.md at master \u00b7 AI4Bharat/vistaar",
+        "url": "https://github.com/AI4Bharat/vistaar/blob/master/README.md",
+        "domain": "github.com"
+      },
+      {
+        "title": "Amid the AI Summit in Delhi, Union Minister Shri Shivraj Singh ... - PIB",
+        "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2229256&reg=3&lang=1",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "Press Release: Press Information Bureau",
+        "url": "https://www.pib.gov.in/PressReleseDetail.aspx?PRID=2228842&reg=3&lang=1",
+        "domain": "www.pib.gov.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "Bharat VISTAAR procurement vendor",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "vistaar.da.gov.inBharatVistaar",
+        "url": "https://vistaar.da.gov.in/",
+        "domain": "vistaar.da.gov.in"
+      },
+      {
+        "title": "How Bharat-VISTAAR Is Connecting 140M+ Farmers to ...",
+        "url": "https://frontiertech.niti.gov.in/story/how-bharat-vistaar-is-connecting-140m-farmers-to-smarter-agriculture/",
+        "domain": "frontiertech.niti.gov.in"
+      },
+      {
+        "title": "Rollout Of BHARAT-VISTAAR Platform",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2239788&reg=1&lang=1",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "Bharat-VISTAAR",
+        "url": "https://www.linkedin.com/pulse/bharat-vistaar-prabir-mishra-rk9hc",
+        "domain": "www.linkedin.com"
+      },
+      {
+        "title": "Vendor Search",
+        "url": "https://nicsi.nic.in/nicsi/vendor-search/",
+        "domain": "nicsi.nic.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "Ask DISHA IRCTC annual report CoRover",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Annual Report",
+        "url": "https://irctc.com/annual-report.php",
+        "domain": "irctc.com"
+      },
+      {
+        "title": "fmn dER.r \\l-q ER\\sq efuItqrrT fuffies",
+        "url": "https://www.bseindia.com/bseplus/AnnualReport/542830/74028542830.pdf",
+        "domain": "www.bseindia.com"
+      },
+      {
+        "title": "No. 2023/IRCTC/CS/AGM-24",
+        "url": "https://stockdiscovery.s3.amazonaws.com/india/company/5655/4656/AR-23.pdf",
+        "domain": "stockdiscovery.s3.amazonaws.com"
+      },
+      {
+        "title": "A",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1f482507-98ed-4566-8323-ea95fc1f82be.pdf",
+        "domain": "www.bseindia.com"
+      },
+      {
+        "title": "On Chatbots, we walk the talk: Ankush Sabharwal, CoRover",
+        "url": "https://mediabrief.com/corover-ceo-ankush-sabharwal-interview/",
+        "domain": "mediabrief.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "Ask DISHA IRCTC privacy complaint booking terms",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Terms and Conditions - IRCTC Next Generation eTicketing System",
+        "url": "https://contents.irctc.co.in/en/Terms%20and%20conditions.pdf",
+        "domain": "contents.irctc.co.in"
+      },
+      {
+        "title": "Terms and Conditions - IRCTC",
+        "url": "https://www.pmf.irctc.co.in/cn/TermsAndConditions.html",
+        "domain": "www.pmf.irctc.co.in"
+      },
+      {
+        "title": "Online Train Tickets, Indian Railway Services",
+        "url": "https://irctc.com/complaint-corner.php",
+        "domain": "irctc.com"
+      },
+      {
+        "title": "Privacy Policy",
+        "url": "https://www.rr.irctc.co.in/privacy-policy",
+        "domain": "www.rr.irctc.co.in"
+      },
+      {
+        "title": "MAINTENANCE ACTIVITY",
+        "url": "https://www.irctc.co.in/",
+        "domain": "www.irctc.co.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "Project Insight PIB Income Tax 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "PIB Headquarters",
+        "url": "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=154926&ModuleId=3",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "News & Updates",
+        "url": "https://report.insight.gov.in/reporting-webapp/portal/homePage",
+        "domain": "report.insight.gov.in"
+      },
+      {
+        "title": "Income Tax Department | Reporting Portal",
+        "url": "https://report.insight.gov.in/reporting-webapp/portal/recentArticle",
+        "domain": "report.insight.gov.in"
+      },
+      {
+        "title": "Page T24",
+        "url": "https://www.journal-news.com/eedition/page-t24/page_fd477875-46c8-5e51-b8b4-78ba2e92208a.html",
+        "domain": "www.journal-news.com"
+      },
+      {
+        "title": "Summary of Union Budget 2026-27 - PIB",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2221458",
+        "domain": "www.pib.gov.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "Project Insight L T Infotech contract government",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Income Tax Department signs contract with L & T Infotech Ltd for implementation of Project Insight",
+        "url": "https://pib.gov.in/newsite/PrintRelease.aspx?relid=147283",
+        "domain": "pib.gov.in"
+      },
+      {
+        "title": "L&T Infotech's $100 million government contract to catch tax evaders",
+        "url": "https://www.newsbytesapp.com/news/business/l-t-infotech-bags-government-s-high-volume-digital-deal/story",
+        "domain": "www.newsbytesapp.com"
+      },
+      {
+        "title": "$156 Million 'Project Insight' Being Launched. How It ...",
+        "url": "https://www.ndtv.com/india-news/facebook-instagram-posts-will-soon-help-sniff-out-tax-evaders-in-india-1730202",
+        "domain": "www.ndtv.com"
+      },
+      {
+        "title": "Now, taxmen to snoop on social networking sites to trace black money | India News - Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/now-taxmen-to-snoop-on-social-networking-sites-to-trace-black-money/articleshow/60447158.cms",
+        "domain": "timesofindia.indiatimes.com"
+      },
+      {
+        "title": "Ministry of Finance - IndiaAI",
+        "url": "https://indiaai.gov.in/government/ministry-of-finance",
+        "domain": "indiaai.gov.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "ADVAIT CBIC procurement vendor contract",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Search for procurement data",
+        "url": "https://buyandsell.gc.ca/procurement-data/search-for-procurement-data",
+        "domain": "buyandsell.gc.ca"
+      },
+      {
+        "title": "Goods & Service Tax, CBIC, Government of India :: Home",
+        "url": "https://cbic-gst.gov.in/",
+        "domain": "cbic-gst.gov.in"
+      },
+      {
+        "title": "buy.gsa.gov \u203a contractsAcquisition Solutions Navigator - Home",
+        "url": "https://buy.gsa.gov/contracts",
+        "domain": "buy.gsa.gov"
+      },
+      {
+        "title": "Procurement - Advait | Quality for success - Advaitqfs",
+        "url": "https://advaitqfs.in/procurement/",
+        "domain": "advaitqfs.in"
+      },
+      {
+        "title": "Supplier Search",
+        "url": "https://marketplace.aviationweek.com/suppliers/search/p21",
+        "domain": "marketplace.aviationweek.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "ADVAIT taxpayer risk review evaluation",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Some Reasons Indian Enterprises Are Getting GST & Tax Notices ...",
+        "url": "https://legaldev.in/blog/gst-tax-notices-enterprises",
+        "domain": "legaldev.in"
+      },
+      {
+        "title": "PowerPoint Presentation",
+        "url": "https://gstcouncil.gov.in/sites/default/files/2024-04/08-a_ncecsc_dg_sys.pptx",
+        "domain": "gstcouncil.gov.in"
+      },
+      {
+        "title": "Both direct and indirect tax departments employ data ...",
+        "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1911271",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "How GST Officers Actually Decide Which Case to ... - LinkedIn",
+        "url": "https://www.linkedin.com/pulse/how-gst-officers-actually-decide-which-case-scrutinise-mohit-jain-8t1qc",
+        "domain": "www.linkedin.com"
+      },
+      {
+        "title": "5 reasons why enterprises are getting notices in 2026 - ClearTax",
+        "url": "https://cleartax.in/s/5-reasons-enterprises-getting-tax-notices",
+        "domain": "cleartax.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "Railway elephant IDS tender distributed acoustic sensing",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Press Release Page - Press Information Bureau",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2199365&reg=3&lang=1",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "Railways to extend AI-based system on 981-km track in ...",
+        "url": "https://www.theweek.in/wire-updates/national/2025/12/24/del36-rail-elephant-ai-system.html",
+        "domain": "www.theweek.in"
+      },
+      {
+        "title": "Reference Document No.:",
+        "url": "https://rdso.indianrailways.gov.in/uploads/2024-10-23-Signed%20PoC%20format%20EIDS.pdf",
+        "domain": "rdso.indianrailways.gov.in"
+      },
+      {
+        "title": "ISO 9001:2015",
+        "url": "https://rdso.indianrailways.gov.in/uploads/2024-10-23-Signed%20specification%20EIDS.pdf",
+        "domain": "rdso.indianrailways.gov.in"
+      },
+      {
+        "title": "System being installed at Rs 19 cr to curb jumbo deaths on ...",
+        "url": "https://www.newindianexpress.com/states/tamil-nadu/2024/Sep/22/system-being-installed-at-rs-19-cr-to-curb-jumbo-deaths-on-rly-tracks-southern-railway",
+        "domain": "www.newindianexpress.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "Railway IDS elephant detection false alarms evaluation",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "ISO 9001:2015",
+        "url": "https://rdso.indianrailways.gov.in/uploads/2024-10-23-Signed%20specification%20EIDS.pdf",
+        "domain": "rdso.indianrailways.gov.in"
+      },
+      {
+        "title": "Reference Document No.:",
+        "url": "https://rdso.indianrailways.gov.in/uploads/2024-10-23-Signed%20PoC%20format%20EIDS.pdf",
+        "domain": "rdso.indianrailways.gov.in"
+      },
+      {
+        "title": "Smart Railway Obstruction Detection System using IoT and ... - arXiv",
+        "url": "https://arxiv.org/html/2605.08246v1",
+        "domain": "arxiv.org"
+      },
+      {
+        "title": "Page 1 of 18",
+        "url": "https://msipublishers.com/wp-content/uploads/2025/06/MSIJMR862025-GS.pdf",
+        "domain": "msipublishers.com"
+      },
+      {
+        "title": "India\u2019s Railway Ministry Detailed AI Elephant-Detection ...",
+        "url": "https://letsdatascience.com/news/indian-railways-expands-ai-safety-systems-across-network-1ed40f24",
+        "domain": "letsdatascience.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "Telangana life certificate selfie privacy rejection alternatives",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "[PDF] Presence less, Contact less, any time any where service delivery to ...",
+        "url": "https://mcrhrdi.gov.in/splfc2-2022/week2/Presence%20less%20contact%20less%20Citizen%20services%20in%20using%20AI,%20ML%20and%20deep%20learning%20MCHHRD%2026th%20Sep%2022%20V1.pdf",
+        "domain": "mcrhrdi.gov.in"
+      },
+      {
+        "title": "[PDF] Presence less, Contact less, any time any where service delivery to ...",
+        "url": "https://mcrhrdi.gov.in/splfc2023/week5/Presence%20less%20contact%20less%20Citizen%20services%20in%20using%20AI,%20ML%20and%20deep%20learning%20MCHHRD%2014th%20July%2022.pdf",
+        "domain": "mcrhrdi.gov.in"
+      },
+      {
+        "title": "Government of Telangana",
+        "url": "https://mgov.telangana.gov.in/faqnew.html",
+        "domain": "mgov.telangana.gov.in"
+      },
+      {
+        "title": "Digital Transformation Part 1",
+        "url": "https://mcrhrdi.gov.in/splfc2023/week2/Digital%20Transformation%20Part%201.pdf",
+        "domain": "mcrhrdi.gov.in"
+      },
+      {
+        "title": "How Telangana government authenticates beneficiaries using AI, ML, Big Data and Deep Learning tools",
+        "url": "https://www.thehindubusinessline.com/info-tech/how-telangana-government-authenticates-beneficiaries-using-ai-ml-big-data-and-deep-learning-tools/article30025564.ece",
+        "domain": "www.thehindubusinessline.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "Telangana FEST artificial intelligence supplier contract",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Tenders And Contracts",
+        "url": "https://cag.gov.in/ag/telangana/en/tenders",
+        "domain": "cag.gov.in"
+      },
+      {
+        "title": "Server Error in '/' Application.",
+        "url": "https://tgts.telangana.gov.in/tenders",
+        "domain": "tgts.telangana.gov.in"
+      },
+      {
+        "title": "eProcurement System Government of India",
+        "url": "https://eprocure.gov.in/eprocure/app?component=$DirectLink&page=FrontEndTendersByOrganisation&service=direct&sp=SaNQkFYrq2Ejxc9TMUtutTtS0Fec7wUuNy1YFXyqSerE=",
+        "domain": "eprocure.gov.in"
+      },
+      {
+        "title": "Tenders - Telangana State Portal",
+        "url": "https://www.telangana.gov.in/tenders/",
+        "domain": "www.telangana.gov.in"
+      },
+      {
+        "title": "tender.telangana.gov.inTelangana State eProcurement Portal",
+        "url": "https://tender.telangana.gov.in/login.html",
+        "domain": "tender.telangana.gov.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "e Paarvai cataract validation sensitivity specificity",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Accuracy of an artificial intelligence-based mobile application ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10538832/",
+        "domain": "pmc.ncbi.nlm.nih.gov"
+      },
+      {
+        "title": "Smartphone-Based Portable Slit Lamp in Anterior Segment ...",
+        "url": "https://link.springer.com/article/10.1007/s40123-026-01312-5?error=cookies_not_supported&code=5b797df6-c137-44b4-ad7a-4d63da98b84b",
+        "domain": "link.springer.com"
+      },
+      {
+        "title": "[PDF] Diagnostic Accuracy of An Artificial Intelligence Based mHEALTH ...",
+        "url": "https://njcmindia.com/index.php/file/article/download/5469/2284/23881",
+        "domain": "njcmindia.com"
+      },
+      {
+        "title": "Smartphone\u2010Based Portable Slit Lamp in Anterior Segment ...",
+        "url": "https://link.springer.com/content/pdf/10.1007/s40123-026-01312-5.pdf?error=cookies_not_supported&code=1b0933e9-1d9c-4573-ad5b-57d4b83fb3fa",
+        "domain": "link.springer.com"
+      },
+      {
+        "title": "Operational Excellence Using Design Thinking for Social Change - Vijaya Sunder M, Rithica Mamidi, Rajendra K. Srivastava, 2025",
+        "url": "https://journals.sagepub.com/doi/10.1177/2694104X251349091",
+        "domain": "journals.sagepub.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "e Paarvai Tamil Nadu deployment 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "IT sector to contribute to Tamil Nadu becoming $1-trillion economy by 2030",
+        "url": "https://www.financialexpress.com/business/industry-it-sector-to-contribute-to-tn-becoming-1-trn-economy-by-2030-2379067/",
+        "domain": "www.financialexpress.com"
+      },
+      {
+        "title": "Tamil nadu ophthalmologists association - Latest tamil nadu ophthalmologists association , Information & Updates - Health -ET HealthWorld",
+        "url": "https://health.economictimes.indiatimes.com/tag/tamil+nadu+ophthalmologists+association",
+        "domain": "health.economictimes.indiatimes.com"
+      },
+      {
+        "title": "TAMIL NADU e-GOVERNANCE AGENCY (TNeGA) \u2013 Part II",
+        "url": "https://www.tnpscthervupettagam.com/articles-detail/tamil-nadu-e-governance-agency-tnega-%E2%80%93-part-ii/?cat=gk-articles",
+        "domain": "www.tnpscthervupettagam.com"
+      },
+      {
+        "title": "jiRLj8ssnLClarity%20in%20Governance%20Heralds%20Clear%20Vision.pdf",
+        "url": "https://abhinavpahal.nic.in/uploads/jiRLj8ssnLClarity%20in%20Governance%20Heralds%20Clear%20Vision.pdf",
+        "domain": "abhinavpahal.nic.in"
+      },
+      {
+        "title": "The researchers at ISB examined the implementation of e-Paarvai, an AI-powered cataract screening initiative in Tamil Nadu, India, which addressed over 250,000 untreated cases through innovative\u2026 | Healthcare at ISB",
+        "url": "https://www.linkedin.com/posts/healthcare-at-isb_healthcareatisb-researchatisb-activity-7341113593389555712-yPQx",
+        "domain": "www.linkedin.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "BMC Qure AI tuberculosis study Mumbai chest X ray",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "This AI software detects Tuberculosis in asymptomatic patients in the ...",
+        "url": "https://indiaai.gov.in/news/this-ai-software-detects-tuberculosis-in-asymptomatic-patients-in-the-early-stage",
+        "domain": "indiaai.gov.in"
+      },
+      {
+        "title": "Mumbai Achieves Highest TB Detection Rate with AI Screening",
+        "url": "https://www.mumbailive.com/en/health/mumbai-records-highest-annual-tb-detection-rate-with-ai-assisted-screening-77735",
+        "domain": "www.mumbailive.com"
+      },
+      {
+        "title": "a diagnostic accuracy study from a tertiary hospital in India",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6959311/",
+        "domain": "pmc.ncbi.nlm.nih.gov"
+      },
+      {
+        "title": "Comparing tuberculosis symptom screening to chest X-ray ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11622919/",
+        "domain": "pmc.ncbi.nlm.nih.gov"
+      },
+      {
+        "title": "Mumbai: BMC banks on AI to detect tuberculosis faster, screens X-rays in 3 minutes | Mumbai News - Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-bmc-banks-on-ai-to-detect-tuberculosis-faster-screens-x-rays-in-3-minutes/articleshow/91717041.cms",
+        "domain": "timesofindia.indiatimes.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "Mumbai qXR AI tuberculosis municipal corporation procurement",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "AI-powered solutions for TB & COVID-19",
+        "url": "https://www.stoptb.org/sites/default/files/imported/document/20200408_VIS_AI_Qure.ai_Presentation_Final.pdf",
+        "domain": "www.stoptb.org"
+      },
+      {
+        "title": "PowerPoint Presentation",
+        "url": "https://www.indiahealthfund.org/wp-content/uploads/2021/10/Progress-Report-Jan-2021.pdf",
+        "domain": "www.indiahealthfund.org"
+      },
+      {
+        "title": "Qure.ai B2B Case Studies & Customer Successes",
+        "url": "https://www.casestudies.com/company/qureai",
+        "domain": "www.casestudies.com"
+      },
+      {
+        "title": "Qure AI - Indian Health Fund",
+        "url": "https://www.indiahealthfund.org/portfolio-qure-ai/",
+        "domain": "www.indiahealthfund.org"
+      },
+      {
+        "title": "Artificial Intelligence for Public Health",
+        "url": "https://fractal.ai/wp-content/uploads/2022/09/Qure.ai-COVID-19-TB-work.pdf",
+        "domain": "fractal.ai"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "followup",
+    "query": "AI government deployment registry evidence standard",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "AI FAQS | Virginia IT Agency",
+        "url": "https://www.vita.virginia.gov/policy--governance/governance/artificial-intelligence/ai-faqs/",
+        "domain": "www.vita.virginia.gov"
+      },
+      {
+        "title": "Restricted Use - \u00c0 usage restreint",
+        "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/06/governing-with-artificial-intelligence_f0e316f5/26324bc2-en.pdf",
+        "domain": "www.oecd.org"
+      },
+      {
+        "title": "Managing records of...",
+        "url": "https://www.naa.gov.au/information-management/manage-information-assets/types-information/information-management-records-created-using-artificial-intelligence-ai-technologies",
+        "domain": "www.naa.gov.au"
+      },
+      {
+        "title": "Recommendations",
+        "url": "https://www.ntia.gov/issues/artificial-intelligence/ai-accountability-policy-report/recommendations",
+        "domain": "www.ntia.gov"
+      },
+      {
+        "title": "AI strategies and compliance plan | GSA",
+        "url": "https://www.gsa.gov/artificial-intelligence/resources/ai-strategies-and-compliance-plan",
+        "domain": "www.gsa.gov"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "recency",
+    "query": "Digi Yatra audit 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "www.hindustantimes.com \u203a india-news \u203a government-toGovernment to test Digi Yatra at major airports for ...",
+        "url": "https://www.hindustantimes.com/india-news/government-to-test-digi-yatra-at-major-airports-for-international-departures-between-october-and-december-101789949430843.html",
+        "domain": "www.hindustantimes.com"
+      },
+      {
+        "title": "GOVERNMENT OF INDIA",
+        "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AS273_Y4e9cy.pdf?source=lsapps",
+        "domain": "sansad.in"
+      },
+      {
+        "title": "Surveillance or security? Digi Yatra app divides opinion on ...",
+        "url": "https://economictimes.indiatimes.com/tech/technology/surveillance-or-security-digi-yatra-app-divides-opinion-on-facial-scanning/articleshow/107584847.cms",
+        "domain": "economictimes.indiatimes.com"
+      },
+      {
+        "title": "anantamias.com \u203a digi-yatraDigiYatra: Features, Airports Covered, Privacy Concerns and ...",
+        "url": "https://anantamias.com/digi-yatra/",
+        "domain": "anantamias.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "recency",
+    "query": "Bhashini evaluation 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "zipdo.co \u203a best \u203a telugu-softwareTop 10 Best Telugu Software | Top Picks 2026 - zipdo.co",
+        "url": "https://zipdo.co/best/telugu-software/",
+        "domain": "zipdo.co"
+      },
+      {
+        "title": "Bhashini Review 2026: Pricing, Pros & Verdict (7.8/10 ...",
+        "url": "https://bestaiforindia.com/reviews/bhashini",
+        "domain": "bestaiforindia.com"
+      },
+      {
+        "title": "Bhashini - Indian productivity App",
+        "url": "https://swadeshiapps.com/productivity/bhashini",
+        "domain": "swadeshiapps.com"
+      },
+      {
+        "title": "theaitoolsbox.com \u203a tool \u203a bhashini-reviewBhashini Review 2026 \u2014 Free Govt Indian Language AI \u2502 AIToolsBox",
+        "url": "https://theaitoolsbox.com/tool/bhashini-review/",
+        "domain": "theaitoolsbox.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "recency",
+    "query": "Kisan e Mitra accuracy 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "[PDF] SARV SAMPOORNA KISAN MITRA - AI BASED CROP ...",
+        "url": "https://www.journalijar.com/uploads/2026/04/69e35d6f82437_IJAR-57103.pdf",
+        "domain": "www.journalijar.com"
+      },
+      {
+        "title": "Kisan e Mitra: Meaning, Documents, Registration, & ...",
+        "url": "https://www.bajajfinserv.in/kisan-e-mitra",
+        "domain": "www.bajajfinserv.in"
+      },
+      {
+        "title": "IND-001 \u2014 PM-KISAN Kisan e-Mitra AI Chatbot | AI Hub",
+        "url": "https://socialprotectionai.org/use-case/IND-001/print",
+        "domain": "socialprotectionai.org"
+      },
+      {
+        "title": "AP-KisanMitra-3Year-Report-1.pdf",
+        "url": "https://csa-india.org/wp-content/uploads/2026/04/AP-KisanMitra-3Year-Report-1.pdf",
+        "domain": "csa-india.org"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "recency",
+    "query": "Bharat VISTAAR evaluation 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "India\u2019s AI-Enabled Bharat VISTAAR Platform: Lessons for ...",
+        "url": "https://ris.org.in/sites/default/files/Publication/Indias-AI-Enabled-Bharat-VISTAAR-Platform-Lessons-for-Bridging-Agricultural-Information-Gap-in-Sub-Saharan-Africa.pdf",
+        "domain": "ris.org.in"
+      },
+      {
+        "title": "Bharat-VISTAAR (Virtually Integrated System to Access ...",
+        "url": "https://www.aiimpactcommons.global/impact-stories/b45d3b87-fe44-417b-8525-70641ef74143",
+        "domain": "www.aiimpactcommons.global"
+      },
+      {
+        "title": "Rollout Of BHARAT-VISTAAR Platform",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2239788&reg=3&lang=1",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "www.downtoearth.org.in \u203a agriculture \u203a puttingBharat-VISTAAR: Transforming Indian Agriculture with Digital ...",
+        "url": "https://www.downtoearth.org.in/agriculture/putting-farmers-first-how-bharat-vistaar-turns-digital-infrastructure-into-real-world-decisions-for-indian-agriculture",
+        "domain": "www.downtoearth.org.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "recency",
+    "query": "Ask DISHA IRCTC 2026 report",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "IRCTC \u0935\u0930 \u0924\u093f\u0915\u0940\u091f \u092c\u0941\u0915\u093f\u0902\u0917\u091a\u093e \u0928\u0935\u093e \u092b\u0902\u0921\u093e; \u091a\u0945\u091f\u092c\u0949\u091f\u094d\u0938 \u0906\u0923\u093f 'AI \u090f\u091c\u0902\u091f\u094d\u0938' \u0938\u0947\u0915\u0902\u0926\u093e\u0924 \u0915\u0930\u0923\u093e\u0930 \u0924\u0941\u092e\u091a\u0947 \u0915\u093e\u092e",
+        "url": "https://maharashtratimes.com/gadget-news/mobile-phones/new-trend-on-irctc-chatbots-and-ai-agents-to-book-your-train-tickets-in-seconds/articleshow/134477450.cms",
+        "domain": "maharashtratimes.com"
+      },
+      {
+        "title": "Ask DISHA 2.0: \u0905\u092c \u0938\u093f\u0930\u094d\u092b \u092c\u094b\u0932\u0915\u0930 \u0938\u0947\u0915\u0947\u0902\u0921\u094d\u0938 \u092e\u0947 \u092c\u0941\u0915 \u0915\u0930\u0947\u0902 \u091f\u094d\u0930\u0948\u0928 \u091f\u093f\u0915\u091f, IRCTC ...",
+        "url": "https://biharhelp.in/ask-disha-2-0/",
+        "domain": "biharhelp.in"
+      },
+      {
+        "title": "IRCTC's Ask Disha 2.0 AI Chatbot Handles 10B Queries ...",
+        "url": "https://www.linkedin.com/posts/nitishkhunteta_ai-chatbot-ml-activity-7430569325096402944-mAjU",
+        "domain": "www.linkedin.com"
+      },
+      {
+        "title": "How IRCTC's Ask Disha 2.0 Uses AI to Simplify Train Travel",
+        "url": "https://www.yatrirestro.com/blog/train-ticket-booking-ask-disha-ai",
+        "domain": "www.yatrirestro.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "recency",
+    "query": "ADVAIT CBIC 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "5 reasons why enterprises are getting notices in 2026 - ClearTax",
+        "url": "https://cleartax.in/s/5-reasons-enterprises-getting-tax-notices",
+        "domain": "cleartax.in"
+      },
+      {
+        "title": "Some Reasons Indian Enterprises Are Getting GST & Tax Notices ...",
+        "url": "https://legaldev.in/blog/gst-tax-notices-enterprises",
+        "domain": "legaldev.in"
+      },
+      {
+        "title": "Stock Exchange Announcements",
+        "url": "https://www.advaitgroup.co.in/investors/stock-exchange-announcements/",
+        "domain": "www.advaitgroup.co.in"
+      },
+      {
+        "title": "GST Number for ADVAIT POLYMERS LLP is 27ABSFA4246M1ZV",
+        "url": "https://piceapp.com/gst-number-search/advait-polymers-llp-27absfa4246m1zv/",
+        "domain": "piceapp.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "recency",
+    "query": "Project Insight AI 2026 government",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Project Insight (PI) initiative",
+        "url": "https://www.insightsonindia.com/2026/03/20/project-insight-pi-initiative/",
+        "domain": "www.insightsonindia.com"
+      },
+      {
+        "title": "Project Insight Blogs",
+        "url": "https://projectinsight.com/blogs",
+        "domain": "projectinsight.com"
+      },
+      {
+        "title": "Project Insight (PI) is implemented by which government body?",
+        "url": "https://www.gktoday.in/question/project-insight-pi-is-implemented-by-which-government-body",
+        "domain": "www.gktoday.in"
+      },
+      {
+        "title": "Project Insight AI Policy",
+        "url": "https://projectinsight.com/legal/ai-policy",
+        "domain": "projectinsight.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "recency",
+    "query": "Railway elephant IDS October 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Over 250 elephants saved from collisions with trains under NFR limits in 9 months",
+        "url": "https://theprint.in/india/over-250-elephants-saved-from-collisions-with-trains-under-nfr-limits-in-9-months/3061701/",
+        "domain": "theprint.in"
+      },
+      {
+        "title": "AI Alerts to \u2018Plan Bee': How Railways saved 255 elephants from train collisions in northeast",
+        "url": "https://indianexpress.com/article/india/ai-alerts-plan-bee-railways-saved-255-elephants-northeast-10906293/",
+        "domain": "indianexpress.com"
+      },
+      {
+        "title": "indianmasterminds.com \u203a news \u203a indian-railways-aiRailways Use AI-enabled Intrusion Detection System and Fibre ...",
+        "url": "https://indianmasterminds.com/news/indian-railways-ai-intrusion-detection-system-elephant-protection-165647/",
+        "domain": "indianmasterminds.com"
+      },
+      {
+        "title": "255 elephants saved from train collisions: How Railways is using 'Plan Bee' to keep elephants off tracks",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/railways/255-elephants-saved-from-train-collisions-how-railways-is-using-plan-bee-to-keep-elephants-off-tracks/articleshow/134688428.cms",
+        "domain": "economictimes.indiatimes.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "recency",
+    "query": "Telangana PLCS pensioners 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Aasara",
+        "url": "https://www.cheyutha.telangana.gov.in/SSPTG/UserInterface/Portal/GeneralSearch.aspx",
+        "domain": "www.cheyutha.telangana.gov.in"
+      },
+      {
+        "title": "www.tgemployees.inTGEMPLOYEES \u2013 TGEMPLOYEES PENSIONERS PORTAL",
+        "url": "https://www.tgemployees.in/",
+        "domain": "www.tgemployees.in"
+      },
+      {
+        "title": "TSEMPLOYEES PENSIONERS PORTAL - TGEMPLOYEES - PENSIONERS",
+        "url": "https://www.tsemployee.in/",
+        "domain": "www.tsemployee.in"
+      },
+      {
+        "title": "User Login - IFMIS",
+        "url": "https://ifmis.telangana.gov.in/pension/",
+        "domain": "ifmis.telangana.gov.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "recency",
+    "query": "Telangana FEST services 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Telangana State Forest Department",
+        "url": "http://forests.telangana.gov.in/",
+        "domain": "forests.telangana.gov.in"
+      },
+      {
+        "title": "TS govt\u2019s RTA m-Wallet app a hit among users",
+        "url": "https://telanganatoday.com/ts-govts-rta-m-wallet-app-a-hit-among-users",
+        "domain": "telanganatoday.com"
+      },
+      {
+        "title": "Events in Telangana",
+        "url": "https://tourism.telangana.gov.in/events",
+        "domain": "tourism.telangana.gov.in"
+      },
+      {
+        "title": "Telangana State Portal | Govt Services",
+        "url": "https://www.telangana.gov.in/",
+        "domain": "www.telangana.gov.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "recency",
+    "query": "e Paarvai deployment 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "e-Paarvai: AI Based Android Mobile App to Detect Cataract",
+        "url": "https://en.vikaspedia.in/viewcontent/health/health-care-innovations/e-paarvai-ai-based-android-mobile-app-to-detect-cataract?lgn=en",
+        "domain": "en.vikaspedia.in"
+      },
+      {
+        "title": "E-Paarvai: Cataract Detection and Screening System by ...",
+        "url": "https://indiaai.gov.in/article/e-paarvai-cataract-detection-and-screening-system-by-tamil-nadu-government",
+        "domain": "indiaai.gov.in"
+      },
+      {
+        "title": "e Paarvai - Apps on Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.codevector.cataract_detection_app&hl=en-IN",
+        "domain": "play.google.com"
+      },
+      {
+        "title": "#ai #tamilnadu #emergingtech | Digital India Programme | 18 comments",
+        "url": "https://www.linkedin.com/posts/digital-india_ai-tamilnadu-emergingtech-activity-6894568190324916224-x0bU",
+        "domain": "www.linkedin.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "recency",
+    "query": "BMC AI TB screening 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Artificial intelligence and tuberculosis screening - Springer",
+        "url": "https://link.springer.com/collections/hebbfgbjda?error=cookies_not_supported&code=1ca595f5-a10d-4130-8f78-fefcfd96c1cc",
+        "domain": "link.springer.com"
+      },
+      {
+        "title": "Implementing AI-enabled chest X-ray for community-based ...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42557594/",
+        "domain": "pubmed.ncbi.nlm.nih.gov"
+      },
+      {
+        "title": "Investigating the cost-effectiveness of AI in public health",
+        "url": "https://medicalxpress.com/news/2026-09-effectiveness-ai-health.html",
+        "domain": "medicalxpress.com"
+      },
+      {
+        "title": "AI Tuberculosis Screening Cuts Costs 23% in Rural Philippines",
+        "url": "https://theoutpost.ai/news-story/ai-tuberculosis-screening-could-cut-costs-by-23-in-rural-philippines-health-units-31361/",
+        "domain": "theoutpost.ai"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "recency",
+    "query": "UPSC facial authentication appeal 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Union Public Service Commission Developed Face Authentication ...",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "Union Public Service Commission Developed Face Authentication Protocol; Used Successfully in the Civil Services (Preliminary) Examination, 2026 to Enhance Examination Integrity",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=6&lang=1",
+        "domain": "www.pib.gov.in"
+      },
+      {
+        "title": "UPSC Jobs, Civil Services Exam, Notification, Results",
+        "url": "https://www.business-standard.com/amp/topic/upsc",
+        "domain": "www.business-standard.com"
+      },
+      {
+        "title": "www.cavalier.in \u203a cds-ota-current-affairs \u203a 2026-06UPSC's Face Authentication in CSE 2026: Exam Integrity and ...",
+        "url": "https://www.cavalier.in/cds-ota-current-affairs/2026-06-04/upsc-face-authentication-protocol-2026",
+        "domain": "www.cavalier.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "recency",
+    "query": "I4C CyberGuard contract 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Contract Opportunities | SAM.gov",
+        "url": "https://sam.gov/opportunities",
+        "domain": "sam.gov"
+      },
+      {
+        "title": "awarded contracts",
+        "url": "https://sam.gov/opp/ccc8988feb9c4823a584353dbde0b3db/view",
+        "domain": "sam.gov"
+      },
+      {
+        "title": "Legal News & Analysis on Litigation, Policy, Deals : Law360",
+        "url": "https://www.law360.com/subscribe/free_trial?target_url=https://www.law360.com/classaction/articles/2496304/top-gov-t-contracting-decisions-of-2026-midyear-report",
+        "domain": "www.law360.com"
+      },
+      {
+        "title": "Latest 2026 Cyber Security Tenders & Government Contracts",
+        "url": "https://tenderimpulse.com/cyber-security-tenders",
+        "domain": "tenderimpulse.com"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "recency",
+    "query": "SUVAS translation evaluation 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Best Legal Translation Service in India for Lawyers: Top - Juniorlawyer",
+        "url": "https://juniorlawyer.in/blog/best-legal-translation-service-india-lawyers/",
+        "domain": "juniorlawyer.in"
+      },
+      {
+        "title": "www.mayankdigitallabs.in \u203a blog \u203a ai-in-indianAI in Indian Courts 2026 | Mayank Digital Labs",
+        "url": "https://www.mayankdigitallabs.in/blog/ai-in-indian-courts-2026",
+        "domain": "www.mayankdigitallabs.in"
+      },
+      {
+        "title": "spmrf.org \u203a artificial-intelligence-in-the-indianArtificial Intelligence in the Indian Judiciary SUPACE, SUVAS ...",
+        "url": "https://spmrf.org/artificial-intelligence-in-the-indian-judiciary-supace-suvas-and-the-limits-of-assistive-automation/",
+        "domain": "spmrf.org"
+      },
+      {
+        "title": "AI Tools for Lawyers in India: 2026 Definitive Guide - iPleaders",
+        "url": "https://blog.ipleaders.in/ai-tools-for-lawyers-in-india-the-2026-definitive-guide/",
+        "domain": "blog.ipleaders.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "recency",
+    "query": "SUPACE final regulations 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Artificial Intelligence and Judicial Decision-Making: Legal, Ethical ...",
+        "url": "https://legalonus.com/artificial-intelligence-and-judicial-decision-making-legal-ethical-and-constitutional-perspectives/",
+        "domain": "legalonus.com"
+      },
+      {
+        "title": "AI in Indian Judiciary & Swadeshi Jurisprudence: UPSC Current ...",
+        "url": "https://www.iasgyan.in/daily-current-affairs/ai-ecosystem-for-the-judiciary-swadeshi-jurisprudence-technology-and-the-future-of-justice-delivery",
+        "domain": "www.iasgyan.in"
+      },
+      {
+        "title": "www.sebi.gov.in \u203a legal \u203a regulationsSEBI | Securities and Exchange Board of India (Issue of ...",
+        "url": "https://www.sebi.gov.in/legal/regulations/mar-2026/securities-and-exchange-board-of-india-issue-of-capital-and-disclosure-requirements-amendment-regulations-2026_100495.html",
+        "domain": "www.sebi.gov.in"
+      },
+      {
+        "title": "Rules & Regulations",
+        "url": "https://www.sec.gov/rules-regulations",
+        "domain": "www.sec.gov"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "recency",
+    "query": "eSanjeevani CDSS validation 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "\u0908-\u0938\u0902\u091c\u0940\u0935\u0928\u0940 \u2013 \u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u091f\u0947\u0932\u0940\u092e\u0947\u0921\u093f\u0938\u093f\u0928 \u0938\u0947\u0935\u093e - C-DAC",
+        "url": "https://www.cdac.in/index.aspx?id=product_details&productId=eSanjeevaniNationalTelemedicineService",
+        "domain": "www.cdac.in"
+      },
+      {
+        "title": "Improving the eSanjeevani program & tech platform to ...",
+        "url": "https://intelehealth.org/wp-content/uploads/2026/09/eSanjeevani-policy-brief_Intelehealth.pdf",
+        "domain": "intelehealth.org"
+      },
+      {
+        "title": "[PDF] government of india - Digital Sansad",
+        "url": "https://sansad.in/getFile/lsapps/loksabhaquestions/annex/188/AU984_9Uufp5.pdf?source=lsapps",
+        "domain": "sansad.in"
+      },
+      {
+        "title": "nhm.assam.gov.in \u203a portlets \u203a esanjeevani-opdeSanjeevani OPD | National Health Mission | Government Of ...",
+        "url": "https://nhm.assam.gov.in/portlets/esanjeevani-opd",
+        "domain": "nhm.assam.gov.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  },
+  {
+    "stage": "recency",
+    "query": "MahaCrimeOS procurement 2026",
+    "checked_date": "2026-10-05",
+    "hits": [
+      {
+        "title": "Maharashtra's AI-Powered Cybercrime Investigation Copilot",
+        "url": "https://windowsforum.com/threads/mahacrimeos-ai-maharashtras-ai-powered-cybercrime-investigation-copilot.393698/",
+        "domain": "windowsforum.com"
+      },
+      {
+        "title": "eProcurement System Government of India",
+        "url": "https://eprocure.gov.in/eprocure/app?component=$DirectLink&page=FrontEndTendersByOrganisation&service=direct&sp=S6k75z33oc0pcHRfLnq58J9S0Fec7wUuNy1YFXyqSerE=",
+        "domain": "eprocure.gov.in"
+      },
+      {
+        "title": "Asia's Premier News Agency - India News, Business & Political, National & International, Bollywood, Sports | ANI News",
+        "url": "https://www.aninews.in/topic/mahacrimeos-ai/",
+        "domain": "www.aninews.in"
+      },
+      {
+        "title": "eProcurement System Government of India",
+        "url": "https://eprocure.gov.in/eprocure/app?component=$DirectLink&page=FrontEndTendersByOrganisation&service=direct&sp=SaNQkFYrq2Ejxc9TMUtutTtS0Fec7wUuNy1YFXyqSerE=",
+        "domain": "eprocure.gov.in"
+      }
+    ],
+    "errors": [],
+    "rule": "Discovery only; search metadata/snippets are not substantive coding evidence."
+  }
+]
