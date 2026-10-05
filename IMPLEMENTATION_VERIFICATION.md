@@ -56,4 +56,8 @@ No paid services or public launch were undertaken. Existing privacy boundaries r
 
 ## Clean-checkout and hosted results
 
-These results are recorded after execution below.
+A fresh local clone of [implementation commit `834ee62575bf39feb4e8b7fc7c25ed3a8919120b`](https://github.com/nawaaaaaAaar/ai-watch-india/commit/834ee62575bf39feb4e8b7fc7c25ed3a8919120b) passed dependency installation, both data builders, brief packaging, all three validators, all 46 tests and the production build. Regeneration left its tracked working tree clean. The implementation was pushed to the repository.
+
+The existing private preview was updated in place. Sixteen hosted-browser assertions passed: ten-checkpoint rendering, status filtering, specific recommendation wording, complete trail, disabled diff, mixed brief export, ten-brief bundle, study and search-log downloads, source scope, TPEC snapshot hash, absent invented corrections, mobile fit, dark theme, no application errors and no observed POSTs.
+
+The release has 182 successful development-browser assertions and 16 hosted assertions. The technical checks do not establish institutional effectiveness, legal completeness or validated user demand; no public website launch was performed.
