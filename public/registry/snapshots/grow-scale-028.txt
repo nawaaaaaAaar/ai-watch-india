@@ -1,0 +1,11 @@
+KITE AI education programme and Samagra Plus AI
+Original: https://ai.kite.kerala.gov.in/
+Document date: Undated/uncertain
+Source type: Official educational programme description
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Samagra Plus AI for Higher Secondary. 2500 Advanced Robotic Kits deployed to schools. Class 5 to 10 Textbook eResources made part of AI engine. Textbook resources of Higher Secondary Core Subjects also made part of
+
+Retrieval basis: Fresh SDK retrieval request; extracted text, not independent live-operation verification
+Cached extraction: False

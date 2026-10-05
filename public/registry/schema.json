@@ -50,11 +50,15 @@
     "procurements": [
       "procurement_id",
       "system_id",
+      "procurement_type",
+      "title",
+      "supplier_name",
       "amount_inr",
       "amount_type",
-      "supplier_name",
-      "description",
+      "status",
+      "reference",
       "supplier_institution_id",
+      "description",
       "record_type",
       "award_date",
       "current_deployment_link"
@@ -132,7 +136,9 @@
       "checked_date",
       "snapshot",
       "snapshot_sha256",
-      "hash_basis"
+      "hash_basis",
+      "retrieval_basis",
+      "is_cached"
     ],
     "issues": [
       "issue_id",

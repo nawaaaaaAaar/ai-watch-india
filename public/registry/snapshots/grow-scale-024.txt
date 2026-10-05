@@ -1,0 +1,15 @@
+NIC AI service portfolios: IVAANI, TAANI and VANI
+Original: https://www.nic.gov.in/centre-of-excellence-for-artificial-intelligence/
+Document date: Undated/uncertain
+Source type: Official service description
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+AI Parkhi – AI Document Image Analytics Services (2 Projects) AI Shirshank – Head Count Services in Hybrid mode (1 project in PoC) Text Analytics Assistance by NIC (TAANI): with
+
+### Virtual Assistance by NIC(VANI): It is a conversational AI framework with following Components & with 1.35+ Crore hits in FY 2024-25 - VANI has a Communication Layer for
+
+Departments & Organizations with providing various AI services facilitated through Meghraj Cloud of NIC such as : ### Image & Video Analytics Assistance by NIC (IVAANI): It is a bouquet
+
+Retrieval basis: Fresh SDK retrieval request; extracted text, not independent live-operation verification
+Cached extraction: False

@@ -1,0 +1,11 @@
+TejasVI Empowering Data Driven Governance
+Original: https://informaticsweb.nic.in/informaticswebnewhtml/tejas.php
+Document date: 2023-01-01
+Source type: Official institutional record
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+TejasVI transforms data analysis / visualisation for eGovernance through its user-centric design, integrating various data sources, and offering a wide range of visualisations. Notably, its features like predictive analytics, Dashboard Data Question Answering, multilingual dashboards enhance the value proposition for
+
+Retrieval basis: Default cache-enabled SDK retrieval; live source availability not independently certified
+Cached extraction: True

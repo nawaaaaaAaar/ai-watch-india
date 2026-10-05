@@ -1,6 +1,20 @@
 # AI Watch: institution-and-system research protocol
 
-Version 1.2.0; documentary review cutoff 5 October 2026. This is an exploratory India dataset with 72 named systems/services: eighteen original purposive cases, eighteen additions from a fixed institutional documentary-search frame and thirty-six purposive broadening-round additions. It is not a national census or probability sample.
+Version 1.3.0; documentary review cutoff 5 October 2026. The exploratory registry contains 144 named system/service families: eighteen original purposive cases, eighteen fixed-frame additions, thirty-six earlier broadening additions and seventy-two scaling additions. It is not a national census, probability sample or 144 independently verified live AI deployments.
+
+## Scaling round
+
+The fourth cohort adds citizen services, internal institutional tools, statutory professional-body assistance, government enabling infrastructure and historical research/defence capabilities. `system_kind`, documentary stage and AI qualification distinguish these units; researchers should select appropriate kinds before constructing a denominator. Explicit AI attribution can be official, developer or editorial, not an independent architecture/performance audit.
+
+The new round logs 591 queries, 2,511 leads and 228 retrieval receipts including 41 explicit failures. A failed receipt may later recover; some initial nominal successes are only banners/incomplete extractions. All 78 used source selections were checked against fetched full text, with fresh request, cached recovery and default cached extraction basis retained per source. No claim of freshly verified live availability follows from a cached extraction.
+
+Each new record retains all twelve slots and a deployment observation qualified as a source-report/policy date, not actual go-live. The earlier 72 records and all prior table values are frozen in `BASELINE_1_2_0.json` and regression-checked. All four cohorts remain separately filterable; the six-institution frame stays at 26 records, not reassigned to the new additions.
+
+NIC TAANI/IVAANI/VANI components, BharatGen model variants, ADITI versions, CA GPT industry/student variants, TRINETRA product modules, traffic junctions and individual cameras are coalesced within named families. A domain service such as NALSA's assistant has a different purpose from its enabling framework. C-DOT TRINETRA and the old police Trinetra/YAKSH are distinct homonyms. Private catalogue products are not automatically public-institution deployments.
+
+BharatGen's old seed exclusion remains historical; this expanded round includes a labelled named foundation-model service family under broader infrastructure scope, not verified citizen-facing use. MUNTRA is a qualified autonomous context without established model-specific AI. Robot Sentry, unresolved eMitra AI identity, Bharat Bodhan platform identity and broad Surat AI optimisation descriptions remain deferred rather than padded into the count.
+
+The 50-source/216-assertion original recheck tables remain unchanged. New quote checks are same-analyst text-membership validation, not independent semantic recoding, legal assurance, interviews, field testing or causal validation. See `SCALING_STUDY.md` for every new record, exclusions, source boundaries and limitations.
 
 ## Broadening round
 
@@ -65,7 +79,7 @@ Selected new excerpts were checked for normalized-text membership against the fe
 
 ## Quality controls and reproducibility
 
-The offline builder checks all system/institution/source relationships and generic evidence links, all 864 assertion slots, stable identifiers, SQLite integrity and foreign keys. The package includes JSON, twenty-one CSV tables, SQLite, schema, dossiers, queries, selected source snapshots, research receipts and checksums. Rebuilding validates consistency of curated inputs; it does not independently establish the truth of institutional claims.
+The offline builder checks all system/institution/source relationships and generic evidence links, all 1,728 assertion slots, stable identifiers, SQLite integrity and foreign keys. The package includes JSON, twenty-one CSV tables, SQLite, schema, 144 dossiers, queries, selected source snapshots, research receipts and checksums. Rebuilding validates consistency of curated inputs; it does not independently establish the truth of institutional claims.
 
 The release is single-analyst coded. There has been no independent duplicate review, inter-rater reliability measurement, participant interview, live operational inspection, FOI/RTI response collection or user-demand validation. No request was submitted, no purchase/booking made and no personal test data supplied to a service.
 

@@ -1,0 +1,13 @@
+Shiksha Copilot: Teacher-AI Collaboration for Curating and ...
+Original: https://www.microsoft.com/en-us/research/publication/teacher-ai-collaboration-for-curating-and-customizing-lesson-plans-in-low-resource-schools/
+Document date: 2026-09-03
+Source type: Developer / partner account
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Drawing on a large-scale mixed-methods study involving 1,043 teachers and 23 curators, we examine how educators collaborate with AI to generate context-sensitive lesson plans, assess the quality of AI-generated content, and analyze shifts in teaching practices within multilingual, low-resource
+
+teachers then further customized these curated plans for their classrooms using their own expertise alongside AI support. Drawing on a large-scale mixed-methods study involving 1,043 teachers and 23 curators, we examine how educators collaborate with
+
+Retrieval basis: Default cache-enabled SDK retrieval; not independent live-source certification
+Cached extraction: True

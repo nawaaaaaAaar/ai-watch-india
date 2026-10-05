@@ -8,8 +8,8 @@ const phase=JSON.parse(fs.readFileSync(new URL('../research/registry-phase3.json
 const baseline=JSON.parse(fs.readFileSync(new URL('BASELINE_1_1_0.json',root)));
 const a=(sid,field)=>d.assertions.find(a=>a.system_id===sid&&a.field===field);
 const canonicalValue=v=>Array.isArray(v)?v.map(canonicalValue):v&&typeof v==='object'?Object.fromEntries(Object.keys(v).sort().map(k=>[k,canonicalValue(v[k])])):v;
-test('release doubles the previous 36 records with exactly 36 named broadening families',()=>{
- assert.equal(d.metadata.version,'1.2.0');assert.equal(d.systems.length,72);assert.equal(d.assertions.length,864);
+test('current release retains exactly 36 named earlier broadening families',()=>{
+ assert.equal(d.metadata.version,'1.3.0');assert.equal(d.systems.length,144);assert.equal(d.assertions.length,1728);
  assert.equal(d.systems.filter(s=>s.research_round==='1.0.0').length,18);
  assert.equal(d.systems.filter(s=>s.research_round==='1.1.0').length,18);
  assert.equal(d.systems.filter(s=>s.research_round==='1.2.0').length,36);
@@ -42,7 +42,7 @@ test('broadening research keeps 153 queries, 693 leads and all hundred retrieval
  assert(r.every(x=>!x.content&&!x.snippet));
 });
 test('YAKSH legacy apps and regional iRASTE deployments do not pad the count',()=>{
- assert.equal(d.systems.filter(s=>/YAKSH|Trinetra/i.test(s.name)).length,1);
+ assert.equal(d.systems.filter(s=>s.research_round==='1.2.0'&&/YAKSH|Trinetra/i.test(s.name)).length,1);
  assert.equal(d.systems.filter(s=>/iRASTE/i.test(s.name)).length,1);
  assert(d.candidate_decisions.some(c=>c.name==='Trinetra standalone extra row'));
  assert(d.candidate_decisions.some(c=>c.name==='iRASTE Nagpur standalone extra row'));

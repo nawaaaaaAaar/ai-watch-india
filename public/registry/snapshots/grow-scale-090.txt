@@ -1,0 +1,11 @@
+NCS PORTAL
+Original: https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2294658&reg=1&lang=1
+Document date: 2025-11-20
+Source type: Official institutional record
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+airs, job search & matching, career counselling, vocational guidance, information on skill development courses, skill/training programmes etc. through a digital platform [www.ncs.gov.in]. More than 6.64 crore jobseekers have registered on the NCS portal since inception, of which 2.89 crore are active jobseekers as on
+
+Retrieval basis: Fresh SDK retrieval request; extracted text, not independent live-operation verification
+Cached extraction: False

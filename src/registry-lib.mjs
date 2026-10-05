@@ -1,6 +1,6 @@
-export function filterSystems(data,{query='',sector='All',stage='All',ai='All',frame='All',sort='name'}={}) {
+export function filterSystems(data,{query='',sector='All',stage='All',ai='All',frame='All',cohort='All',sort='name'}={}) {
   const terms=query.toLowerCase().trim().split(/\s+/).filter(Boolean);
-  const rows=data.systems.filter(s=>(frame==='All'||(frame==='Outside frame'?!s.frame_id:s.frame_id===frame))&&(sector==='All'||s.sector===sector)&&(stage==='All'||s.stage===stage)&&(ai==='All'||s.ai_class===ai)&&terms.every(t=>{
+  const rows=data.systems.filter(s=>(cohort==='All'||s.research_round===cohort)&&(frame==='All'||(frame==='Outside frame'?!s.frame_id:s.frame_id===frame))&&(sector==='All'||s.sector===sector)&&(stage==='All'||s.stage===stage)&&(ai==='All'||s.ai_class===ai)&&terms.every(t=>{
     const owner=data.institutions.find(i=>i.institution_id===s.owner_institution_id)?.name||'';
     const assertions=data.assertions.filter(a=>a.system_id===s.system_id).map(a=>a.value).join(' ');
     return `${s.name} ${s.system_id} ${owner} ${s.sector} ${s.jurisdiction} ${s.stage} ${s.ai_basis} ${assertions}`.toLowerCase().includes(t);

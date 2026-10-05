@@ -1,6 +1,14 @@
 -- Run: sqlite3 public/registry/dataset.sqlite < research/registry/queries.sql
 -- These are selected-corpus descriptions, not national prevalence estimates.
 
+-- Cohorts and kinds must be separated before any deployment inference.
+SELECT research_round, system_kind, ai_class, COUNT(*) AS selected_records
+FROM systems GROUP BY research_round, system_kind, ai_class;
+
+-- New-source extraction basis is not a live operational status.
+SELECT source_id, title, url, retrieval_basis, is_cached
+FROM sources WHERE source_id LIKE 'grow-%';
+
 -- Source trail for every documented/partial statement in the e-Paarvai case.
 SELECT a.field, a.evidence_status, a.value, e.quote, s.title, s.url,
        s.published_date, s.source_type

@@ -1,0 +1,11 @@
+Press Release:Press Information Bureau
+Original: https://www.dord.gov.in/static/uploads/2025/08/09c3709308b77863fd0edb8fb51dce27.pdf
+Document date: 2025-08-05
+Source type: Official institutional record
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Usage of Artificial Intelligence (AI)/ Machine Learning (ML) model is done under the PMAY-G to curb fraudulent activity and provide information of possible malpractices, and the details are provided as under:- i. Recommendation System module identifies various house attributes such as pucca wall, pucca roof,
+
+Retrieval basis: Fresh SDK retrieval request; extracted text, not independent live-operation verification
+Cached extraction: False

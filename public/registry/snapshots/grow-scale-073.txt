@@ -1,0 +1,11 @@
+Part II: AI for Urban Vigilance: Enforcement and Safety in the Age of Smart Governance -
+Original: https://frontiertech.niti.gov.in/story/part-ii-predict-and-prevent-ai-for-traffic-flow-congestion-intelligence-and-emergency-mobility/
+Document date: 2026-07-09
+Source type: Official institutional record
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+IIT Bombay and IIIT Hyderabad have developed algorithms for urban analytics, language processing, and healthcare diagnostics, often in partnership with government agencies and industry leaders. For instance, IIIT Hyderabad’s Centre for Visual Information Technology has
+
+Retrieval basis: Fresh SDK retrieval request; extracted text, not independent live-operation verification
+Cached extraction: False

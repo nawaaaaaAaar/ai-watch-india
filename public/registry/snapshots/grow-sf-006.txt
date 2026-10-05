@@ -1,0 +1,11 @@
+Indian Cyber Crime Coordination Centre, RBIH sign MoU to strengthen AI-based detection of mule accounts
+Original: https://government.economictimes.indiatimes.com/news/secure-india/i4c-and-rbih-join-forces-to-combat-cyber-fraud-with-ai-technology/131059334
+Document date: 2026-05-13
+Source type: Journalism / hosted institutional account; see original
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+suspect identifiers from I4C’s Suspect Registry to strengthen AI-based fraud detection systems such as MuleHunter.ai deployed across banks. RBIH will use the datasets to train and enhance AI-driven fraud-risk assessment models, including MuleHunter.ai. I4C said it has been working on
+
+Retrieval basis: Default cache-enabled SDK retrieval; not independently certified live-source status
+Cached extraction: True

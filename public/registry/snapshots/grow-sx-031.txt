@@ -1,0 +1,11 @@
+Delhi Metro rolls out AI systems to spot faults before delays hit services
+Original: https://www.indiatoday.in/amp/india/story/delhi-metro-deploys-ai-systems-to-improve-safety-reliability-and-maintenance-ptag-2966056-2026-08-07
+Document date: 2026-08-07
+Source type: Journalism / hosted institutional account; see original
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+predictive maintenance - India Today HomeIndiaDelhi Metro rolls out AI systems to spot faults before delays hit services # Delhi Metro rolls out AI systems to spot faults before delays hit services ## DMRC has deployed AI-based systems to monitor wires, wheels, bearings and track
+
+Retrieval basis: Default cache-enabled SDK retrieval; live source availability not independently certified
+Cached extraction: True

@@ -1,0 +1,29 @@
+Ministry of Defence AI capability catalogue (historical)
+Original: https://www.ddpmod.gov.in/sites/default/files/06ae526892cb9dc6470d38b68a7b426f999b8a4906d7551c13f6cc9be5c1a72e/fa4fda60553a6184d11824db55a749c5f356eb8f0bc05976f5be2dae24896aa3.pdf
+Document date: Undated/uncertain
+Source type: Government-hosted developer capability catalogue; not adoption audit
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+HR Chatbot ‘Anvesha’ Unique Features This Chatbot has enabled employees to download Personal documents, answer to the FAQs on HR
+
+Predictive Maintenance of Mining Equipment Through Data Analytics and Telematics Enabled System Key features: • External Device Interface Over Can
+
+Intercept Management System (IMS) Requirement. One of the major tasks in EW Operations is corroboration of helligence that requires analysis
+
+The AFIB is an indigenously developed platform in collaboration with BEL with advanced software & algorithms to have capability to
+
+Driver Fatigue Monitoring System Assessing driver fatigue in critical conditions is an indispensable tool, especially in the armed forces. A
+
+Silent Sentry, the fully 3D-printed rail mounted robot slides on a rail that can be installed on fences and
+
+Lynx-U2 is a Gun Fire Control System which has been successfully deployed in more than 35 Systems as the
+
+V-Log Vehicle Tracker is a state of art AI based software tool for detection and tracking of Civilian vehicles using
+
+seeker system is a self-contained, AI-based facial recognition, surveillance, monitoring, and analysis system for identification & tracking of threats for
+
+AI-enabled automated room intervention drone systems with lethal and non-lethal payload are used to carry out building clearance and urban
+
+Retrieval basis: Cache-enabled recovery after fresh retrieval failure/incomplete extraction; not certified live-source status
+Cached extraction: True

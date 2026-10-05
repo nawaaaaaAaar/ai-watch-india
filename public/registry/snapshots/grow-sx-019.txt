@@ -1,0 +1,11 @@
+AI - Manthan - NIC Cloud
+Original: https://cloud.nicsi.nic.in/user/services_ai_manthan.php
+Document date: Undated/uncertain
+Source type: Official institutional record
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+ain, and Test AI based Deep Learning Models Artificial Intelligence (AI) is the simulation of human cognitive processes by machines. Machines learn from both structured and unstructured data to accomplish this. AI models can be built using supervised learning,
+
+Retrieval basis: Default cache-enabled SDK retrieval; live source availability not independently certified
+Cached extraction: True

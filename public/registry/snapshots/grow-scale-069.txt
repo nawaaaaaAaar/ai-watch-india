@@ -1,0 +1,11 @@
+Tamil Nadu has successfully deployed AI tools to prevent human-animal conflicts says official
+Original: https://www.theweek.in/wire-updates/national/2026/01/02/tamil-nadu-has-successfully-deployed-ai-tools-to-prevent-human-animal-conflicts-says-official.html
+Document date: 2026-01-02
+Source type: Journalism / hosted institutional account; see original
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+“In Madukkarai, to prevent accidental deaths of wild elephants on railway tracks, we have deployed artificial intelligence (AI) and machine learning (ML) technologies. Cameras equipped with AI and thermal sensors have been installed along vulnerable stretches,” she said. The initiative, she said, has helped
+
+Retrieval basis: Fresh SDK retrieval request; extracted text, not independent live-operation verification
+Cached extraction: False

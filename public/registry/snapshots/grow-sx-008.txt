@@ -1,0 +1,11 @@
+Uni-Verse - A Metaverse Of Banking
+Original: https://www.unionbankofindia.bank.in/en/common/uni-verse-a-metaverse-of-banking
+Document date: 2021-11-10
+Source type: Official institutional record
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+- Handling customer queries through AI Chatbot. - Inclusion of different lounges showcasing various bank products across different segments. - Robo-bee navigator. - Short Video on “Journey of Union Bank of India”. - Product Catalogues through mail & SMS. “Uni-verse” serves as an additional banking
+
+Retrieval basis: Default cache-enabled SDK retrieval; live source availability not independently certified
+Cached extraction: True

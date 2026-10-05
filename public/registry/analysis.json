@@ -1,17 +1,20 @@
 {
-  "scope": "72 named systems/services: the 36-record seed/institutional release plus 36 broadening-round additions. The original six-institution frame still associates 26 records; the broadening cohort is purposive, not a census or representative national sample. Historical, proposed, suspended, experimental and evaluation-infrastructure units distinguished.",
+  "scope": "144 named system/service families: the preserved 72-record release plus 72 scaling-cohort additions. The original six-institution frame still associates 26 records. Selection is purposive, not a census or representative national sample. Government enabling infrastructure, statutory-body services, proposed systems, historical internal/defence capabilities and qualified algorithmic contexts are explicitly distinguished from verified live public-facing AI.",
   "coverage_status": {
-    "Documented": 161,
-    "Partial": 369,
-    "Not verified": 331,
+    "Documented": 305,
+    "Partial": 686,
+    "Not verified": 734,
     "Conflicting sources": 3
   },
   "ai_qualification": {
-    "Qualified algorithmic / biometric context": 10,
-    "Explicit source attribution": 61,
+    "Qualified algorithmic / biometric context": 14,
+    "Explicit source attribution": 129,
     "AI evaluation infrastructure": 1
   },
   "metrics_by_kind": {
+    "Partner study sample": 1,
+    "Partner-reported observational process measure": 1,
+    "Administrative completion self-report": 1,
     "Usage self-report": 4,
     "Study measurement": 5,
     "Multi-intervention outcome self-report": 2,
@@ -65,6 +68,11 @@
       "system_id": "sys-atman",
       "evaluation_type": "Developer-described doctor testing",
       "current_version_match": "Not established"
+    },
+    {
+      "system_id": "sys-shiksha-copilot",
+      "evaluation_type": "Partner mixed-methods study; abstract reviewed only",
+      "current_version_match": "Not independently established"
     }
   ]
 }

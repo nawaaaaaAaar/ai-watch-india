@@ -1,0 +1,11 @@
+Navigating the Future: GRSE's Technological Innovations ...
+Original: https://www.expresscomputer.in/news/navigating-the-future-grses-technological-innovations-in-defence-shipbuilding/114917/
+Document date: 2024-08-12
+Source type: Journalism / hosted institutional account; see original
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Our designers use an AI-based design assistant (Jigyasa) to cut time as well as errors, and we are now training an AI system to read radiography films and detect weld defects. Additionally, AI is helping reduce the training time of our welders, and robots
+
+Retrieval basis: Default cache-enabled SDK retrieval; live source availability not independently certified
+Cached extraction: True

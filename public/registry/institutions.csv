@@ -1,30 +1,50 @@
 institution_id,name,legal_identity_status
 inst-02ff35c659e60448,Maharashtra Police,Name as stated in reviewed record; not a registry-certified legal identity
+inst-073ddabcc51fe809,Department of Rural Development,Name as stated in reviewed record; not a registry-certified legal identity
 inst-0b757f6ea62e3a88,Telangana Electronic Service Delivery,Name as stated in reviewed record; not a registry-certified legal identity
 inst-0b79cf195addb412,"Department of Social Justice and Empowerment, Rajasthan",Name as stated in reviewed record; not a registry-certified legal identity
 inst-0db9a515e3aacb97,Indian Army,Name as stated in reviewed record; not a registry-certified legal identity
 inst-105b2a327ff73653,National Informatics Centre,Name as stated in reviewed record; not a registry-certified legal identity
+inst-12cdb0fccab6e667,Indian Space Research Organisation,Name as stated in reviewed record; not a registry-certified legal identity
+inst-167a1f9941a11a3c,Hyderabad Metropolitan Development Authority / traffic authorities,Name as stated in reviewed record; not a registry-certified legal identity
+inst-16ad8b40b09b7158,Garden Reach Shipbuilders and Engineers,Name as stated in reviewed record; not a registry-certified legal identity
+inst-1ae8da4f73fbff9e,Kanyakumari District Police,Name as stated in reviewed record; not a registry-certified legal identity
+inst-1deae3474020e9ac,DRDO / Ingenious Research Solutions,Name as stated in reviewed record; not a registry-certified legal identity
 inst-204b63fb560341f5,Ministry of Health and Family Welfare,Name as stated in reviewed record; not a registry-certified legal identity
 inst-2155d03e61814da2,Digi Yatra Foundation,Name as stated in reviewed record; not a registry-certified legal identity
 inst-21e89a0ce17d5759,"All India Institute of Medical Sciences, New Delhi",Name as stated in reviewed record; not a registry-certified legal identity
 inst-2261f4d2a9883aaa,Centre for Railway Information Systems,Name as stated in reviewed record; not a registry-certified legal identity
 inst-23cb88b76fb93da5,Goods and Services Tax Network,Name as stated in reviewed record; not a registry-certified legal identity
+inst-23f9b4f4518e6121,"Department of Tourism, Maharashtra",Name as stated in reviewed record; not a registry-certified legal identity
+inst-265acafabf2343bc,Ahmedabad traffic authorities,Name as stated in reviewed record; not a registry-certified legal identity
+inst-2693ba73bb702fbf,"Department of Tourism / GTDC, Goa",Name as stated in reviewed record; not a registry-certified legal identity
 inst-2890dfd46b4eb43b,Lok Sabha Secretariat,Name as stated in reviewed record; not a registry-certified legal identity
 inst-29b9a3c648b1d0f7,Punjab Police,Name as stated in reviewed record; not a registry-certified legal identity
 inst-2b4a6b77a838e76a,Department of Telecommunications,Name as stated in reviewed record; not a registry-certified legal identity
 inst-2bd20bb3c00a5052,Ministry of Home Affairs,Name as stated in reviewed record; not a registry-certified legal identity
+inst-2bf623d90b50fad9,All India Council for Technical Education,Name as stated in reviewed record; not a registry-certified legal identity
 inst-2d89a5e2556c8d76,"Centre for Artificial Intelligence and Robotics, DRDO",Name as stated in reviewed record; not a registry-certified legal identity
 inst-32ed215ce6e1fd16,Vassar Labs,Name as stated in reviewed record; not a registry-certified legal identity
 inst-336e44e3a51f9f87,Ministry of Education,Name as stated in reviewed record; not a registry-certified legal identity
 inst-33b9d2e99b82fa8f,Bharat Forge Limited,Name as stated in reviewed record; not a registry-certified legal identity
+inst-3b27ede5c0526fb5,Indian Institute of Technology Madras / Ministry of Education,Name as stated in reviewed record; not a registry-certified legal identity
 inst-3c8e259b5f01c261,Arcadis,Name as stated in reviewed record; not a registry-certified legal identity
+inst-3e6ce745320797f1,Pune Traffic Police,Name as stated in reviewed record; not a registry-certified legal identity
 inst-3efd4b94a330ceaf,Tamil Nadu e-Governance Agency,Name as stated in reviewed record; not a registry-certified legal identity
 inst-3fd96b1fc546e79a,MS Bitcom Technologies,Name as stated in reviewed record; not a registry-certified legal identity
 inst-4011dca9fe8dd9ea,Digital Green,Name as stated in reviewed record; not a registry-certified legal identity
+inst-4472c97499c30987,Bank of Maharashtra,Name as stated in reviewed record; not a registry-certified legal identity
+inst-44789b01ab59fd0f,UCO Bank,Name as stated in reviewed record; not a registry-certified legal identity
+inst-44e4fa9a415955e1,Tamil Nadu Forest Department,Name as stated in reviewed record; not a registry-certified legal identity
 inst-45ee9688e858c52d,Union Public Service Commission,Name as stated in reviewed record; not a registry-certified legal identity
 inst-47b878b9100a8229,Department of Administrative Reforms and Public Grievances,Name as stated in reviewed record; not a registry-certified legal identity
+inst-47bcc707da421a01,Indian Institute of Technology Kanpur / Ministry of Education,Name as stated in reviewed record; not a registry-certified legal identity
+inst-47cec0bd2d0ead45,Adani Navbharat Developers Private Limited,Name as stated in reviewed record; not a registry-certified legal identity
+inst-4afdc9cdd93290e4,Defence Research and Development Organisation,Name as stated in reviewed record; not a registry-certified legal identity
 inst-4db7fdfd0df0fe6b,National Health Authority,Name as stated in reviewed record; not a registry-certified legal identity
+inst-4e4f0340c8b6b77c,State Bank of India,Name as stated in reviewed record; not a registry-certified legal identity
 inst-51eee65c3c8d3490,Government of Telangana,Name as stated in reviewed record; not a registry-certified legal identity
+inst-52594d9b3febf137,Gujarat Council of School Education – Samagra Shiksha,Name as stated in reviewed record; not a registry-certified legal identity
 inst-526b9340c1d32834,Digital India Corporation,Name as stated in reviewed record; not a registry-certified legal identity
 inst-5419694268005d37,International Rice Research Institute,Name as stated in reviewed record; not a registry-certified legal identity
 inst-541bddce041e4617,Brihanmumbai Municipal Corporation,Name as stated in reviewed record; not a registry-certified legal identity
@@ -32,17 +52,30 @@ inst-5619c00348e1b51f,Qure.ai,Name as stated in reviewed record; not a registry-
 inst-562656b0a72e2b49,Indian Institute of Technology Kanpur,Name as stated in reviewed record; not a registry-certified legal identity
 inst-58a0fcc79c90b09f,Indian Railways,Name as stated in reviewed record; not a registry-certified legal identity
 inst-58e63a2975275355,Staqu Technologies,Name as stated in reviewed record; not a registry-certified legal identity
+inst-5d85c944312ac272,Union Bank of India,Name as stated in reviewed record; not a registry-certified legal identity
+inst-5da1b70934ce70d6,Nagpur Police,Name as stated in reviewed record; not a registry-certified legal identity
 inst-5f5171085b9e42f9,Ministry of Electronics and Information Technology,Name as stated in reviewed record; not a registry-certified legal identity
+inst-63f3c7d5d7f43f82,Reserve Bank Innovation Hub,Name as stated in reviewed record; not a registry-certified legal identity
+inst-696a60209f1e4918,Kerala Infrastructure and Technology for Education,Name as stated in reviewed record; not a registry-certified legal identity
 inst-6e09d383bf58c7d8,Department of Posts,Name as stated in reviewed record; not a registry-certified legal identity
 inst-6f2298d613f6b8d6,Bengaluru Traffic Police,Name as stated in reviewed record; not a registry-certified legal identity
 inst-6f2e73576635a15d,Association of Mutual Funds in India,Name as stated in reviewed record; not a registry-certified legal identity
+inst-71b1e60730218b90,Bhopal Smart City Development Corporation Limited,Name as stated in reviewed record; not a registry-certified legal identity
+inst-728b8af7f1affaf6,"Department of IT, Electronics and Communications, Goa",Name as stated in reviewed record; not a registry-certified legal identity
 inst-731ef3d09d0f30a6,"Centre for Development of Advanced Computing, Pune",Name as stated in reviewed record; not a registry-certified legal identity
+inst-756a9ebf9531c3e3,Ministry of Labour and Employment,Name as stated in reviewed record; not a registry-certified legal identity
 inst-765993c8e5e23c65,Tamil Nadu e-Governance Agency and Tamil Nadu State Control Blindness Society,Name as stated in reviewed record; not a registry-certified legal identity
 inst-7851473390a62459,Securities and Exchange Board of India,Name as stated in reviewed record; not a registry-certified legal identity
+inst-79d3d40ab275c024,Sikshana Foundation,Name as stated in reviewed record; not a registry-certified legal identity
 inst-7c021f2493ccc613,Centre for Development of Advanced Computing,Name as stated in reviewed record; not a registry-certified legal identity
+inst-7cc8e66cbff92670,Microsoft Research India,Name as stated in reviewed record; not a registry-certified legal identity
 inst-7fb1fee101f6550d,Central Water Commission,Name as stated in reviewed record; not a registry-certified legal identity
 inst-7fd4fe0d8fb3c6b8,"Airawat Research Foundation, IIT Kanpur",Name as stated in reviewed record; not a registry-certified legal identity
+inst-801aaca70a9356f3,Government of Andhra Pradesh,Name as stated in reviewed record; not a registry-certified legal identity
+inst-80c84cd20a7e9264,BEML Limited,Name as stated in reviewed record; not a registry-certified legal identity
 inst-80f84b53dc6799f4,"Real Time Governance Society, Andhra Pradesh",Name as stated in reviewed record; not a registry-certified legal identity
+inst-837d3e1b3d0d6f85,Nagpur Municipal Corporation,Name as stated in reviewed record; not a registry-certified legal identity
+inst-864d0848d4a34a89,Institute of Chartered Accountants of India,Name as stated in reviewed record; not a registry-certified legal identity
 inst-87d295e4a6e3956e,Delhi Jal Board,Name as stated in reviewed record; not a registry-certified legal identity
 inst-88e657d36424fb3d,CoRover Private Limited,Name as stated in reviewed record; not a registry-certified legal identity
 inst-8940c3eac6828cd5,National Highways Authority of India,Name as stated in reviewed record; not a registry-certified legal identity
@@ -51,27 +84,51 @@ inst-899f4725b13a40bc,Delhi Police,Name as stated in reviewed record; not a regi
 inst-8bb78df3fe653106,Indian Cyber Crime Coordination Centre,Name as stated in reviewed record; not a registry-certified legal identity
 inst-8cdaf9f016942e87,SamagraX,Name as stated in reviewed record; not a registry-certified legal identity
 inst-8dcfb8acc65d8a91,Indian Council of Agricultural Research,Name as stated in reviewed record; not a registry-certified legal identity
+inst-9093a77abee4c5f9,West Bengal Forest Department,Name as stated in reviewed record; not a registry-certified legal identity
+inst-91983457b9a16dfa,National Legal Services Authority,Name as stated in reviewed record; not a registry-certified legal identity
 inst-92962eb45b06c4b8,L & T Infotech Ltd,Name as stated in reviewed record; not a registry-certified legal identity
+inst-953179fff313c55f,Indian Institute of Technology Bombay-led BharatGen consortium,Name as stated in reviewed record; not a registry-certified legal identity
 inst-9da8a4e007d95a58,Department of Agriculture and Farmers Welfare,Name as stated in reviewed record; not a registry-certified legal identity
 inst-9fc9870cbff25d12,Bharat Electronics Limited,Name as stated in reviewed record; not a registry-certified legal identity
+inst-a10986ec566d2cf2,Kerala Police,Name as stated in reviewed record; not a registry-certified legal identity
 inst-a157dac3e3f15a6c,"Department of Agriculture, Maharashtra",Name as stated in reviewed record; not a registry-certified legal identity
+inst-a3a6245c581b76e8,Delhi Metro Rail Corporation,Name as stated in reviewed record; not a registry-certified legal identity
 inst-a453522a2cbb0303,Kerala Motor Vehicles Department,Name as stated in reviewed record; not a registry-certified legal identity
+inst-a63a8d052080055d,National Informatics Centre Services Incorporated,Name as stated in reviewed record; not a registry-certified legal identity
+inst-abb18bdd47185f82,"Department of School Education and Literacy, Karnataka",Name as stated in reviewed record; not a registry-certified legal identity
 inst-ade08b2d56db380a,Supreme Court of India,Name as stated in reviewed record; not a registry-certified legal identity
+inst-aef722cc950c0d8a,"Department of School Education, Assam",Name as stated in reviewed record; not a registry-certified legal identity
+inst-b290d2b13630358a,Telangana Police,Name as stated in reviewed record; not a registry-certified legal identity
 inst-b4a65faa8f6deb4e,Telangana Transport Department,Name as stated in reviewed record; not a registry-certified legal identity
+inst-b8c4d73d867fd864,"Department of Steel and Mines, Odisha",Name as stated in reviewed record; not a registry-certified legal identity
+inst-ba0a6b19273766c9,Comptroller and Auditor General of India,Name as stated in reviewed record; not a registry-certified legal identity
 inst-baa97366d7ccc323,Income Tax Department,Name as stated in reviewed record; not a registry-certified legal identity
 inst-bfd6b4277a93f961,"Department of Agriculture and Farmers Empowerment, Odisha",Name as stated in reviewed record; not a registry-certified legal identity
 inst-c0df593d9ca61f9c,Indian Railway Catering and Tourism Corporation Limited,Name as stated in reviewed record; not a registry-certified legal identity
 inst-c3cf368fff4679f9,Ministry of Railways,Name as stated in reviewed record; not a registry-certified legal identity
+inst-c410e6632d1ec14c,Government of Karnataka,Name as stated in reviewed record; not a registry-certified legal identity
+inst-c5cf066f486e654b,Centre for Development of Telematics,Name as stated in reviewed record; not a registry-certified legal identity
 inst-c86ddcb778fd604a,Indian Navy,Name as stated in reviewed record; not a registry-certified legal identity
 inst-cb5ed1dc40d2da03,INAI / International Institute of Information Technology Hyderabad,Name as stated in reviewed record; not a registry-certified legal identity
 inst-cddfdda3e91aa9b7,"Department of Information Technology and Communication, Rajasthan",Name as stated in reviewed record; not a registry-certified legal identity
 inst-ce770667e5f9b0d8,Google,Name as stated in reviewed record; not a registry-certified legal identity
+inst-d157b8476767ccc8,"National Informatics Centre, Maharashtra",Name as stated in reviewed record; not a registry-certified legal identity
 inst-d2473e761c5e1987,National Council of Educational Research and Training,Name as stated in reviewed record; not a registry-certified legal identity
+inst-d2df20efb7e269e6,Tamil Nadu Police,Name as stated in reviewed record; not a registry-certified legal identity
 inst-d6df2fac3cc6f547,Kerala State Electronics Development Corporation (Keltron),Name as stated in reviewed record; not a registry-certified legal identity
+inst-d79285aa4e6fee0f,Ministry of Women and Child Development,Name as stated in reviewed record; not a registry-certified legal identity
 inst-d8151ada4bb4d040,India Meteorological Department,Name as stated in reviewed record; not a registry-certified legal identity
+inst-d946328a61eec970,"Department of Food and Civil Supplies, Karnataka",Name as stated in reviewed record; not a registry-certified legal identity
+inst-dc90b35cf13128a7,Indian Bank,Name as stated in reviewed record; not a registry-certified legal identity
 inst-df70d24fb2723e8a,Ministry of Agriculture and Farmers Welfare,Name as stated in reviewed record; not a registry-certified legal identity
+inst-e03e9569c4f357a7,High Court of Andhra Pradesh and participating court institutions,Name as stated in reviewed record; not a registry-certified legal identity
 inst-e3938ebce6d6f9f4,National Crime Records Bureau,Name as stated in reviewed record; not a registry-certified legal identity
 inst-e999f31ac201d555,Unique Identification Authority of India,Name as stated in reviewed record; not a registry-certified legal identity
+inst-eb64ebaee08e80b0,Punjab National Bank,Name as stated in reviewed record; not a registry-certified legal identity
 inst-f1118c6f3a9781ad,"Dr. Rajendra Prasad Centre for Ophthalmic Sciences, AIIMS",Name as stated in reviewed record; not a registry-certified legal identity
 inst-f44a2ec8e996964e,Digital India BHASHINI Division,Name as stated in reviewed record; not a registry-certified legal identity
 inst-f79096a81f8ebca4,Central Board of Indirect Taxes and Customs,Name as stated in reviewed record; not a registry-certified legal identity
+inst-fbc0dacf2eaaa64a,NITI Aayog,Name as stated in reviewed record; not a registry-certified legal identity
+inst-fcd9ac49e877771f,Indian Overseas Bank,Name as stated in reviewed record; not a registry-certified legal identity
+inst-fce0b15c7c195529,Bank of Baroda,Name as stated in reviewed record; not a registry-certified legal identity
+inst-fdb0cb6c13a5abb7,High Court of Kerala,Name as stated in reviewed record; not a registry-certified legal identity

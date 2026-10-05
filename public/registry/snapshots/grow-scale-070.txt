@@ -1,0 +1,13 @@
+Using AI to Detect Elephants Early and Promote Coexistence with Humans ｜ About JICA - JICA
+Original: https://www.jica.go.jp/english/about/dx/goodpractice/dxlab/1570016_68036.html
+Document date: 2025-09-01
+Source type: Developer / partner account
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+In the following article, JICA officials describe this initiative, which was carried out in collaboration with the West Bengal Forest Department, a digital partner, and local residents. ### JICA DXLab case Some images of elephants detected by the project’s AI-equipped cameras. Sasaki Hirari (left)
+
+18 minutes. During the six-month time frame of the proof-of-concept project, elephants were detected a total of 175 times, and the real-time alerts resulted in a rapid response. This helped keep the number of deaths
+
+Retrieval basis: Fresh SDK retrieval request; extracted text, not independent live-operation verification
+Cached extraction: False

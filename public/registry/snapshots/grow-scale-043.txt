@@ -1,0 +1,11 @@
+Press Release Page | Press Information Bureau
+Original: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2241765&reg=3&lang=1
+Document date: 2026-03-18
+Source type: Official institutional record
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Details of recent techniques & tools developed are as follows: - Crop monitoring: An AI-based crop mapping tool named ‘SASYA’ has been developed for C-band SAR from EOS-04 (RISAT-1A) and integrated into BHOONIDHI geo-portal of NRSC/ISRO. This tool has been made open to operational
+
+Retrieval basis: Cache-enabled recovery after fresh retrieval failure/incomplete extraction; not certified live-source status
+Cached extraction: True

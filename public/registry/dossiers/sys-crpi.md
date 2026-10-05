@@ -1,6 +1,6 @@
 # AI Watch: CrPI multimodal biometric application
 
-India institution-and-system dataset v1.1.0. Checked 2026-10-05; analyst-coded documentary evidence, not an operational audit. System kind: Public-service system. Selection: Fixed-frame documentary search addition.
+India institution-and-system dataset v1.3.0. Checked 2026-10-05; analyst-coded documentary evidence, not an operational audit. System kind: Public-service system. Research cohort: 1.1.0. Selection: Fixed-frame documentary search addition.
 
 ## Owner & purpose
 

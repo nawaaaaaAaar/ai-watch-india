@@ -1,0 +1,15 @@
+tenders-EOI-for-Establishment-of-Sovereign-AI-Platform-for ...
+Original: https://cag.gov.in/uploads/tenders/tenders-EOI-for-Establishment-of-Sovereign-AI-Platform-for-CAG-of-India-069fb031304a1b8-89068885.pdf
+Document date: 2026-05-05
+Source type: Official institutional record
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+• Minimum 5-year retention with legal hold and secure deletion capabilities. • Encrypted at rest (AES-256) and in transit (TLS 1.2+). 4.4 Networking and Security
+
+Some of the immediate objectives include: • Pension Pre-Scrutiny (AI-PARAS): An AI-enabled system to automate first-level scrutiny of pension proposals across Accountant General (A&E) offices, reducing processing time and improving detection of document deficiencies. • AI-Based ITR & Assessment
+
+• Human-in-the-loop design — the agent assists but does not sanction; all final decisions remain with designated officers. • Full audit trail of agent findings, officer reviews, and case outcomes. 6.2 Agent 2 –
+
+Retrieval basis: Default cache-enabled SDK retrieval; not independent live-source certification
+Cached extraction: True

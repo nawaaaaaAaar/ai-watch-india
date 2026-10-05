@@ -1,0 +1,11 @@
+TRINETRA ENTERPRISE
+Original: https://www.cdot.in/cdotweb/web/product_page.php?lang=en&catId=11&pId=77
+Document date: Undated/uncertain
+Source type: Official institutional record
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+TRINETRA ENTERPRISE TRINETRA ENTERPRISE is an indigenous, unified AI-Powered Cyber Resilience platform for enterprise security developed by the Centre for Development of Telematics (C-DOT), Government of India. It was created to address a persistent fragmentation in enterprise security - important
+
+Retrieval basis: Fresh SDK retrieval request; extracted text, not independent live-operation verification
+Cached extraction: False

@@ -1,4 +1,7 @@
 metric_id,system_id,metric_name,value,unit,metric_kind,measurement_scope,denominator,value_qualifier,value_upper
+metrics-05f8ea66000c9430,sys-shiksha-copilot,Teacher sample reported,1043,teachers,Partner study sample,"Abstract-only mixed-methods study; 23 curators separate, not AI accuracy.",,Source-reported; not independent validation,
+metrics-0e42bc7d702d9778,sys-trailguard-wb,Reported average detection-to-response time,18,minutes,Partner-reported observational process measure,West Bengal PoC; no causal casualty reduction established.,,Source-reported; not independent validation,
+metrics-2c05b039370c58df,sys-poshan-frs,eKYC / face-matching completion,97.01,percent,Administrative completion self-report,February 2026; not recognition accuracy or ration-receipt denominator.,,Source-reported; not independent validation,
 metrics-2c4f52bcbdb9d493,sys-kisan-emitra,Answered queries,9300000,queries,Usage self-report,More than this value as of December 2025; not verified successful grievances,,More than stated lower bound,
 metrics-31c9a05abd301b15,sys-epaarvai,Specificity,25,%,Study measurement,"2022 field study, cataract detection, selected tertiary-hospital sample",2619 eyes from 1407 patients; metric-specific denominator not reconstructed,Reported value,
 metrics-38746cef4d5114ab,sys-rail-ids,Reported elephants saved,255,elephants,Multi-intervention outcome self-report,"January–September 2026, news quoting NFR; not causal IDS-only attribution",,Reported value,

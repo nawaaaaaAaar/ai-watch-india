@@ -1,7 +1,10 @@
 issue_id,system_id,issue_type,description
 issues-0afac3022aa19a60,sys-yaksh,Family deduplication,Trinetra legacy record is kept inside YAKSH family rather than counted as another new named system. AI rankings are not proven risk estimates.
+issues-12aa8f357a7cf5e0,sys-goa-online-ai,Launch chronology,"Earlier beta and later announcements are retained, not collapsed into one first-deployment date."
 issues-13f2596b84eaea54,sys-cctns2,Version/timeline conflict,Under-development 2026 description versus launched-in-2024 backgrounder; cannot infer full predictive-policing rollout.
+issues-1698d337db79d36d,sys-mulehunter,Bank interface versus intelligence sharing,No-PII bank-interface description and I4C suspect-registry intelligence/training arrangement have different scopes; blanket no-data-sharing assurance would be misleading.
 issues-17890833e6ba1b35,sys-cropic,Data declaration tension,Described upload of images/location/date/crop metadata versus app-store no-data-collected declaration. SDK/category definitions and actual processing require further verification.
+issues-217bf92a9f751af4,sys-bharatgen,Revisited seed exclusion,"Earlier seed exclusion is preserved historically. This round includes an explicitly labelled named model-service family under broader infrastructure scope, not proof of citizen-facing deployment."
 issues-2671d01c4ab8ef96,sys-bharat-vistaar,New dated channel-specific language evidence,July reply distinguishes telephone Hindi/English from ten-language web/app/chatbot. The undated 22+ portal remains unreconciled; do not treat every channel as identical.
 issues-331bad35dc0e6a8c,sys-supace,Current-status limits,n.a. A later final regulation or routine SUPACE deployment was not verified after recency searches. This is not proof that neither exists.
 issues-4484c4bf77706392,sys-mahacrimeos,Current-status limits,n.a. A current government-confirmed rollout inventory and operational audit were not obtained. This is not proof of non-use.
@@ -10,21 +13,29 @@ issues-494aa24bb53b27a4,sys-ksh,AI acronym disambiguation,The tender also uses A
 issues-4b4fa84f7b9c6eb8,sys-supace,Evaluation & error rates,"n.a. Current independent citation, omission and hallucination tests or courtroom outcome evaluations were not verified."
 issues-4c27dd3b4499638c,sys-fri,Risk versus proof,"Fraud-risk category and prevented-suspected-transaction amount are not guilt, accuracy or a validated causal loss estimate."
 issues-4cb03b903879901a,sys-rail-vss,Coverage/component boundary,1874 is reported VSS station coverage; not a verified count of stations running each facial recognition or analytics module.
+issues-4e36b9b99c7b6a28,sys-cdot-trinetra,Distinct homonym,C-DOT cybersecurity TRINETRA is distinct from UP police legacy Trinetra/YAKSH and must not be deduplicated by name alone.
 issues-63749cdb4e713caa,sys-delhi-itms,Acronym collision,"Delhi traffic ITMS and railway track ITMS are different named workflows, not duplicate installations."
 issues-6530b690b4a3cb0a,sys-esanjeevani,Evaluation & error rates,"A national implementation-study abstract reports expert-clinician validation and implementation, but independent numeric error rates were not established in the retrieved text and full manuscript access was blocked. A separate local 4,401-record study's 90% figure is not the existing national system's score."
+issues-6618f008f3e214dc,sys-niti-ai-saarthi,Data provenance versus answer validity,"Using official datasets is not independent evidence of numerical faithfulness, reliable joins, causal inference or complete coverage."
 issues-6db2f2952081b10b,sys-esanjeevani,Current-status limits,"The dated response supports reported integrated use, not independent safety certification or all October operational details. The programme utilisation study raises privacy and access recommendations, but is not a deployed-CDSS accuracy study."
 issues-6f6454c9de1cf44b,sys-suvas,Current-status limits,"The reviewed records support assistive translation use, not perfect equivalence or current uniform governance across courts."
+issues-7e25f06377d5027d,sys-nagpur-iitms,Installation versus integration,Physical installation and functioning ordinary signals do not prove connected central AI operation; differing June counts not silently reconciled.
+issues-817de4bef7b88408,sys-mana-mitra,Menu versus agentic upgrade,"Version 1 menu-based service and proposed agentic Version 2 are one family, not two systems or proof of completed agentic transactions."
 issues-8c5f6f818d8b394c,sys-cyberguard,Evaluation & error rates,"n.a. 'Improved speed and accuracy' is an official qualitative claim, not a production benchmark with error distributions."
 issues-8f78d3d82d7c9314,sys-upsc,Current-status limits,"The October source confirms reported scaled use, not independently audited accuracy or every current operational detail."
+issues-8f8751a862db0bce,sys-imd-monsoon-ai,Generic gains versus model benchmark,Broad weather-forecast improvements are not assigned as measured accuracy of newly announced AI products.
 issues-997ecd7af89e5023,sys-rail-ids,Numeric inconsistency,"Headline aggregate 255; four division values 106+14+122+15 sum to 257. Retained unresolved, not interpreted as system failure."
 issues-9a4081537a5002e5,sys-ioncology,Benchmark is not clinical validation,Headline accuracy and prospective multicentre clinical validity are different claims; keep both reporting periods.
 issues-a37c9dea8fc5a657,sys-fmr-fir,Readiness exception,Official full-functionality wording retains exceptions; does not establish every relying entity was ready.
+issues-b0a006ef49ccdaed,sys-ompts,Rule acronym versus system identity,"OMPTS refers to a mineral-regulatory regime, not an independently verified product name. Registry identifies the documented AI-integrated i3MS dispatch workflow and preserves human variance exceptions."
 issues-b687e8941fffc6d7,sys-bifa,Portfolio versus model,"More than fifty tools is a portfolio description, not fifty new dataset rows or independent performance evaluations."
 issues-b97c9d4c9cd8bfc0,sys-cyberguard,Current-status limits,"Official integration is documented as a source claim; live access, coverage and decision impact were not independently tested."
 issues-c8a6f56b0a16660c,sys-mahacrimeos,Evaluation & error rates,"n.a. Independent error, bias, accuracy and workload evaluations were not verified; vendor anecdotes are not benchmarks."
 issues-d0f406a9ce4188a4,sys-suvas,Evaluation & error rates,"n.a. Independent legal-semantic error rates by language, case type and model version were not verified."
 issues-d9ed2f6f12fb3100,sys-bharat-vistaar,Scope tension,Dated Phase-I Hindi/English versus undated 22+ language portal; later expansion may explain the difference but is not verified.
+issues-d9f109aa9373bd0c,sys-hyderabad-itms,Version alignment,Broad city deployment descriptions do not establish that the new HMDA master plan is complete.
 issues-e77a00da7e053d5f,sys-safe-kerala,Recency changes stage,Do not present an older deployment announcement as uninterrupted current challan processing.
 issues-ebfd52d9545d04d4,sys-upsc,Evaluation & error rates,UPSC reports six-to-eight-second typical authentication; no independent false-accept/reject or subgroup evaluation was verified.
 issues-ec23f26b1ee23a65,sys-kisan-emitra,Unreconciled usage wording,"August 2025 answer says over 95 lakh queries resolved as of 15 July; February 2026 backgrounder says over 93 lakh queries responded to as of December 2025. Lower bounds and different wording are not necessarily a decrease, but definitions and consistency were not reconciled."
 issues-f00871269f586c20,sys-iraste,Family-level denominator,Telangana/Nagpur programme observations retained as deployment context in one family; prospective targets not outcomes.
+issues-fce3a29e3be14324,sys-mulehunter,Latency stages,"Stage I T+1, Stage II hourly and Stage III near-real-time are different stages; a live-bank label does not imply Stage III."

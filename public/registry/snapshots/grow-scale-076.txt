@@ -1,0 +1,11 @@
+AI-Driven Traffic Control Launched In Ahmedabad To Cut Signal Delays,Congestion: Here's How It Works
+Original: https://www.ndtv.com/auto/ai-driven-traffic-control-launched-in-ahmedabad-to-cut-signal-delays-congestion-heres-how-it-works-11398525
+Document date: 2026-04-23
+Source type: Journalism / hosted institutional account; see original
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+10 key junctions in a pilot project - The Adaptive Traffic Control System adjusts signal timings based on real-time traffic data - Sensors and cameras track vehicle density and lane usage to manage signal durations Ahmedabad has taken a major
+
+Retrieval basis: Fresh SDK retrieval request; extracted text, not independent live-operation verification
+Cached extraction: False

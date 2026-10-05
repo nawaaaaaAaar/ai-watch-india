@@ -1,0 +1,11 @@
+Metaverse by Bank of Maharashtra
+Original: https://bankofmaharashtra.bank.in/metaverse
+Document date: Undated/uncertain
+Source type: Official institutional record
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Customer would be able to have discussion with the AI/ML based and NLP (Natural Language Processing) based virtual humanoid which will provide all the required information to customers about Bank’s products and services. 2. Customer will be guided to each Product Zone where they
+
+Retrieval basis: Default cache-enabled SDK retrieval; live source availability not independently certified
+Cached extraction: True

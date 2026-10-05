@@ -1,6 +1,14 @@
 # AI Watch: institution-and-system data codebook
 
-Version 1.2.0, India documentary cutoff 5 October 2026. Read the protocol before drawing inferences; this combines seed, institutional and purposive broadening cohorts, not a national census.
+Version 1.3.0, India documentary cutoff 5 October 2026. Read the protocol before drawing inferences; the 144 families combine seed, institutional, broadening and scaling cohorts, not a national census or 144 verified live AI deployments.
+
+## Fourth-cohort interpretation
+
+`research_round` values 1.0.0, 1.1.0, 1.2.0 and 1.3.0 select 18, 18, 36 and 72 records respectively. `system_kind` distinguishes citizen-facing service, internal decision support, enabling/foundation infrastructure, statutory-body information, private redevelopment communication and historical research/defence capability. Exclude inappropriate units before describing deployment patterns.
+
+New `sources.retrieval_basis` and `sources.is_cached` report the actual extraction/recovery basis. Missing values on old rows do not mean fresh live verification; consult inherited source-recheck/log scopes. Repeated original URLs can have different release-specific source records; count records and unique URLs separately. `snapshot_sha256` covers selected UTF-8 excerpts, not original PDF authentication.
+
+All 1,728 assertion slots are retained. `Not verified` is not a negative finding; `Partial` carries version, timing and enforcement limits. The older source/assertion recheck tables cover only their original baseline, not all new fields. New checksums validate original row preservation and quoted-text membership, not independent coding agreement.
 
 ## Files and identifiers
 

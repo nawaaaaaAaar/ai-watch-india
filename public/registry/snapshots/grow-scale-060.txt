@@ -1,0 +1,11 @@
+Kanyakumari Kaaval AI: public-broadcaster report
+Original: https://newsonair.gov.in/tamil-nadu-kanyakumari-police-expands-ai-traffic-violation-detection-system/
+Document date: 2026-07-31
+Source type: Public-broadcaster reporting
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Named as ” Kaaval AI” this initiative is to ensure zero accidents in Kanyakumari. The system includes the installation of AI cameras at four locations to the roundabout to monitor traffic violations with high accuracy. Dr.R.Stalin, the District Superintendent of Police, said that the system
+
+Retrieval basis: Fresh SDK retrieval request; extracted text, not independent live-operation verification
+Cached extraction: False

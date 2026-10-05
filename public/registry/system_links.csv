@@ -1,5 +1,6 @@
 system_link_id,system_id,target_system_id,relation,note
 system_links-34113d750748f30a,sys-railmadad,sys-bhashini,CRIS interview-reported voice integration,Not current contract/model verification
+system_links-4015aaa0e1ff3f5b,sys-nalsa-vani,sys-nic-vani,Domain application versus enabling framework,NALSA-specific purpose distinct from NIC framework; actual contracted architecture not independently audited.
 system_links-844042c1a58079b8,sys-sansad-chatbot,sys-bhashini,Proposed domain-specific service under Sansad Bhashini collaboration,Domain chatbot proposal distinguished from foundational translation service; no achieved integration inferred.
 system_links-abaf8a4d0e65b2cf,sys-kisan-emitra,sys-bhashini,Developer-reported integration,Not a verified current component contract
 system_links-fb2efcb3f9f9149c,sys-mahavistaar,sys-bharat-vistaar,Named Maharashtra service under national framework,Separate state institutional advisory programme; its internal voice/chat/app channels counted once.

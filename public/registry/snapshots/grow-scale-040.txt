@@ -1,0 +1,11 @@
+CAG data-led audit office order, February 2026
+Original: https://cag.gov.in/uploads/media/Data-Led-audit-Related-Office-Order-069a679d6b140b7-07154746.pdf
+Document date: 2026-02-20
+Source type: Official office order
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Parakh (Document and Image Analytical Tool), AI for Automation of Audit Checks in the Audit of Direct Taxes and Audit AI Agent Foundry (the application of Al across the audit lifecycle). Use of AI in
+
+Retrieval basis: Cache-enabled recovery after fresh retrieval failure/incomplete extraction; not certified live-source status
+Cached extraction: True

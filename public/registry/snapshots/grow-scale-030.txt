@@ -1,0 +1,11 @@
+DRDO Unveils the Power of AI
+Original: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2025293
+Document date: 2024-06-14
+Source type: Official institutional record
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Divya Drishti” that integrates face recognition with immutable physiological parameters such as gait and skeleton. This innovative solution marks a significant advancement in biometric authentication technology, offering enhanced accuracy and reliability in identifying individuals. Divya Drishti’ creates a robust and multifaceted authentication system by combining
+
+Retrieval basis: Cache-enabled recovery after fresh retrieval failure/incomplete extraction; not certified live-source status
+Cached extraction: True

@@ -1,0 +1,11 @@
+MUNTRA UGV | Defence Research and Development Organisation - DRDO, Ministry of Defence, Government of India
+Original: https://drdo.gov.in/drdo/muntra-ugv
+Document date: 2004-02-01
+Source type: Official institutional record
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+MUNTRA UGV ### Technology Cluster CVRDE is carrying out an UGV project entitled "MUNTRA", involving the conversion of a BMP class of vehicles into teleoperated & autonomous vehicles. - The MUNTRA UGV is the first unmanned tracked vehicle from DRDO
+
+Retrieval basis: Cache-enabled recovery after fresh retrieval failure/incomplete extraction; not certified live-source status
+Cached extraction: True

@@ -1,0 +1,11 @@
+HR initiative: GRSE launches 'Ask Anvesha'. Read what it is.
+Original: https://psuwatch.com/defencewatch/grse-launches-ai-based-chatbot-ask-anvesha-for-employees
+Document date: 2021-08-30
+Source type: Journalism / hosted institutional account; see original
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+The cloud-based Chatbot has been developed using CoRover conversational AI platform where employees can ask queries on various HR policies, view employee details and download personal documents. The Chatbot will enable employees to access individual data like payslip, PF statement,
+
+Retrieval basis: Default cache-enabled SDK retrieval; not independently certified live-source status
+Cached extraction: True

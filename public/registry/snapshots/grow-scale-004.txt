@@ -1,0 +1,11 @@
+PIHU AIBotSite
+Original: https://pnb.bank.in/Pihu-AIBotSite.html
+Document date: Undated/uncertain
+Source type: Official institutional record
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Leveraging cutting-edge generative AI, PIHU ensures accurate and detailed responses to all your banking queries. With a simple and intuitive interface, PIHU is user-friendly and accessible to everyone, regardless of age or technical expertise. Real-Time AI: Enjoy instant and accurate responses with PIHU`s real-time
+
+Retrieval basis: Fresh SDK retrieval request; extracted text, not independent live-operation verification
+Cached extraction: False

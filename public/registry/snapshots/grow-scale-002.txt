@@ -1,0 +1,11 @@
+SBI SIA: IndiaAI institution/product listing
+Original: https://indiaai.gov.in/company/state-bank-of-india
+Document date: Undated/uncertain
+Source type: Government-hosted institution/product listing; not independent evaluation
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+SIA, an AI-powered chat assistant addresses customer enquiry instantly and helps them with everyday banking tasks. SIA has built-in capability to answer millions of queries from thousands of customers 24x7.Impact Metrics Manages nearly 10,000 enquiries per second or up to 864 million enquiries in a
+
+Retrieval basis: Fresh SDK retrieval request; extracted text, not independent live-operation verification
+Cached extraction: False

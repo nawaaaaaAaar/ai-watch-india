@@ -12,7 +12,8 @@ db={k:[] for k in TABLES}
 curation=json.loads((ROOT/"research/registry-curation.json").read_text())
 phase=json.loads((ROOT/"research/registry-phase2.json").read_text())
 broad=json.loads((ROOT/"research/registry-phase3.json").read_text())
-for key in ["sources","profiles","details"]:curation[key]+=phase[key]+broad[key]
+scaling=json.loads((ROOT/"research/registry-phase4.json").read_text())
+for key in ["sources","profiles","details"]:curation[key]+=phase[key]+broad[key]+scaling[key]
 old=json.loads((ROOT/"public/combined-data.json").read_text())
 old_sources={s["id"]:s for s in old["sources"]}
 source_map={};evidence_map={};institutions={}
@@ -143,6 +144,9 @@ for candidate in phase["candidates"]:
 for candidate in broad["candidates"]:
     rid=stable("candidate","broad-"+candidate["name"])
     db["candidate_decisions"].append(dict(candidate_id=rid,name=candidate["name"],decision=candidate["decision"],reason=candidate["reason"],system_id=None))
+for candidate in scaling["candidates"]:
+    rid=stable("candidate","scale-"+candidate["name"])
+    db["candidate_decisions"].append(dict(candidate_id=rid,name=candidate["name"],decision=candidate["decision"],reason=candidate["reason"],system_id=None))
 
 frame_defs=[
  ("frame-agriculture","Ministry of Agriculture and Farmers Welfare",["sys-kisan-emitra","sys-bharat-vistaar"],"Named departmental programmes; other ministry collaborators not reassigned as owned systems."),
@@ -163,6 +167,7 @@ for fid,name,seed_ids,scope in frame_defs:
 rechecks=json.loads((ROOT/"research/registry/SOURCE_RECHECK.json").read_text())
 db["source_rechecks"]=rechecks
 for a in db["assertions"]:
+    if a["system_id"] in [p["system_id"] for p in scaling["profiles"]]:continue
     if a["system_id"] in [p["system_id"] for p in broad["profiles"]]:continue
     if a["system_id"] not in [s[0] for s in seed.values()] and a["system_id"] in [p["system_id"] for p in phase["profiles"]]:continue
     used={evidence_map[l["evidence_id"]]["source_id"] for l in db["evidence_links"] if l["record_type"]=="assertions" and l["record_id"]==a["assertion_id"]}
@@ -188,7 +193,10 @@ for s in db["sources"]:
     qs=list(dict.fromkeys(e["quote"] for e in db["evidence"] if e["source_id"]==s["source_id"]))
     # No whole documents: excerpt text only, unique passages shared across uses.
     text=f'{s["title"]}\nOriginal: {s["url"]}\nDocument date: {s["published_date"] or "Undated/uncertain"}\nSource type: {s["source_type"]}\nChecked: {CHECKED}\nSelected excerpts, not original document bytes or an independent audit.\n\n'+"\n\n".join(qs)+"\n"
-    if s["source_id"].startswith(("reg-","frame-","ext-")):assert sum(len(q.split()) for q in qs)<=250
+    if s["source_id"].startswith(("reg-","frame-","ext-","grow-")):assert sum(len(q.split()) for q in qs)<=250
+    # Preserve old snapshot bytes; new records explicitly expose retrieval basis.
+    if s["source_id"].startswith("grow-"):
+        text+="\nRetrieval basis: "+s["retrieval_basis"]+"\nCached extraction: "+str(s["is_cached"])+"\n"
     path=OUT/"snapshots"/(s["source_id"]+".txt");path.write_text(text)
     s.update(snapshot="snapshots/"+path.name,snapshot_sha256=hashlib.sha256(path.read_bytes()).hexdigest(),hash_basis="Selected-excerpt UTF-8 snapshot; not original PDF")
 
@@ -196,7 +204,7 @@ for s in db["sources"]:
 db["evidence_links"]=list({r["link_id"]:r for r in db["evidence_links"]}.values())
 for t,rows in db.items():rows.sort(key=lambda r:str(next(iter(r.values()))))
 ids={t:{next(iter(r.values())) for r in rows} for t,rows in db.items()}
-assert len(db["systems"])==72 and len(db["assertions"])==864
+assert len(db["systems"])==144 and len(db["assertions"])==1728
 for row in db["evidence_links"]:
     assert row["record_id"] in ids[row["record_type"]]
     assert row["evidence_id"] in ids["evidence"]
@@ -211,7 +219,7 @@ for t in TABLES:
         if row.get("frame_id"):assert row["frame_id"] in ids["institution_coverage"]
         if row.get("assertion_id"):assert row["assertion_id"] in ids["assertions"]
 
-metadata=dict(title="AI Watch: India institution-and-system dataset",version="1.2.0",checked_date=CHECKED,scope="72 named systems/services: the 36-record seed/institutional release plus 36 broadening-round additions. The original six-institution frame still associates 26 records; the broadening cohort is purposive, not a census or representative national sample. Historical, proposed, suspended, experimental and evaluation-infrastructure units distinguished.",unit="System/service linked to institutions and observations",review="Single analyst; automated original-baseline source recheck, not independent duplicate coding or user-demand validation",counts={t:len(r) for t,r in db.items()},field_order=FIELDS)
+metadata=dict(title="AI Watch: India institution-and-system dataset",version="1.3.0",checked_date=CHECKED,scope="144 named system/service families: the preserved 72-record release plus 72 scaling-cohort additions. The original six-institution frame still associates 26 records. Selection is purposive, not a census or representative national sample. Government enabling infrastructure, statutory-body services, proposed systems, historical internal/defence capabilities and qualified algorithmic contexts are explicitly distinguished from verified live public-facing AI.",unit="System/service family linked to institutions and observations; not necessarily a live deployment",review="Single analyst; original-baseline source recheck scope unchanged. Fresh requests, cached recovery and default cached extraction distinguished; not independent duplicate coding, live-operation audit or user-demand validation",counts={t:len(r) for t,r in db.items()},field_order=FIELDS)
 data={"metadata":metadata,**db}
 (OUT/"data.json").write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n")
 
@@ -264,7 +272,7 @@ def citations(table,rid):
     return "\n".join(f'> {e["quote"]}\n>\n> [{source_map[e["source_id"]]["title"]}]({source_map[e["source_id"]]["url"]}); {e["locator"]}.' for e in es)
 for s in db["systems"]:
     sid=s["system_id"]
-    text=f'# AI Watch: {s["name"]}\n\nIndia institution-and-system dataset v1.1.0. Checked {CHECKED}; analyst-coded documentary evidence, not an operational audit. System kind: {s["system_kind"]}. Selection: {s["selection"]}.\n\n'
+    text=f'# AI Watch: {s["name"]}\n\nIndia institution-and-system dataset v{metadata["version"]}. Checked {CHECKED}; analyst-coded documentary evidence, not an operational audit. System kind: {s["system_kind"]}. Research cohort: {s["research_round"]}. Selection: {s["selection"]}.\n\n'
     for a in db["assertions"]:
         if a["system_id"]!=sid:continue
         text+=f'## {a["field"]}\n\nEvidence status: {a["evidence_status"]}. {a["value"]}\n\n'+citations("assertions",a["assertion_id"])+"\n\n"
@@ -279,7 +287,7 @@ for s in db["systems"]:
 # Derived statistics describe only this selected corpus and coding state.
 analysis={"scope":metadata["scope"],"coverage_status":dict(Counter(a["evidence_status"] for a in db["assertions"])),"ai_qualification":dict(Counter(s["ai_class"] for s in db["systems"])),"metrics_by_kind":dict(Counter(m["metric_kind"] for m in db["metrics"])),"evaluation_types":[dict(system_id=e["system_id"],evaluation_type=e.get("evaluation_type"),current_version_match=e.get("current_version_match")) for e in db["evaluations"]]}
 (OUT/"analysis.json").write_text(json.dumps(analysis,indent=2)+"\n")
-for name in ["PROTOCOL.md","CODEBOOK.md","RESEARCH_NOTE.md","queries.sql","search-log.json","retrieval-log.json","INSTITUTION_STUDY.md","INSTITUTION_SEARCH.json","INSTITUTION_RETRIEVAL.json","SOURCE_RECHECK.json","BROADENING_STUDY.md","BROADENING_SEARCH.json","BROADENING_RETRIEVAL.json","BROADENING_QUOTE_AUDIT.json","BASELINE_1_1_0.json"]:
+for name in ["PROTOCOL.md","CODEBOOK.md","RESEARCH_NOTE.md","queries.sql","search-log.json","retrieval-log.json","INSTITUTION_STUDY.md","INSTITUTION_SEARCH.json","INSTITUTION_RETRIEVAL.json","SOURCE_RECHECK.json","BROADENING_STUDY.md","BROADENING_SEARCH.json","BROADENING_RETRIEVAL.json","BROADENING_QUOTE_AUDIT.json","BASELINE_1_1_0.json","SCALING_STUDY.md","SCALING_SEARCH.json","SCALING_RETRIEVAL.json","SCALING_QUOTE_AUDIT.json","BASELINE_1_2_0.json"]:
     src=ROOT/"research/registry"/name
     if src.exists():(OUT/name).write_bytes(src.read_bytes())
 

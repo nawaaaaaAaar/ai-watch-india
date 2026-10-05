@@ -1,0 +1,11 @@
+AI-powered 'SIMBA' to aid Nagpur Police in fighting crime
+Original: https://indiaai.gov.in/article/ai-powered-simba-to-aid-nagpur-police-in-fighting-crime
+Document date: 2024-07-24
+Source type: Official institutional record
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+SIMBA (System Integrated for Monitoring and Big-data Analysis), to enhance the city's law enforcement capabilities. The tool was developed by Staqu Technologies, India's premier artificial intelligence (AI) implementation enabler, in collaboration with the Nagpur police department. Commenting on this development, Mr Atul Rai, Co-Founder and
+
+Retrieval basis: Fresh SDK retrieval request; extracted text, not independent live-operation verification
+Cached extraction: False

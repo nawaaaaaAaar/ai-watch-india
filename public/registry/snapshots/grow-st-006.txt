@@ -1,0 +1,13 @@
+Press Release Page | Press Information Bureau
+Original: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2278988&reg=3&lang=1
+Document date: 2026-06-29
+Source type: Official institutional record
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+ainstream digital health usage across geographies and position ABDM as a part of everyday healthcare interactions. Features of the 2.0 version: - Access to ABDM-enabled services, including ABHA creation, health record management, and Scan & Register for seamless registration
+
+- My Consent: The My Consent feature ensures data privacy by allowing users to control and manage permissions for sharing health information. Users can track requested, approved, pending, denied, and expired consents. It ensures
+
+Retrieval basis: Default cache-enabled SDK retrieval; not independent live-source certification
+Cached extraction: True

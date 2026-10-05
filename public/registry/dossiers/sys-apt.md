@@ -1,6 +1,6 @@
 # AI Watch: India Post APT 2.0 AI operational analytics
 
-India institution-and-system dataset v1.1.0. Checked 2026-10-05; analyst-coded documentary evidence, not an operational audit. System kind: Public-service system. Selection: Broadening-round named-system addition.
+India institution-and-system dataset v1.3.0. Checked 2026-10-05; analyst-coded documentary evidence, not an operational audit. System kind: Public-service system. Research cohort: 1.2.0. Selection: Broadening-round named-system addition.
 
 ## Owner & purpose
 

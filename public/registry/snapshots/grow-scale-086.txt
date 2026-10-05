@@ -1,0 +1,11 @@
+Goa Government introduces AI Chatbot on WhatsApp to enhance citizen service delivery
+Original: https://www.expresscomputer.in/amp/news/goa-government-introduces-ai-chatbot-on-whatsapp-to-enhance-citizen-service-delivery/139115/
+Document date: 2026-09-24
+Source type: Journalism / hosted institutional account; see original
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+Chatbot on the Goa Online portal, the Department of Information Technology, Electronics & Communications (DITE&C), in collaboration with Goa Electronics Limited (GEL), has launched the AI-powered WhatsApp Chatbot for Goa Online services. This initiative extends government services to WhatsApp, further enhancing convenience and citizen-friendly access
+
+Retrieval basis: Fresh SDK retrieval request; extracted text, not independent live-operation verification
+Cached extraction: False

@@ -1,0 +1,11 @@
+Facial Recognition Technology: Storm in the West, calm in ...
+Original: https://thefederal.com/analysis/facial-recognition-technology-storm-in-the-west-calm-in-india
+Document date: 2020-06-22
+Source type: Journalism / hosted institutional account; see original
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+The Hyderabad police uses a mobile app called the TS COP. Using a suspect’s name and a photo clicked by the police, the app can trawl several state databases — voter IDs or ration cards, for instance — and
+
+Retrieval basis: Default cache-enabled SDK retrieval; not independent live-source certification
+Cached extraction: True

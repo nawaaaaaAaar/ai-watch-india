@@ -6,11 +6,17 @@ The website brand is **AI Watch**, with **India evidence desk** identifying the 
 
 ## Included in this release
 
-Dataset v1.2.0 doubles the previous 36-record release to 72 named systems/service families, with 76 institution labels, 119 source records and all 864 accountability slots through 21 linked tables. Thirty-six broadening additions span identity, pensions, grievances, telecom risk, securities regulation, agriculture, transport, water, clinical research and defence decision support.
+Dataset v1.3.0 doubles the previous 72-record release to 144 named system/service families, with 133 institution labels, 197 source records and all 1,728 accountability slots across 21 linked tables. The 72 additions cover public banking, welfare authentication, courts, education, environmental warnings, state-service assistance, policy analytics, government enabling infrastructure and public-sector capabilities.
 
-This round logs 153 discovery/identity/recency/accountability queries, 693 discovery hits and 100 retrieval receipts including three failures. All 49 used new source selections were checked against fetched text; source claims, causal evidence, approval costs and actual deployment remain separate. The archive retains all 72 dossiers, source excerpts, JSON, SQLite, CSVs, SQL, studies, methods and checksums.
+This round logs 591 queries, 2,511 leads and 228 retrieval receipts including 41 explicit failed receipts; recovered/incomplete attempts remain visible. All 78 used new source selections were checked against fetched text. Cached recovery and fresh requests are distinguished. The archive retains all 144 dossiers, source excerpts, JSON, SQLite, 21 CSVs, SQL, studies, methods, receipts and checksums.
 
-Start with `research/registry/BROADENING_STUDY.md`. YAKSH/Trinetra and the regional iRASTE deployments are not doubled into extra family records; proposed/beta/development and reported-suspended services are not described as verified current operational deployment. Coding remains single-analyst, and no public launch, paid service or external enquiry was undertaken.
+Start with `research/registry/SCALING_STUDY.md`. All prior row values are checked against `BASELINE_1_2_0.json`. Four research cohorts remain selectable, and the original institutional frame still associates 26 records; 118 are outside that frame. Model variants, channels, modules, junctions and cameras do not pad family counts. C-DOT cybersecurity TRINETRA is a distinct homonym from police Trinetra/YAKSH.
+
+This is not 144 verified live AI deployments: internal tools, proposed systems, historical research/defence capabilities, statutory-body services and enabling infrastructure have explicit kinds and stages. The qualified subset lacks established model-specific AI. Coding remains single-analyst with no independent duplicate review, field audit, national prevalence or causal effectiveness claim. No public launch, paid service or external enquiry occurred.
+
+## Earlier broadening release
+
+Dataset v1.2.0 added 36 families, reaching 72 systems, 76 institution labels, 119 source records and 864 fields. Its 153 queries, 693 leads, 100 retrieval receipts and 49-source excerpt audit remain unchanged historical records, alongside `BROADENING_STUDY.md`.
 
 ## Previous institutional release
 

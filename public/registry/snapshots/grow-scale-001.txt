@@ -1,0 +1,15 @@
+MuleHunter.ai technical documentation: RBIH
+Original: https://docs.rbihub.in/mule-hunter
+Document date: Undated/uncertain
+Source type: Developer technical documentation (RBIH); self-report
+Checked: 2026-10-05
+Selected excerpts, not original document bytes or an independent audit.
+
+MuleHunter—a machine learning model proprietary to RBIH and trademarked under its name—is being developed in response to the growing challenge of mule accounts in the Indian financial ecosystem. Mule accounts are used to launder
+
+Stage II is the immediate target for declaring a bank live on MuleHunter. See deployment for how the stages are reached. ###### Objective and vision Primary goal—to develop an AI-powered system that accurately identifies
+
+Privacy and security—the model runs inside the bank’s own infrastructure, and no personally identifiable information is exchanged between the bank and RBIH. A standardised, anonymised extract of the MIS table is shared with RBIH periodically so that the model can be monitored for drift, false-positive
+
+Retrieval basis: Fresh SDK retrieval request; extracted text, not independent live-operation verification
+Cached extraction: False

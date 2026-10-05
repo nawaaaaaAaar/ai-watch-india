@@ -1,3 +1,6 @@
 policy_link_id,system_id,policy_id,relation
+policy-link-05b233a6cee7b3e3,sys-adalat-ai,policy-76342246110ac4d1,Mandate with fallback and monitoring conditions; not proof of universal operational adoption
+policy-link-a3ee8b7548bd4132,sys-uday,policy-59397e2898545b6a,"Describes user restrictions and bank privacy reference, not verified enforcement"
 policy-link-bba16a2af618b3ef,sys-rail-ids,policy-300d4f974eecfa04,"System technical requirements, not achieved performance"
 policy-link-cd555d2ea6fafcf1,sys-digiyatra,policy-3ebeecadadd63651,Direct system guideline; current implementation unverified
+policy-link-f514a2be6cc62786,sys-cag-paras,policy-faf87505bceacbde,Includes pension pre-scrutiny controls; not proven implementation
