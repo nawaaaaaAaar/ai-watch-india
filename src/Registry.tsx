@@ -3,6 +3,7 @@ import { Link } from 'wouter';
 import { ArrowRight,Download,Search,ExternalLink,FileText } from 'lucide-react';
 import {filterSystems,registryCsv,recordEvidence} from './registry-lib.mjs';
 import {GovernanceLinks} from './Governance';
+import {DeploymentEvidenceLinks} from './DeploymentEvidence';
 type Row=Record<string,any>;
 type Data={metadata:Row;systems:Row[];institutions:Row[];assertions:Row[];evidence:Row[];evidence_links:Row[];sources:Row[];[key:string]:any};
 function save(name:string,text:string){const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([text],{type:'text/csv;charset=utf-8'}));a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000);}
@@ -59,6 +60,7 @@ function System({data,id}:{data:Data,id:string}){
     <div className="registry-scope"><b>Documentary evidence, not an operational audit.</b><p>Last coded dated record: {s.latest_record_date||'Undated / mixed'}. Checked {s.checked_date}. Historical requirements and self-reports do not certify current effectiveness. Institution names are source-stated, not registry-certified ownership.</p></div>
     <p className="fine">Record kind: {s.system_kind}. Selection: {s.selection}. Frame association is documentary coverage, not ownership or a representative sample.</p>
     <GovernanceLinks systemId={id}/>
+    <DeploymentEvidenceLinks systemId={id}/>
     <h2>All twelve accountability dimensions</h2>
     <div className="registry-assertions">{assertions.map(a=><article key={a.assertion_id} data-testid={`assertion-${a.assertion_id}`}><div className="registry-assertion-head"><h3>{a.field}</h3><span className={`registry-status ${a.evidence_status==='Not verified'?'unknown':''}`}>{a.evidence_status}</span></div><p>{a.value}</p><Evidence data={data} table="assertions" id={a.assertion_id}/>{!data.evidence_links.some(l=>l.record_type==='assertions'&&l.record_id===a.assertion_id)&&<p className="fine">No supporting record established in this reviewed corpus. Not proof that none exists.</p>}</article>)}</div>
     {['deployments','procurements','evaluations','metrics','controls','issues'].map(table=>{

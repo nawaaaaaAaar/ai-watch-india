@@ -1,0 +1,659 @@
+[
+  {
+    "label": "rail-spec",
+    "url": "https://rdso.indianrailways.gov.in/uploads/2024-10-23-Signed%20specification%20EIDS.pdf",
+    "phase": "cached-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 51766,
+    "text_sha256": "350a98953801d5de8b4597a208ad5d5a7ab46ec21aba7296d3f636da7d07b4bb",
+    "title": "ISO 9001:2015"
+  },
+  {
+    "label": "vss-tender",
+    "url": "https://www.railtel.in/download.php?f=MTU2MDQ4OTQwMl9maW5hbC1kb2N1bWVudC12c3MtdGVuZGVyLW1hcy1vdC0yM3YyLnBkZg==&fp=dXBsb2Fkcy90ZW5kZXJzL2RvY3VtZW50cw==",
+    "phase": "cached-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 164929,
+    "text_sha256": "ec20a3a92e08891a576888be21bf6296ca94d56938747b394209e030f72289c7",
+    "title": "[PDF] REL‐ETender‐19‐20‐MAS‐23 1 - RailTel Corporation"
+  },
+  {
+    "label": "vss-queries",
+    "url": "https://www.railtel.in/download.php?f=MTYzMjMwMDA0Ml9QcmViaWQgUXVlcmllcyB3aXRoIFJhaWxUZWwgUmVtYXJrcy5wZGY=&fp=dXBsb2Fkcy90ZW5kZXJzL2NvcnJpZ2VuZHVt",
+    "phase": "cached-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 564506,
+    "text_sha256": "6b9a5ad46a897c90ca5cbeaea0d62cf8c680a2d2b227221c60dff70c4646853c",
+    "title": "Microsoft Word - ER Master Pre-Bid Queries.docx"
+  },
+  {
+    "label": "vss-funding",
+    "url": "https://www.railtel.in/images/English_VSS-CCTV%20NIrbhaya%20fund%20press%20note.pdf",
+    "phase": "cached-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 8012,
+    "text_sha256": "8ca19afcb71a78cd0c1901e7645004edfb30137119b46e2467c90f0d355ce77d",
+    "title": "रेलटेल कॉप रेशन ऑफ़ इं डया ल मटेड ( भारत सरकार का उप म ) ..."
+  },
+  {
+    "label": "vss-award",
+    "url": "https://www.railtel.in/images/Press%20Release%20Dated%2006.07.2022.pdf",
+    "phase": "cached-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 8924,
+    "text_sha256": "d3077eab5fcc2e79b5d1d36b7053325aee6b312839d94fd05cec200316ea9498",
+    "title": "July 06, 2022 लि टंग वभाग नेशनल टॉक ए सचज ऑफ"
+  },
+  {
+    "label": "vss-status",
+    "url": "https://www.railtel.in/key-projects/video-surveillance-system.html",
+    "phase": "cached-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 859,
+    "text_sha256": "cfe36eca121aa8c246ea6f9f63f4e2cc4598bdff52f66e5b1f8cc9d8d3199e97",
+    "title": "Video Surveillance System"
+  },
+  {
+    "label": "vss-nwr",
+    "url": "https://www.railtel.in/tenders/active-tenders/railtel-tender-ot-nr-vss-d-e-nwr-2025-26-01-en-gb.html?view=tender",
+    "phase": "cached-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 569,
+    "text_sha256": "0caf194c65156f2eb7e83fd83ceac807d0717a89d065f22ce0d0a79823551339",
+    "title": "Active Tenders"
+  },
+  {
+    "label": "nhai-status",
+    "url": "https://nhai.gov.in/nhai/sites/default/files/2026-06/NHAI_Press_Release-16-06-2026-EN.pdf",
+    "phase": "cached-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 3182,
+    "text_sha256": "4cc64fb85b1c258b0302a0d25dde2ac851545bde944e3115d2cc67992c11cfdf",
+    "title": "Press Release: - nhai.gov.in"
+  },
+  {
+    "label": "nhai-complaint",
+    "url": "https://nhai.gov.in/nhai/sites/default/files/inline-files/NHAI_Complaint_Handling_Policy_English.pdf",
+    "phase": "cached-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 3336,
+    "text_sha256": "a904c9e89bddc3d6b0b546248e0aa6ac83a141f36619d6498f24c44d661a1b9a",
+    "title": "Complaint Policy 1. 2. - National Highways Authority of India"
+  },
+  {
+    "label": "court-order",
+    "url": "https://aphc.gov.in/docs/notification_1785225296_0.pdf",
+    "phase": "cached-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 5504,
+    "text_sha256": "cd4389bc7fa22f570327135d7ec562fa22abb6502aa40f955ebf6ce56d766e86",
+    "title": "HIGH COURT OF ANDHRA PRADESH :: ..."
+  },
+  {
+    "label": "cag-eoi",
+    "url": "https://cag.gov.in/uploads/tenders/tenders-EOI-for-Establishment-of-Sovereign-AI-Platform-for-CAG-of-India-069fb031304a1b8-89068885.pdf",
+    "phase": "cached-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 48319,
+    "text_sha256": "b1433e22071e12c6f79fbd5ba8cc0f19bab73afbdaef02f7e0dce53a948c9b10",
+    "title": "tenders-EOI-for-Establishment-of-Sovereign-AI-Platform-for ..."
+  },
+  {
+    "label": "cag-order",
+    "url": "https://cag.gov.in/uploads/media/Data-Led-audit-Related-Office-Order-069a679d6b140b7-07154746.pdf",
+    "phase": "cached-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 3029,
+    "text_sha256": "f3669b647e47939c01f1c9112b375c679ebd908fb21b42f19cfd43efa9c7a14f",
+    "title": "[PDF] Diary No.to - Comptroller and Auditor General of India"
+  },
+  {
+    "label": "upsc-tender",
+    "url": "https://upsc.gov.in/sites/default/files/Tender-AadhaarQRFaceRecgAI-engl-250624.pdf",
+    "phase": "cached-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 115537,
+    "text_sha256": "26b5c2778d466535b05a1821d54af9554408855c8df0992a1d449b4e4d6ef4e1",
+    "title": "Page 1 of 58"
+  },
+  {
+    "label": "upsc-correction",
+    "url": "https://upsc.gov.in/sites/default/files/Tender-AadhaarQRFaceRecgAI-Corrgn_Eng-180724.pdf",
+    "phase": "cached-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 115406,
+    "text_sha256": "b9a34954969d6cdea0966b81e5018d680a63dfeea4a1be29147c156f1bd87fc8",
+    "title": "Tender-AadhaarQRFaceRecgAI-Corrgn_Eng-180724.pdf"
+  },
+  {
+    "label": "tn-launch",
+    "url": "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090224_e_258.pdf",
+    "phase": "cached-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 5557,
+    "text_sha256": "9d7361c36ea14b58a39870879186460e32396be54ff7a3f3af57b3b1124751e1",
+    "title": "Press Release No: 258"
+  },
+  {
+    "label": "tn-policy-note",
+    "url": "https://cms.tn.gov.in/cms_migrated/document/docfiles/forests_e_pn_2024_25.pdf",
+    "phase": "cached-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 218197,
+    "text_sha256": "551ae58e0ce1cc952611350c21ffbda1f7f43090ec9e728271ab22c1d7bf4e99",
+    "title": "ENVIRONMENT, CLIMATE CHANGE AND"
+  },
+  {
+    "label": "igms-rfp",
+    "url": "https://www.darpg.gov.in/static/uploads/2025/11/031f6cdcc93bb39a667c7c824d5d757c.pdf",
+    "phase": "cached-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 233009,
+    "text_sha256": "9dbbe838d43f39d1c46361e05816e7dab04bbfd4f7dae0dbddbb1ac6a603b6d1",
+    "title": "Request for Proposal for Selection of an Agency ..."
+  },
+  {
+    "label": "igms-g2g",
+    "url": "https://www.darpg.gov.in/static/uploads/2026/06/1976607cd8f0f723650e29d56afc38ff.pdf",
+    "phase": "cached-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 99577,
+    "text_sha256": "181222e42b445f9283a3a34ab3875fb992f7864439ec6385452c1189c862c693",
+    "title": "WR GULYH *RRG *RYHUQDQFH LQ CPGRAMS - darpg.gov.in"
+  },
+  {
+    "label": "safe-report",
+    "url": "https://www.keltron.org/images/pdf/safekerala/SAFE_KERALA_PROJECT_Report_April_26.pdf",
+    "phase": "enrich-fresh",
+    "error": "error parsing data for \"https://www.keltron.org/images/pdf/safekerala/SAFE_KERALA_PROJECT_Report_April_26.pdf\" in table 'crawler/v2/pages': crawler error bad_robots_code: bad_robots_code",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "safe-go",
+    "url": "https://document.kerala.gov.in/deptdocumentdetails/en/eHcyeDczNDR5WEtGRnlEbDg4NWlNQT09/dG9oalJtOWthZXFsZVIvckZobVM2Zz09",
+    "phase": "enrich-fresh",
+    "error": null,
+    "is_cached": false,
+    "characters": 10324,
+    "text_sha256": "f27a31084681b4345e467eaedf2a087b3ceb1f37ae5dc39db0369b6bb5a278bd",
+    "title": "Document Portal -- Government of Kerala"
+  },
+  {
+    "label": "igms-launch",
+    "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1962142",
+    "phase": "enrich-fresh",
+    "error": null,
+    "is_cached": false,
+    "characters": 336,
+    "text_sha256": "7090b8a80f872d2d5949a6c5bdc64582fe76b73f02477a38226449f501129d66",
+    "title": "Dr Jitendra Singh launches the Intelligent Grievance Monitoring System (IGMS) 2.0 Public Grievance portal and Automated Analysis in Tree Dashboard portal of DARPG"
+  },
+  {
+    "label": "igms-guidelines",
+    "url": "https://www.darpg.gov.in/static/uploads/2025/10/8e377b8bc87d7f945fe94acd7159f7ab.pdf",
+    "phase": "enrich-fresh",
+    "error": null,
+    "is_cached": false,
+    "characters": 42608,
+    "text_sha256": "8ca1ce16bb0b378f897a487d8307db2bbf7ddba4f5d1aca203717c20104a70bb",
+    "title": "1 | P a g e"
+  },
+  {
+    "label": "igms-prebid",
+    "url": "https://www.darpg.gov.in/static/uploads/2025/11/7a9cc2262c76c3b3d02c5215fb38bf73.pdf",
+    "phase": "enrich-fresh",
+    "error": null,
+    "is_cached": false,
+    "characters": 128566,
+    "text_sha256": "28e6273412291b9a402e369130569b386cd49d468b6a444c660ca198bc7c66c0",
+    "title": "RFP Reference No.: ____________________________"
+  },
+  {
+    "label": "igms-clarification",
+    "url": "https://darpg.gov.in/sites/default/files/Clarification_Corrigendum_3.pdf",
+    "phase": "enrich-fresh",
+    "error": "error parsing data for \"https://darpg.gov.in/sites/default/files/Clarification_Corrigendum_3.pdf\" in table 'crawler/v2/pages': crawler error fetcher_error: fetcher_error",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "rail-operation",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2199365&reg=3&lang=1",
+    "phase": "enrich-fresh",
+    "error": null,
+    "is_cached": false,
+    "characters": 323,
+    "text_sha256": "e21dc32ea9cce531d8afec6d3b4c709cf95f966ec5760531d465b36e0f1c52e0",
+    "title": "Indian Railways Deploys AI Enabled Intrusion Detection System to Prevent Elephant Collisions in 141 RKms on NF Railway"
+  },
+  {
+    "label": "vss-2025-tender",
+    "url": "https://www.railtel.in/download.php?f=MTc1MjU1MjI2OF9ET2MucGRm&fp=dXBsb2Fkcy90ZW5kZXJzL25vdGljZQ==",
+    "phase": "enrich-fresh",
+    "error": "error parsing data for \"https://www.railtel.in/download.php?f=MTc1MjU1MjI2OF9ET2MucGRm&fp=dXBsb2Fkcy90ZW5kZXJzL25vdGljZQ==\" in table 'crawler/v2/pages': crawler error bad_robots_code: bad_robots_code",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "cag-minutes",
+    "url": "https://cag.gov.in/uploads/ae_circulars_office_orders/CircularsOfficeOrders-0699ea8f4096184-55279152.pdf",
+    "phase": "enrich-fresh",
+    "error": "error parsing data for \"https://cag.gov.in/uploads/ae_circulars_office_orders/CircularsOfficeOrders-0699ea8f4096184-55279152.pdf\" in table 'crawler/v2/pages': crawler error bad_robots_code: bad_robots_code",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "upsc-faq",
+    "url": "https://upsc.gov.in/sites/default/files/FAQ-Examination-engl-090724.pdf",
+    "phase": "enrich-fresh",
+    "error": "error parsing data for \"https://upsc.gov.in/sites/default/files/FAQ-Examination-engl-090724.pdf\" in table 'crawler/v2/pages': crawler error disallow_by_robots: disallow_by_robots",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "upsc-status-recovery",
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2268879&reg=3&lang=1",
+    "phase": "enrich-fresh",
+    "error": null,
+    "is_cached": false,
+    "characters": 3707,
+    "text_sha256": "779577f6d74a0c77f013fb0563a76aced6a7cba1ad5cbfb7d6c326136e439b15",
+    "title": "Union Public Service Commission Developed Face Authentication Protocol; Used Successfully in the Civil Services (Preliminary) Examination, 2026 to Enhance Examination Integrity"
+  },
+  {
+    "label": "safe-report",
+    "url": "https://www.keltron.org/images/pdf/safekerala/SAFE_KERALA_PROJECT_Report_April_26.pdf",
+    "phase": "enrich-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 39169,
+    "text_sha256": "7b5bc01a0ae1270b70c4316973d829c86736f4b31b4f2b4cca79cc1775fb4e04",
+    "title": "Safe Kerala Project - Implemented by M/s ..."
+  },
+  {
+    "label": "igms-launch",
+    "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1962142",
+    "phase": "enrich-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 4212,
+    "text_sha256": "ea69feeec0f04c9307c2537eff3ebfd4b5eabcaa37fd4620231d64bf2f77befc",
+    "title": "IGMS 2.0, implemented by IIT Kanpur, upgrades DARPG's ..."
+  },
+  {
+    "label": "igms-clarification",
+    "url": "https://darpg.gov.in/sites/default/files/Clarification_Corrigendum_3.pdf",
+    "phase": "enrich-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 128513,
+    "text_sha256": "92acd9782afd539226945c71dca46c82d42af9fd2fd4103fd5501b57e714bd30",
+    "title": "RFP Reference No.: ____________________________"
+  },
+  {
+    "label": "rail-operation",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2199365&reg=3&lang=1",
+    "phase": "enrich-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 2612,
+    "text_sha256": "0812fadd0a06e7f13e20afaece094aa96d4b22a06fecac5072fbb97c79302e2a",
+    "title": "Press Release Page - Press Information Bureau"
+  },
+  {
+    "label": "vss-2025-tender",
+    "url": "https://www.railtel.in/download.php?f=MTc1MjU1MjI2OF9ET2MucGRm&fp=dXBsb2Fkcy90ZW5kZXJzL25vdGljZQ==",
+    "phase": "enrich-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 23655,
+    "text_sha256": "67d02dffad92ca9237e5fa7d8b5fc151d6cffe28fb3da2a705730f3c5673bf39",
+    "title": "RailTel/ST/NR /VSS System /2025-26 /01 SINGLE TENDER DOCUMENT FOR “Integration of SPARSH Make NVR with ICCC Application of ("
+  },
+  {
+    "label": "cag-minutes",
+    "url": "https://cag.gov.in/uploads/ae_circulars_office_orders/CircularsOfficeOrders-0699ea8f4096184-55279152.pdf",
+    "phase": "enrich-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 28984,
+    "text_sha256": "097387b79cf33096637faed9135e5ffadb6be1b8c02d87054d1a7cd6f35f4030",
+    "title": "[PDF] Strategic Management Unit Minutes of the 32nd Accountants ... - CAG"
+  },
+  {
+    "label": "upsc-faq",
+    "url": "https://upsc.gov.in/sites/default/files/FAQ-Examination-engl-090724.pdf",
+    "phase": "enrich-recovery",
+    "error": null,
+    "is_cached": true,
+    "characters": 38646,
+    "text_sha256": "94894ae5d80e67cdb5c6b788f655d6753a4a12e2c21ec0b7e7d348a338667d3c",
+    "title": "Page 1 of 18"
+  },
+  {
+    "label": "nhai-tcil",
+    "url": "https://www.tcil.net.in/tender/pdf/25f2565.pdf",
+    "phase": "final",
+    "error": null,
+    "is_cached": true,
+    "characters": 372435,
+    "text_sha256": "523099494711a5746a13c228cb487d5f413d93b19016b090bbebeb092185c6a4",
+    "title": "EOI"
+  },
+  {
+    "label": "safe-order",
+    "url": "https://document.kerala.gov.in/documents/cabinetdecisions/cabinet2104202314:52:28.pdf",
+    "phase": "final",
+    "error": null,
+    "is_cached": true,
+    "characters": 43713,
+    "text_sha256": "5e93d1514522c278f3af54f66f468dc21f15ac02359dcd26502dbcdfecfa5cd1",
+    "title": "കേരള സർക്കാർ"
+  },
+  {
+    "label": "rail-iti",
+    "url": "https://tenders.itiltd.in/assets_admin/dist/img/tendor/52187EOI%20No%20ITI-MSP%20EZ-EIDS-SE%20RLY-2025-010.pdf",
+    "phase": "fresh",
+    "error": null,
+    "is_cached": false,
+    "characters": 154857,
+    "text_sha256": "f21a807140c1b643deca1dd8b05bfe07527b3d30008909599a0571bf16afd82d",
+    "title": "Page: 1 of 80"
+  },
+  {
+    "label": "rail-spec",
+    "url": "https://rdso.indianrailways.gov.in/uploads/2024-10-23-Signed%20specification%20EIDS.pdf",
+    "phase": "fresh",
+    "error": "error parsing data for \"https://rdso.indianrailways.gov.in/uploads/2024-10-23-Signed%20specification%20EIDS.pdf\" in table 'crawler/v2/pages': crawler error bad_robots_code: bad_robots_code",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "vss-tender",
+    "url": "https://www.railtel.in/download.php?f=MTU2MDQ4OTQwMl9maW5hbC1kb2N1bWVudC12c3MtdGVuZGVyLW1hcy1vdC0yM3YyLnBkZg==&fp=dXBsb2Fkcy90ZW5kZXJzL2RvY3VtZW50cw==",
+    "phase": "fresh",
+    "error": "error parsing data for \"https://www.railtel.in/download.php?f=MTU2MDQ4OTQwMl9maW5hbC1kb2N1bWVudC12c3MtdGVuZGVyLW1hcy1vdC0yM3YyLnBkZg==&fp=dXBsb2Fkcy90ZW5kZXJzL2RvY3VtZW50cw==\" in table 'crawler/v2/pages': crawler error disallow_by_robots: disallow_by_robots",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "vss-queries",
+    "url": "https://www.railtel.in/download.php?f=MTYzMjMwMDA0Ml9QcmViaWQgUXVlcmllcyB3aXRoIFJhaWxUZWwgUmVtYXJrcy5wZGY=&fp=dXBsb2Fkcy90ZW5kZXJzL2NvcnJpZ2VuZHVt",
+    "phase": "fresh",
+    "error": "error parsing data for \"https://www.railtel.in/download.php?f=MTYzMjMwMDA0Ml9QcmViaWQgUXVlcmllcyB3aXRoIFJhaWxUZWwgUmVtYXJrcy5wZGY=&fp=dXBsb2Fkcy90ZW5kZXJzL2NvcnJpZ2VuZHVt\" in table 'crawler/v2/pages': crawler error disallow_by_robots: disallow_by_robots",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "vss-funding",
+    "url": "https://www.railtel.in/images/English_VSS-CCTV%20NIrbhaya%20fund%20press%20note.pdf",
+    "phase": "fresh",
+    "error": "error parsing data for \"https://www.railtel.in/images/English_VSS-CCTV%20NIrbhaya%20fund%20press%20note.pdf\" in table 'crawler/v2/pages': crawler error disallow_by_robots: disallow_by_robots",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "vss-award",
+    "url": "https://www.railtel.in/images/Press%20Release%20Dated%2006.07.2022.pdf",
+    "phase": "fresh",
+    "error": "error parsing data for \"https://www.railtel.in/images/Press%20Release%20Dated%2006.07.2022.pdf\" in table 'crawler/v2/pages': crawler error disallow_by_robots: disallow_by_robots",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "vss-status",
+    "url": "https://www.railtel.in/key-projects/video-surveillance-system.html",
+    "phase": "fresh",
+    "error": "error parsing data for \"https://www.railtel.in/key-projects/video-surveillance-system.html\" in table 'crawler/v2/pages': crawler error disallow_by_robots: disallow_by_robots",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "vss-nwr",
+    "url": "https://www.railtel.in/tenders/active-tenders/railtel-tender-ot-nr-vss-d-e-nwr-2025-26-01-en-gb.html?view=tender",
+    "phase": "fresh",
+    "error": "error parsing data for \"https://www.railtel.in/tenders/active-tenders/railtel-tender-ot-nr-vss-d-e-nwr-2025-26-01-en-gb.html?view=tender\" in table 'crawler/v2/pages': crawler error disallow_by_robots: disallow_by_robots",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "nhai-proposal",
+    "url": "https://nhai.gov.in/nhai/sites/default/files/2026-03/NHAI_Press_Release-NHAI-20-03-2026.pdf",
+    "phase": "fresh",
+    "error": null,
+    "is_cached": false,
+    "characters": 2883,
+    "text_sha256": "245f4b193e64a192cd48840504564b03fba059fb370a0b3e3781a286459dafa0",
+    "title": "Press Release:"
+  },
+  {
+    "label": "nhai-status",
+    "url": "https://nhai.gov.in/nhai/sites/default/files/2026-06/NHAI_Press_Release-16-06-2026-EN.pdf",
+    "phase": "fresh",
+    "error": "error parsing data for \"https://nhai.gov.in/nhai/sites/default/files/2026-06/NHAI_Press_Release-16-06-2026-EN.pdf\" in table 'crawler/v2/pages': crawler error fetcher_error: fetcher_error",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "nhai-complaint",
+    "url": "https://nhai.gov.in/nhai/sites/default/files/inline-files/NHAI_Complaint_Handling_Policy_English.pdf",
+    "phase": "fresh",
+    "error": "error parsing data for \"https://nhai.gov.in/nhai/sites/default/files/inline-files/NHAI_Complaint_Handling_Policy_English.pdf\" in table 'crawler/v2/pages': crawler error fetcher_error: fetcher_error",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "court-order",
+    "url": "https://aphc.gov.in/docs/notification_1785225296_0.pdf",
+    "phase": "fresh",
+    "error": "error parsing data for \"https://aphc.gov.in/docs/notification_1785225296_0.pdf\" in table 'crawler/v2/pages': crawler error fetcher_error: fetcher_error",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "court-followup",
+    "url": "https://cdnbbsr.s3waas.gov.in/s3ec030b6ace9e8971cf36f1782aa982a7/uploads/2026/09/2026091091.pdf",
+    "phase": "fresh",
+    "error": null,
+    "is_cached": false,
+    "characters": 11076,
+    "text_sha256": "ab4f63002cfbdae13e2da3bcc109fcdabd113828e507ed69090211e17882a31d",
+    "title": "Ois. l.lo. S 3 9$e - Cotrts / 2o26"
+  },
+  {
+    "label": "cag-eoi",
+    "url": "https://cag.gov.in/uploads/tenders/tenders-EOI-for-Establishment-of-Sovereign-AI-Platform-for-CAG-of-India-069fb031304a1b8-89068885.pdf",
+    "phase": "fresh",
+    "error": "error parsing data for \"https://cag.gov.in/uploads/tenders/tenders-EOI-for-Establishment-of-Sovereign-AI-Platform-for-CAG-of-India-069fb031304a1b8-89068885.pdf\" in table 'crawler/v2/pages': crawler error fetcher_error: fetcher_error",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "cag-order",
+    "url": "https://cag.gov.in/uploads/media/Data-Led-audit-Related-Office-Order-069a679d6b140b7-07154746.pdf",
+    "phase": "fresh",
+    "error": "error parsing data for \"https://cag.gov.in/uploads/media/Data-Led-audit-Related-Office-Order-069a679d6b140b7-07154746.pdf\" in table 'crawler/v2/pages': crawler error fetcher_error: fetcher_error",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "upsc-tender",
+    "url": "https://upsc.gov.in/sites/default/files/Tender-AadhaarQRFaceRecgAI-engl-250624.pdf",
+    "phase": "fresh",
+    "error": "error parsing data for \"https://upsc.gov.in/sites/default/files/Tender-AadhaarQRFaceRecgAI-engl-250624.pdf\" in table 'crawler/v2/pages': crawler error disallow_by_robots: disallow_by_robots",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "upsc-correction",
+    "url": "https://upsc.gov.in/sites/default/files/Tender-AadhaarQRFaceRecgAI-Corrgn_Eng-180724.pdf",
+    "phase": "fresh",
+    "error": "error parsing data for \"https://upsc.gov.in/sites/default/files/Tender-AadhaarQRFaceRecgAI-Corrgn_Eng-180724.pdf\" in table 'crawler/v2/pages': crawler error disallow_by_robots: disallow_by_robots",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "upsc-status",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1",
+    "phase": "fresh",
+    "error": null,
+    "is_cached": false,
+    "characters": 323,
+    "text_sha256": "e21dc32ea9cce531d8afec6d3b4c709cf95f966ec5760531d465b36e0f1c52e0",
+    "title": "Union Public Service Commission Developed Face Authentication Protocol; Used Successfully in the Civil Services (Preliminary) Examination, 2026 to Enhance Examination Integrity"
+  },
+  {
+    "label": "upsc-recent",
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317336&reg=48&lang=1",
+    "phase": "fresh",
+    "error": null,
+    "is_cached": false,
+    "characters": 9804,
+    "text_sha256": "6ea24b4f4c5bb32a8155fb6b186a2f86126b455d2ff94cb5959589c1b6f8490b",
+    "title": "UPSC Centenary Celebrations ‘Manthan’ Focus on Future-Ready Civil Services, Innovation and Constitutional Values"
+  },
+  {
+    "label": "tn-launch",
+    "url": "https://cms.tn.gov.in/cms_migrated/document/press_release/pr090224_e_258.pdf",
+    "phase": "fresh",
+    "error": "error parsing data for \"https://cms.tn.gov.in/cms_migrated/document/press_release/pr090224_e_258.pdf\" in table 'crawler/v2/pages': crawler error fetcher_error: fetcher_error",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "tn-policy-note",
+    "url": "https://cms.tn.gov.in/cms_migrated/document/docfiles/forests_e_pn_2024_25.pdf",
+    "phase": "fresh",
+    "error": "error parsing data for \"https://cms.tn.gov.in/cms_migrated/document/docfiles/forests_e_pn_2024_25.pdf\" in table 'crawler/v2/pages': crawler error fetcher_error: fetcher_error",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "igms-rfp",
+    "url": "https://www.darpg.gov.in/static/uploads/2025/11/031f6cdcc93bb39a667c7c824d5d757c.pdf",
+    "phase": "fresh",
+    "error": "error parsing data for \"https://www.darpg.gov.in/static/uploads/2025/11/031f6cdcc93bb39a667c7c824d5d757c.pdf\" in table 'crawler/v2/pages': crawler error fetcher_error: fetcher_error",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "igms-g2g",
+    "url": "https://www.darpg.gov.in/static/uploads/2026/06/1976607cd8f0f723650e29d56afc38ff.pdf",
+    "phase": "fresh",
+    "error": "error parsing data for \"https://www.darpg.gov.in/static/uploads/2026/06/1976607cd8f0f723650e29d56afc38ff.pdf\" in table 'crawler/v2/pages': crawler error fetcher_error: fetcher_error",
+    "is_cached": false,
+    "characters": 0,
+    "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "title": null
+  },
+  {
+    "label": "igms-aug",
+    "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/aug/doc202689948801.pdf",
+    "phase": "fresh",
+    "error": null,
+    "is_cached": false,
+    "characters": 11908,
+    "text_sha256": "7f6ffbc1caca3da6252e838ea6386988ed1791bf688991f4d1c34a0fd12510f1",
+    "title": "Centralised Public Grievance Redress and"
+  },
+  {
+    "label": "igms-about",
+    "url": "https://pgportal.gov.in/Home/AboutUs",
+    "phase": "fresh",
+    "error": null,
+    "is_cached": false,
+    "characters": 3528,
+    "text_sha256": "9d8ea672b020827edd56819fcafa134b454f067c7f8b0a4c6b1f708f561d49f0",
+    "title": "CPGRAMS"
+  },
+  {
+    "label": "igms-privacy",
+    "url": "https://pgportal.gov.in/Home/Privacy",
+    "phase": "fresh",
+    "error": null,
+    "is_cached": false,
+    "characters": 1095,
+    "text_sha256": "8a7cdcc601aaf1ef68e3bf0e575a7c849dd3bf1b1d19ba929066e47d34169f69",
+    "title": "CPGRAMS"
+  },
+  {
+    "label": "mule-docs",
+    "url": "https://docs.rbihub.in/mule-hunter",
+    "phase": "fresh",
+    "error": null,
+    "is_cached": false,
+    "characters": 2616,
+    "text_sha256": "baa240a876b3c69a07af4a09e0849b24cd997b0fbd5cc22e10eb1ffd65ebf4d6",
+    "title": "MuleHunter.ai — RBIH Docs"
+  },
+  {
+    "url": "https://document.kerala.gov.in/deptdocumentdetails/en/eHcyeDczNDR5WEtGRnlEbDg4NWlNQT09/dG9oalJtOWthZXFsZVIvckZobVM2Zz09",
+    "phase": "HTML link resolution",
+    "error": null,
+    "characters": 0,
+    "is_cached": false
+  }
+]

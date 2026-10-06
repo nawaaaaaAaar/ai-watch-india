@@ -11,6 +11,7 @@
     "validate:data": "node scripts/validate-data.mjs",
     "package:registry": "python scripts/build_registry.py",
     "package:governance": "python scripts/build_governance.py",
+    "package:implementation": "python scripts/build_deployment_evidence.py",
     "package:data": "python scripts/build_context.py && python scripts/build_public_services.py && node scripts/package-briefs.mjs && node scripts/package-service-study.mjs && node scripts/package-data-room.mjs && python scripts/package_archive.py"
   },
   "dependencies": {

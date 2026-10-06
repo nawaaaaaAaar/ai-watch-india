@@ -1,0 +1,253 @@
+{
+  "cases": {
+    "primary_key": "system_id",
+    "columns": {
+      "system_id": "TEXT",
+      "name": "TEXT",
+      "sector": "TEXT",
+      "jurisdiction": "TEXT",
+      "selection_rationale": "TEXT",
+      "change_in_understanding": "TEXT",
+      "coverage_limit": "TEXT",
+      "baseline_stage": "TEXT",
+      "independent_outcome_verified": "INTEGER",
+      "checked_date": "TEXT"
+    },
+    "foreign_keys": {
+      "system_id": [
+        "system_keys",
+        "system_id"
+      ]
+    },
+    "array_columns": []
+  },
+  "documents": {
+    "primary_key": "document_id",
+    "columns": {
+      "document_id": "TEXT",
+      "label": "TEXT",
+      "title": "TEXT",
+      "issuing_body": "TEXT",
+      "document_date": "TEXT",
+      "date_text": "TEXT",
+      "date_precision": "TEXT",
+      "document_kind": "TEXT",
+      "source_role": "TEXT",
+      "url": "TEXT",
+      "scope": "TEXT",
+      "association_scope": "TEXT",
+      "review_depth": "TEXT",
+      "retrieval_basis": "TEXT",
+      "is_cached": "INTEGER",
+      "reviewed_text_sha256": "TEXT",
+      "checked_date": "TEXT",
+      "extraction_limit": "TEXT",
+      "snapshot": "TEXT"
+    },
+    "foreign_keys": {},
+    "array_columns": []
+  },
+  "observations": {
+    "primary_key": "observation_id",
+    "columns": {
+      "observation_id": "TEXT",
+      "document_id": "TEXT",
+      "evidence_id": "TEXT",
+      "dimension": "TEXT",
+      "statement": "TEXT",
+      "claim_type": "TEXT",
+      "evidence_strength": "TEXT",
+      "event_date": "TEXT",
+      "date_basis": "TEXT",
+      "limitation": "TEXT",
+      "independent_outcome_verified": "INTEGER",
+      "current_version_match": "TEXT",
+      "checked_date": "TEXT"
+    },
+    "foreign_keys": {
+      "document_id": [
+        "documents",
+        "document_id"
+      ],
+      "evidence_id": [
+        "evidence",
+        "evidence_id"
+      ]
+    },
+    "array_columns": []
+  },
+  "case_observations": {
+    "primary_key": "case_observation_id",
+    "columns": {
+      "case_observation_id": "TEXT",
+      "system_id": "TEXT",
+      "observation_id": "TEXT",
+      "link_basis": "TEXT",
+      "registry_assertion_ids": "TEXT"
+    },
+    "foreign_keys": {
+      "system_id": [
+        "cases",
+        "system_id"
+      ],
+      "observation_id": [
+        "observations",
+        "observation_id"
+      ]
+    },
+    "array_columns": [
+      "registry_assertion_ids"
+    ]
+  },
+  "evidence": {
+    "primary_key": "evidence_id",
+    "columns": {
+      "evidence_id": "TEXT",
+      "document_id": "TEXT",
+      "observation_id": "TEXT",
+      "quote": "TEXT",
+      "locator": "TEXT",
+      "verification_mode": "TEXT",
+      "passage_match": "INTEGER",
+      "source_url": "TEXT"
+    },
+    "foreign_keys": {
+      "document_id": [
+        "documents",
+        "document_id"
+      ],
+      "observation_id": [
+        "observations",
+        "observation_id"
+      ]
+    },
+    "array_columns": []
+  },
+  "party_observations": {
+    "primary_key": "party_observation_id",
+    "columns": {
+      "party_observation_id": "TEXT",
+      "observation_id": "TEXT",
+      "party_name_text": "TEXT",
+      "role_text": "TEXT",
+      "identity_resolution": "TEXT"
+    },
+    "foreign_keys": {
+      "observation_id": [
+        "observations",
+        "observation_id"
+      ]
+    },
+    "array_columns": []
+  },
+  "financial_observations": {
+    "primary_key": "financial_observation_id",
+    "columns": {
+      "financial_observation_id": "TEXT",
+      "observation_id": "TEXT",
+      "amount_text": "TEXT",
+      "amount_kind": "TEXT",
+      "currency": "TEXT",
+      "actual_spending_verified": "INTEGER",
+      "aggregation_warning": "TEXT"
+    },
+    "foreign_keys": {
+      "observation_id": [
+        "observations",
+        "observation_id"
+      ]
+    },
+    "array_columns": []
+  },
+  "coverage": {
+    "primary_key": "coverage_id",
+    "columns": {
+      "coverage_id": "TEXT",
+      "system_id": "TEXT",
+      "dimension": "TEXT",
+      "observation_ids": "TEXT",
+      "evidence_status": "TEXT",
+      "unknown_or_next_record": "TEXT",
+      "absence_interpretation": "TEXT"
+    },
+    "foreign_keys": {
+      "system_id": [
+        "cases",
+        "system_id"
+      ]
+    },
+    "array_columns": [
+      "observation_ids"
+    ]
+  },
+  "governance_links": {
+    "primary_key": "governance_link_id",
+    "columns": {
+      "governance_link_id": "TEXT",
+      "system_id": "TEXT",
+      "instrument_id": "TEXT",
+      "existing_governance_link_id": "TEXT",
+      "link_type": "TEXT",
+      "rationale": "TEXT",
+      "implementation_observation_ids": "TEXT",
+      "instrument_evidence_ids": "TEXT",
+      "applicability_determination": "TEXT",
+      "compliance_verified": "INTEGER"
+    },
+    "foreign_keys": {
+      "system_id": [
+        "cases",
+        "system_id"
+      ],
+      "instrument_id": [
+        "governance_keys",
+        "instrument_id"
+      ]
+    },
+    "array_columns": [
+      "implementation_observation_ids",
+      "instrument_evidence_ids"
+    ]
+  },
+  "selection_decisions": {
+    "primary_key": "selection_decision_id",
+    "columns": {
+      "selection_decision_id": "TEXT",
+      "system_id": "TEXT",
+      "disposition": "TEXT",
+      "basis": "TEXT",
+      "search_design": "TEXT",
+      "counting_unit": "TEXT"
+    },
+    "foreign_keys": {
+      "system_id": [
+        "system_keys",
+        "system_id"
+      ]
+    },
+    "array_columns": []
+  },
+  "system_keys": {
+    "primary_key": "system_id",
+    "columns": {
+      "system_id": "TEXT",
+      "name": "TEXT",
+      "sector": "TEXT",
+      "jurisdiction": "TEXT",
+      "owner_institution_id": "TEXT"
+    },
+    "foreign_keys": {},
+    "array_columns": []
+  },
+  "governance_keys": {
+    "primary_key": "instrument_id",
+    "columns": {
+      "instrument_id": "TEXT",
+      "title": "TEXT",
+      "document_status": "TEXT",
+      "primary_source_url": "TEXT"
+    },
+    "foreign_keys": {},
+    "array_columns": []
+  }
+}

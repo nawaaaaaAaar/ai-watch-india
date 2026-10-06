@@ -1,0 +1,2118 @@
+{
+  "systems": 144,
+  "governance_instruments": 52,
+  "files": [
+    {
+      "path": "public/registry/BASELINE_1_1_0.json",
+      "sha256": "60ab08876ef496bc6a64d1f15f9ad4948bd64e422f343225b1c317b81ee7afa7"
+    },
+    {
+      "path": "public/registry/BASELINE_1_2_0.json",
+      "sha256": "db69aafbc8ec2d9fe5610312146982bb6d6a663924d8e59a48c6bc97f78edae1"
+    },
+    {
+      "path": "public/registry/BROADENING_QUOTE_AUDIT.json",
+      "sha256": "7f4d88413a18a046023cccb1d5fbeaf170e47f0d17dca025b17ce5e92390d51b"
+    },
+    {
+      "path": "public/registry/BROADENING_RETRIEVAL.json",
+      "sha256": "ff842adf31b0869200c548ac879aef50f5965ffc095290b17afba5a5f425a8e8"
+    },
+    {
+      "path": "public/registry/BROADENING_SEARCH.json",
+      "sha256": "6e5c8e40b4239fa76fec421b875adfca66853c93d2f4bee825a69b8d0ddd3003"
+    },
+    {
+      "path": "public/registry/BROADENING_STUDY.md",
+      "sha256": "d27f0bc58d6b75e465113b8bf8c193d832f83233309dbecb1cae71c67fa37555"
+    },
+    {
+      "path": "public/registry/CODEBOOK.md",
+      "sha256": "407f8d090a4aef2dd045f31f1e2f59970bfe2d2ec32049f28f130dc656a6ed7c"
+    },
+    {
+      "path": "public/registry/INSTITUTION_RETRIEVAL.json",
+      "sha256": "1ef0930ac26e7f2555891e229a236f5c6e71883ab761aa210780b39559738638"
+    },
+    {
+      "path": "public/registry/INSTITUTION_SEARCH.json",
+      "sha256": "a1512ddfaa8f9a2de5dca8d971256b6d73e296d0d8ef5a986aaae359e74c8953"
+    },
+    {
+      "path": "public/registry/INSTITUTION_STUDY.md",
+      "sha256": "588db447420c63e4f8f94b41b760d65428745a08c620418c20c3e3c4cde24dbe"
+    },
+    {
+      "path": "public/registry/PROTOCOL.md",
+      "sha256": "e955d0b72e6fe7ed884ceee95a98e8b5bb6f2bdc29914a12854943c9eb1d3a6c"
+    },
+    {
+      "path": "public/registry/RESEARCH_NOTE.md",
+      "sha256": "e269f26e561b9497b3dfd016500e84d5d0a06b867080eb18887841b4ddf5efd8"
+    },
+    {
+      "path": "public/registry/SCALING_QUOTE_AUDIT.json",
+      "sha256": "d41fd36e4389279fd44efb099db26438e93e3acd41f3390ac81076346fb549d5"
+    },
+    {
+      "path": "public/registry/SCALING_RETRIEVAL.json",
+      "sha256": "a2b419a41380fc458fc4aa0f9a7a1c3de0dc73f926675740553913848b31e33c"
+    },
+    {
+      "path": "public/registry/SCALING_SEARCH.json",
+      "sha256": "4c78eb49a5867f82e0a7b72ace9244995f7eb637e3d47dfc1a752e6288efd816"
+    },
+    {
+      "path": "public/registry/SCALING_STUDY.md",
+      "sha256": "97ff82ca33f268f1434363d7239fdb9e9b1c25619b5ad5f8624f22e0ff08beb4"
+    },
+    {
+      "path": "public/registry/SOURCE_RECHECK.json",
+      "sha256": "7efabd9083065da2bc1c7e33b3f608c3856f8c7805bfe51b10faa5659779a22b"
+    },
+    {
+      "path": "public/registry/analysis.json",
+      "sha256": "8888b202db1b9efc2df9ae6d7a1d68bae9daf9a0250695e18664f1f73a8564fc"
+    },
+    {
+      "path": "public/registry/assertion_rechecks.csv",
+      "sha256": "9053d03a594914eb15f252a55304db985ea463d359a76a9c63a49d4d723fb828"
+    },
+    {
+      "path": "public/registry/assertions.csv",
+      "sha256": "375125fe7a31f9915f5102bf8bc27660c0b6b3015c3a13146448f80a59742ae5"
+    },
+    {
+      "path": "public/registry/candidate_decisions.csv",
+      "sha256": "3095172ba062b4b1ffd71588d5a846426c4c2e1ecb922d797d3659f9129d53a8"
+    },
+    {
+      "path": "public/registry/complete-registry.zip",
+      "sha256": "7b3c4c5af158f4570863f0db8f7f48b63008718e0f26151932340abbc069a26a"
+    },
+    {
+      "path": "public/registry/controls.csv",
+      "sha256": "fb089fdbe243c50c5025cc696ff92defb8bc32b09db6f76c4d067671e2670017"
+    },
+    {
+      "path": "public/registry/coverage_systems.csv",
+      "sha256": "941908d6dce3abc27dde0df860ef40acaa053a0a6e6cc840ae7d303603057c4c"
+    },
+    {
+      "path": "public/registry/data.json",
+      "sha256": "59b93500019144ce28db5228b5144a39f83bcd4448034c5de538b322bcea3a81"
+    },
+    {
+      "path": "public/registry/dataset.sqlite",
+      "sha256": "77d317a8065c16f7f38636cbd470957819f0948dd83bc0e31feb8e7e07c8b30d"
+    },
+    {
+      "path": "public/registry/deployments.csv",
+      "sha256": "c80286e41b1b48f9f25667a9c24e327c07dc434aefadd886af940cf49e9fe151"
+    },
+    {
+      "path": "public/registry/dossiers/sys-aadhaar-face.md",
+      "sha256": "e7106a68d6b08613de9f3db19f44804d64bdcd92aebd0bb5315e01e152caa046"
+    },
+    {
+      "path": "public/registry/dossiers/sys-aarogya-ai.md",
+      "sha256": "fa1c3bb8df05d4d99d2e7f29fefba50a45f4ff094e082775a2cbed2d13bb2618"
+    },
+    {
+      "path": "public/registry/dossiers/sys-abhigyan.md",
+      "sha256": "8d4a043af2fd36491ddb91ddbf20516bdc651facd262915d14e0833cf5947335"
+    },
+    {
+      "path": "public/registry/dossiers/sys-adalat-ai.md",
+      "sha256": "7e89b76b3f825bd33c14ef5abe1a4e399a2d811c08b4fab2327053abf6e690b0"
+    },
+    {
+      "path": "public/registry/dossiers/sys-aditi.md",
+      "sha256": "780d720a2e91ee7b4b1d296da18caab4fcd0cb2af55622bea7be8bb158a47b36"
+    },
+    {
+      "path": "public/registry/dossiers/sys-advait.md",
+      "sha256": "2ab7d16ef6f8e53c6674b30f94b976ae314849b09362bdc4d920b39f32bf5723"
+    },
+    {
+      "path": "public/registry/dossiers/sys-adya.md",
+      "sha256": "76356f638ffb78b87b5e6b5d763251629e7480dab26a671fb7be7f0eee8a9ea0"
+    },
+    {
+      "path": "public/registry/dossiers/sys-ahmedabad-atcs.md",
+      "sha256": "920bb0a9790ecb9759c1d2c24ed54c1425aa98ad2bd8210560eb64128090be4e"
+    },
+    {
+      "path": "public/registry/dossiers/sys-ai-manthan.md",
+      "sha256": "fdb39c97dfc6d32e5de4267aadb082fc806cc2c9faf9213af681b6651313252e"
+    },
+    {
+      "path": "public/registry/dossiers/sys-anuvadini.md",
+      "sha256": "8b7d57d0f5a25b2b3a86ec04b7152fdd6980d43a456a5b1f033bc1a3e1ead486"
+    },
+    {
+      "path": "public/registry/dossiers/sys-apt.md",
+      "sha256": "3866b2c7cae62c8c5b3435683ad27fbc16dcdc7b7daf1ae8e042a1efae889c3d"
+    },
+    {
+      "path": "public/registry/dossiers/sys-army-ims.md",
+      "sha256": "1b81faf541c538f2852fe1a90f75d05a6eb8f55523e8b2f125eaced0a3406cc9"
+    },
+    {
+      "path": "public/registry/dossiers/sys-army-storm.md",
+      "sha256": "e8936c0c793b6c87f2315b07dc92586b04b5e79370d407e078161cc6c403784f"
+    },
+    {
+      "path": "public/registry/dossiers/sys-askdisha.md",
+      "sha256": "2765abfe6e9707a6408603a8586745d02dd92e5580c3a502a7ddef21d7d1fcdb"
+    },
+    {
+      "path": "public/registry/dossiers/sys-assam-shiksha.md",
+      "sha256": "236e3a3c46f7e2b526423e4ae2be476bf31952908ff4c8996e516133357f64b7"
+    },
+    {
+      "path": "public/registry/dossiers/sys-astr.md",
+      "sha256": "ea3a416283e3a1bf66dfdaf8c7aa46935c447df1b6f945d76cef9fc5fc0f10dc"
+    },
+    {
+      "path": "public/registry/dossiers/sys-astram.md",
+      "sha256": "473fea6160f43f58db72d3f8e776f317fbcabef922c2c33ec56bd6e7fd0075b1"
+    },
+    {
+      "path": "public/registry/dossiers/sys-atman.md",
+      "sha256": "73e07c0b28155647158707b04dd13a8d4b42f2b81cf416ed55561f1b0eda4582"
+    },
+    {
+      "path": "public/registry/dossiers/sys-awaas-ai.md",
+      "sha256": "7884647cd2013bcc7d58e4ad01035c99fbec039b505094009e942fcb8ecfff68"
+    },
+    {
+      "path": "public/registry/dossiers/sys-aware.md",
+      "sha256": "2033409e1f5118cfeb159c238b139ee32d19bd4956a6e91949111a7ace9fff9b"
+    },
+    {
+      "path": "public/registry/dossiers/sys-ayushman-sarathi.md",
+      "sha256": "9fd700ed0436f002dd1171626e788808ec43be763bd7e03df85c2a1c50d32d92"
+    },
+    {
+      "path": "public/registry/dossiers/sys-bel-lynx.md",
+      "sha256": "4180f61d55a84f7517c264f4cdc30f0991345267a7a64b87f20a763abf95ff69"
+    },
+    {
+      "path": "public/registry/dossiers/sys-beml-fatigue.md",
+      "sha256": "a7f18d69f6f28f3a2fe3c1df290c7e7d79b3ee720a108b66bb9ace20b125570a"
+    },
+    {
+      "path": "public/registry/dossiers/sys-beml-mining.md",
+      "sha256": "862046f5777e14d614f234a8877123201658c5350e7d8a5fe5c23ff3d6c52d1a"
+    },
+    {
+      "path": "public/registry/dossiers/sys-bharat-vistaar.md",
+      "sha256": "46e5b74903bbd26210d9204c008269338be82a5039227c1a82a2a99bb92bee60"
+    },
+    {
+      "path": "public/registry/dossiers/sys-bharatgen.md",
+      "sha256": "bf505a03925f410917044aef870fbd3cca88a81560fde6976c474ea96e8c75e0"
+    },
+    {
+      "path": "public/registry/dossiers/sys-bhashini.md",
+      "sha256": "3896ab203ee6d58bd2b6ca17a83565dad0f54c34e6ea1a0caaccb53cf2d7e72c"
+    },
+    {
+      "path": "public/registry/dossiers/sys-bhopal-itms.md",
+      "sha256": "4825c4ff33461b496521d2320d33c7db235d6429312f464195530dc016529fff"
+    },
+    {
+      "path": "public/registry/dossiers/sys-bifa.md",
+      "sha256": "f7a8dd3d6bff55f6f98e663fec852e1c7aab7098fefb04252d5a045711e5762e"
+    },
+    {
+      "path": "public/registry/dossiers/sys-bmc-tb.md",
+      "sha256": "5acca8e35e683398797c709e0d65e2e85156be9de509ffe81c526f8ab64280ff"
+    },
+    {
+      "path": "public/registry/dossiers/sys-bodh.md",
+      "sha256": "3c980d9b6cdb573c88bfa45b3bcbd2b351903d11203a21361753da4595dc0018"
+    },
+    {
+      "path": "public/registry/dossiers/sys-ca-gpt.md",
+      "sha256": "34279571303b0b886dcee20394bffbb31f3b6745c21fa7be0c7adb670ab52e09"
+    },
+    {
+      "path": "public/registry/dossiers/sys-cag-parakh.md",
+      "sha256": "6f79dc8a505606267e733fd75435b091c41f110f52032ca46d5d0d5cc60e4ebb"
+    },
+    {
+      "path": "public/registry/dossiers/sys-cag-paras.md",
+      "sha256": "dfe881a9b9c50252201165dcfb7d54e7289fa6ad54bc5f33a95d7d6af806ffaa"
+    },
+    {
+      "path": "public/registry/dossiers/sys-catb.md",
+      "sha256": "d40f717d97f093c75bd2895a055ec3bc6627b0363cff858f4ebddd535dd2500f"
+    },
+    {
+      "path": "public/registry/dossiers/sys-cctns2.md",
+      "sha256": "4067cc1f942a965155144dad6f4925d21ee751a62eaa6bae3f6ca15f081b43fd"
+    },
+    {
+      "path": "public/registry/dossiers/sys-cdot-trinetra.md",
+      "sha256": "adec5fe4d25c4d8a929ec95a680712afe0d8354027ae80e38bc5ebe3e8f56e1b"
+    },
+    {
+      "path": "public/registry/dossiers/sys-cropic.md",
+      "sha256": "cba72ecaa61016dc502017ed191da9a2ed29fb48145229b455e9a1a58925165e"
+    },
+    {
+      "path": "public/registry/dossiers/sys-crpi.md",
+      "sha256": "424e8ef2135e490b032de4416750685e39fd7e5f2188e9674d8b52e0096d4000"
+    },
+    {
+      "path": "public/registry/dossiers/sys-cwc-google.md",
+      "sha256": "9b4c2ff6bbcd6e6f32ceb43d51d709d687784bcd8ff3f621ea9437a5c5ca07ad"
+    },
+    {
+      "path": "public/registry/dossiers/sys-cyberguard.md",
+      "sha256": "5d59517b638711b86e1b25849a579e81588b22a2906e0674bf4e452db3c1389d"
+    },
+    {
+      "path": "public/registry/dossiers/sys-cyberwall.md",
+      "sha256": "d4e1da6d0c1f9bfa5fd3f4ec1713a40ba326a43a6f17a9cd6642f6f3bd43e255"
+    },
+    {
+      "path": "public/registry/dossiers/sys-delhi-itms.md",
+      "sha256": "ca9083e6973874fab93fd0f7cb752c9f7b93535acfbf29b9d8f2fa1687925c95"
+    },
+    {
+      "path": "public/registry/dossiers/sys-dharavi-didi.md",
+      "sha256": "750746345f011adbf31e62d252f3f28f10a6e578ef0941b3d1bdb37560a97964"
+    },
+    {
+      "path": "public/registry/dossiers/sys-digiyatra.md",
+      "sha256": "55bca24df0dac1ed807d0117a5bf295273eb538bb44ba2985101227eda02a6b2"
+    },
+    {
+      "path": "public/registry/dossiers/sys-diksha.md",
+      "sha256": "83079162b99def5365e7ed5a54f39cf965a74b7cee036c6422eb869ebeddd73a"
+    },
+    {
+      "path": "public/registry/dossiers/sys-divya-identity.md",
+      "sha256": "09a8ad8f92c73eba4ca0448cebe31f35faaf0da0a1b9689fa48674a977ba2ca3"
+    },
+    {
+      "path": "public/registry/dossiers/sys-djb-twin.md",
+      "sha256": "33d4296596851e1b1e3d1dd20f9082959fe3569e551025f0705129a3d06952b0"
+    },
+    {
+      "path": "public/registry/dossiers/sys-dmrc-predictive.md",
+      "sha256": "fcc068fb6f709a2eca2a263738ccb6656b604ee27482fd08df295d9b520d23f3"
+    },
+    {
+      "path": "public/registry/dossiers/sys-ejaadui.md",
+      "sha256": "24f3c50e8429919837172c820fd6ff5f0a4f00ef08cb1f3911d54a7b4c5d0d9a"
+    },
+    {
+      "path": "public/registry/dossiers/sys-epaarvai.md",
+      "sha256": "2914d9dc02554ce9690747f41bb78ef136c8a0acf590b6f400041545eecd4b7b"
+    },
+    {
+      "path": "public/registry/dossiers/sys-esanjeevani.md",
+      "sha256": "0bdcf04deadc91f906c8024be97ab76bc7cc6e6cedc304f0ae8d91a2cd476224"
+    },
+    {
+      "path": "public/registry/dossiers/sys-fest.md",
+      "sha256": "c36baae3508038b121b49c79be2f01f90cd9c59ac9211a947961566fb1b2b504"
+    },
+    {
+      "path": "public/registry/dossiers/sys-fmr-fir.md",
+      "sha256": "9fda97f65d0b9e66281298568deb9291fc6ec482f391d8a3a5490122b27f54ff"
+    },
+    {
+      "path": "public/registry/dossiers/sys-fri.md",
+      "sha256": "44f75b80d66118ab20bccb60e9518520460343e50379219fdab9f51be3def8df"
+    },
+    {
+      "path": "public/registry/dossiers/sys-goa-online-ai.md",
+      "sha256": "731835b090c58872bf8a21e7bcaca398af3e2819dffa3c0b7a47549e0d5f7f43"
+    },
+    {
+      "path": "public/registry/dossiers/sys-goa-tourism-ai.md",
+      "sha256": "e8443352bb5c5565f05ae7e67c36e8da352274187344ad083b0f2d3994e39102"
+    },
+    {
+      "path": "public/registry/dossiers/sys-grse-anvesha.md",
+      "sha256": "8d5773f262cac2b9d8c8bb0922c631b0b6cb9b8f86e567ea1ef36a176f4957dd"
+    },
+    {
+      "path": "public/registry/dossiers/sys-grse-jigyasa.md",
+      "sha256": "2880f6debcf681500d1dd9696594623d4884166f69ebeecb85f61cc1b91df01c"
+    },
+    {
+      "path": "public/registry/dossiers/sys-gujarat-vsk-ai.md",
+      "sha256": "3812fce752c080da28b31511648167f5a6e626b627f58e900a19fb43a245fac4"
+    },
+    {
+      "path": "public/registry/dossiers/sys-hyderabad-itms.md",
+      "sha256": "63a149879468a7c63e89e278734e3113deb3ebdb281f82c57eabdd41bffe57dd"
+    },
+    {
+      "path": "public/registry/dossiers/sys-igms.md",
+      "sha256": "0bfc6a8a961c70b128a6a8326c73a6f9187aaa3c5826b514e49ed5b4a0279d5c"
+    },
+    {
+      "path": "public/registry/dossiers/sys-imd-monsoon-ai.md",
+      "sha256": "f09d3f34de92b8cf4a14eeb8ce26d4caf39ca259197fc5aa067484d47b79bbaa"
+    },
+    {
+      "path": "public/registry/dossiers/sys-infomerge.md",
+      "sha256": "dfdfcfbadbb691ff2465d736d25be519a07c347d7a78a9a056278dc37c295a1f"
+    },
+    {
+      "path": "public/registry/dossiers/sys-insight.md",
+      "sha256": "3d6c14e12e2801eeffe879143e854fc70d564772a4f5d44fa9b5b9e8301873dc"
+    },
+    {
+      "path": "public/registry/dossiers/sys-iob-buddy.md",
+      "sha256": "c733404186e1b29f71233d3f0545c96989950c4a52aaf69e1602e0cdf2a05cfd"
+    },
+    {
+      "path": "public/registry/dossiers/sys-ioncology.md",
+      "sha256": "70585dcfde118f72b1258418ede882feb3ecf8890d693621f7793133e125c7f0"
+    },
+    {
+      "path": "public/registry/dossiers/sys-iraste.md",
+      "sha256": "18ddb749ede40eeee4da5699cd291a6ddf81f2ce9931906c9872f247cf24b8ee"
+    },
+    {
+      "path": "public/registry/dossiers/sys-itms.md",
+      "sha256": "81f8900cdccf253f1144293656d1c15f71d3af03c6a4d2cf3eccdb58e654a464"
+    },
+    {
+      "path": "public/registry/dossiers/sys-jeevan-pramaan.md",
+      "sha256": "6c92f4c1baf6cd72a212f248b2894e4c942378ea7828363f2d4de99c745cd73e"
+    },
+    {
+      "path": "public/registry/dossiers/sys-kaaval-ai.md",
+      "sha256": "f7fd470124275acfe710f8c96d858d9c35910aa973447b40c2de06d2949e4b3a"
+    },
+    {
+      "path": "public/registry/dossiers/sys-karnataka-tutor.md",
+      "sha256": "33a224c855c49ecb4861f56f28df3bf86f4f00a35adaeaaae73338194e99be7d"
+    },
+    {
+      "path": "public/registry/dossiers/sys-kerala-court-cms.md",
+      "sha256": "c9c81c9d43b5f89ed9dab707d308287385a3f8bcad3e3daa0ea54550e9b889af"
+    },
+    {
+      "path": "public/registry/dossiers/sys-khushi.md",
+      "sha256": "11d2cb596a22f315e88e63605bbc4936fb57a514125fddc8eae0b4d0e45df4ae"
+    },
+    {
+      "path": "public/registry/dossiers/sys-kisan-emitra.md",
+      "sha256": "16f38c102b45efe327070f96bf9020a4f2e63e1a5f993845e9ae6a4113958933"
+    },
+    {
+      "path": "public/registry/dossiers/sys-kisan-sarathi.md",
+      "sha256": "20d99bf05be8681bf8bb68e8e331e845ed7feb9cc4d850b79a5fff2dfa0d259e"
+    },
+    {
+      "path": "public/registry/dossiers/sys-ksh.md",
+      "sha256": "9358e2769e4ee4410f911cf74ffe0febe15289e0e64f7616089fd76a41ac1b63"
+    },
+    {
+      "path": "public/registry/dossiers/sys-madhunetrai.md",
+      "sha256": "dd3d81b701af47dfe8b3e31cefbfbefb7caf855a606901d4e0e00ed0844d08a4"
+    },
+    {
+      "path": "public/registry/dossiers/sys-madukkarai-elephant.md",
+      "sha256": "ad39f67d14dcfb3e477e162c4ca4a0a735114e71ca750611400d3144e102c202"
+    },
+    {
+      "path": "public/registry/dossiers/sys-maha-ai.md",
+      "sha256": "bb437ac2645559b2c2c7362dedbcd9c7102c33cb46369030e073921cb345b16f"
+    },
+    {
+      "path": "public/registry/dossiers/sys-maha-metaverse.md",
+      "sha256": "5257300075c7a1132409a2be25f7257051b84714be298089b936c652d0de002a"
+    },
+    {
+      "path": "public/registry/dossiers/sys-mahacrimeos.md",
+      "sha256": "50ca403405a96ef5e46b5679c87856be28c4124928059c01ec6230e98ff91bf6"
+    },
+    {
+      "path": "public/registry/dossiers/sys-mahamuni.md",
+      "sha256": "2b2c8525f7acabecd5aa28b8804df1d841f10055533f736727263013c7054d31"
+    },
+    {
+      "path": "public/registry/dossiers/sys-mahavistaar.md",
+      "sha256": "4d81fd6a90c262a66452774df13ea66452a3c289b14d49e40d7598287fd7a085"
+    },
+    {
+      "path": "public/registry/dossiers/sys-mana-mitra.md",
+      "sha256": "8d0337fb0787550f14d6e01246820fd9e144473a329a33024a256af0fd110136"
+    },
+    {
+      "path": "public/registry/dossiers/sys-mausamgpt.md",
+      "sha256": "10c1629bf7dbf86055b0f72a1ec36e98ca4b79a48d7f2204c07ca24140d410f2"
+    },
+    {
+      "path": "public/registry/dossiers/sys-mds.md",
+      "sha256": "1a139d602d12c4808447dc9a369379ec68e4cc36c0d54e6403953dba7aa855c1"
+    },
+    {
+      "path": "public/registry/dossiers/sys-mulehunter.md",
+      "sha256": "7251c8aa563734315c658f394e1d17c46bf86ddd279a2de15129a14f3d9fda9b"
+    },
+    {
+      "path": "public/registry/dossiers/sys-muntra.md",
+      "sha256": "5a23fab61d5abc73bd01dd5a66842fcd18720e92cc3a72be1d7d955909e6793f"
+    },
+    {
+      "path": "public/registry/dossiers/sys-mvis.md",
+      "sha256": "179d7af2ce6c3602fcd62303d5c8477f16b1ac5bfd30d43e240be72fa0d06134"
+    },
+    {
+      "path": "public/registry/dossiers/sys-nagpur-iitms.md",
+      "sha256": "ef1d723ed1744c19f14c3edbb35fc09187e65080a231d20ef14c26f9d477756c"
+    },
+    {
+      "path": "public/registry/dossiers/sys-nalsa-vani.md",
+      "sha256": "f5208bb7d9be8204d8756ab79b71b4333a510222362722d260dcc86240ffe289"
+    },
+    {
+      "path": "public/registry/dossiers/sys-navy-afib.md",
+      "sha256": "e855ed2bf0dcad297384c162cef4a10c742d98b7d49cc6b5f1af7d8a345d2496"
+    },
+    {
+      "path": "public/registry/dossiers/sys-ncs-ai.md",
+      "sha256": "97f9430b3eaf1eb2220c032dc15d81c9a259816b295c877bd96cd424807f2910"
+    },
+    {
+      "path": "public/registry/dossiers/sys-nhai-das.md",
+      "sha256": "1f3a95ed7e166066472c9e2a6184173f4d05b8b638cb2c14917f10ff4779d1f9"
+    },
+    {
+      "path": "public/registry/dossiers/sys-nic-ivaani.md",
+      "sha256": "ea5aaf9a79bcfabfc1e4c27868b700034413a94abfa48b96a77867a42e481248"
+    },
+    {
+      "path": "public/registry/dossiers/sys-nic-taani.md",
+      "sha256": "6d0eecdfc62071b0d33ce80a3732bafb40bc22701084d4689cddf8ca53d706f8"
+    },
+    {
+      "path": "public/registry/dossiers/sys-nic-vani.md",
+      "sha256": "57387aa304ffbfc575d9e2786f9c807ba8fb459c252b0bcff7ca6c815547e857"
+    },
+    {
+      "path": "public/registry/dossiers/sys-niti-ai-saarthi.md",
+      "sha256": "303fc0c94680d00526afe70d979075d48650cd38548c052c4a7449a8d7a6b560"
+    },
+    {
+      "path": "public/registry/dossiers/sys-npss.md",
+      "sha256": "2397c2d144cfe9ee1329e6d9da985f4d212bd442c81cf562995c3e235ff6bb51"
+    },
+    {
+      "path": "public/registry/dossiers/sys-nuwr-analysis.md",
+      "sha256": "8616fed1d48fd07980b19b83c6217f478771ed1b3663c4eeb8e29e10f181488a"
+    },
+    {
+      "path": "public/registry/dossiers/sys-ompts.md",
+      "sha256": "605249c409214197f0b9273b0ed09afaea9ac2daefe9f9b915f626e975ff6c4e"
+    },
+    {
+      "path": "public/registry/dossiers/sys-paddymitra.md",
+      "sha256": "22f433aaed4ab5584cccfc7830b3e41753a278cbd6186e4effc1cdfa9a5ab805"
+    },
+    {
+      "path": "public/registry/dossiers/sys-pais.md",
+      "sha256": "1ddfa9aa9b6c37ac857e5a9e79473e46640a1e9c5d750834d3ba751feb8ece79"
+    },
+    {
+      "path": "public/registry/dossiers/sys-pihu.md",
+      "sha256": "eeda46fdc4fff9a42fa3bec3ce30664fda7c6d5dac26273adaf492985c0c8238"
+    },
+    {
+      "path": "public/registry/dossiers/sys-plcs.md",
+      "sha256": "13fb873c9ce7dfc5d508ce705f144eececc48dc9637924c968396a6fde7236c7"
+    },
+    {
+      "path": "public/registry/dossiers/sys-poshan-frs.md",
+      "sha256": "d8410f6a374cab6fe6b85b112f06210cae1a17c27a67b3c974697f3d8b1659e6"
+    },
+    {
+      "path": "public/registry/dossiers/sys-pune-traffic-ai.md",
+      "sha256": "d33ec9b2c2a187e6924656000c5f91547b1ac7e54c046948c5a1af6c25f69e62"
+    },
+    {
+      "path": "public/registry/dossiers/sys-raidar.md",
+      "sha256": "1942519afb9d6567adb64aab6d9b32e74ab94817df833b25bf149f15f2ec49fb"
+    },
+    {
+      "path": "public/registry/dossiers/sys-rail-ids.md",
+      "sha256": "560486887770ba2374584abfaa5c6c1a46012624e389e180dfb087f7b5a305ec"
+    },
+    {
+      "path": "public/registry/dossiers/sys-rail-vss.md",
+      "sha256": "d3496e0746dd56ea24a4d1150d40686116958e27b7c472531ad3700090cf733b"
+    },
+    {
+      "path": "public/registry/dossiers/sys-railmadad.md",
+      "sha256": "40d489606fabd45287dc80142982bb4e63e881624f3074035a9c4fdcb37aff74"
+    },
+    {
+      "path": "public/registry/dossiers/sys-raj-silicosis.md",
+      "sha256": "3f9a83f6831031d02b25d59af79f94286a76e629b87928ae0c78a06f1a492ec4"
+    },
+    {
+      "path": "public/registry/dossiers/sys-rajgpt.md",
+      "sha256": "6eac473b7dedecbbbbf31da246f59b4b81d688500ce8ed2e482ba9689ee7f82e"
+    },
+    {
+      "path": "public/registry/dossiers/sys-saagu-baagu.md",
+      "sha256": "dd9e10884a18478b14b75a8b66baf0c0fbd21c777a7fcfd191a7e924ad5b26b3"
+    },
+    {
+      "path": "public/registry/dossiers/sys-safe-kerala.md",
+      "sha256": "21b66a3ba04e389553b7ea869437f2a7ecf2d38b041169aac7afcfffeded2d9e"
+    },
+    {
+      "path": "public/registry/dossiers/sys-samagra-ai.md",
+      "sha256": "993655760f3bf10d78d6c82eeaf9619cc5e156469a5b7ae13c2726ea63350d5b"
+    },
+    {
+      "path": "public/registry/dossiers/sys-sanjay.md",
+      "sha256": "10f7459ef90c78318dd943bc4f4c66f0063f102d7cc1f177fe795cd71aeb55d5"
+    },
+    {
+      "path": "public/registry/dossiers/sys-sansad-chatbot.md",
+      "sha256": "3b1cc7d6d0c2f72c9db0ff36e7fa4158a7cf45ca1cca0180c9ba29b96f12d958"
+    },
+    {
+      "path": "public/registry/dossiers/sys-sasya.md",
+      "sha256": "fe83c1340420555a88441ada67f9a95fa90d46d1d3024d0917753b0c5d1b260d"
+    },
+    {
+      "path": "public/registry/dossiers/sys-sathee-ai.md",
+      "sha256": "4ea70026c3fefd2f1c805ec444e5e99b64e915d254e20b3ca09b6b93c961d0ab"
+    },
+    {
+      "path": "public/registry/dossiers/sys-seeker.md",
+      "sha256": "b8335124611168361e3b3fda0fb06a641d8352a29d7b4855f93dbf6fa30341cb"
+    },
+    {
+      "path": "public/registry/dossiers/sys-seva.md",
+      "sha256": "263ba8bfec1010170c17e5a486b9abeb5a610a02fcdd2837697849245521e495"
+    },
+    {
+      "path": "public/registry/dossiers/sys-shiksha-copilot.md",
+      "sha256": "a33cab211a96eb3058ae7f5025ab936fb59553bfe25f09592b2c09e38a6194f6"
+    },
+    {
+      "path": "public/registry/dossiers/sys-sia.md",
+      "sha256": "48a214965a676f8310f6bc08ae1064aae3ff43c34fc3ee246eb5002ebff0b5e9"
+    },
+    {
+      "path": "public/registry/dossiers/sys-silent-sentry.md",
+      "sha256": "58bbd6d805f1651459435ebfc4ec5b600487cfef24bb5055e219a65ca88d8fc2"
+    },
+    {
+      "path": "public/registry/dossiers/sys-simba.md",
+      "sha256": "ba749a384974615263df270c530c4a3dadac809ecc1d44fd9157c5056cd1ad89"
+    },
+    {
+      "path": "public/registry/dossiers/sys-smart-annavani.md",
+      "sha256": "bec8dd48570e5babfa6bf11127fc260029004cd0f5bcf0bf17f88440843db1a6"
+    },
+    {
+      "path": "public/registry/dossiers/sys-sudarsan.md",
+      "sha256": "ff1c4cd2ba9c38990e5256e5d5f883e7897823eafac36e475ad13675859f8ad9"
+    },
+    {
+      "path": "public/registry/dossiers/sys-supace.md",
+      "sha256": "d403ef9ebd2674cb7a72a15a7f1bd8978066de93cbe4bcbc6cd0179adeb0b949"
+    },
+    {
+      "path": "public/registry/dossiers/sys-susahyak.md",
+      "sha256": "6bc0337e8843e1e6eb8167c706c38f4bc9e1c3c75017b0b20b5903235d57ee6f"
+    },
+    {
+      "path": "public/registry/dossiers/sys-suvas.md",
+      "sha256": "941dcfbd3095704019da54439b3f53f1aa4b81a18caaa35a91d6fb9d710f22b3"
+    },
+    {
+      "path": "public/registry/dossiers/sys-swayam-plus-ai.md",
+      "sha256": "104027962cd5020cbb9c509f71905b11825ebad98759c43ce915b04f7eee6864"
+    },
+    {
+      "path": "public/registry/dossiers/sys-tejasvi.md",
+      "sha256": "9fb0aa2acbeaf657bccde821e6d2622a4ad9fabe8ed78e8559ded2e11ce8bf0e"
+    },
+    {
+      "path": "public/registry/dossiers/sys-teres.md",
+      "sha256": "75d4188f4ebb772df014732ac0888ee40b6752c810e41f09aa7a379463ad8a68"
+    },
+    {
+      "path": "public/registry/dossiers/sys-tn-police-frs.md",
+      "sha256": "c37b6b33e6e6ccf174770f0ae00eac51848e773412b39c57650826f2be30b982"
+    },
+    {
+      "path": "public/registry/dossiers/sys-trailguard-wb.md",
+      "sha256": "6284368c58ff90640c04118f5f3f266ec91fda431cdc74a8be777197cebd61d8"
+    },
+    {
+      "path": "public/registry/dossiers/sys-tscop.md",
+      "sha256": "6c0c78426480394f6e2a62a22ac2f3224c336e9dff0d84e1a1f56bdb61fd784a"
+    },
+    {
+      "path": "public/registry/dossiers/sys-uday.md",
+      "sha256": "e3804b0991c721ba29050494730d5dc4b781d5e0d1ed6afc52cc4fdd102349a0"
+    },
+    {
+      "path": "public/registry/dossiers/sys-universe.md",
+      "sha256": "404a13a0ef08858c15028936e332af14983e3c162704a607a014fee8ced236aa"
+    },
+    {
+      "path": "public/registry/dossiers/sys-upsc.md",
+      "sha256": "d1e80a7785297cd0bc36aaec1692cc877f11809d8e31f79e05bd89878496c12f"
+    },
+    {
+      "path": "public/registry/dossiers/sys-uzhavan-pest.md",
+      "sha256": "21e74029a640094c14454fc2db81a907fea0fa3f71dbb5b207280c681987466d"
+    },
+    {
+      "path": "public/registry/dossiers/sys-vlog.md",
+      "sha256": "d913966dba23e80fb9c24cb881ed3781f3d064baa26601cd7fd18ae78267bde6"
+    },
+    {
+      "path": "public/registry/dossiers/sys-yaksh.md",
+      "sha256": "f94dee95f5dc63a46066a61138c76b211eda3e4a8cd309f60b1b42a959486d5b"
+    },
+    {
+      "path": "public/registry/evaluations.csv",
+      "sha256": "a4159b38718529561f8fb44e9a29eb5f5a074aa1568a5d6feaaef6ba87e3337d"
+    },
+    {
+      "path": "public/registry/evidence.csv",
+      "sha256": "ca8cfd0a75307f093a782ee1792ab892c9a39bf279dc0e8645543d2e65365784"
+    },
+    {
+      "path": "public/registry/evidence_links.csv",
+      "sha256": "bff237523274c8c70c96525c3e83d63446a10ca9d513d16cf2f56b7164127970"
+    },
+    {
+      "path": "public/registry/institution_coverage.csv",
+      "sha256": "488d34ef69447f40193d1034ec42d0eccdb914f487376230a50fbc5413a8f96f"
+    },
+    {
+      "path": "public/registry/institutions.csv",
+      "sha256": "005185d4f5c3b77710d5702973d7040da73c64c8734d06f3bd459323600494e9"
+    },
+    {
+      "path": "public/registry/issues.csv",
+      "sha256": "6cccd0d10e12546e0f99b9a80bcc654caaae4cf54f516998271d64c56e703e8a"
+    },
+    {
+      "path": "public/registry/manifest.json",
+      "sha256": "dfd85550feb443a4397ff8e1393d5c2295c27953c5ee68f986bb8684d179657b"
+    },
+    {
+      "path": "public/registry/manifest.sha256",
+      "sha256": "6ad6dcdbe567bcc62f1506935ca9b8bdc91ce82d8549feda4f8c889b162f8094"
+    },
+    {
+      "path": "public/registry/metrics.csv",
+      "sha256": "9ec560ee5b230b10f00739e3bc5eea3f97684864be873709f300a6c8f906714b"
+    },
+    {
+      "path": "public/registry/policies.csv",
+      "sha256": "d2404936dc338f25bcc91c0fe4dadf5c16aa1936019175396528dca8fd2b2fc8"
+    },
+    {
+      "path": "public/registry/procurements.csv",
+      "sha256": "2cb38038b593c91eb1a30b7c7c7dd8f0d68ce83e1ae50686d4691105e652adfd"
+    },
+    {
+      "path": "public/registry/queries.sql",
+      "sha256": "1162b90b161cd1daf61c37024e936a32519d48aae8787a9cc29a38030ed5cc0d"
+    },
+    {
+      "path": "public/registry/retrieval-log.json",
+      "sha256": "76ce71862a7bb38bbc8349835a7ab6020a3ffa67b65b933645a483e331b97ffa"
+    },
+    {
+      "path": "public/registry/schema.json",
+      "sha256": "2a12db1093a6b45cd1de3f5fe3a5637c519157950dadc652efe67cb05667e9cf"
+    },
+    {
+      "path": "public/registry/search-log.json",
+      "sha256": "d2166566eb7307fd96636c83d3c6b16626c61439c388b9d705d658e401613376"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-001.txt",
+      "sha256": "eb180d37e877bb6f5f1ebef2dca1d9569fda37fe3413dce4828292497c318961"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-003.txt",
+      "sha256": "98b280e2e15279bf5973878251a2d7c8a34d657db37df6e2faab9c6dd8d8e7b6"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-006.txt",
+      "sha256": "4cfcd1ac5e85a84f6cb7117bda6a5b92fae56bc25c74e982eec9d616b7b29dec"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-011.txt",
+      "sha256": "4a59f3ba1411d07345f4dbe0382215dc6dd52b9190593057ef6f98f22f398287"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-013.txt",
+      "sha256": "ad79db688721d6342ccffb9ab0112b3ebfd10530bdf61b8fdc35c23a071fe9e8"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-017.txt",
+      "sha256": "6bb7b69ccaafece5e6828dee2e7ad4ec45f974acf6f3a181f2444ed7bc8caedd"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-020.txt",
+      "sha256": "7b0b6fd95b4489d078e4d54067755d5195f26e262f30ff46f149f3cdfde7387a"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-021.txt",
+      "sha256": "b004e905420eb1c864fbdcd623bcc91c162471542338049be87345ea8a946c2f"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-023.txt",
+      "sha256": "eaae329a33bae3e47f2cef679632e637684fc906d50a689f01e538c317a90be4"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-027.txt",
+      "sha256": "232af0b2eb26dabf99bf525c45a7db40b0e2500bd9bd582f9bc374f2326e7f26"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-034.txt",
+      "sha256": "c56197abe2567432866ca9269f9f048131abd3aa21beaf590e338a84cfb2b521"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-035.txt",
+      "sha256": "e9ddd1b6cc230ab3471c05df3ce3bc5489b5d29ad26e24442f8d02e175c8f3e9"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-036.txt",
+      "sha256": "07c8b5f26535831f6309e50c5a995467598d59367a0f2a0b271fe22f8c3348b2"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-037.txt",
+      "sha256": "edbf81e14a3b3daf4889baef0127eacebed44b72a79e7ef67ba3cbd2f1689d67"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-041.txt",
+      "sha256": "4bfbcb6cb7fca0345bbcf6d95cb0291d79d06a9584886e87c4b59f6ae5f7f538"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-042.txt",
+      "sha256": "219383c9e73671299acfb899db792cdc5bbf00616965d7868283168b3dd36100"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-043.txt",
+      "sha256": "faffaa15a8d3ec9d50af86dc896ade21ef6e0fe13f71f8353bd33de82d3ced4b"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-045.txt",
+      "sha256": "2662da61ba37bcd7a44c06a9453a9c1221d390d6b8f88ca271bb2c1e98412129"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-048.txt",
+      "sha256": "81ff4dd826f3dc93f7c4d0c43b5d630376986a6ee63062f4d3eaa18844ce399b"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-049.txt",
+      "sha256": "6723d817db304acf64b838a22b1e468f8bf28ebad244b10098e6307f9b421598"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-052.txt",
+      "sha256": "69cefc80ac22a9aaaffdd5e4521882d0b4347d69679e8bec8c59d27751f781e9"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-055.txt",
+      "sha256": "4f3552a8fd7c648459f3811efddbcedfb046f5d9fc7ad076eac17862491a8e1c"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-058.txt",
+      "sha256": "205afc39cadf870700af9a0a38612ccb49ac94e9622126a06adb560ffa12ba81"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-059.txt",
+      "sha256": "56b6ff4d4b30160918f12b12464a144a48b8d9224de42e5b3df9e03e38bc6611"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-061.txt",
+      "sha256": "cc31a4c26ec5efd2e69ab0b9923a4d2e451ccb61488a3acaa6ae848633da85ca"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-067.txt",
+      "sha256": "ec6ee0cbdfee95300c0eb9d3d60628c84b04407b911f4ad53cf8e17610119fd3"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-070.txt",
+      "sha256": "8bd58e2b9a2d571633771bb1a57217797ce4b05f6123ff3dab316811c73c44c4"
+    },
+    {
+      "path": "public/registry/snapshots/ext-double-073.txt",
+      "sha256": "9fea73fab5d077a6e7d0822b87a06ec714ebb5236af836ee92a95e3f48b77feb"
+    },
+    {
+      "path": "public/registry/snapshots/ext-extra-001.txt",
+      "sha256": "f6a9ef9c917198bcedd35ec62d61bfa0630c53b422f363674628fa74aa4b10f5"
+    },
+    {
+      "path": "public/registry/snapshots/ext-extra-002.txt",
+      "sha256": "f2c1b3f5998fcb8bb6ec121aa8ace7e2fb1b9e6bece2c55ed52de4fa4d29a7fd"
+    },
+    {
+      "path": "public/registry/snapshots/ext-extra-003.txt",
+      "sha256": "c9c4e2de0623d0183b56c4cf0ed2eb14f6d86ba6f1d16c15ff98ef5199530e64"
+    },
+    {
+      "path": "public/registry/snapshots/ext-extra-004.txt",
+      "sha256": "7fe440d4027ca524c922cfcf3306f1dea785edc5c3be0fd553062f13ee8eaf48"
+    },
+    {
+      "path": "public/registry/snapshots/ext-extra-005.txt",
+      "sha256": "ecb8b992ece8abf399ad763fcaa462d7e2944dadb7042d9018cf24919c67244e"
+    },
+    {
+      "path": "public/registry/snapshots/ext-extra-006.txt",
+      "sha256": "be0c968f6c9f2b1eafce7bcf48a038e187a8d1bd01a89779584f5ea3b90b71ea"
+    },
+    {
+      "path": "public/registry/snapshots/ext-extra-007.txt",
+      "sha256": "7e57c0dbddaa2c141c68217cd5a76f4f24be01a607abb5eb2e0cadb9ce32c118"
+    },
+    {
+      "path": "public/registry/snapshots/ext-extra-008.txt",
+      "sha256": "0fac7882e16bda03abddc4e8c1c7fff051d10098dca3bde2da0049bf113c7d16"
+    },
+    {
+      "path": "public/registry/snapshots/ext-extra-010.txt",
+      "sha256": "706eb470fc56adeaf33ffcb120c7704f22b21717ab9611ef4a6d25d2626c0ca7"
+    },
+    {
+      "path": "public/registry/snapshots/ext-extra-011.txt",
+      "sha256": "1d0aa6be4bb55b087d6b2750e0357bb38e1a199f0f52a0de3d3316b686b963d1"
+    },
+    {
+      "path": "public/registry/snapshots/ext-extra-012.txt",
+      "sha256": "a2d592c1faece35f97afb5b0537a09ad5573a0a063c759babaf1d32e8252f3c2"
+    },
+    {
+      "path": "public/registry/snapshots/ext-extra-015.txt",
+      "sha256": "2f786f483223236f20f75d0e87c678ac41539c0e9053515be57314c35360d773"
+    },
+    {
+      "path": "public/registry/snapshots/ext-extra-016.txt",
+      "sha256": "742686ecc4220dd0513f81a24e2a756fd07b8659432061dff6e9a7f2853295ff"
+    },
+    {
+      "path": "public/registry/snapshots/ext-extra-017.txt",
+      "sha256": "621141c37b683e64838968fdb37c066e07f9785065e3164a0c099bb9c2af3e05"
+    },
+    {
+      "path": "public/registry/snapshots/ext-extra-019.txt",
+      "sha256": "bd7495e4d717a54fb67cbdb2b96fda98aae2246e2e94f4349ddb0ae025af7cf7"
+    },
+    {
+      "path": "public/registry/snapshots/ext-extra-021.txt",
+      "sha256": "65a0bcca9c8fac4450eeafbf78e7a5464e7e54a46303f7535f0cfa811af61c48"
+    },
+    {
+      "path": "public/registry/snapshots/ext-extra-022.txt",
+      "sha256": "4dedcd556df899af9e2450030e58eec714f8b2fc64c4be1092952d0461e7e8e4"
+    },
+    {
+      "path": "public/registry/snapshots/ext-extra-023.txt",
+      "sha256": "767ed998479f3c19fe8eb1e20c3ca4425e0d2d8ac3420479ec9d63b348e67d4a"
+    },
+    {
+      "path": "public/registry/snapshots/ext-extra-024.txt",
+      "sha256": "acac4a4608d4717dccfc3a37098c8504c7fea4fa7190082fcf70ec5926099fbf"
+    },
+    {
+      "path": "public/registry/snapshots/ext-extra-025.txt",
+      "sha256": "6534fc3c620d767d5c752869920f36f3b4fd859200ae97eddc44b6fa6bfa6fe1"
+    },
+    {
+      "path": "public/registry/snapshots/ext-extra-026.txt",
+      "sha256": "5b6900a7e931f6a4eb8030b0b6dcd927b6e57309a121679d62f09e74b84b04f2"
+    },
+    {
+      "path": "public/registry/snapshots/frame-abhigyan.txt",
+      "sha256": "5d4a6208741c880e9bdb29e2f0956047fc4e49dc61bff954eba5b78a467d8c81"
+    },
+    {
+      "path": "public/registry/snapshots/frame-agri-impact.txt",
+      "sha256": "322d1265d87661e52e7f18520e51922ed230bfe82cf4eac1754231296a7c0848"
+    },
+    {
+      "path": "public/registry/snapshots/frame-cctns-timeline.txt",
+      "sha256": "a3eef4d922402d31035959c3af0c59c0ec22441af52dff0250e845e9a8754f4d"
+    },
+    {
+      "path": "public/registry/snapshots/frame-court-guidelines.txt",
+      "sha256": "c5da409484f6adf4e134b96e54473eb730bca2f422b1ea7637a055674c28cad5"
+    },
+    {
+      "path": "public/registry/snapshots/frame-court-tender.txt",
+      "sha256": "ff798bc97510af986acf7c3af05a42b0ff6dc9010c18b95d14e38756d4c4b7f9"
+    },
+    {
+      "path": "public/registry/snapshots/frame-cropic.txt",
+      "sha256": "469e8aa3376b0ceffd9748071c420a364740729f33afcb01ed620b582c631d78"
+    },
+    {
+      "path": "public/registry/snapshots/frame-education-current.txt",
+      "sha256": "3ddb6f22c2736e83e0ee376641aad97a7d22071535a43dd878ff5a9ed89a168a"
+    },
+    {
+      "path": "public/registry/snapshots/frame-education-tender.txt",
+      "sha256": "f7ad7c367e7d773e52f15500b17631db6a2a9a0a31e15d4ba67f726cfad05ebd"
+    },
+    {
+      "path": "public/registry/snapshots/frame-ejaadui.txt",
+      "sha256": "f5c9f9588aec92357a78ed4cee2169c22dafed0c1e6db3460e1bd1c6d3ea97da"
+    },
+    {
+      "path": "public/registry/snapshots/frame-health-parliament.txt",
+      "sha256": "17e7bde49e39c4f414979874eae9c029aa5da6f526ffbfb8e1568404e2f77953"
+    },
+    {
+      "path": "public/registry/snapshots/frame-health-sahi.txt",
+      "sha256": "25e8944180914c8badfb9664d86c1faadb73fa47b30515a481617c50c5c5aa32"
+    },
+    {
+      "path": "public/registry/snapshots/frame-home-cctns.txt",
+      "sha256": "cb86701db1792feaa627ca343950f1069f42b68452cae68c463eae7ce7fd2af8"
+    },
+    {
+      "path": "public/registry/snapshots/frame-madhunetrai-pilot.txt",
+      "sha256": "9c5ae4459b61e3db3ea8fbffb08318f4288ad8b42f769ea74e5b6faaa3e6f0cf"
+    },
+    {
+      "path": "public/registry/snapshots/frame-madhunetrai.txt",
+      "sha256": "4b10446d3566d89c723c1eb0f3e59d06033eedcd2a2613b365dc63f172f59bab"
+    },
+    {
+      "path": "public/registry/snapshots/frame-npss-project.txt",
+      "sha256": "b9ac452a2471a07301b4ffc5d04c1f0c4a76dd8cc1d4f11259ab6c0d8df1fb4b"
+    },
+    {
+      "path": "public/registry/snapshots/frame-npss.txt",
+      "sha256": "ce756e2ed6939435c604878a26b65aeee5e7f42a8d55f149db0de645540c54ea"
+    },
+    {
+      "path": "public/registry/snapshots/frame-rail-ai-primary.txt",
+      "sha256": "b971f5a294f0b5db523715793ae2916d28d090a31cfd6ed48041e2b2344df46a"
+    },
+    {
+      "path": "public/registry/snapshots/frame-rail-madad.txt",
+      "sha256": "70a0d246d83bc675486b9f76304d37288bcdae5cec6f53eb38eec17845e2b4d1"
+    },
+    {
+      "path": "public/registry/snapshots/frame-rail-security.txt",
+      "sha256": "10c75bbc49deb9ef052e2119e09e29101cea8238489840461d2a3685bd97cfb2"
+    },
+    {
+      "path": "public/registry/snapshots/frame-susahyak.txt",
+      "sha256": "fdd583518291866c52e229c0b9cea0c096b92bf00012915917ada2b6f6cebb93"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sc-001.txt",
+      "sha256": "fa3f739c360456b415bd7160f9ac861ae0d20014abadc2004600f043c1f9b0c4"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sc-002.txt",
+      "sha256": "c6665dbd3fe0c805cdcc43add4cd0f5de6107322a5d6c131af55a91d826eba0f"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sc-003.txt",
+      "sha256": "8ed8187cbce6536081e23e70f9b3b28f1fc83b188abc89fdf70643f5fcb0e08a"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sc-004.txt",
+      "sha256": "b7a44c257ccccd1abf4f79a32a3377e826b40e93927eeedd24b8c4c5d783214b"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sc-005.txt",
+      "sha256": "5e891ea3bacb33d2d92d15b22812eecfa2b68281718447616fbdbcbf01b3fee0"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sc-006.txt",
+      "sha256": "bd6ceb25ee2faecfc23b91ad7b1158061bd77efb446e14fdfd3fbc6a86144039"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-001.txt",
+      "sha256": "7317975c2f09dfb64ec435bae92f0f2e62ffbdb82c4253a81e87ac1992bba04d"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-002.txt",
+      "sha256": "fb44404946b99db78cdfaa549c2ba96c7f22f6304a93c6d95d8e4c819e1a800a"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-004.txt",
+      "sha256": "461e7912549d4c9dd5426370c536fb0a6e596c3eb7b8e5b18b644684ea1abcb7"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-006.txt",
+      "sha256": "42da04a07c390086792bac08ed52982c9ee7b216532337c645aa89c9e1ae3819"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-013.txt",
+      "sha256": "e25576701c99be5fd22dea6272162d00269740c114c874a38c2a019fb03a813b"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-017.txt",
+      "sha256": "f10ef56fee1f9462444ea4a258fffa15bfa8559041c775bc54932e1d5e61c77e"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-020.txt",
+      "sha256": "e65d43efed80facc5b9585ecb94185a0d55e4b192b8d8c8afe60b6af50d49cea"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-021.txt",
+      "sha256": "baabf1bec2fe6d9d907e0e84c8a01438f660887d15b2203c6db1920211ef17ad"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-024.txt",
+      "sha256": "b30e0790a0c75fa7b2c8cd0dda028d9a6bb84b9005a772bd420ca8347af8851a"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-025.txt",
+      "sha256": "de78f8bdcbc843aa0b3fa60e5c0c785b797017ae627b82fd9d512b8559419cad"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-026.txt",
+      "sha256": "dbbd87cfd03a4387ff03d4defdbb67490c65ab7c62616ad785c174adb221ae11"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-028.txt",
+      "sha256": "5c98209295ccfc87d254413804cecbe729b3cd1604ad17cd1052c3d3a6dad41b"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-030.txt",
+      "sha256": "fc5296b256ea534e01064bba40dd09f92d4d131168cfd8cf26fdf8c9f86ae93b"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-031.txt",
+      "sha256": "224eb2f285035426bf1b873e1b43bde0f85e6f80b8ef7128b29b8eaf05cda889"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-034.txt",
+      "sha256": "43d689733e4ce65143abe3c1d558c23281d0c00a650d43bf6eef08f5d3a1d903"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-036.txt",
+      "sha256": "b0784c8482ea3ed2af43555a5ca0f9437d1b40c5f04632e4f4ab1ab11a81788a"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-038.txt",
+      "sha256": "692d2e292a08358dcf697a00de6937c8222c6344af1a197b1ffd5b42b64f2078"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-040.txt",
+      "sha256": "039cad5a73a3a53be9f50c24093aab2158b01b841245b649d4bf93ec17742963"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-043.txt",
+      "sha256": "d1e98f0c5bf1f240bd666611b984b9f855ebb1e7be3e36106322e478d52babb3"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-044.txt",
+      "sha256": "67e7a9128bf8ccc95585b84fe0f8ba001670ca9807b367223081633624dccd89"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-047.txt",
+      "sha256": "ceb5a58d51721a95626bb4d0ec063eb2e7076a9344676961aa968e01e78bf2df"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-049.txt",
+      "sha256": "f55ddbdcb5f38ad7cf0a56961b430af338ecf590e02d6cb801eebc9f503a6cca"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-054.txt",
+      "sha256": "25ab18ba9957e02c52477a7657c85c502acc69d639a65a22469fd7466bbd0fb7"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-058.txt",
+      "sha256": "6cdb368fb6c8a03842247153a04353e6382773b22177aad74e2da2ce5803b6b2"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-060.txt",
+      "sha256": "e06cbac757e174e3344818673285c6df01fae574390f0f551621407a5b45dbdc"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-063.txt",
+      "sha256": "8402123124127a9190d131812ecde75e93253a75d2baa7ba9a8c9e81d2533179"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-066.txt",
+      "sha256": "f36e3cc8bdeb403df0460d46342a2c335eced259d65b0f36abcaf2b2ce0ac168"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-069.txt",
+      "sha256": "b756d20dd45e8f73e8decf16ed9eb410f03249c5329d981300fb5a6894301c75"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-070.txt",
+      "sha256": "b5743ffce07ddce2a4fb5b1fb05cdfffc2f021ccc3a3fec306cdabc7257cefb6"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-072.txt",
+      "sha256": "24dae45dd0d4a69af15d9fdd1127ed274e005553f325860c5c29993fa9771a9f"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-073.txt",
+      "sha256": "73906d67ff0dbb818cf42873286ecfc7a088d8cd648b6b14f0e966bf188fbbe4"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-076.txt",
+      "sha256": "59c59a8876fed32a0607b00ecad558385ef16d0aa26ebe30d3ba8354d4341562"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-079.txt",
+      "sha256": "bc30a71b969c03ed7dfeccf30a70a4a63b63fab78868072576d56fc768b92768"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-080.txt",
+      "sha256": "1706bf1527df349cac6c67e1d5d06d87a92f14c5eeb166702a834731559df79f"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-083.txt",
+      "sha256": "ff349768486a3de97adf1778bee2756f1f45969a636064c2c731b732a4f7ee25"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-085.txt",
+      "sha256": "b3060fca5d3a1217298d8ca5b3d992fcb4d1e743b0f99396ee3372e1d0cc031d"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-086.txt",
+      "sha256": "640d5bdc529663053427f25f351035b91b00a0e78a7f7ed9f278e5da444db65a"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-087.txt",
+      "sha256": "9d0d5efc588ec2069fad65ce2c0d2177abb7e823e246cdf53ccec983a8485e64"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-089.txt",
+      "sha256": "289b143778a7d13aca48199f099020103eab70e36cd9bb65519c5628be9fbcec"
+    },
+    {
+      "path": "public/registry/snapshots/grow-scale-090.txt",
+      "sha256": "3f1a74a0c681692f9c0cbecdee5cad59fb7db9385e416f4e19700866afad095f"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sf-001.txt",
+      "sha256": "164aff91ba47e810424f7e4352da4cc42bb7b3513e649ed2a1cb940e8d3090d0"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sf-002.txt",
+      "sha256": "bb5c6dd0984a9133a989f4ba33ef0cc5d14e5716423d598ed9e841c1f59d4c85"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sf-003.txt",
+      "sha256": "04dc557a5bf31338187694d3119d72498b99eaef566d8ba448e96a7497245ce4"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sf-005.txt",
+      "sha256": "86bf6d4cbddf51c039b112b23b140532544970daa4a1794693a3f5685e4865b6"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sf-006.txt",
+      "sha256": "0acb6311eaad37b9397cf8b2b674ec0a3fa8ce08858957c5a743d6ac8c8a9c45"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sr-001.txt",
+      "sha256": "1d9a5dbc942c60d27da43b695c745116c2a071dee9a95939477832ba6005f8b8"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sr-002.txt",
+      "sha256": "4a7c7c970b375e3ea73fe9f22953a4d11422de6a76cda62a0a7707dd1f0c1da5"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sr-004.txt",
+      "sha256": "c578d8e7a8180f425bb68bf2cac975db402bfc7125d0a0207bf1fdd91dfb00bc"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sr-008.txt",
+      "sha256": "5565df825a1cc5bb65720592cf2d3d9a3b05a87611a380863dd09298005edbd1"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sr-009.txt",
+      "sha256": "aeee37f3ba55c19682780ec948ad1a294234a0e012e15425bc7fa625056aefce"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sr-011.txt",
+      "sha256": "cc27ae8e59244787f19bb050f17d6e9ff0b63df07ba5437ebeebc24733ffedc0"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sr-012.txt",
+      "sha256": "ccba44f56fe9b907f7f9430a4e4e966b48a91f120110bed5030d87ae11ad5acd"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sr-014.txt",
+      "sha256": "07b72a91bb1b9b321a44f8aa14760e1bddb5a990cc0f2d845064a44f9edfc265"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sr-016.txt",
+      "sha256": "cb409e37c8d5a22071fa802219ab4f205f2be230b405c09daaabacd8fd50c64e"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sr-017.txt",
+      "sha256": "c235316368f8b9d29b232f3b066a4e2293016e0154270527671e2e585b94f807"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sr-021.txt",
+      "sha256": "8839ebc7f01ad848dcca2fe04c4edd8c357db816efe1e58150d8e0f205e33301"
+    },
+    {
+      "path": "public/registry/snapshots/grow-st-001.txt",
+      "sha256": "20bd07d0878e662bb78a265e8024e4659c090c3419fc73ec867cc9964a348dc4"
+    },
+    {
+      "path": "public/registry/snapshots/grow-st-004.txt",
+      "sha256": "caa0b807ee787c5b7cc80d69f46f9630e6ddf61793059839a2d4341b64e93b4b"
+    },
+    {
+      "path": "public/registry/snapshots/grow-st-006.txt",
+      "sha256": "ee611d3feec5c6c33892296e21890803b805713d4d6b4bae5875348caf745281"
+    },
+    {
+      "path": "public/registry/snapshots/grow-st-009.txt",
+      "sha256": "f0eaf2502c0826bbe89ebc6389ea6873ffbd8149da04503b995f965b9d5c9318"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sx-002.txt",
+      "sha256": "69ba07f6c98d17ecb9f03c55f72305cb022ae3aa8a5c82462377e419f78a9591"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sx-003.txt",
+      "sha256": "453ba6bbd1feb84db90385ec15b9a99d4017a08546a98c6abfa5c715bccdf2de"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sx-006.txt",
+      "sha256": "da2ce6d49c2245ef7f92023c52d92559b911bdf682dde1a1aacb1f636f501225"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sx-008.txt",
+      "sha256": "72aaf6b82433adf6fa05dc7c4e8c896b6903f443f73b318eeac85212d43f83a9"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sx-010.txt",
+      "sha256": "c6ad0aabe6004320179d1752ade84166ff515d3ee1767bac07bc75baa8882f7e"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sx-018.txt",
+      "sha256": "b99dba97b9a51e80adc42a4da0beb722d2c1e2fd05ff22b878c309adaa9605a1"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sx-019.txt",
+      "sha256": "f400b4031f9c36a9b0bfe19154871904f4abd8f8c57032a365312eb44d0b3bb9"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sx-022.txt",
+      "sha256": "1bf76300d3b73378e98b4bae2b9fc2e36a3e82f2346873e2107d6f6195f8cad0"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sx-026.txt",
+      "sha256": "3b22df157d4fcca8b81f17974cc950ad917ce90ac183e247fcbe6db9c10ada29"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sx-029.txt",
+      "sha256": "a31466e2a054ce4223085cc855b334891ae3685623564539d43040211c8106d9"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sx-031.txt",
+      "sha256": "a7e461887033ce7a0e52b26daaa6a03e1ae8eea4fff5a1ca39c341985a55e7a3"
+    },
+    {
+      "path": "public/registry/snapshots/grow-sx-033.txt",
+      "sha256": "ad9bb32b0989a84dd62aeeccd5ed37359ca1c620402cfaf3c9c18b49d677b696"
+    },
+    {
+      "path": "public/registry/snapshots/impl-mission-status.txt",
+      "sha256": "70ef28faafa7deb35e68a9316b104dcf68b810b02cfe879b498087082933abc4"
+    },
+    {
+      "path": "public/registry/snapshots/reg-bhashini-scale.txt",
+      "sha256": "31a9c335ddbe24babda196b97c3f563db123ef70e8d1b65175660236ce3dab4a"
+    },
+    {
+      "path": "public/registry/snapshots/reg-bhashini-terms.txt",
+      "sha256": "6bb1eed8f75f1b15dd175286fa54bb83c6db7c34ebfedb862c13e0eab3f091b8"
+    },
+    {
+      "path": "public/registry/snapshots/reg-cag-bhashini.txt",
+      "sha256": "1a835be1faf176dddcdc2644ab283bfbcbd862268c0bbe1012fa21a2a1bc822a"
+    },
+    {
+      "path": "public/registry/snapshots/reg-digi-guidelines.txt",
+      "sha256": "53a970e7e532be8921dadeb0430af2632339e3a568a3c3b0b4426cc86a92aac6"
+    },
+    {
+      "path": "public/registry/snapshots/reg-digi-parliament.txt",
+      "sha256": "a5287ee4790eaec08fe9ce032e6de29b6546acdcd28026878b72d01347e6e074"
+    },
+    {
+      "path": "public/registry/snapshots/reg-digi-privacy.txt",
+      "sha256": "7eec41cefe4b2f484d50ebf554a6de76de3345d2a8ab45a83a7fd95c2feedae0"
+    },
+    {
+      "path": "public/registry/snapshots/reg-digi-scale.txt",
+      "sha256": "2915cb4d23d207485efcd6a3704165b64034fbcf2a75afeb29f492871c7b16ea"
+    },
+    {
+      "path": "public/registry/snapshots/reg-ids-award-report.txt",
+      "sha256": "450650153f9b77540ee93b3df797367c15a119601aad123b0c7e671e9e47b233"
+    },
+    {
+      "path": "public/registry/snapshots/reg-ids-specification.txt",
+      "sha256": "aa69df95b469a92ac721f87cf0e31578e1ae90e8775762efd4b582f767c76371"
+    },
+    {
+      "path": "public/registry/snapshots/reg-insight-contract.txt",
+      "sha256": "10be3f3cdee59b83c4c1d119dad33ccd5700d7cf8cf5e54b289588c85c3ef37e"
+    },
+    {
+      "path": "public/registry/snapshots/reg-insight-portal.txt",
+      "sha256": "da8729ad322454ca201e52ff75290d97a71ee0b517181cf01a1c2f234bf8312b"
+    },
+    {
+      "path": "public/registry/snapshots/reg-irctc-interface.txt",
+      "sha256": "0d892e80e89b643fbf6bbfc34b40c3fc195d14dfc07e9d3e1a776ef5232d617f"
+    },
+    {
+      "path": "public/registry/snapshots/reg-irctc-report-mirror.txt",
+      "sha256": "0798016dd4aa84ad69f68db0af415385473cff6346db4d547f61efef0da0e40a"
+    },
+    {
+      "path": "public/registry/snapshots/reg-irctc-terms.txt",
+      "sha256": "7c1eb64fd3e2f7868d3bbcda00ed0fe77fcc94d3d2b733fdbff1b12953fefbd0"
+    },
+    {
+      "path": "public/registry/snapshots/reg-kisan-developer.txt",
+      "sha256": "0e111fc3176ef9cbf9772adc595694590d4db282f6a8c3bf308c7ac347896016"
+    },
+    {
+      "path": "public/registry/snapshots/reg-kisan-parliament.txt",
+      "sha256": "fadff876d85bc7b6914c19afe616951659bc64d25fb77c6d23c07600bcaed668"
+    },
+    {
+      "path": "public/registry/snapshots/reg-kisan.txt",
+      "sha256": "6c944d13fd5badf3a08bc4c532eddbc9cf7518375773056e0344d95428469dd9"
+    },
+    {
+      "path": "public/registry/snapshots/reg-paarvai-listing.txt",
+      "sha256": "1ceebababf726cc74912046c605cc34c128acce2e4c3fd3ce139f370286a5929"
+    },
+    {
+      "path": "public/registry/snapshots/reg-paarvai-state-case.txt",
+      "sha256": "8b621ae99b13c7de2d9bade3b696924e27b9e98b94d3fa81359d2503b59e4ce8"
+    },
+    {
+      "path": "public/registry/snapshots/reg-paarvai-study.txt",
+      "sha256": "942fc22ae5fd5b467585a3d777007be1bd7456f38836945f4cda969696b0a19e"
+    },
+    {
+      "path": "public/registry/snapshots/reg-plcs-faq.txt",
+      "sha256": "766bee6c6504c00b7a75fcd603c9235f80b09d1672bdafb36d926a856da1bc13"
+    },
+    {
+      "path": "public/registry/snapshots/reg-plcs.txt",
+      "sha256": "2896a8bbeeda96dd0b76824cc859d1d813fce83da7e817523dbef1d9e6a28526"
+    },
+    {
+      "path": "public/registry/snapshots/reg-qxr-bmc.txt",
+      "sha256": "e89490fd07a2903858a867e3908fa8f16a2b5f8aba410cc8b97cf052c589e3af"
+    },
+    {
+      "path": "public/registry/snapshots/reg-rail-current.txt",
+      "sha256": "ee05dc43c68e5024b2bd20fc5cc36427406dc2056e244439651e512b9dafa330"
+    },
+    {
+      "path": "public/registry/snapshots/reg-rail-ids.txt",
+      "sha256": "0c833d6263532dc1f84d830fd6c25abdd41eea5f4089fa7f7d211b19ea659497"
+    },
+    {
+      "path": "public/registry/snapshots/reg-tax.txt",
+      "sha256": "6f05c2598491e8e71c022d414c97d289fd8fc8f4335645ebe450527984a42837"
+    },
+    {
+      "path": "public/registry/snapshots/reg-telangana-esd.txt",
+      "sha256": "a7504fb5c41b7c9acdae2c3307f4b22269fdaa76b8acf20e13d400414db17dfa"
+    },
+    {
+      "path": "public/registry/snapshots/reg-vistaar-portal.txt",
+      "sha256": "3958e02c4a6d71cdc5dd2e5173aec53cf07be4289a618f45f298fe5ee0f8ff52"
+    },
+    {
+      "path": "public/registry/snapshots/reg-vistaar.txt",
+      "sha256": "c92378dd52a3e34cf2566d8c87bcebabf80a9e8276430946b37f19cdb63ceee1"
+    },
+    {
+      "path": "public/registry/snapshots/service-court-draft.txt",
+      "sha256": "f978d27cceedc5c6cd3cf3bba0dc265daeed691be6759ff36eb47b7f88e89e29"
+    },
+    {
+      "path": "public/registry/snapshots/service-cyber-winners.txt",
+      "sha256": "78d2ae304866b833180f6c3006e97009f2ffa24c4832d5bc66b31f070a344526"
+    },
+    {
+      "path": "public/registry/snapshots/service-health-developer-current.txt",
+      "sha256": "08bb01413ed78ef9a0ab11eb7126db6d8790fddacdeac4dbd4cbf47af404adae"
+    },
+    {
+      "path": "public/registry/snapshots/service-health-developer-submission.txt",
+      "sha256": "2086904a44f74546d681d1bc6efd673f4677bcb48bb6d8397196f51c2c993e22"
+    },
+    {
+      "path": "public/registry/snapshots/service-health-implementation-study.txt",
+      "sha256": "e41e3038afed0761fe4b82718a3e8c2774ac38fe483f4aff89ffa9618263b378"
+    },
+    {
+      "path": "public/registry/snapshots/service-health-local-study.txt",
+      "sha256": "c9f13801fd4a1e19dc65b4fd91ca635f2d4737a0046ed5f0743190fc1b6c902b"
+    },
+    {
+      "path": "public/registry/snapshots/service-health-parliament.txt",
+      "sha256": "c84d7304b89233ca57e74190587dcbd7cbdf4d87c4589f5fedeabcbf180cfb3f"
+    },
+    {
+      "path": "public/registry/snapshots/service-health-platform.txt",
+      "sha256": "c465dbb4f81815bbae3359b4aea34c580038ba811839c72a684220f408a5958b"
+    },
+    {
+      "path": "public/registry/snapshots/service-health-practice-guidelines.txt",
+      "sha256": "ceeb1d4c98d31482452158bbe457ad6a35491ed59ff254bf40d3e2c0280ea0bb"
+    },
+    {
+      "path": "public/registry/snapshots/service-health-privacy.txt",
+      "sha256": "e7f999eee10354808b366d5a04dbbe0f707a4b646066194573087bdd8e3b134d"
+    },
+    {
+      "path": "public/registry/snapshots/service-health-report.txt",
+      "sha256": "e9a8442dd9717c083d7ce49b80470c06d34ae9e373b67eb58a2026b5cc966924"
+    },
+    {
+      "path": "public/registry/snapshots/service-judiciary.txt",
+      "sha256": "a3236ad01daf5193a0d1b789fc969b15adb6a1ba59b1a87c6087f14e23c0dcab"
+    },
+    {
+      "path": "public/registry/snapshots/service-police-reporting.txt",
+      "sha256": "ceb7b15e4907f9a076ce0ca966bbccd9d9aaec74f8975c5901752194ff66c1f4"
+    },
+    {
+      "path": "public/registry/snapshots/service-police-summary.txt",
+      "sha256": "aa66903911d7f76c2992a8120249641b54f5c7c32f292a1ed71503021143cc79"
+    },
+    {
+      "path": "public/registry/snapshots/service-police-vendor.txt",
+      "sha256": "3b5a0351c70ba381ac66eb3b6744ec2018bc353e026cf0c872144f918170cca2"
+    },
+    {
+      "path": "public/registry/snapshots/service-translation-guidelines.txt",
+      "sha256": "dc13c95dc0ceeff2f0b22ed7c8553cd494e42ebcb0ee1a31fc2131e709ee1409"
+    },
+    {
+      "path": "public/registry/snapshots/service-translation-vetting.txt",
+      "sha256": "ab698d0968f477f6e95d61b880734a095235924d9a9fbd0c09ec886687340141"
+    },
+    {
+      "path": "public/registry/snapshots/service-upsc-live.txt",
+      "sha256": "a264fffd356ef71568d117e1fe98f300d619f40a60c38c3ab200bc97159ec689"
+    },
+    {
+      "path": "public/registry/snapshots/service-upsc-october.txt",
+      "sha256": "9e23bf2bc0bdc9225cfa7b5e12143b2ad630ec06940c883e9e1a8cfa62d4e670"
+    },
+    {
+      "path": "public/registry/snapshots/service-upsc-tender.txt",
+      "sha256": "8deff355a1c8e5f79a49d39728d3a844eb40f733c51d10cabb0ad695bd52f13e"
+    },
+    {
+      "path": "public/registry/source_rechecks.csv",
+      "sha256": "93aa62907c6d3f6d8de40a125df417046bc17de2d93f42ed0406d618f77c582e"
+    },
+    {
+      "path": "public/registry/sources.csv",
+      "sha256": "fcdb689b7fafb58ce25f4f8212610d6cfd6cde0435ef7bd1d4cd1a6beb90a0b3"
+    },
+    {
+      "path": "public/registry/system_institutions.csv",
+      "sha256": "ecff853bed4b8333ba3ba31490d3114e03aa365b23123b6987d84ebaac8782a0"
+    },
+    {
+      "path": "public/registry/system_links.csv",
+      "sha256": "9ab70c23ad4d43fa3ccffcc2af73e7f508ed36a858106ebb12076dd72a4e62f3"
+    },
+    {
+      "path": "public/registry/system_policy_links.csv",
+      "sha256": "d08d4340e7ead56278781d33db69e5eee1bfc47bd47d81358eee731ce4846885"
+    },
+    {
+      "path": "public/registry/systems.csv",
+      "sha256": "af64c17dfbfb4bc06027d2383fa6a25806a7046e3963a1b613be529a3dc911ae"
+    },
+    {
+      "path": "public/governance/ANALYSIS.pplx.md",
+      "sha256": "b5fcacef9476b3c03c3c6abfc08914b60a2efd6825f858dc17605f913f553290"
+    },
+    {
+      "path": "public/governance/CODEBOOK.md",
+      "sha256": "5c8a6e30cd101917eca1cdfe9fac879cd80b9c1f5108b6ff38edf375f002c526"
+    },
+    {
+      "path": "public/governance/METHOD.md",
+      "sha256": "92cc259b4a97378c5f9eb3cd61196c0dcec91e949218df85d92ca1af523e10cd"
+    },
+    {
+      "path": "public/governance/REPRODUCE.md",
+      "sha256": "61cb3f02ccaa8edc2bb1e12edc0c1433420819aaff1a54aa9956e73928d529fe"
+    },
+    {
+      "path": "public/governance/analysis.json",
+      "sha256": "8fd5f839b02403ccdef97ab99b4e070f454ed5d4a8a71ead2bdd6d46cae7afd0"
+    },
+    {
+      "path": "public/governance/baseline-registry.json",
+      "sha256": "634ee2b5dafc88474bbe9cebdd5bef0f9895b36dcf12ec09d632af65c6404e2f"
+    },
+    {
+      "path": "public/governance/build_governance.py",
+      "sha256": "3ee43d5a05584233ae01272ff832209024cede7a655cd273eff1f1bc61f0706b"
+    },
+    {
+      "path": "public/governance/candidate_decisions.csv",
+      "sha256": "7b0dc07454621cad9e6b9b05f711a32bedd5538659d7d54137f479a20314b159"
+    },
+    {
+      "path": "public/governance/complete-governance.zip",
+      "sha256": "100ebfa52d919fa2e2de5daa14b87e1a3ef8582ceda72818811a6642f47b68e5"
+    },
+    {
+      "path": "public/governance/curation.json",
+      "sha256": "879adc4842e332d3aab169738e89cb8f9178d8aa1d29d9a6e42ed3aeec2512ed"
+    },
+    {
+      "path": "public/governance/data.json",
+      "sha256": "d231c33fb616a3204207c692fdaae2b7eef2c525d3e5d5be33a1f0d00c10632c"
+    },
+    {
+      "path": "public/governance/dataset.sqlite",
+      "sha256": "cc55320e68fde019ae88129487094704ede63268b235a2c25b445ef6cbd117a8"
+    },
+    {
+      "path": "public/governance/dossiers/gov-aadhaar-regulations.md",
+      "sha256": "b3900ec676e4a13ca30c32d3fd56967d8ae60956ba71849c9d6040d35e9ce6e1"
+    },
+    {
+      "path": "public/governance/dossiers/gov-ai-consultation.md",
+      "sha256": "3098099de6bdce204d9a126a76bc09903e39341633f15b3df4faa4fd2f4cf55d"
+    },
+    {
+      "path": "public/governance/dossiers/gov-ai-guidelines.md",
+      "sha256": "bc9af14ee52e90c1b817ad3b0529daa864abce2bc373067c6e5a1f1ad17830a7"
+    },
+    {
+      "path": "public/governance/dossiers/gov-aigeg-order.md",
+      "sha256": "393e8e1c8c6ee1775c4dc520e66453eca4268ce822aef358bb1319d744d78ea9"
+    },
+    {
+      "path": "public/governance/dossiers/gov-ap-court-order.md",
+      "sha256": "6728d41739e00a00af02eb8e79938714e83d9096e019ef6550d7c840a0b607f0"
+    },
+    {
+      "path": "public/governance/dossiers/gov-cag-ai-eoi.md",
+      "sha256": "a79148cd7d8690263b3eb9706896990612df85d12633525ad6d2dab036fa81ba"
+    },
+    {
+      "path": "public/governance/dossiers/gov-cert-aibom.md",
+      "sha256": "e11834f9239d8414dbd443ff917f7356b9fb4404054e9c1fd3fb187bb09218fc"
+    },
+    {
+      "path": "public/governance/dossiers/gov-cert-directions.md",
+      "sha256": "69bd48f99e22f9dc415163fedaf63058fde6488f29c7eefc21a0c5b4c6dfff4f"
+    },
+    {
+      "path": "public/governance/dossiers/gov-cert-extension.md",
+      "sha256": "838bd7d503faa7fc1b2dd7186bd4f91b86dae0009eaa53fb28671c65f0ade344"
+    },
+    {
+      "path": "public/governance/dossiers/gov-dpdp-act.md",
+      "sha256": "238452856476b4230e0439a215527b4fae7c99b3969eb797df05925be44dca7c"
+    },
+    {
+      "path": "public/governance/dossiers/gov-dpdp-commencement.md",
+      "sha256": "ecb28e8e40978ef78a1484613e8cb1f267d892dddfd82ea99258a1be52e99498"
+    },
+    {
+      "path": "public/governance/dossiers/gov-dpdp-correction.md",
+      "sha256": "4bb84b28f6d78eb6cd0216fa7c36be544b5a07479c710315f06c2987884c7e91"
+    },
+    {
+      "path": "public/governance/dossiers/gov-dpdp-draft.md",
+      "sha256": "45410319585a471ed2fd9c43e62c8d3ae52cfbc1dd7492ee69d9185c7e1910d9"
+    },
+    {
+      "path": "public/governance/dossiers/gov-dpdp-rules.md",
+      "sha256": "9b882e9b207722cf4b08c52b0e5f950cd7014e476242762671f1d8d4bb40a55b"
+    },
+    {
+      "path": "public/governance/dossiers/gov-frt-approach.md",
+      "sha256": "9d1614ba53397f7ad072bbc46aac48205109ebf7d27a97a388d2aac761f8d937"
+    },
+    {
+      "path": "public/governance/dossiers/gov-gfr-procurement.md",
+      "sha256": "4d778199b94f6fe0b073361792cc3e8247310848d71a7c0364897340ca2593b9"
+    },
+    {
+      "path": "public/governance/dossiers/gov-goa-draft.md",
+      "sha256": "a4548645cf3035c627146a82a89484b13b6704a1d53daace9a796552e2afb1bd"
+    },
+    {
+      "path": "public/governance/dossiers/gov-gujarat-taskforce.md",
+      "sha256": "30e6fe11e0625562ed60ae199bbf4545ef5bac59ed2f8bd5c17cbac6909b1da3"
+    },
+    {
+      "path": "public/governance/dossiers/gov-icmr-ai.md",
+      "sha256": "a6fb955df06b175e4ed87251e228dacf8f51ec55dc4403c347304aa86596baa7"
+    },
+    {
+      "path": "public/governance/dossiers/gov-indiaai-mission.md",
+      "sha256": "3c258966b910c32a167d8cac749cb5f65ee655895e178fd28a2edf1b04737611"
+    },
+    {
+      "path": "public/governance/dossiers/gov-it-rules-consolidated.md",
+      "sha256": "719fba91041d65004f7e179ddb08a58db6d9114b479bb21ac7cbf9c0c967a2b8"
+    },
+    {
+      "path": "public/governance/dossiers/gov-jharkhand-draft.md",
+      "sha256": "c670a615a60adfa1ac14d37bad60d1e463c119e2e38f8daab52d2bdf3c5dee6d"
+    },
+    {
+      "path": "public/governance/dossiers/gov-jk-framework.md",
+      "sha256": "18ad2d5ccd71f6b2aa5ba7670abc52d80ea2a513f10f8e09b18aa56adcb91a1f"
+    },
+    {
+      "path": "public/governance/dossiers/gov-kerala-it.md",
+      "sha256": "2ccf8571d29894e2d57a610710dda0f1d04f526a0c38b082ee398e30accb625d"
+    },
+    {
+      "path": "public/governance/dossiers/gov-maharashtra-ai.md",
+      "sha256": "81a26788ae4cfb98251a7c06e5688402647a209fcc1e2d9c295a787d41a78a8b"
+    },
+    {
+      "path": "public/governance/dossiers/gov-medical-software.md",
+      "sha256": "f9555af82cbf70b4bac079702dd9748f83a862e1ffc16bc14b07dbf3a6db9e84"
+    },
+    {
+      "path": "public/governance/dossiers/gov-meghalaya-it.md",
+      "sha256": "629c14e3c7e6980a37d8787b00d1f42f8d59dc3ab5473ddd5eb2bac7e1109e87"
+    },
+    {
+      "path": "public/governance/dossiers/gov-national-strategy.md",
+      "sha256": "67b6f1485941737fd8e95848586fc50c12ff43500fa5b0312782439a0b8886f3"
+    },
+    {
+      "path": "public/governance/dossiers/gov-ndgf-draft.md",
+      "sha256": "3439fcfbc0bf7d5e3c0fd07b286b69c444d4810ae334be6b6dad81a224d1b817"
+    },
+    {
+      "path": "public/governance/dossiers/gov-new-delhi-declaration.md",
+      "sha256": "3102c21dcce2cccadd27bafd3c6ecc346d578a0d6bb3d990e00c2a93312bbcfb"
+    },
+    {
+      "path": "public/governance/dossiers/gov-odisha-ai.md",
+      "sha256": "16a1930d2f2992b8b68e063c76ec36d7c330dca990b2041ff5114d8636f0e722"
+    },
+    {
+      "path": "public/governance/dossiers/gov-rai-operational.md",
+      "sha256": "593f6bbbd8e035044ed9cc7194820133b3aedb6bfe138287ff5cdf1b44df3d2a"
+    },
+    {
+      "path": "public/governance/dossiers/gov-rai-principles.md",
+      "sha256": "0c172209f472e5b830daee4d076bf0b44392f930a74d064ac4f7d8ef7605dc19"
+    },
+    {
+      "path": "public/governance/dossiers/gov-rajasthan-ai.md",
+      "sha256": "73f5eba97b23882605d377ccf0c7126f9324185f053b6f631974d3e3ef9288f0"
+    },
+    {
+      "path": "public/governance/dossiers/gov-rbi-freeai.md",
+      "sha256": "b3db4fa78ef3976d4a87276204b5701f95d35226dabb8c00148f363699dfd804"
+    },
+    {
+      "path": "public/governance/dossiers/gov-rbi-model-risk-draft.md",
+      "sha256": "0b48637f1b50ab10b7efdc08f800f5f7f82c97f60c1756245a254e34bbbe0e3d"
+    },
+    {
+      "path": "public/governance/dossiers/gov-sebi-consultation.md",
+      "sha256": "b95a7a43298e9c11ed65475a4281fe593856bccdf3951064b1d104eaf3cc6df0"
+    },
+    {
+      "path": "public/governance/dossiers/gov-sebi-cyber-advisory.md",
+      "sha256": "450345bd4d3bcd4971fb4e272cb35fb38a9eec4c6768cbfb9046d865813dabfe"
+    },
+    {
+      "path": "public/governance/dossiers/gov-sebi-funds.md",
+      "sha256": "f9d2224b0295f32b27bf86c74f8d1ad01e82acf5787410d7d96410af5fcf9783"
+    },
+    {
+      "path": "public/governance/dossiers/gov-sebi-reporting.md",
+      "sha256": "4c5502bcd8e0df921f1ab0d73a14bfde2d84f9bf2e874863c65eebe53c63be0d"
+    },
+    {
+      "path": "public/governance/dossiers/gov-sebi-responsibility.md",
+      "sha256": "27f0848f02f35992a94f0f922ee54695c0a82c1e12c9d9250dbd02411bca96ee"
+    },
+    {
+      "path": "public/governance/dossiers/gov-sgi-amendment.md",
+      "sha256": "5ab0f0cfa1ec2ba33fe4418849750596f9ca54af836a3058f54109003af97ca3"
+    },
+    {
+      "path": "public/governance/dossiers/gov-sgi-correction.md",
+      "sha256": "cf39db1950314033fc0101640a6788bbe92f84277ade40479c2b8f588ac4cf1a"
+    },
+    {
+      "path": "public/governance/dossiers/gov-sgi-draft.md",
+      "sha256": "50863029007ca4ef383528fadfc8c614435974321acce14415cc4aa8e079a7d8"
+    },
+    {
+      "path": "public/governance/dossiers/gov-sikkim-draft.md",
+      "sha256": "746a06402c8707f6df09f21fcaeb0b3c7549ee6a218d54f1ff13d44bafc75ce6"
+    },
+    {
+      "path": "public/governance/dossiers/gov-supreme-court-draft.md",
+      "sha256": "f38ee1736e292cc073d21704b8c861b5925f9031ec17cbd097adab5860448e88"
+    },
+    {
+      "path": "public/governance/dossiers/gov-telangana-strategy.md",
+      "sha256": "9141d617aedfccebc5c701a6a6a79fb42a59d70536b0cae8f9de963e7a40d155"
+    },
+    {
+      "path": "public/governance/dossiers/gov-telemedicine.md",
+      "sha256": "9ed0d2d6e0d13d919e9f7d52d2dfaadfbda97b4ae8f7c17ee425e2a3b843c584"
+    },
+    {
+      "path": "public/governance/dossiers/gov-tn-ethical.md",
+      "sha256": "4df39d20d2ea07590e6a65ad2b568bde2b7a44d92f7405401ffdda32e3333743"
+    },
+    {
+      "path": "public/governance/dossiers/gov-tn-mission.md",
+      "sha256": "ab8ef24fc735b000fce49ad415d51c6f0b105b41e5252f959b505f33955c4ba9"
+    },
+    {
+      "path": "public/governance/dossiers/gov-tpec-constitution.md",
+      "sha256": "7e7700690ee31cbee57595f40004333845ec95b4c8cfd253bd020cd91ae0887b"
+    },
+    {
+      "path": "public/governance/dossiers/gov-uttarakhand-mission.md",
+      "sha256": "ee32904d88dbee0f10950844b09f914e56083f44d11e2ef44ae96f99a2874652"
+    },
+    {
+      "path": "public/governance/evidence.csv",
+      "sha256": "28a29b5b24d89f47e64ae3134e4b72f88cfdff14cccb807777333ecfb28e1b96"
+    },
+    {
+      "path": "public/governance/instrument_domains.csv",
+      "sha256": "4442ca333a6fff26836dc6221b24ea602a9d151caa36801e03cd6cd4ba072ead"
+    },
+    {
+      "path": "public/governance/instrument_relationships.csv",
+      "sha256": "2bbd97bd211218eac4d46ad73f2c3c4e5030c98dedf13038afcd4cdd414e11d1"
+    },
+    {
+      "path": "public/governance/instrument_sources.csv",
+      "sha256": "3edee9f0167c853af92bd086b398b42a0de591885d4cb78bf7084f6070944fdb"
+    },
+    {
+      "path": "public/governance/instruments.csv",
+      "sha256": "e0a98210edb171e20bbd3a263131d5da1e715f6a65fd58c173c6caaed064afb9"
+    },
+    {
+      "path": "public/governance/jurisdiction_coverage.csv",
+      "sha256": "616857e25339f31314501e15910b0016df8860367e2aa8aa0e0f4965138ca746"
+    },
+    {
+      "path": "public/governance/manifest.json",
+      "sha256": "990db184252299d8a108e812ca1d16de7a647a7a4264e04af000c999dd067e9c"
+    },
+    {
+      "path": "public/governance/manifest.sha256",
+      "sha256": "372d2cdfcd3ebac459eb5be6759d27f8c1fb2a61629a2ca651d2a879e79caf06"
+    },
+    {
+      "path": "public/governance/provisions.csv",
+      "sha256": "f2808e01ace4e338b0b82d95327b65968144837b01a4ef1f73220b2fff3ca988"
+    },
+    {
+      "path": "public/governance/queries.sql",
+      "sha256": "890ac752cd61f5b845456f9c23d3e668bafa2c485a0dba9205be2a463f7d9af5"
+    },
+    {
+      "path": "public/governance/quote-audit.json",
+      "sha256": "cccd473f7c15b4d03e381295419c4c98f66254acbaa28ba9e5f2456b2e9a19dd"
+    },
+    {
+      "path": "public/governance/retrieval-log.json",
+      "sha256": "bee678151bca107248c290e7b15229396e16bd1e302f719bd801acf78dadde8c"
+    },
+    {
+      "path": "public/governance/schema.json",
+      "sha256": "77d77c26148f325ffbd798c0320aa510091286a2648503d8bc215eed0cdd60cf"
+    },
+    {
+      "path": "public/governance/schema.sql",
+      "sha256": "f02812a50a628b468fdba6640e887460751b8845798f4652b348fcbcc62eaac8"
+    },
+    {
+      "path": "public/governance/search-leads.json",
+      "sha256": "d2a37fabf7e838f5a5a05ec02d6597b19f098041f73d58d2167eb04ae9663d49"
+    },
+    {
+      "path": "public/governance/search-log.json",
+      "sha256": "330faf5e5888eebef93d9e42de892bfec2f2aec35958cc69994ec49e364bf2c7"
+    },
+    {
+      "path": "public/governance/sources/govsrc-016360a029aec1ed.md",
+      "sha256": "8c1766edfec78f6c20cbcb5a2051c2652c2750f8edcf0bc7a7064857e4153784"
+    },
+    {
+      "path": "public/governance/sources/govsrc-08c44cd72d3ce694.md",
+      "sha256": "ff5e6a77fd5f068c9cc8d42cd7cfac5a026b3a68cf99294c36b0c9b14b6d8b4e"
+    },
+    {
+      "path": "public/governance/sources/govsrc-0ecb5371c65f2c8f.md",
+      "sha256": "bdd31472d2c4ee527a17c5337e842efe6653ead8bb50f8470dbbd5e5ade7faf3"
+    },
+    {
+      "path": "public/governance/sources/govsrc-1091c838d2ab4ac9.md",
+      "sha256": "92311cee9206b33eb86f82b4de65a6df01427dc7215d968a8dbff9511b19d81c"
+    },
+    {
+      "path": "public/governance/sources/govsrc-187bfaaa93161359.md",
+      "sha256": "59d6f30cde0074c371d62b6a12e5cfe25fa07159c330c6c77d742ae0ca6c647b"
+    },
+    {
+      "path": "public/governance/sources/govsrc-1898bfc61c2db32b.md",
+      "sha256": "5161200ac05fd9f9f065ed3398f4b5b612a74913bd98c07c4f34fb1908405303"
+    },
+    {
+      "path": "public/governance/sources/govsrc-1fa3861a01ecd072.md",
+      "sha256": "ac27aa16b8e680564881f4190dd93257f7cab2605ef1aa23f69cf73a5ca4d274"
+    },
+    {
+      "path": "public/governance/sources/govsrc-2166ba1dbb677a10.md",
+      "sha256": "9b63cb4b3db80f89a1db78577fa663aa95413d6b835dfcde9c31a1b8f985b692"
+    },
+    {
+      "path": "public/governance/sources/govsrc-237de5fdfdb14826.md",
+      "sha256": "c8cbc57d47756d775d381b80fca07883a41a1170142869f24ce73f4a8735e42f"
+    },
+    {
+      "path": "public/governance/sources/govsrc-27da8308446e4d2c.md",
+      "sha256": "31bc867ef3d610f4263a25794e1dd956645107c9a1a062631f5c23d8efcfe5ec"
+    },
+    {
+      "path": "public/governance/sources/govsrc-2e6f22e2653285d9.md",
+      "sha256": "3947db3b16de7071b810044dc1c982c5a91a462f2b25ef49adfe819a78f80596"
+    },
+    {
+      "path": "public/governance/sources/govsrc-2e800bcbb1e7e824.md",
+      "sha256": "5f3a27668d2d86e45f86727b7441931bbb7f4b348ec15f354176d06b0d80ee72"
+    },
+    {
+      "path": "public/governance/sources/govsrc-35445437af206a94.md",
+      "sha256": "bdf09fabbf988d983bd5b31ec91ed262d1fcf0e35f2a5cc871a9d46e09433456"
+    },
+    {
+      "path": "public/governance/sources/govsrc-3ec6155eb48cd541.md",
+      "sha256": "2a19ba040f3fafbb3072e215c03957444cba9a93ed91f721465ded7659946f2c"
+    },
+    {
+      "path": "public/governance/sources/govsrc-43e8a665360c732d.md",
+      "sha256": "27b4175be0531317b1e7338ff9e30716a7eb6d95768e0ab1f930de000cacfb5c"
+    },
+    {
+      "path": "public/governance/sources/govsrc-44a3679573cd8e18.md",
+      "sha256": "36cb86712a44714304dadf4c296892fbf22e826168561c78375b4450278a9f7c"
+    },
+    {
+      "path": "public/governance/sources/govsrc-45167c1e39a57c29.md",
+      "sha256": "3aad5bf7c9626a64a900b4d5bb4415622b90bf2c1f9bd8d73c098448848b5f95"
+    },
+    {
+      "path": "public/governance/sources/govsrc-46464492e589affc.md",
+      "sha256": "51c59a62db0ac667be8a71fe4f93aeda6bdc49ce13d9fd3a6c24d2b4e5214a20"
+    },
+    {
+      "path": "public/governance/sources/govsrc-4729aee562e871c9.md",
+      "sha256": "c140ea2f46c13d4e09c5fd910b75be2aad6277ee24d74a2a5351ce4f18b753bb"
+    },
+    {
+      "path": "public/governance/sources/govsrc-4adb1d3646d68c6a.md",
+      "sha256": "6eeb5633082dcbe2232c9ceb6ed4be6b2ea38e529f8bab680dea501c4c2f557d"
+    },
+    {
+      "path": "public/governance/sources/govsrc-4e1902732135828f.md",
+      "sha256": "09b01425dbce42f7bae1249c4020996e06f38dba19d7677a5fc6d2b5b5055c84"
+    },
+    {
+      "path": "public/governance/sources/govsrc-4eeff4dfc7498bf6.md",
+      "sha256": "ce033f88e656dddc5d0db74a9f399af49406cca1153863b16ebf5e9b5ac44cb8"
+    },
+    {
+      "path": "public/governance/sources/govsrc-569d2cc75dfb3e9f.md",
+      "sha256": "8dc84c354c72c3d0b09d29e46f108ae4f3ae64932fc0cdeb9f219caad99778f1"
+    },
+    {
+      "path": "public/governance/sources/govsrc-5a98fb4d9c47d0cc.md",
+      "sha256": "94a49b9af0224de89bc5b4661c64a1a857f2612d0572deb6a362ccd8b6dfee3d"
+    },
+    {
+      "path": "public/governance/sources/govsrc-5b037ed8d974be63.md",
+      "sha256": "435ad20ac3803d0be20fe53d9be99cc9b967d227c4eb9cfa478586bbb1edfaf4"
+    },
+    {
+      "path": "public/governance/sources/govsrc-5d28f4aa0893d572.md",
+      "sha256": "7d80333bd70640ea6dd204eae6a3f1767777df8bcbd45f8c302344a9c5ae8ca7"
+    },
+    {
+      "path": "public/governance/sources/govsrc-5eba31f239b24919.md",
+      "sha256": "e3fd8f1119a42c2698d9abef016ee812fc0254b916b699b5cae112f587bf7c07"
+    },
+    {
+      "path": "public/governance/sources/govsrc-6b97c8246581a9b0.md",
+      "sha256": "9a604ac491b145a2d5bfa30c8243b2f1d94331a5d3e5a4add1cb5c1138f4a137"
+    },
+    {
+      "path": "public/governance/sources/govsrc-6c52dcc0115a1b5a.md",
+      "sha256": "31efe97865169c7624d7e3fbceef5e6a8e70e8c3c0a898b7f8b9ff1e08c3aaad"
+    },
+    {
+      "path": "public/governance/sources/govsrc-73b24f340d15cf23.md",
+      "sha256": "d24b30524aa8bfd2cd02f7de8b39801c31770f3831429cf183afb14f41d579e6"
+    },
+    {
+      "path": "public/governance/sources/govsrc-765c44063e18762b.md",
+      "sha256": "1218f61682ac8b26a521464dea1b4f570c8a97fd25723eef14d5201876123369"
+    },
+    {
+      "path": "public/governance/sources/govsrc-7931c87970eece57.md",
+      "sha256": "d80a36d89d9b0dfbccfcd3f72ade80acf9d93b4395087c88f0129f1e26d668d6"
+    },
+    {
+      "path": "public/governance/sources/govsrc-7d5c821cbd4d99a0.md",
+      "sha256": "b8d560e3120da97509af251fe8a718ea8620d23cb5ce8aed0858a136fa729a80"
+    },
+    {
+      "path": "public/governance/sources/govsrc-7edad807cdde66c7.md",
+      "sha256": "2c01433bfdc2bf6310e93b6035ad345ef41398f9316caeedc32b5b6d545885f9"
+    },
+    {
+      "path": "public/governance/sources/govsrc-8612442c39d5f850.md",
+      "sha256": "41fc444c65fa6170070a0d2526aa2ab22fa40fe8f7d055b2f5779a35b24ca074"
+    },
+    {
+      "path": "public/governance/sources/govsrc-8b8c4d1f5fe82b42.md",
+      "sha256": "1ab8ce5fb67aae19c069f8a6c0c1bbb9e70ab892fb66c99d58b896a3b93ade70"
+    },
+    {
+      "path": "public/governance/sources/govsrc-8f6a15786771c15d.md",
+      "sha256": "37ef0d9ccdf96472e5eb2fc0e02da5a60eb3fcd7b9b99396c7dc91c4bd1b8a87"
+    },
+    {
+      "path": "public/governance/sources/govsrc-907a3b1248416291.md",
+      "sha256": "332427378c18d3ce9e64212d3953788a2a4e2d2ae043096e099b526229674038"
+    },
+    {
+      "path": "public/governance/sources/govsrc-930d62850557facf.md",
+      "sha256": "ae75739ac16eb7c49cc856ae75dbfac698ef72f82e6d64a76cd461304b707905"
+    },
+    {
+      "path": "public/governance/sources/govsrc-944996a581177c67.md",
+      "sha256": "f90b692c18cc6d5bd8ccfe6bfe4412a969bfcd95fa9bf27a2ac6f13649a9d13f"
+    },
+    {
+      "path": "public/governance/sources/govsrc-95273940e8153101.md",
+      "sha256": "41634c9b8a205d804eb03f18753c38534aa85bf9f4f3fc410eeef321255dd83d"
+    },
+    {
+      "path": "public/governance/sources/govsrc-97d49cd8eb508473.md",
+      "sha256": "63a57d115ba1dc4df93c2f3a424cb7816199aae29453647d09e8b209198cbee6"
+    },
+    {
+      "path": "public/governance/sources/govsrc-9801a4d0c997ad7e.md",
+      "sha256": "525f58cdd64266c9d70e16df312a4df56b8c52f722d406837a45de9c50dfb67e"
+    },
+    {
+      "path": "public/governance/sources/govsrc-a1e711bb0afc39cc.md",
+      "sha256": "03b6a609a1811c6574dfcbab35c38743e97d5ab1382568b5fccfd8c813c8d9bd"
+    },
+    {
+      "path": "public/governance/sources/govsrc-a44e74c889ae10eb.md",
+      "sha256": "a75d061b1328956981aae9c9fa8648d5b7de2a5cd342add8ae0b1be779747258"
+    },
+    {
+      "path": "public/governance/sources/govsrc-b49add35547558e3.md",
+      "sha256": "92a3f84e3dc1becb71d14cb013919b614b83f90594f2d082153198b8def65038"
+    },
+    {
+      "path": "public/governance/sources/govsrc-b87b4f0e52af1384.md",
+      "sha256": "1392ccb7cfac926e73593a94c27ab58f20fdebef45fae0d724798ce1bb56082a"
+    },
+    {
+      "path": "public/governance/sources/govsrc-be55e7913d18ad46.md",
+      "sha256": "efcfd82b11f273da9b793ef0e82ef35499419d5d956eda264108de2d901217c4"
+    },
+    {
+      "path": "public/governance/sources/govsrc-c51b075e014bf8e7.md",
+      "sha256": "f7ef3e49a56321d3083e5e299aeaeba072ff28cd0bbf983b3d0cace6315c0d4e"
+    },
+    {
+      "path": "public/governance/sources/govsrc-d36ee5b660ada3ed.md",
+      "sha256": "3fdb7f5e19021ed2b04cea3da1d0b511d29a108b13355c0f86fd24de1e561d24"
+    },
+    {
+      "path": "public/governance/sources/govsrc-da3af52f5aa2daea.md",
+      "sha256": "a087a1a17cfa2bd36aeed12bfd203d7e10562a3433cbfd326c2c6cab79401c48"
+    },
+    {
+      "path": "public/governance/sources/govsrc-e37354c90e076f28.md",
+      "sha256": "f0703ca8a796b9f85716a7e680e896fcf41924146cf936d71346997b9941a721"
+    },
+    {
+      "path": "public/governance/sources/govsrc-ef1a2c7c8e7e732e.md",
+      "sha256": "3a0be5fded00083ae35d8421f0fcad29a2a329af7ec900856bed8d2aeec27b68"
+    },
+    {
+      "path": "public/governance/sources/govsrc-f45281b451df9bec.md",
+      "sha256": "49d0ee42613e6701543cd23590031a5082c10b82a0ec30948ff9a1dc7ef4fd1b"
+    },
+    {
+      "path": "public/governance/sources/govsrc-fb8ebf6a306a261c.md",
+      "sha256": "95ab99aab825dd1f829b76e9f263cff9b3e424ea31e6295b5cf6eeea50264e68"
+    },
+    {
+      "path": "public/governance/sources/govsrc-fdb85473d7ef4dc6.md",
+      "sha256": "05e8f3853763df7137cca9aba592bd8f1470079be88dfc3908afec02781f3906"
+    },
+    {
+      "path": "public/governance/sources.csv",
+      "sha256": "e4af5b8f4584a81c6ebba12ff3c1b49a280f0df73fbfd977dc03a7dc603b8104"
+    },
+    {
+      "path": "public/governance/system_keys.csv",
+      "sha256": "0730396305de6f00632b2c8e6a391c929159a7faf239062dd69fdd4234d5165b"
+    },
+    {
+      "path": "public/governance/system_links.csv",
+      "sha256": "c86e66d5a0e30abf2167e51da53d7ea8140eafc8d63891dade410e984e2cdc05"
+    }
+  ]
+}

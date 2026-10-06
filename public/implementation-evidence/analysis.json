@@ -1,0 +1,30 @@
+{
+  "counts": {
+    "cases": 10,
+    "documents": 33,
+    "observations": 124,
+    "case_observations": 136,
+    "evidence": 124,
+    "party_observations": 113,
+    "financial_observations": 12,
+    "coverage": 100,
+    "governance_links": 11,
+    "selection_decisions": 12,
+    "system_keys": 144,
+    "governance_keys": 52
+  },
+  "strength_counts": {
+    "First-party reported activity or outcome": 44,
+    "Formal prescribed requirement": 46,
+    "Implementer's historical account": 5,
+    "Institutional contextual evidence": 13,
+    "Procurement-stage invitation": 16
+  },
+  "search_queries": 96,
+  "search_hits": 575,
+  "retained_retrieval_receipts": 66,
+  "cached_documents": 23,
+  "unknown_coverage_rows": 44,
+  "independently_verified_outcomes": 0,
+  "baseline_files_preserved": 528
+}

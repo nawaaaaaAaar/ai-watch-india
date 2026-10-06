@@ -1,0 +1,266 @@
+[
+  {
+    "document_id": "impldoc-rail-iti",
+    "selected_words": 84,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "f21a807140c1b643deca1dd8b05bfe07527b3d30008909599a0571bf16afd82d",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-rail-spec",
+    "selected_words": 118,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "350a98953801d5de8b4597a208ad5d5a7ab46ec21aba7296d3f636da7d07b4bb",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-rail-operation",
+    "selected_words": 76,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "0812fadd0a06e7f13e20afaece094aa96d4b22a06fecac5072fbb97c79302e2a",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-vss-tender",
+    "selected_words": 81,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "ec20a3a92e08891a576888be21bf6296ca94d56938747b394209e030f72289c7",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-vss-award",
+    "selected_words": 120,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "d3077eab5fcc2e79b5d1d36b7053325aee6b312839d94fd05cec200316ea9498",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-vss-status",
+    "selected_words": 47,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "cfe36eca121aa8c246ea6f9f63f4e2cc4598bdff52f66e5b1f8cc9d8d3199e97",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-vss-nwr",
+    "selected_words": 44,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "0caf194c65156f2eb7e83fd83ceac807d0717a89d065f22ce0d0a79823551339",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-vss-2025-tender",
+    "selected_words": 77,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "67d02dffad92ca9237e5fa7d8b5fc151d6cffe28fb3da2a705730f3c5673bf39",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-nhai-proposal",
+    "selected_words": 80,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "245f4b193e64a192cd48840504564b03fba059fb370a0b3e3781a286459dafa0",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-nhai-status",
+    "selected_words": 46,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "4cc64fb85b1c258b0302a0d25dde2ac851545bde944e3115d2cc67992c11cfdf",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-nhai-tcil",
+    "selected_words": 132,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "523099494711a5746a13c228cb487d5f413d93b19016b090bbebeb092185c6a4",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-nhai-complaint",
+    "selected_words": 81,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "a904c9e89bddc3d6b0b546248e0aa6ac83a141f36619d6498f24c44d661a1b9a",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-court-order",
+    "selected_words": 116,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "cd4389bc7fa22f570327135d7ec562fa22abb6502aa40f955ebf6ce56d766e86",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-court-followup",
+    "selected_words": 84,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "ab4f63002cfbdae13e2da3bcc109fcdabd113828e507ed69090211e17882a31d",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-cag-eoi",
+    "selected_words": 118,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "b1433e22071e12c6f79fbd5ba8cc0f19bab73afbdaef02f7e0dce53a948c9b10",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-cag-order",
+    "selected_words": 65,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "f3669b647e47939c01f1c9112b375c679ebd908fb21b42f19cfd43efa9c7a14f",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-cag-minutes",
+    "selected_words": 98,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "097387b79cf33096637faed9135e5ffadb6be1b8c02d87054d1a7cd6f35f4030",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-upsc-tender",
+    "selected_words": 158,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "26b5c2778d466535b05a1821d54af9554408855c8df0992a1d449b4e4d6ef4e1",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-upsc-correction",
+    "selected_words": 91,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "b9a34954969d6cdea0966b81e5018d680a63dfeea4a1be29147c156f1bd87fc8",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-upsc-recent",
+    "selected_words": 56,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "6ea24b4f4c5bb32a8155fb6b186a2f86126b455d2ff94cb5959589c1b6f8490b",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-upsc-status-recovery",
+    "selected_words": 124,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "779577f6d74a0c77f013fb0563a76aced6a7cba1ad5cbfb7d6c326136e439b15",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-tn-launch",
+    "selected_words": 117,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "9d7361c36ea14b58a39870879186460e32396be54ff7a3f3af57b3b1124751e1",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-tn-policy-note",
+    "selected_words": 17,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "551ae58e0ce1cc952611350c21ffbda1f7f43090ec9e728271ab22c1d7bf4e99",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-igms-rfp",
+    "selected_words": 111,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "9dbbe838d43f39d1c46361e05816e7dab04bbfd4f7dae0dbddbb1ac6a603b6d1",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-igms-prebid",
+    "selected_words": 87,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "28e6273412291b9a402e369130569b386cd49d468b6a444c660ca198bc7c66c0",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-igms-aug",
+    "selected_words": 47,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "7f6ffbc1caca3da6252e838ea6386988ed1791bf688991f4d1c34a0fd12510f1",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-igms-about",
+    "selected_words": 90,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "9d8ea672b020827edd56819fcafa134b454f067c7f8b0a4c6b1f708f561d49f0",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-igms-privacy",
+    "selected_words": 78,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "8a7cdcc601aaf1ef68e3bf0e575a7c849dd3bf1b1d19ba929066e47d34169f69",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-igms-launch",
+    "selected_words": 73,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "ea69feeec0f04c9307c2537eff3ebfd4b5eabcaa37fd4620231d64bf2f77befc",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-igms-guidelines",
+    "selected_words": 99,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "8ca1ce16bb0b378f897a487d8307db2bbf7ddba4f5d1aca203717c20104a70bb",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-igms-g2g",
+    "selected_words": 23,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "181222e42b445f9283a3a34ab3875fb992f7864439ec6385452c1189c862c693",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-safe-report",
+    "selected_words": 87,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "7b5bc01a0ae1270b70c4316973d829c86736f4b31b4f2b4cca79cc1775fb4e04",
+    "original_page_visual_check": false,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  },
+  {
+    "document_id": "impldoc-safe-order",
+    "selected_words": 4,
+    "selected_passages_match": true,
+    "reviewed_text_sha256": "5e93d1514522c278f3af54f66f468dc21f15ac02359dcd26502dbcdfecfa5cd1",
+    "original_page_visual_check": true,
+    "scope": "Selected excerpts only; does not authenticate original binary or verify outcomes."
+  }
+]

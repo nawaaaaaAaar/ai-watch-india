@@ -1,0 +1,145 @@
+system_id,name,sector,jurisdiction,owner_institution_id
+sys-aadhaar-face,UIDAI Aadhaar face-authentication service,Identity infrastructure,India,inst-e999f31ac201d555
+sys-aarogya-ai,Aarogya Setu 2.0 AI health insights,Personal health information,India,inst-4db7fdfd0df0fe6b
+sys-abhigyan,NCRB-Abhigyan,Police biometric identification,India,inst-e3938ebce6d6f9f4
+sys-adalat-ai,Adalat AI court-assistance family,Judicial recording and assistance,Andhra Pradesh; wider programme context,inst-e03e9569c4f357a7
+sys-aditi,Bank of Baroda ADITI virtual assistant,Public-sector banking assistance,India,inst-fce0b15c7c195529
+sys-advait,ADVAIT,Tax administration,India,inst-f79096a81f8ebca4
+sys-adya,Indian Bank ADYA,Public-sector banking assistance,India,inst-dc90b35cf13128a7
+sys-ahmedabad-atcs,Ahmedabad Adaptive Traffic Control System,Urban traffic management,"Ahmedabad, Gujarat",inst-265acafabf2343bc
+sys-ai-manthan,NICSI AI Manthan,Government model development,India,inst-a63a8d052080055d
+sys-anuvadini,AICTE Anuvadini,Translation infrastructure,India,inst-2bf623d90b50fad9
+sys-apt,India Post APT 2.0 AI operational analytics,Postal service operations,India,inst-6e09d383bf58c7d8
+sys-army-ims,Indian Army AI Intercept Management System,Defence / public-sector technical capability,India,inst-0db9a515e3aacb97
+sys-army-storm,Indian Army Project Storm Drone,Defence autonomous intervention research,India,inst-0db9a515e3aacb97
+sys-askdisha,AskDISHA 2.0,Rail passenger services,India,inst-c0df593d9ca61f9c
+sys-assam-shiksha,Assam Shiksha Setu attendance,School biometric attendance,Assam,inst-aef722cc950c0d8a
+sys-astr,ASTR telecom subscriber verification,Telecom fraud and identity,India,inst-2b4a6b77a838e76a
+sys-astram,Bengaluru ASTraM traffic intelligence,Traffic management,Karnataka,inst-6f2298d613f6b8d6
+sys-atman,ATMAN chest-X-ray COVID triage,Clinical screening research,India,inst-2d89a5e2556c8d76
+sys-awaas-ai,PMAY-G Awaas / Awaas+ AI verification family,Housing welfare verification,India,inst-073ddabcc51fe809
+sys-aware,Andhra Pradesh AWARE disaster intelligence,Disaster management,Andhra Pradesh,inst-80f84b53dc6799f4
+sys-ayushman-sarathi,Ayushman Sarathi,Health-insurance information and grievances,India,inst-4db7fdfd0df0fe6b
+sys-bel-lynx,BEL Lynx U2 predictive maintenance,Defence / public-sector technical capability,India,inst-9fc9870cbff25d12
+sys-beml-fatigue,BEML driver-fatigue monitoring,Defence / public-sector technical capability,India,inst-80c84cd20a7e9264
+sys-beml-mining,BEML predictive mining maintenance,Defence / public-sector technical capability,India,inst-80c84cd20a7e9264
+sys-bharat-vistaar,Bharat-VISTAAR,Agriculture and benefits information,India,inst-9da8a4e007d95a58
+sys-bharatgen,BharatGen foundation-model service family,Government language-model infrastructure,India,inst-953179fff313c55f
+sys-bhashini,BHASHINI language-AI services,Language and administrative access,India,inst-f44a2ec8e996964e
+sys-bhopal-itms,Bhopal Intelligent Traffic Management System,Traffic enforcement,"Bhopal, Madhya Pradesh",inst-71b1e60730218b90
+sys-bifa,GSTN Business Intelligence and Fraud Analytics (BIFA),Tax administration,India,inst-23cb88b76fb93da5
+sys-bmc-tb,BMC–Qure.ai AI-assisted TB screening pilot,Public healthcare,"Mumbai, Maharashtra",inst-541bddce041e4617
+sys-bodh,BODH health-AI benchmarking platform,Health AI evaluation infrastructure,India,inst-4db7fdfd0df0fe6b
+sys-ca-gpt,ICAI CA GPT family,Professional audit / regulatory knowledge,India,inst-864d0848d4a34a89
+sys-cag-parakh,CAG Parakh document/image analytics,Public audit assistance,India,inst-ba0a6b19273766c9
+sys-cag-paras,CAG AI-PARAS pension pre-scrutiny,Pension audit / pre-scrutiny,India,inst-ba0a6b19273766c9
+sys-catb,Cough Against Tuberculosis (CATB),TB screening,India,inst-204b63fb560341f5
+sys-cctns2,CCTNS 2.0 AI components,Police analytics,India,inst-e3938ebce6d6f9f4
+sys-cdot-trinetra,C-DOT TRINETRA cybersecurity family,Government cybersecurity,India,inst-c5cf066f486e654b
+sys-cropic,CROPIC,Crop insurance and monitoring,India,inst-9da8a4e007d95a58
+sys-crpi,CrPI multimodal biometric application,Police biometric identification,India,inst-e3938ebce6d6f9f4
+sys-cwc-google,CWC–Google flood-forecasting collaboration,Flood warning,India,inst-7fb1fee101f6550d
+sys-cyberguard,I4C CyberGuard,Cybercrime administration,India,inst-8bb78df3fe653106
+sys-cyberwall,Kerala CyberWall,Citizen cyber-risk assistance,Kerala,inst-a10986ec566d2cf2
+sys-delhi-itms,Delhi Intelligent Traffic Management System (ITMS),Traffic management and enforcement,Delhi,inst-899f4725b13a40bc
+sys-dharavi-didi,Dharavi Didi,Redevelopment communication,"Dharavi, Mumbai",inst-47cec0bd2d0ead45
+sys-digiyatra,Digi Yatra,Aviation and travel,India,inst-2155d03e61814da2
+sys-diksha,DIKSHA AI accessibility features,Education accessibility,India,inst-336e44e3a51f9f87
+sys-divya-identity,Divya Drishti personal identification,Defence identity assistance,India,inst-1deae3474020e9ac
+sys-djb-twin,Delhi Jal Board AI/digital-twin collaboration,Water and wastewater management,Delhi,inst-87d295e4a6e3956e
+sys-dmrc-predictive,DMRC AI predictive maintenance family,Public transport maintenance,Delhi,inst-a3a6245c581b76e8
+sys-ejaadui,e-Jaadui Pitara AI-bot service,Early-childhood education,India,inst-d2473e761c5e1987
+sys-epaarvai,e-Paarvai,Public healthcare,Tamil Nadu,inst-765993c8e5e23c65
+sys-esanjeevani,eSanjeevani clinical decision support,Public healthcare,India,inst-204b63fb560341f5
+sys-fest,RTA FEST,Transport licensing and access,Telangana,inst-b4a65faa8f6deb4e
+sys-fmr-fir,UIDAI FMR-FIR fingerprint liveness,Identity infrastructure,India,inst-e999f31ac201d555
+sys-fri,Financial Fraud Risk Indicator (FRI),Financial fraud decision support,India,inst-2b4a6b77a838e76a
+sys-goa-online-ai,Goa Online AI chatbot,Government conversational assistance,Goa,inst-728b8af7f1affaf6
+sys-goa-tourism-ai,Goa Tourism AI chatbot,Government conversational assistance,Goa,inst-2693ba73bb702fbf
+sys-grse-anvesha,GRSE HR Chatbot Anvesha,Public-sector personnel information,India,inst-16ad8b40b09b7158
+sys-grse-jigyasa,GRSE Jigyasa,Public-sector engineering assistance,India,inst-16ad8b40b09b7158
+sys-gujarat-vsk-ai,Gujarat AI-enhanced Vidya Samiksha Kendra 2.0,Education administration analytics,Gujarat,inst-52594d9b3febf137
+sys-hyderabad-itms,Hyderabad ITMS,Urban traffic management,"Hyderabad, Telangana",inst-167a1f9941a11a3c
+sys-igms,CPGRAMS Intelligent Grievance Management System (IGMS),Public grievance triage,India,inst-47b878b9100a8229
+sys-imd-monsoon-ai,IMD AI monsoon-advance forecasts,Weather and early warning,India,inst-d8151ada4bb4d040
+sys-infomerge,SEBI InfoMerge investigation assistance,Market-regulation investigations,India,inst-7851473390a62459
+sys-insight,Project Insight,Tax administration,India,inst-baa97366d7ccc323
+sys-iob-buddy,Indian Overseas Bank IOB BUDDY,Public-sector banking assistance,India,inst-fcd9ac49e877771f
+sys-ioncology,AIIMS iOncology.ai,Cancer research and care support,India,inst-21e89a0ce17d5759
+sys-iraste,iRASTE road-safety programme family,Road safety,Telangana and Nagpur,inst-cb5ed1dc40d2da03
+sys-itms,Integrated Track Monitoring System (ITMS),Rail track inspection,India,inst-c3cf368fff4679f9
+sys-jeevan-pramaan,Jeevan Pramaan face-authenticated life certificate,Pension authentication,India,inst-5f5171085b9e42f9
+sys-kaaval-ai,Kaaval AI Kanyakumari,Police video surveillance,"Kanyakumari, Tamil Nadu",inst-1ae8da4f73fbff9e
+sys-karnataka-tutor,Karnataka Personalised Self-Learning Digital Tutor,Student learning assistance,Karnataka,inst-c410e6632d1ec14c
+sys-kerala-court-cms,Kerala District Court Case Management System,Judicial case management,Kerala and Lakshadweep,inst-fdb0cb6c13a5abb7
+sys-khushi,TB Mukt Bharat Khushi chatbot,TB treatment support,India,inst-204b63fb560341f5
+sys-kisan-emitra,Kisan e-Mitra,Agriculture and benefits information,India,inst-9da8a4e007d95a58
+sys-kisan-sarathi,Kisan Sarathi advisory platform,Agricultural extension,India,inst-8dcfb8acc65d8a91
+sys-ksh,Krushi Samrudhi Helpline AI advisory,Agricultural extension,Odisha,inst-bfd6b4277a93f961
+sys-madhunetrai,MadhuNetrAI,Retinal screening,India,inst-f1118c6f3a9781ad
+sys-madukkarai-elephant,Madukkarai AI elephant-warning system,Wildlife conflict warning,"Madukkarai, Tamil Nadu",inst-44e4fa9a415955e1
+sys-maha-ai,NIC MAHA-AI,Government AI infrastructure,Maharashtra,inst-d157b8476767ccc8
+sys-maha-metaverse,Bank of Maharashtra metaverse AI assistant,Public-sector banking assistance,India,inst-4472c97499c30987
+sys-mahacrimeos,MahaCrimeOS investigation support,State policing,Maharashtra,inst-02ff35c659e60448
+sys-mahamuni,Maharashtra Mahamuni tourism assistant,Tourism information,Maharashtra,inst-23f9b4f4518e6121
+sys-mahavistaar,MahaVISTAAR agricultural advisory,Agricultural advisory,Maharashtra,inst-a157dac3e3f15a6c
+sys-mana-mitra,Mana Mitra AI upgrade,Government-service assistance,Andhra Pradesh,inst-801aaca70a9356f3
+sys-mausamgpt,MausamGPT weather-information assistant,Weather and early warning,India,inst-d8151ada4bb4d040
+sys-mds,Media Disease Surveillance under IDSP,Disease surveillance,India,inst-204b63fb560341f5
+sys-mulehunter,RBIH MuleHunter,Bank fraud detection,India,inst-63f3c7d5d7f43f82
+sys-muntra,DRDO MUNTRA,Defence robotics research,India,inst-4afdc9cdd93290e4
+sys-mvis,Machine Vision Inspection System (MVIS),Rail rolling-stock inspection,India,inst-c3cf368fff4679f9
+sys-nagpur-iitms,Nagpur Intelligent Integrated Traffic Management System,Urban traffic management,"Nagpur, Maharashtra",inst-837d3e1b3d0d6f85
+sys-nalsa-vani,NALSA VANI legal-information assistant,Legal aid information,India,inst-91983457b9a16dfa
+sys-navy-afib,Indian Navy Autonomous Fast Intercept Boat,Defence autonomous vessel research,India,inst-c86ddcb778fd604a
+sys-ncs-ai,National Career Service AI revamp,Employment matching,India,inst-756a9ebf9531c3e3
+sys-nhai-das,NHAI Dashcam Analytics Services (DAS),Highway maintenance,India,inst-8940c3eac6828cd5
+sys-nic-ivaani,NIC IVAANI computer-vision services,Government AI infrastructure,India,inst-105b2a327ff73653
+sys-nic-taani,NIC TAANI text services,Government AI infrastructure,India,inst-105b2a327ff73653
+sys-nic-vani,NIC VANI conversational framework,Government AI infrastructure,India,inst-105b2a327ff73653
+sys-niti-ai-saarthi,NITI AI Saarthi,Policy data analysis,India,inst-fbc0dacf2eaaa64a
+sys-npss,National Pest Surveillance System (NPSS),Agricultural advisory,India,inst-9da8a4e007d95a58
+sys-nuwr-analysis,NUWR AI acoustic/magnetic signature-analysis project,Defence asset analysis,India,inst-c86ddcb778fd604a
+sys-ompts,Odisha i3MS AI-enabled ore-dispatch workflow,Mineral transport administration,Odisha,inst-b8c4d73d867fd864
+sys-paddymitra,PaddyMitra rice advisory chatbot,Agricultural advisory,Odisha,inst-5419694268005d37
+sys-pais,Punjab Artificial Intelligence System (PAIS),Police identity search,Punjab,inst-29b9a3c648b1d0f7
+sys-pihu,PNB PIHU,Public-sector banking assistance,India,inst-eb64ebaee08e80b0
+sys-plcs,Pensioners Life Certificate through Selfie (PLCS),Pension identity and access,Telangana,inst-0b757f6ea62e3a88
+sys-poshan-frs,Poshan Tracker facial recognition,Nutrition welfare authentication,India,inst-d79285aa4e6fee0f
+sys-pune-traffic-ai,Pune AI traffic-violation detection,Traffic enforcement,"Pune, Maharashtra",inst-3e6ce745320797f1
+sys-raidar,SEBI R(AI)DAR advertisement review,Market-regulation compliance,India,inst-7851473390a62459
+sys-rail-ids,Elephant Intrusion Detection System,Rail safety and wildlife,India; Northeast Frontier and other railway corridors,inst-58a0fcc79c90b09f
+sys-rail-vss,Railway Video Surveillance System (VSS) AI analytics,Passenger surveillance,India,inst-c3cf368fff4679f9
+sys-railmadad,RailMadad AI complaint prioritisation,Rail grievance handling,India,inst-2261f4d2a9883aaa
+sys-raj-silicosis,Raj-Silicosis AI certification and auto-approval,Occupational health and welfare,Rajasthan,inst-0b79cf195addb412
+sys-rajgpt,RajGPT / RajNivesh investor facilitation,Investment facilitation,Rajasthan,inst-cddfdda3e91aa9b7
+sys-saagu-baagu,Saagu Baagu agricultural AI pilot,Agricultural advisory,Telangana,inst-51eee65c3c8d3490
+sys-safe-kerala,Safe Kerala AI traffic enforcement,Traffic enforcement,Kerala,inst-a453522a2cbb0303
+sys-samagra-ai,KITE Samagra Plus AI,Educational resource generation,Kerala,inst-696a60209f1e4918
+sys-sanjay,SANJAY battlefield surveillance system,Defence surveillance and decision support,India,inst-0db9a515e3aacb97
+sys-sansad-chatbot,Sansad procedural-information chatbot proposal,Parliamentary information access,India,inst-2890dfd46b4eb43b
+sys-sasya,ISRO SASYA,Crop mapping,India,inst-12cdb0fccab6e667
+sys-sathee-ai,SATHEE AI tutoring,Exam preparation assistance,India,inst-47bcc707da421a01
+sys-seeker,Indian Army Project Seeker,Defence / public-sector technical capability,India,inst-0db9a515e3aacb97
+sys-seva,SEBI Virtual Assistant (SEVA),Investor information,India,inst-7851473390a62459
+sys-shiksha-copilot,Karnataka Shiksha Copilot,Teacher lesson planning,Karnataka,inst-abb18bdd47185f82
+sys-sia,SBI SIA,Public-sector banking assistance,India,inst-4e4f0340c8b6b77c
+sys-silent-sentry,Indian Army Silent Sentry,Defence / public-sector technical capability,India,inst-0db9a515e3aacb97
+sys-simba,Nagpur SIMBA,Police investigation assistance,"Nagpur, Maharashtra",inst-5da1b70934ce70d6
+sys-smart-annavani,Karnataka Smart Annavani,Food-welfare assistance and grievances,Karnataka,inst-d946328a61eec970
+sys-sudarsan,SEBI Project SUDARSAN,Market-regulation surveillance,India,inst-7851473390a62459
+sys-supace,SUPACE research assistance,Judicial administration,India,inst-ade08b2d56db380a
+sys-susahyak,SuSahayak court-information chatbot,Judicial information access,India,inst-ade08b2d56db380a
+sys-suvas,SUVAS judicial translation,Judicial access,India,inst-ade08b2d56db380a
+sys-swayam-plus-ai,SWAYAM Plus AI course assistant,Course discovery assistance,India,inst-3b27ede5c0526fb5
+sys-tejasvi,NIC TejasVI,Government analytics,India,inst-105b2a327ff73653
+sys-teres,TERES judicial transcription,Judicial transcription,India,inst-ade08b2d56db380a
+sys-tn-police-frs,Tamil Nadu Police facial-recognition family,Police identity search,Tamil Nadu,inst-d2df20efb7e269e6
+sys-trailguard-wb,West Bengal TrailGuard elephant-warning programme,Wildlife conflict warning,West Bengal,inst-9093a77abee4c5f9
+sys-tscop,Telangana TSCOP facial-recognition workflow,Police identity search,Telangana,inst-b290d2b13630358a
+sys-uday,UCO Bank UDAY,Public-sector banking assistance,India,inst-44789b01ab59fd0f
+sys-universe,Union Bank Uni-verse AI assistant,Public-sector banking assistance,India,inst-5d85c944312ac272
+sys-upsc,UPSC face authentication,Public examinations,India,inst-45ee9688e858c52d
+sys-uzhavan-pest,Uzhavan pest-identification service,Agricultural advisory,Tamil Nadu,inst-3efd4b94a330ceaf
+sys-vlog,Indian Army V-Log vehicle tracker,Defence / public-sector technical capability,India,inst-0db9a515e3aacb97
+sys-yaksh,UP Police YAKSH / legacy Trinetra family,Police investigation and risk ranking,Uttar Pradesh,inst-89845125f562794a

@@ -1,0 +1,307 @@
+{
+  "provisional_documents": 36,
+  "provisional_observations": 172,
+  "provisional_passage_mismatches": 19,
+  "included_labels": [
+    "rail-iti",
+    "rail-spec",
+    "rail-operation",
+    "vss-tender",
+    "vss-award",
+    "vss-status",
+    "vss-nwr",
+    "vss-2025-tender",
+    "nhai-proposal",
+    "nhai-status",
+    "nhai-tcil",
+    "nhai-complaint",
+    "court-order",
+    "court-followup",
+    "cag-eoi",
+    "cag-order",
+    "cag-minutes",
+    "upsc-tender",
+    "upsc-correction",
+    "upsc-recent",
+    "upsc-status-recovery",
+    "tn-launch",
+    "tn-policy-note",
+    "igms-rfp",
+    "igms-prebid",
+    "igms-aug",
+    "igms-about",
+    "igms-privacy",
+    "igms-launch",
+    "igms-guidelines",
+    "igms-g2g",
+    "safe-report",
+    "safe-order"
+  ],
+  "selection_indices": {
+    "rail-iti": [
+      1,
+      2,
+      4,
+      5
+    ],
+    "rail-spec": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "rail-operation": [
+      1,
+      2,
+      3
+    ],
+    "vss-tender": [
+      1,
+      2,
+      5,
+      6
+    ],
+    "vss-award": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "vss-status": [
+      1,
+      2
+    ],
+    "vss-nwr": [
+      1,
+      2
+    ],
+    "vss-2025-tender": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "nhai-proposal": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "nhai-status": [
+      3,
+      4
+    ],
+    "nhai-tcil": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "nhai-complaint": [
+      1,
+      3,
+      4
+    ],
+    "court-order": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "court-followup": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "cag-eoi": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ],
+    "cag-order": [
+      1,
+      2,
+      5
+    ],
+    "cag-minutes": [
+      1,
+      2,
+      4,
+      5
+    ],
+    "upsc-tender": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "upsc-correction": [
+      2,
+      3,
+      5,
+      6
+    ],
+    "upsc-recent": [
+      1,
+      2,
+      3
+    ],
+    "upsc-status-recovery": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "tn-launch": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "tn-policy-note": [
+      1
+    ],
+    "igms-rfp": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "igms-prebid": [
+      1,
+      3,
+      5,
+      6
+    ],
+    "igms-aug": [
+      4,
+      5
+    ],
+    "igms-about": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "igms-privacy": [
+      2,
+      3,
+      4
+    ],
+    "igms-launch": [
+      1,
+      2,
+      3
+    ],
+    "igms-guidelines": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "igms-g2g": [
+      1
+    ],
+    "safe-report": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "safe-order": [
+      1,
+      2,
+      4
+    ]
+  },
+  "quote_repairs": [
+    {
+      "label": "vss-tender",
+      "index": 2,
+      "selected_quote": "St. Thomas Mount and Pazhavanthangal Rs. 46,95,165/‐ Rs.93,900/‐"
+    },
+    {
+      "label": "court-order",
+      "index": 4,
+      "selected_quote": "shall closely monitor the implementation of these directions and shall furnish the following particulars in their Monthly 3 Action Taken Reports"
+    },
+    {
+      "label": "court-order",
+      "index": 5,
+      "selected_quote": "shall conduct mandatory onboarding and training programmes for all Judicial Officers and Court staff across all Districts prior to 01.10.2026"
+    },
+    {
+      "label": "upsc-correction",
+      "index": 5,
+      "selected_quote": "for a minimum period of one (01) year from the date of the examination"
+    },
+    {
+      "label": "igms-rfp",
+      "index": 1,
+      "selected_quote": "Last Date for Submission of Bids 25.11.2024 till 5 PM"
+    },
+    {
+      "label": "igms-rfp",
+      "index": 4,
+      "selected_quote": "The agency must guarantee that the LLM provider will not have access to any data processed within the containerized environment."
+    },
+    {
+      "label": "safe-report",
+      "index": 4,
+      "selected_quote": "Approval of valid violations and pushing of valid violations to ITMS."
+    },
+    {
+      "label": "vss-2025-tender",
+      "index": 1,
+      "selected_quote": "invites Single tender (single packet) in sealed covers, from M/s Intellve for"
+    },
+    {
+      "label": "vss-2025-tender",
+      "index": 2,
+      "selected_quote": "Approximate value of the work Rs 8 lacs + Applicable Taxes"
+    },
+    {
+      "label": "vss-2025-tender",
+      "index": 5,
+      "selected_quote": "3-Years Warranty Support services from the date of commissioning"
+    },
+    {
+      "label": "safe-order",
+      "index": 1,
+      "selected_quote": "232,25,50,286/-"
+    },
+    {
+      "label": "safe-order",
+      "index": 2,
+      "selected_quote": "Keltron tender"
+    },
+    {
+      "label": "safe-order",
+      "index": 4,
+      "selected_quote": "11,61,27,514/-"
+    }
+  ],
+  "excluded_document_labels": [
+    "vss-funding",
+    "safe-go",
+    "upsc-faq"
+  ],
+  "exclusions": "Duplicate press release, unrelated UPSC general FAQ and Kerala portal replaced by original order excluded; other full-source observations outside selected named-system scope are not retained. Shared CAG evidence remains one observation with two links.",
+  "visual_check": "Safe Kerala original operative pages 4–5 inspected. Damaged Malayalam text not silently reconstructed. Funding/PMC/monitoring paraphrases bounded; no certified translation or full-order audit.",
+  "retrieval_log_limit": "Retained receipts record the final two-source fetch; one earlier identical TCIL-only fetch was overwritten by the research script. No claim of a complete network-attempt ledger."
+}

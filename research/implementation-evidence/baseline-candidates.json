@@ -1,0 +1,2294 @@
+[
+  {
+    "system_id": "sys-rail-ids",
+    "search_name": "Railway elephant intrusion detection",
+    "system": {
+      "system_id": "sys-rail-ids",
+      "name": "Elephant Intrusion Detection System",
+      "sector": "Rail safety and wildlife",
+      "jurisdiction": "India; Northeast Frontier and other railway corridors",
+      "stage": "Reported operational",
+      "latest_record_date": "2026-10-05",
+      "ai_basis": "Explicit AI in official source",
+      "legacy_id": null,
+      "owner_institution_id": "inst-58a0fcc79c90b09f",
+      "checked_date": "2026-10-05",
+      "unit": "Named service/system; not each installation or model",
+      "selection": "Purposive exploratory seed",
+      "frame_id": "frame-railways",
+      "system_kind": "Public-service system",
+      "ai_class": "Explicit source attribution",
+      "ai_class_basis": "AI attribution includes vendor/editorial sources, not independent or government validation. Qualified subset lacks verified system-specific AI identification in the reviewed records.",
+      "research_round": "1.0.0"
+    },
+    "assertions": [
+      {
+        "assertion_id": "sys-rail-ids-field-01",
+        "system_id": "sys-rail-ids",
+        "field": "Owner & purpose",
+        "value": "Indian Railways' acoustic-sensing elephant warning system.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-rail-ids-field-02",
+        "system_id": "sys-rail-ids",
+        "field": "Decision role & affected people",
+        "value": "Alerts railway personnel for preventive action; not verified autonomous train control.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-rail-ids-field-03",
+        "system_id": "sys-rail-ids",
+        "field": "Deployment & date",
+        "value": "141 route-km official working extent in February; October outcome reporting is multi-intervention, not independently audited deployment telemetry.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-rail-ids-field-04",
+        "system_id": "sys-rail-ids",
+        "field": "Procurement & supplier",
+        "value": "News reports a Southern Railway award to MS Bitcom Technologies; executed award and current statewide/corridor contract lineage not reviewed.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-rail-ids-field-05",
+        "system_id": "sys-rail-ids",
+        "field": "Funding & contract",
+        "value": "Two regional contract values reported in news; not an official expenditure ledger.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-rail-ids-field-06",
+        "system_id": "sys-rail-ids",
+        "field": "Data & integration",
+        "value": "DAS and optical-fibre sensing described; deployed model/signature/version inventory not verified.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-rail-ids-field-07",
+        "system_id": "sys-rail-ids",
+        "field": "Evaluation & error rates",
+        "value": "RDSO 100% detection and maximum 5% false-alarm share are specification requirements, not achieved measurements.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-rail-ids-field-08",
+        "system_id": "sys-rail-ids",
+        "field": "Human review & overrides",
+        "value": "Alerts go to loco pilots/station masters/control room; actual handling logs not reviewed.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-rail-ids-field-09",
+        "system_id": "sys-rail-ids",
+        "field": "Privacy & retention",
+        "value": "n.a.; complete operational retention/security configuration not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-rail-ids-field-10",
+        "system_id": "sys-rail-ids",
+        "field": "Complaints & appeal",
+        "value": "n.a.; system-specific incident correction/escalation outcomes not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-rail-ids-field-11",
+        "system_id": "sys-rail-ids",
+        "field": "Public outputs & access",
+        "value": "Official working-extent statement, specification and later reporting retained.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-rail-ids-field-12",
+        "system_id": "sys-rail-ids",
+        "field": "Current-status limits",
+        "value": "October headline aggregate 255 differs from division sum 257; causes and contribution of AI alone not established.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      }
+    ],
+    "sources": [
+      {
+        "source_id": "reg-ids-award-report",
+        "title": "Southern Railway IDS contract reporting",
+        "url": "https://www.newindianexpress.com/states/tamil-nadu/2024/Sep/22/system-being-installed-at-rs-19-cr-to-curb-jumbo-deaths-on-rly-tracks-southern-railway",
+        "source_type": "News reporting",
+        "published_date": "2024-09-22",
+        "date_basis": "Source-stated date",
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/reg-ids-award-report.txt",
+        "snapshot_sha256": "450650153f9b77540ee93b3df797367c15a119601aad123b0c7e671e9e47b233",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      },
+      {
+        "source_id": "reg-ids-specification",
+        "title": "RDSO elephant IDS specification v1.0",
+        "url": "https://rdso.indianrailways.gov.in/uploads/2024-10-23-Signed%20specification%20EIDS.pdf",
+        "source_type": "Government technical specification",
+        "published_date": "2024-10-24",
+        "date_basis": "Source-stated date",
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/reg-ids-specification.txt",
+        "snapshot_sha256": "aa69df95b469a92ac721f87cf0e31578e1ae90e8775762efd4b582f767c76371",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      },
+      {
+        "source_id": "reg-rail-current",
+        "title": "NFR elephant-prevention reporting",
+        "url": "https://indianexpress.com/article/india/ai-alerts-plan-bee-railways-saved-255-elephants-northeast-10906293/",
+        "source_type": "News reporting",
+        "published_date": "2026-10-05",
+        "date_basis": "Source-stated date",
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/reg-rail-current.txt",
+        "snapshot_sha256": "ee05dc43c68e5024b2bd20fc5cc36427406dc2056e244439651e512b9dafa330",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      },
+      {
+        "source_id": "reg-rail-ids",
+        "title": "Railway elephant IDS parliamentary explanation",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2223196&reg=48&lang=2",
+        "source_type": "Government parliamentary explanation",
+        "published_date": "2026-02-04",
+        "date_basis": "Source-stated date",
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/reg-rail-ids.txt",
+        "snapshot_sha256": "0c833d6263532dc1f84d830fd6c25abdd41eea5f4089fa7f7d211b19ea659497",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      }
+    ],
+    "governance_links": []
+  },
+  {
+    "system_id": "sys-rail-vss",
+    "search_name": "RailTel railway video surveillance AI",
+    "system": {
+      "system_id": "sys-rail-vss",
+      "name": "Railway Video Surveillance System (VSS) AI analytics",
+      "sector": "Passenger surveillance",
+      "jurisdiction": "India",
+      "stage": "Official coverage reported; station configuration unverified",
+      "latest_record_date": "2026-04-07",
+      "ai_basis": "Explicit AI attribution in reviewed source; not independent validation",
+      "legacy_id": null,
+      "owner_institution_id": "inst-c3cf368fff4679f9",
+      "checked_date": "2026-10-05",
+      "unit": "Named service/system; not each installation or model",
+      "selection": "Fixed-frame documentary search addition",
+      "frame_id": "frame-railways",
+      "system_kind": "Public-service system",
+      "ai_class": "Explicit source attribution",
+      "ai_class_basis": "AI attribution includes vendor/editorial sources, not independent or government validation. Qualified subset lacks verified system-specific AI identification in the reviewed records.",
+      "research_round": "1.1.0"
+    },
+    "assertions": [
+      {
+        "assertion_id": "sys-rail-vss-field-01",
+        "system_id": "sys-rail-vss",
+        "field": "Owner & purpose",
+        "value": "Ministry of Railways; Railway Video Surveillance System (VSS) AI analytics.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-rail-vss-field-02",
+        "system_id": "sys-rail-vss",
+        "field": "Decision role & affected people",
+        "value": "Intrusion/loitering alerts and facial recognition; match/adverse-action review not established. Actual adverse-decision and override pathways were not operationally tested.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-rail-vss-field-03",
+        "system_id": "sys-rail-vss",
+        "field": "Deployment & date",
+        "value": "Official coverage reported; station configuration unverified; source date is not automatically a precise go-live or evidence of October availability.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-rail-vss-field-04",
+        "system_id": "sys-rail-vss",
+        "field": "Procurement & supplier",
+        "value": "n.a.; current executed supplier award and complete processor/subcontractor chain were not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-rail-vss-field-05",
+        "system_id": "sys-rail-vss",
+        "field": "Funding & contract",
+        "value": "n.a.; system-specific allocation, awarded amount and expenditure not established. Programme totals are not assigned to this system.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-rail-vss-field-06",
+        "system_id": "sys-rail-vss",
+        "field": "Data & integration",
+        "value": "Station cameras and video analytics; do not infer every AI module present at all 1874 stations. Current model/version and complete live data-flow not verified.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-rail-vss-field-07",
+        "system_id": "sys-rail-vss",
+        "field": "Evaluation & error rates",
+        "value": "n.a.; a current-version independent evaluation, error/subgroup distribution and reproducible benchmark were not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-rail-vss-field-08",
+        "system_id": "sys-rail-vss",
+        "field": "Human review & overrides",
+        "value": "n.a.; current system-specific human-review/override SOP and its implementation not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-rail-vss-field-09",
+        "system_id": "sys-rail-vss",
+        "field": "Privacy & retention",
+        "value": "n.a.; current system-specific data retention/access controls and their enforcement not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-rail-vss-field-10",
+        "system_id": "sys-rail-vss",
+        "field": "Complaints & appeal",
+        "value": "n.a.; system-specific appeal procedure and remedy outcomes not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-rail-vss-field-11",
+        "system_id": "sys-rail-vss",
+        "field": "Public outputs & access",
+        "value": "Original institutional/service records linked; full binaries and personal data not mirrored.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-rail-vss-field-12",
+        "system_id": "sys-rail-vss",
+        "field": "Current-status limits",
+        "value": "Documentary attribution only; claims do not establish independent performance, complete rollout or legal compliance.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      }
+    ],
+    "sources": [
+      {
+        "source_id": "frame-rail-security",
+        "title": "Railway AI video surveillance expansion",
+        "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2249823&reg=3&lang=1",
+        "source_type": "Government deployment statement",
+        "published_date": "2026-04-07",
+        "date_basis": "Source-stated date",
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/frame-rail-security.txt",
+        "snapshot_sha256": "10c75bbc49deb9ef052e2119e09e29101cea8238489840461d2a3685bd97cfb2",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      }
+    ],
+    "governance_links": []
+  },
+  {
+    "system_id": "sys-nhai-das",
+    "search_name": "NHAI dashcam analytics services",
+    "system": {
+      "system_id": "sys-nhai-das",
+      "name": "NHAI Dashcam Analytics Services (DAS)",
+      "sector": "Highway maintenance",
+      "jurisdiction": "India",
+      "stage": "June statement says rollout initiated",
+      "latest_record_date": "2026-06-16",
+      "ai_basis": "Explicit AI attribution in reviewed source; not independent validation",
+      "legacy_id": null,
+      "owner_institution_id": "inst-8940c3eac6828cd5",
+      "checked_date": "2026-10-05",
+      "unit": "Named service/system; not each installation or model",
+      "selection": "Broadening-round named-system addition",
+      "frame_id": null,
+      "system_kind": "Public-service system",
+      "ai_class": "Explicit source attribution",
+      "ai_class_basis": "AI attribution includes vendor/editorial sources, not independent or government validation. Qualified subset lacks verified system-specific AI identification in the reviewed records.",
+      "research_round": "1.2.0"
+    },
+    "assertions": [
+      {
+        "assertion_id": "sys-nhai-das-field-01",
+        "system_id": "sys-nhai-das",
+        "field": "Owner & purpose",
+        "value": "National Highways Authority of India; NHAI Dashcam Analytics Services (DAS). Source-stated responsibility, not registry-certified legal ownership.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-nhai-das-field-02",
+        "system_id": "sys-nhai-das",
+        "field": "Decision role & affected people",
+        "value": "Detect potholes, barrier/lighting/drainage defects to prioritise maintenance; not completed nationwide coverage. Adverse-decision and override pathways were not tested.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-nhai-das-field-03",
+        "system_id": "sys-nhai-das",
+        "field": "Deployment & date",
+        "value": "June statement says rollout initiated; documentary stage, not an independent October operational audit.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-nhai-das-field-04",
+        "system_id": "sys-nhai-das",
+        "field": "Procurement & supplier",
+        "value": "n.a.; an executed current supplier award, complete processor chain and contractual terms were not established in this reviewed corpus.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-nhai-das-field-05",
+        "system_id": "sys-nhai-das",
+        "field": "Funding & contract",
+        "value": "n.a.; system-specific allocation, award, spending and reconciliation were not established; programme totals are not assigned.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-nhai-das-field-06",
+        "system_id": "sys-nhai-das",
+        "field": "Data & integration",
+        "value": "Dashcam imagery linked with other asset-condition records. Full live data flow and current production-model/version identity not independently verified.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-nhai-das-field-07",
+        "system_id": "sys-nhai-das",
+        "field": "Evaluation & error rates",
+        "value": "n.a.; a current-version independent benchmark, error/subgroup rates and reproducible evaluation protocol were not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-nhai-das-field-08",
+        "system_id": "sys-nhai-das",
+        "field": "Human review & overrides",
+        "value": "n.a.; a complete system-specific human-review/override procedure and actual enforcement not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-nhai-das-field-09",
+        "system_id": "sys-nhai-das",
+        "field": "Privacy & retention",
+        "value": "n.a.; complete system-specific retention, access controls and current enforcement not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-nhai-das-field-10",
+        "system_id": "sys-nhai-das",
+        "field": "Complaints & appeal",
+        "value": "n.a.; system-specific adverse-output appeal process and remedy outcomes not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-nhai-das-field-11",
+        "system_id": "sys-nhai-das",
+        "field": "Public outputs & access",
+        "value": "Original source records and selected excerpts available; no personal records or original copyrighted binaries mirrored.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-nhai-das-field-12",
+        "system_id": "sys-nhai-das",
+        "field": "Current-status limits",
+        "value": "March plan followed by June rollout initiation; no inference of full planned kilometre coverage or acceptance.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      }
+    ],
+    "sources": [
+      {
+        "source_id": "ext-double-017",
+        "title": "NHAI DAS introduction plan",
+        "url": "https://nhai.gov.in/nhai/sites/default/files/2026-03/NHAI_Press_Release-NHAI-20-03-2026.pdf",
+        "source_type": "Official programme statement",
+        "published_date": "2026-03-20",
+        "date_basis": "Source-stated date",
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/ext-double-017.txt",
+        "snapshot_sha256": "6bb7b69ccaafece5e6828dee2e7ad4ec45f974acf6f3a181f2444ed7bc8caedd",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      },
+      {
+        "source_id": "ext-extra-007",
+        "title": "NHAI predictive maintenance and DAS rollout",
+        "url": "https://nhai.gov.in/nhai/sites/default/files/2026-06/NHAI_Press_Release-16-06-2026-EN.pdf",
+        "source_type": "Official programme statement",
+        "published_date": "2026-06-16",
+        "date_basis": "Source-stated date",
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/ext-extra-007.txt",
+        "snapshot_sha256": "7e57c0dbddaa2c141c68217cd5a76f4f24be01a607abb5eb2e0cadb9ce32c118",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      }
+    ],
+    "governance_links": []
+  },
+  {
+    "system_id": "sys-adalat-ai",
+    "search_name": "Andhra Pradesh Adalat AI",
+    "system": {
+      "system_id": "sys-adalat-ai",
+      "name": "Adalat AI court-assistance family",
+      "sector": "Judicial recording and assistance",
+      "jurisdiction": "Andhra Pradesh; wider programme context",
+      "stage": "Court order mandates rollout from 1 October 2026; actual courtroom coverage not established",
+      "latest_record_date": "2026-07-27",
+      "ai_basis": "Explicit AI attribution in reviewed institutional, developer or editorial record; not independent validation",
+      "legacy_id": null,
+      "owner_institution_id": "inst-e03e9569c4f357a7",
+      "checked_date": "2026-10-05",
+      "unit": "Named service/system; not each installation or model",
+      "selection": "Scaling cohort: purposive named family; variants and installations coalesced",
+      "frame_id": null,
+      "system_kind": "Public-service system",
+      "ai_class": "Explicit source attribution",
+      "ai_class_basis": "AI attribution includes vendor/editorial sources, not independent or government validation. Qualified subset lacks verified system-specific AI identification in the reviewed records.",
+      "research_round": "1.3.0"
+    },
+    "assertions": [
+      {
+        "assertion_id": "sys-adalat-ai-field-01",
+        "system_id": "sys-adalat-ai",
+        "field": "Owner & purpose",
+        "value": "High Court of Andhra Pradesh and participating court institutions; source-stated institutional responsibility for Adalat AI court-assistance family, not certified legal ownership.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-adalat-ai-field-02",
+        "system_id": "sys-adalat-ai",
+        "field": "Decision role & affected people",
+        "value": "Court transcription/recording assistance, not automatic legal judgement. Output is not automatically a lawful or correct final decision; adverse-output pathways not tested.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-adalat-ai-field-03",
+        "system_id": "sys-adalat-ai",
+        "field": "Deployment & date",
+        "value": "Court order mandates rollout from 1 October 2026; actual courtroom coverage not established. Documentary status, not an independent October operational audit.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-adalat-ai-field-04",
+        "system_id": "sys-adalat-ai",
+        "field": "Procurement & supplier",
+        "value": "n.a.; executed current award, supplier/processor chain and contractual terms not established in reviewed material.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-adalat-ai-field-05",
+        "system_id": "sys-adalat-ai",
+        "field": "Funding & contract",
+        "value": "n.a.; system-specific allocation, award, expenditure and reconciliation not established; broader programme budgets not assigned.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-adalat-ai-field-06",
+        "system_id": "sys-adalat-ai",
+        "field": "Data & integration",
+        "value": "Courtroom speech and case workflows. Complete live flow, production version and training reuse not independently verified.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-adalat-ai-field-07",
+        "system_id": "sys-adalat-ai",
+        "field": "Evaluation & error rates",
+        "value": "n.a.; current-version independent evaluation, error/subgroup rates and reproducible protocol not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-adalat-ai-field-08",
+        "system_id": "sys-adalat-ai",
+        "field": "Human review & overrides",
+        "value": "Order permits justified traditional/manual procedures and technical fallback; actual compliance with override/reporting conditions not audited.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-adalat-ai-field-09",
+        "system_id": "sys-adalat-ai",
+        "field": "Privacy & retention",
+        "value": "n.a.; complete system-specific retention/access/training policies and enforcement not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-adalat-ai-field-10",
+        "system_id": "sys-adalat-ai",
+        "field": "Complaints & appeal",
+        "value": "n.a.; system-specific adverse-output appeal and remedy outcomes not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-adalat-ai-field-11",
+        "system_id": "sys-adalat-ai",
+        "field": "Public outputs & access",
+        "value": "Original URLs and selected excerpts supplied; no citizen records or full original document binaries mirrored.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-adalat-ai-field-12",
+        "system_id": "sys-adalat-ai",
+        "field": "Current-status limits",
+        "value": "Mandated effective date is not verified universal use or vendor-reported 733 courtroom acceptance.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      }
+    ],
+    "sources": [
+      {
+        "source_id": "grow-sr-017",
+        "title": "HIGH COURT OF ANDHRA PRADESH :: ...",
+        "url": "https://aphc.gov.in/docs/notification_1785225296_0.pdf",
+        "source_type": "Official institutional record",
+        "published_date": "2026-07-27",
+        "date_basis": "Date in official court implementation order",
+        "retrieval_basis": "Default cache-enabled SDK retrieval; not independent live-source certification",
+        "is_cached": true,
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/grow-sr-017.txt",
+        "snapshot_sha256": "c235316368f8b9d29b232f3b066a4e2293016e0154270527671e2e585b94f807",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      }
+    ],
+    "governance_links": [
+      {
+        "system_link_id": "govlink-ap-court-order-sys-adalat-ai",
+        "instrument_id": "gov-ap-court-order",
+        "system_id": "sys-adalat-ai",
+        "link_type": "Explicit named-system direction",
+        "rationale": "The circular names Adalat.AI and directs Andhra Pradesh district-court use; implementation is not verified.",
+        "instrument_evidence_ids": [
+          "gov-ap-court-order-status",
+          "gov-ap-court-order-scope",
+          "gov-ap-court-order-p1-ev"
+        ],
+        "system_assertion_ids": [
+          "sys-adalat-ai-field-01",
+          "sys-adalat-ai-field-02",
+          "sys-adalat-ai-field-06"
+        ],
+        "system_source_ids": [
+          "grow-sr-017"
+        ],
+        "system_source_urls": [
+          "https://aphc.gov.in/docs/notification_1785225296_0.pdf"
+        ],
+        "applicability_determination": "Not made; documentary relevance only except explicit named direction, whose implementation remains unverified",
+        "checked_date": "2026-10-05"
+      },
+      {
+        "system_link_id": "govlink-supreme-court-draft-sys-adalat-ai",
+        "instrument_id": "gov-supreme-court-draft",
+        "system_id": "sys-adalat-ai",
+        "link_type": "Draft jurisdiction/domain relevance",
+        "rationale": "Judicial AI scope overlaps these court tools; adoption and tool-specific applicability are not established.",
+        "instrument_evidence_ids": [
+          "gov-supreme-court-draft-status",
+          "gov-supreme-court-draft-scope"
+        ],
+        "system_assertion_ids": [
+          "sys-adalat-ai-field-01",
+          "sys-adalat-ai-field-02",
+          "sys-adalat-ai-field-06"
+        ],
+        "system_source_ids": [
+          "grow-sr-017"
+        ],
+        "system_source_urls": [
+          "https://aphc.gov.in/docs/notification_1785225296_0.pdf"
+        ],
+        "applicability_determination": "Not made; documentary relevance only except explicit named direction, whose implementation remains unverified",
+        "checked_date": "2026-10-05"
+      },
+      {
+        "system_link_id": "govlink-ai-guidelines-sys-adalat-ai",
+        "instrument_id": "gov-ai-guidelines",
+        "system_id": "sys-adalat-ai",
+        "link_type": "National governance recommendation relevance",
+        "rationale": "These sectoral AI uses overlap national governance principles; no new statutory audit/appeal duty or regulator finding inferred.",
+        "instrument_evidence_ids": [
+          "gov-ai-guidelines-status",
+          "gov-ai-guidelines-scope"
+        ],
+        "system_assertion_ids": [
+          "sys-adalat-ai-field-01",
+          "sys-adalat-ai-field-02",
+          "sys-adalat-ai-field-06"
+        ],
+        "system_source_ids": [
+          "grow-sr-017"
+        ],
+        "system_source_urls": [
+          "https://aphc.gov.in/docs/notification_1785225296_0.pdf"
+        ],
+        "applicability_determination": "Not made; documentary relevance only except explicit named direction, whose implementation remains unverified",
+        "checked_date": "2026-10-05"
+      }
+    ]
+  },
+  {
+    "system_id": "sys-cag-paras",
+    "search_name": "CAG PARAS sovereign AI",
+    "system": {
+      "system_id": "sys-cag-paras",
+      "name": "CAG AI-PARAS pension pre-scrutiny",
+      "sector": "Pension audit / pre-scrutiny",
+      "jurisdiction": "India",
+      "stage": "May 2026 EOI describes existing targeted application and intended agentic commissioning; accepted upgrade unverified",
+      "latest_record_date": "2026-05-05",
+      "ai_basis": "Explicit AI attribution in reviewed institutional, developer or editorial record; not independent validation",
+      "legacy_id": null,
+      "owner_institution_id": "inst-ba0a6b19273766c9",
+      "checked_date": "2026-10-05",
+      "unit": "Named service/system; not each installation or model",
+      "selection": "Scaling cohort: purposive named family; variants and installations coalesced",
+      "frame_id": null,
+      "system_kind": "Public-sector internal decision support",
+      "ai_class": "Explicit source attribution",
+      "ai_class_basis": "AI attribution includes vendor/editorial sources, not independent or government validation. Qualified subset lacks verified system-specific AI identification in the reviewed records.",
+      "research_round": "1.3.0"
+    },
+    "assertions": [
+      {
+        "assertion_id": "sys-cag-paras-field-01",
+        "system_id": "sys-cag-paras",
+        "field": "Owner & purpose",
+        "value": "Comptroller and Auditor General of India; source-stated institutional responsibility for CAG AI-PARAS pension pre-scrutiny, not certified legal ownership.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-cag-paras-field-02",
+        "system_id": "sys-cag-paras",
+        "field": "Decision role & affected people",
+        "value": "First-level pension scrutiny; final sanction remains with authorised officers. Output is not automatically a lawful or correct final decision; adverse-output pathways not tested.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-cag-paras-field-03",
+        "system_id": "sys-cag-paras",
+        "field": "Deployment & date",
+        "value": "May 2026 EOI describes existing targeted application and intended agentic commissioning; accepted upgrade unverified. Documentary status, not an independent October operational audit.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-cag-paras-field-04",
+        "system_id": "sys-cag-paras",
+        "field": "Procurement & supplier",
+        "value": "Sovereign AI platform EOI is procurement intent, not executed award or completed agentic upgrade.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-cag-paras-field-05",
+        "system_id": "sys-cag-paras",
+        "field": "Funding & contract",
+        "value": "n.a.; system-specific allocation, award, expenditure and reconciliation not established; broader programme budgets not assigned.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-cag-paras-field-06",
+        "system_id": "sys-cag-paras",
+        "field": "Data & integration",
+        "value": "Pension records, rules and document evidence. Complete live flow, production version and training reuse not independently verified.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-cag-paras-field-07",
+        "system_id": "sys-cag-paras",
+        "field": "Evaluation & error rates",
+        "value": "n.a.; current-version independent evaluation, error/subgroup rates and reproducible protocol not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-cag-paras-field-08",
+        "system_id": "sys-cag-paras",
+        "field": "Human review & overrides",
+        "value": "EOI requires human-in-the-loop final officer decisions; actual enforcement not audited.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-cag-paras-field-09",
+        "system_id": "sys-cag-paras",
+        "field": "Privacy & retention",
+        "value": "Minimum five-year retention with legal-hold/secure-deletion capability is an EOI requirement, not observed implementation.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-cag-paras-field-10",
+        "system_id": "sys-cag-paras",
+        "field": "Complaints & appeal",
+        "value": "n.a.; system-specific adverse-output appeal and remedy outcomes not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-cag-paras-field-11",
+        "system_id": "sys-cag-paras",
+        "field": "Public outputs & access",
+        "value": "Original URLs and selected excerpts supplied; no citizen records or full original document binaries mirrored.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-cag-paras-field-12",
+        "system_id": "sys-cag-paras",
+        "field": "Current-status limits",
+        "value": "Source attribution is not independent validation, full rollout, lawful processing, safety or causal effectiveness. Unknowns mean unestablished within this corpus, not absent.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      }
+    ],
+    "sources": [
+      {
+        "source_id": "grow-sc-005",
+        "title": "tenders-EOI-for-Establishment-of-Sovereign-AI-Platform-for ...",
+        "url": "https://cag.gov.in/uploads/tenders/tenders-EOI-for-Establishment-of-Sovereign-AI-Platform-for-CAG-of-India-069fb031304a1b8-89068885.pdf",
+        "source_type": "Official institutional record",
+        "published_date": "2026-05-05",
+        "date_basis": "EOI issue date/reference in original; not supplier award date",
+        "retrieval_basis": "Default cache-enabled SDK retrieval; not independent live-source certification",
+        "is_cached": true,
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/grow-sc-005.txt",
+        "snapshot_sha256": "5e891ea3bacb33d2d92d15b22812eecfa2b68281718447616fbdbcbf01b3fee0",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      }
+    ],
+    "governance_links": [
+      {
+        "system_link_id": "govlink-cag-ai-eoi-sys-cag-paras",
+        "instrument_id": "gov-cag-ai-eoi",
+        "system_id": "sys-cag-paras",
+        "link_type": "Named-system procurement requirements / common primary source",
+        "rationale": "The same CAG EOI describes the named PARAS and PARAKH agent functions. Requirements are not supplier awards, implemented controls or delegation of final sanction.",
+        "instrument_evidence_ids": [
+          "gov-cag-ai-eoi-status",
+          "gov-cag-ai-eoi-scope"
+        ],
+        "system_assertion_ids": [
+          "sys-cag-paras-field-01",
+          "sys-cag-paras-field-02",
+          "sys-cag-paras-field-06"
+        ],
+        "system_source_ids": [
+          "grow-sc-005"
+        ],
+        "system_source_urls": [
+          "https://cag.gov.in/uploads/tenders/tenders-EOI-for-Establishment-of-Sovereign-AI-Platform-for-CAG-of-India-069fb031304a1b8-89068885.pdf"
+        ],
+        "applicability_determination": "Not made; documentary relevance only except explicit named direction, whose implementation remains unverified",
+        "checked_date": "2026-10-05"
+      },
+      {
+        "system_link_id": "govlink-gfr-procurement-sys-cag-paras",
+        "instrument_id": "gov-gfr-procurement",
+        "system_id": "sys-cag-paras",
+        "link_type": "Conditional institutional procurement relevance",
+        "rationale": "Central public procurement is potentially governed by GFR subject to entity/procurement-specific scope and exemptions; no particular contract or procurement route inferred.",
+        "instrument_evidence_ids": [
+          "gov-gfr-procurement-status",
+          "gov-gfr-procurement-scope"
+        ],
+        "system_assertion_ids": [
+          "sys-cag-paras-field-01",
+          "sys-cag-paras-field-02",
+          "sys-cag-paras-field-06"
+        ],
+        "system_source_ids": [
+          "grow-sc-005"
+        ],
+        "system_source_urls": [
+          "https://cag.gov.in/uploads/tenders/tenders-EOI-for-Establishment-of-Sovereign-AI-Platform-for-CAG-of-India-069fb031304a1b8-89068885.pdf"
+        ],
+        "applicability_determination": "Not made; documentary relevance only except explicit named direction, whose implementation remains unverified",
+        "checked_date": "2026-10-05"
+      }
+    ]
+  },
+  {
+    "system_id": "sys-cag-parakh",
+    "search_name": "CAG PARAKH sovereign AI",
+    "system": {
+      "system_id": "sys-cag-parakh",
+      "name": "CAG Parakh document/image analytics",
+      "sector": "Public audit assistance",
+      "jurisdiction": "India",
+      "stage": "February 2026 office order refers to AI tool in data-led audit presentation",
+      "latest_record_date": "2026-02-20",
+      "ai_basis": "Explicit AI attribution in reviewed institutional, developer or editorial record; not independent validation",
+      "legacy_id": null,
+      "owner_institution_id": "inst-ba0a6b19273766c9",
+      "checked_date": "2026-10-05",
+      "unit": "Named service/system; not each installation or model",
+      "selection": "Scaling cohort: purposive named family; variants and installations coalesced",
+      "frame_id": null,
+      "system_kind": "Public-sector internal decision support",
+      "ai_class": "Explicit source attribution",
+      "ai_class_basis": "AI attribution includes vendor/editorial sources, not independent or government validation. Qualified subset lacks verified system-specific AI identification in the reviewed records.",
+      "research_round": "1.3.0"
+    },
+    "assertions": [
+      {
+        "assertion_id": "sys-cag-parakh-field-01",
+        "system_id": "sys-cag-parakh",
+        "field": "Owner & purpose",
+        "value": "Comptroller and Auditor General of India; source-stated institutional responsibility for CAG Parakh document/image analytics, not certified legal ownership.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-cag-parakh-field-02",
+        "system_id": "sys-cag-parakh",
+        "field": "Decision role & affected people",
+        "value": "Document/image analytics for audit; not automatic final audit finding. Output is not automatically a lawful or correct final decision; adverse-output pathways not tested.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-cag-parakh-field-03",
+        "system_id": "sys-cag-parakh",
+        "field": "Deployment & date",
+        "value": "February 2026 office order refers to AI tool in data-led audit presentation. Documentary status, not an independent October operational audit.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-cag-parakh-field-04",
+        "system_id": "sys-cag-parakh",
+        "field": "Procurement & supplier",
+        "value": "n.a.; executed current award, supplier/processor chain and contractual terms not established in reviewed material.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-cag-parakh-field-05",
+        "system_id": "sys-cag-parakh",
+        "field": "Funding & contract",
+        "value": "n.a.; system-specific allocation, award, expenditure and reconciliation not established; broader programme budgets not assigned.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-cag-parakh-field-06",
+        "system_id": "sys-cag-parakh",
+        "field": "Data & integration",
+        "value": "Audit documents and images. Complete live flow, production version and training reuse not independently verified.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-cag-parakh-field-07",
+        "system_id": "sys-cag-parakh",
+        "field": "Evaluation & error rates",
+        "value": "n.a.; current-version independent evaluation, error/subgroup rates and reproducible protocol not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-cag-parakh-field-08",
+        "system_id": "sys-cag-parakh",
+        "field": "Human review & overrides",
+        "value": "n.a.; complete system-specific human review/override procedure and enforcement not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-cag-parakh-field-09",
+        "system_id": "sys-cag-parakh",
+        "field": "Privacy & retention",
+        "value": "n.a.; complete system-specific retention/access/training policies and enforcement not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-cag-parakh-field-10",
+        "system_id": "sys-cag-parakh",
+        "field": "Complaints & appeal",
+        "value": "n.a.; system-specific adverse-output appeal and remedy outcomes not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-cag-parakh-field-11",
+        "system_id": "sys-cag-parakh",
+        "field": "Public outputs & access",
+        "value": "Original URLs and selected excerpts supplied; no citizen records or full original document binaries mirrored.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-cag-parakh-field-12",
+        "system_id": "sys-cag-parakh",
+        "field": "Current-status limits",
+        "value": "Source attribution is not independent validation, full rollout, lawful processing, safety or causal effectiveness. Unknowns mean unestablished within this corpus, not absent.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      }
+    ],
+    "sources": [
+      {
+        "source_id": "grow-scale-040",
+        "title": "CAG data-led audit office order, February 2026",
+        "url": "https://cag.gov.in/uploads/media/Data-Led-audit-Related-Office-Order-069a679d6b140b7-07154746.pdf",
+        "source_type": "Official office order",
+        "published_date": "2026-02-20",
+        "date_basis": "Date in official office-order body",
+        "retrieval_basis": "Cache-enabled recovery after fresh retrieval failure/incomplete extraction; not certified live-source status",
+        "is_cached": true,
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/grow-scale-040.txt",
+        "snapshot_sha256": "039cad5a73a3a53be9f50c24093aab2158b01b841245b649d4bf93ec17742963",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      }
+    ],
+    "governance_links": [
+      {
+        "system_link_id": "govlink-cag-ai-eoi-sys-cag-parakh",
+        "instrument_id": "gov-cag-ai-eoi",
+        "system_id": "sys-cag-parakh",
+        "link_type": "Named-system procurement requirements / common primary source",
+        "rationale": "The same CAG EOI describes the named PARAS and PARAKH agent functions. Requirements are not supplier awards, implemented controls or delegation of final sanction.",
+        "instrument_evidence_ids": [
+          "gov-cag-ai-eoi-status",
+          "gov-cag-ai-eoi-scope"
+        ],
+        "system_assertion_ids": [
+          "sys-cag-parakh-field-01",
+          "sys-cag-parakh-field-02",
+          "sys-cag-parakh-field-06"
+        ],
+        "system_source_ids": [
+          "grow-scale-040"
+        ],
+        "system_source_urls": [
+          "https://cag.gov.in/uploads/media/Data-Led-audit-Related-Office-Order-069a679d6b140b7-07154746.pdf"
+        ],
+        "applicability_determination": "Not made; documentary relevance only except explicit named direction, whose implementation remains unverified",
+        "checked_date": "2026-10-05"
+      },
+      {
+        "system_link_id": "govlink-gfr-procurement-sys-cag-parakh",
+        "instrument_id": "gov-gfr-procurement",
+        "system_id": "sys-cag-parakh",
+        "link_type": "Conditional institutional procurement relevance",
+        "rationale": "Central public procurement is potentially governed by GFR subject to entity/procurement-specific scope and exemptions; no particular contract or procurement route inferred.",
+        "instrument_evidence_ids": [
+          "gov-gfr-procurement-status",
+          "gov-gfr-procurement-scope"
+        ],
+        "system_assertion_ids": [
+          "sys-cag-parakh-field-01",
+          "sys-cag-parakh-field-02",
+          "sys-cag-parakh-field-06"
+        ],
+        "system_source_ids": [
+          "grow-scale-040"
+        ],
+        "system_source_urls": [
+          "https://cag.gov.in/uploads/media/Data-Led-audit-Related-Office-Order-069a679d6b140b7-07154746.pdf"
+        ],
+        "applicability_determination": "Not made; documentary relevance only except explicit named direction, whose implementation remains unverified",
+        "checked_date": "2026-10-05"
+      }
+    ]
+  },
+  {
+    "system_id": "sys-safe-kerala",
+    "search_name": "Kerala Safe Kerala AI cameras",
+    "system": {
+      "system_id": "sys-safe-kerala",
+      "name": "Safe Kerala AI traffic enforcement",
+      "sector": "Traffic enforcement",
+      "jurisdiction": "Kerala",
+      "stage": "Challan processing reported suspended in September",
+      "latest_record_date": "2026-09-20",
+      "ai_basis": "Explicit AI attribution in reviewed source; not independent validation",
+      "legacy_id": null,
+      "owner_institution_id": "inst-a453522a2cbb0303",
+      "checked_date": "2026-10-05",
+      "unit": "Named service/system; not each installation or model",
+      "selection": "Broadening-round named-system addition",
+      "frame_id": null,
+      "system_kind": "Public-service system",
+      "ai_class": "Explicit source attribution",
+      "ai_class_basis": "AI attribution includes vendor/editorial sources, not independent or government validation. Qualified subset lacks verified system-specific AI identification in the reviewed records.",
+      "research_round": "1.2.0"
+    },
+    "assertions": [
+      {
+        "assertion_id": "sys-safe-kerala-field-01",
+        "system_id": "sys-safe-kerala",
+        "field": "Owner & purpose",
+        "value": "Kerala Motor Vehicles Department; Safe Kerala AI traffic enforcement. Source-stated responsibility, not registry-certified legal ownership.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-safe-kerala-field-02",
+        "system_id": "sys-safe-kerala",
+        "field": "Decision role & affected people",
+        "value": "Camera-detected road violations and challan workflow; detection, processing and penal adjudication not conflated. Adverse-decision and override pathways were not tested.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-safe-kerala-field-03",
+        "system_id": "sys-safe-kerala",
+        "field": "Deployment & date",
+        "value": "Challan processing reported suspended in September; documentary stage, not an independent October operational audit.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-safe-kerala-field-04",
+        "system_id": "sys-safe-kerala",
+        "field": "Procurement & supplier",
+        "value": "Keltron identified as implementing agency; actual executed supply/subcontract documents not reviewed.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-safe-kerala-field-05",
+        "system_id": "sys-safe-kerala",
+        "field": "Funding & contract",
+        "value": "n.a.; system-specific allocation, award, spending and reconciliation were not established; programme totals are not assigned.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-safe-kerala-field-06",
+        "system_id": "sys-safe-kerala",
+        "field": "Data & integration",
+        "value": "Automated camera evidence and vehicle/violation records. Full live data flow and current production-model/version identity not independently verified.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-safe-kerala-field-07",
+        "system_id": "sys-safe-kerala",
+        "field": "Evaluation & error rates",
+        "value": "n.a.; a current-version independent benchmark, error/subgroup rates and reproducible evaluation protocol were not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-safe-kerala-field-08",
+        "system_id": "sys-safe-kerala",
+        "field": "Human review & overrides",
+        "value": "n.a.; a complete system-specific human-review/override procedure and actual enforcement not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-safe-kerala-field-09",
+        "system_id": "sys-safe-kerala",
+        "field": "Privacy & retention",
+        "value": "n.a.; complete system-specific retention, access controls and current enforcement not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-safe-kerala-field-10",
+        "system_id": "sys-safe-kerala",
+        "field": "Complaints & appeal",
+        "value": "n.a.; system-specific adverse-output appeal process and remedy outcomes not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-safe-kerala-field-11",
+        "system_id": "sys-safe-kerala",
+        "field": "Public outputs & access",
+        "value": "Original source records and selected excerpts available; no personal records or original copyrighted binaries mirrored.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-safe-kerala-field-12",
+        "system_id": "sys-safe-kerala",
+        "field": "Current-status limits",
+        "value": "September suspension is reported for processing; neither camera hardware shutdown everywhere nor later resumption is established.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      }
+    ],
+    "sources": [
+      {
+        "source_id": "ext-extra-016",
+        "title": "Safe Kerala camera-processing suspension",
+        "url": "https://www.newindianexpress.com/states/kerala/2026/Sep/20/keralas-ai-camera-project-stalls-as-govt-dues-mount-traffic-management-takes-a-hit",
+        "source_type": "Established newspaper reporting",
+        "published_date": "2026-09-20",
+        "date_basis": "Source-stated date",
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/ext-extra-016.txt",
+        "snapshot_sha256": "742686ecc4220dd0513f81a24e2a756fd07b8659432061dff6e9a7f2853295ff",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      }
+    ],
+    "governance_links": [
+      {
+        "system_link_id": "govlink-kerala-it-sys-safe-kerala",
+        "instrument_id": "gov-kerala-it",
+        "system_id": "sys-safe-kerala",
+        "link_type": "Jurisdiction and deployment-domain relevance",
+        "rationale": "Kerala public-service systems overlap proposed AI mission and responsible-use measures; no adoption order or project-specific coverage established.",
+        "instrument_evidence_ids": [
+          "gov-kerala-it-status",
+          "gov-kerala-it-scope"
+        ],
+        "system_assertion_ids": [
+          "sys-safe-kerala-field-01",
+          "sys-safe-kerala-field-02",
+          "sys-safe-kerala-field-06"
+        ],
+        "system_source_ids": [
+          "ext-extra-016"
+        ],
+        "system_source_urls": [
+          "https://www.newindianexpress.com/states/kerala/2026/Sep/20/keralas-ai-camera-project-stalls-as-govt-dues-mount-traffic-management-takes-a-hit"
+        ],
+        "applicability_determination": "Not made; documentary relevance only except explicit named direction, whose implementation remains unverified",
+        "checked_date": "2026-10-05"
+      }
+    ]
+  },
+  {
+    "system_id": "sys-upsc",
+    "search_name": "UPSC face authentication",
+    "system": {
+      "system_id": "sys-upsc",
+      "name": "UPSC face authentication",
+      "sector": "Public examinations",
+      "jurisdiction": "India",
+      "stage": "Official deployment reported",
+      "latest_record_date": "2026-10-04",
+      "ai_basis": "Biometric application; current model architecture not verified",
+      "legacy_id": "service-upsc",
+      "owner_institution_id": "inst-45ee9688e858c52d",
+      "checked_date": "2026-10-05",
+      "unit": "Named service/system; not each installation or model",
+      "selection": "Purposive exploratory seed",
+      "frame_id": null,
+      "system_kind": "Public-service system",
+      "ai_class": "Qualified algorithmic / biometric context",
+      "ai_class_basis": "AI attribution includes vendor/editorial sources, not independent or government validation. Qualified subset lacks verified system-specific AI identification in the reviewed records.",
+      "research_round": "1.0.0"
+    },
+    "assertions": [
+      {
+        "assertion_id": "sys-upsc-field-01",
+        "system_id": "sys-upsc",
+        "field": "Owner & purpose",
+        "value": "UPSC with technical support from NeGD; exam identity authentication.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-upsc-field-02",
+        "system_id": "sys-upsc",
+        "field": "Decision role & affected people",
+        "value": "Mobile identity matching concerns examination candidates; detailed adverse-decision rules are not verified.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-upsc-field-03",
+        "system_id": "sys-upsc",
+        "field": "Deployment & date",
+        "value": "A September 2025 pilot and scaled use on 24 May 2026 are officially reported, with about 5.50 lakh candidates.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-upsc-field-04",
+        "system_id": "sys-upsc",
+        "field": "Procurement & supplier",
+        "value": "A 2024 PSU tender covered biometrics, facial recognition, QR scans and AI CCTV; the June record describes in-house development. The contract link between them is unverified.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-upsc-field-05",
+        "system_id": "sys-upsc",
+        "field": "Funding & contract",
+        "value": "n.a. Awarded supplier, current application budget and contract value were not verified; the tender alone is not an award.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-upsc-field-06",
+        "system_id": "sys-upsc",
+        "field": "Data & integration",
+        "value": "Invigilators' Android phones were used. The current data-flow diagram and device/data lifecycle were not verified.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-upsc-field-07",
+        "system_id": "sys-upsc",
+        "field": "Evaluation & error rates",
+        "value": "UPSC reports six-to-eight-second typical authentication; no independent false-accept/reject or subgroup evaluation was verified.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-upsc-field-08",
+        "system_id": "sys-upsc",
+        "field": "Human review & overrides",
+        "value": "The older tender requires physical photo verification. The current mismatch/technical-failure SOP was not verified.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-upsc-field-09",
+        "system_id": "sys-upsc",
+        "field": "Privacy & retention",
+        "value": "The older tender specifies encrypted cloud holding for at least one year or 30 days after final results, whichever is later. Applying it to the current mobile system is not established.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-upsc-field-10",
+        "system_id": "sys-upsc",
+        "field": "Complaints & appeal",
+        "value": "n.a. A system-specific candidate mismatch appeal, deadline and non-biometric fallback were not verified.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-upsc-field-11",
+        "system_id": "sys-upsc",
+        "field": "Public outputs & access",
+        "value": "UPSC publishes implementation descriptions; the actual current failure-handling SOP, audit and test report were not obtained.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-upsc-field-12",
+        "system_id": "sys-upsc",
+        "field": "Current-status limits",
+        "value": "The October source confirms reported scaled use, not independently audited accuracy or every current operational detail.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      }
+    ],
+    "sources": [
+      {
+        "source_id": "service-upsc-live",
+        "title": "UPSC face authentication implementation",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1",
+        "source_type": "Official self-report",
+        "published_date": "2026-06-04",
+        "date_basis": "Inherited analyst-coded document date; see original",
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/service-upsc-live.txt",
+        "snapshot_sha256": "a264fffd356ef71568d117e1fe98f300d619f40a60c38c3ab200bc97159ec689",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      },
+      {
+        "source_id": "service-upsc-october",
+        "title": "UPSC centenary current-status explanation",
+        "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317336&reg=48&lang=1",
+        "source_type": "Official self-report",
+        "published_date": "2026-10-04",
+        "date_basis": "Inherited analyst-coded document date; see original",
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/service-upsc-october.txt",
+        "snapshot_sha256": "9e23bf2bc0bdc9225cfa7b5e12143b2ad630ec06940c883e9e1a8cfa62d4e670",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      },
+      {
+        "source_id": "service-upsc-tender",
+        "title": "UPSC biometric/AI tender specification",
+        "url": "https://upsc.gov.in/sites/default/files/Tender-AadhaarQRFaceRecgAI-Corrgn_Eng-180724.pdf",
+        "source_type": "Official tender",
+        "published_date": null,
+        "date_basis": "Inherited analyst-coded document date; see original",
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/service-upsc-tender.txt",
+        "snapshot_sha256": "8deff355a1c8e5f79a49d39728d3a844eb40f733c51d10cabb0ad695bd52f13e",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      }
+    ],
+    "governance_links": [
+      {
+        "system_link_id": "govlink-frt-approach-sys-upsc",
+        "instrument_id": "gov-frt-approach",
+        "system_id": "sys-upsc",
+        "link_type": "Draft technology-domain relevance",
+        "rationale": "Facial recognition/authentication overlaps discussion-paper scope; no binding duties, biometric equivalence or tool evaluation inferred.",
+        "instrument_evidence_ids": [
+          "gov-frt-approach-status",
+          "gov-frt-approach-scope"
+        ],
+        "system_assertion_ids": [
+          "sys-upsc-field-01",
+          "sys-upsc-field-02",
+          "sys-upsc-field-06"
+        ],
+        "system_source_ids": [
+          "service-upsc-live",
+          "service-upsc-october"
+        ],
+        "system_source_urls": [
+          "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1",
+          "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317336&reg=48&lang=1"
+        ],
+        "applicability_determination": "Not made; documentary relevance only except explicit named direction, whose implementation remains unverified",
+        "checked_date": "2026-10-05"
+      },
+      {
+        "system_link_id": "govlink-gfr-procurement-sys-upsc",
+        "instrument_id": "gov-gfr-procurement",
+        "system_id": "sys-upsc",
+        "link_type": "Conditional institutional procurement relevance",
+        "rationale": "Central public procurement is potentially governed by GFR subject to entity/procurement-specific scope and exemptions; no particular contract or procurement route inferred.",
+        "instrument_evidence_ids": [
+          "gov-gfr-procurement-status",
+          "gov-gfr-procurement-scope"
+        ],
+        "system_assertion_ids": [
+          "sys-upsc-field-01",
+          "sys-upsc-field-02",
+          "sys-upsc-field-06"
+        ],
+        "system_source_ids": [
+          "service-upsc-live",
+          "service-upsc-october"
+        ],
+        "system_source_urls": [
+          "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268879&reg=3&lang=1",
+          "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317336&reg=48&lang=1"
+        ],
+        "applicability_determination": "Not made; documentary relevance only except explicit named direction, whose implementation remains unverified",
+        "checked_date": "2026-10-05"
+      }
+    ]
+  },
+  {
+    "system_id": "sys-madukkarai-elephant",
+    "search_name": "Tamil Nadu Madukkarai AI elephant",
+    "system": {
+      "system_id": "sys-madukkarai-elephant",
+      "name": "Madukkarai AI elephant-warning system",
+      "sector": "Wildlife conflict warning",
+      "jurisdiction": "Madukkarai, Tamil Nadu",
+      "stage": "January 2026 official interview reports deployment",
+      "latest_record_date": "2026-01-02",
+      "ai_basis": "Explicit AI attribution in reviewed institutional, developer or editorial record; not independent validation",
+      "legacy_id": null,
+      "owner_institution_id": "inst-44e4fa9a415955e1",
+      "checked_date": "2026-10-05",
+      "unit": "Named service/system; not each installation or model",
+      "selection": "Scaling cohort: purposive named family; variants and installations coalesced",
+      "frame_id": null,
+      "system_kind": "Public-service system",
+      "ai_class": "Explicit source attribution",
+      "ai_class_basis": "AI attribution includes vendor/editorial sources, not independent or government validation. Qualified subset lacks verified system-specific AI identification in the reviewed records.",
+      "research_round": "1.3.0"
+    },
+    "assertions": [
+      {
+        "assertion_id": "sys-madukkarai-elephant-field-01",
+        "system_id": "sys-madukkarai-elephant",
+        "field": "Owner & purpose",
+        "value": "Tamil Nadu Forest Department; source-stated institutional responsibility for Madukkarai AI elephant-warning system, not certified legal ownership.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-madukkarai-elephant-field-02",
+        "system_id": "sys-madukkarai-elephant",
+        "field": "Decision role & affected people",
+        "value": "Detect elephants near railway corridors to alert response teams; distinct camera workflow from railway fibre IDS. Output is not automatically a lawful or correct final decision; adverse-output pathways not tested.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-madukkarai-elephant-field-03",
+        "system_id": "sys-madukkarai-elephant",
+        "field": "Deployment & date",
+        "value": "January 2026 official interview reports deployment. Documentary status, not an independent October operational audit.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-madukkarai-elephant-field-04",
+        "system_id": "sys-madukkarai-elephant",
+        "field": "Procurement & supplier",
+        "value": "n.a.; executed current award, supplier/processor chain and contractual terms not established in reviewed material.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-madukkarai-elephant-field-05",
+        "system_id": "sys-madukkarai-elephant",
+        "field": "Funding & contract",
+        "value": "n.a.; system-specific allocation, award, expenditure and reconciliation not established; broader programme budgets not assigned.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-madukkarai-elephant-field-06",
+        "system_id": "sys-madukkarai-elephant",
+        "field": "Data & integration",
+        "value": "Thermal/visual camera observations. Complete live flow, production version and training reuse not independently verified.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-madukkarai-elephant-field-07",
+        "system_id": "sys-madukkarai-elephant",
+        "field": "Evaluation & error rates",
+        "value": "n.a.; current-version independent evaluation, error/subgroup rates and reproducible protocol not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-madukkarai-elephant-field-08",
+        "system_id": "sys-madukkarai-elephant",
+        "field": "Human review & overrides",
+        "value": "n.a.; complete system-specific human review/override procedure and enforcement not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-madukkarai-elephant-field-09",
+        "system_id": "sys-madukkarai-elephant",
+        "field": "Privacy & retention",
+        "value": "n.a.; complete system-specific retention/access/training policies and enforcement not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-madukkarai-elephant-field-10",
+        "system_id": "sys-madukkarai-elephant",
+        "field": "Complaints & appeal",
+        "value": "n.a.; system-specific adverse-output appeal and remedy outcomes not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-madukkarai-elephant-field-11",
+        "system_id": "sys-madukkarai-elephant",
+        "field": "Public outputs & access",
+        "value": "Original URLs and selected excerpts supplied; no citizen records or full original document binaries mirrored.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-madukkarai-elephant-field-12",
+        "system_id": "sys-madukkarai-elephant",
+        "field": "Current-status limits",
+        "value": "Source attribution is not independent validation, full rollout, lawful processing, safety or causal effectiveness. Unknowns mean unestablished within this corpus, not absent.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      }
+    ],
+    "sources": [
+      {
+        "source_id": "grow-scale-069",
+        "title": "Tamil Nadu has successfully deployed AI tools to prevent human-animal conflicts says official",
+        "url": "https://www.theweek.in/wire-updates/national/2026/01/02/tamil-nadu-has-successfully-deployed-ai-tools-to-prevent-human-animal-conflicts-says-official.html",
+        "source_type": "Journalism / hosted institutional account; see original",
+        "published_date": "2026-01-02",
+        "date_basis": "Publisher metadata date; report date, not deployment date",
+        "retrieval_basis": "Fresh SDK retrieval request; extracted text, not independent live-operation verification",
+        "is_cached": false,
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/grow-scale-069.txt",
+        "snapshot_sha256": "b756d20dd45e8f73e8decf16ed9eb410f03249c5329d981300fb5a6894301c75",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      }
+    ],
+    "governance_links": [
+      {
+        "system_link_id": "govlink-tn-ethical-sys-madukkarai-elephant",
+        "instrument_id": "gov-tn-ethical",
+        "system_id": "sys-madukkarai-elephant",
+        "link_type": "Jurisdiction and deployment-domain relevance",
+        "rationale": "Tamil Nadu public-service AI falls within the policy's general state deployment scope; actual DEEP-MAX assessment or compliance is not established.",
+        "instrument_evidence_ids": [
+          "gov-tn-ethical-status",
+          "gov-tn-ethical-scope"
+        ],
+        "system_assertion_ids": [
+          "sys-madukkarai-elephant-field-01",
+          "sys-madukkarai-elephant-field-02",
+          "sys-madukkarai-elephant-field-06"
+        ],
+        "system_source_ids": [
+          "grow-scale-069"
+        ],
+        "system_source_urls": [
+          "https://www.theweek.in/wire-updates/national/2026/01/02/tamil-nadu-has-successfully-deployed-ai-tools-to-prevent-human-animal-conflicts-says-official.html"
+        ],
+        "applicability_determination": "Not made; documentary relevance only except explicit named direction, whose implementation remains unverified",
+        "checked_date": "2026-10-05"
+      }
+    ]
+  },
+  {
+    "system_id": "sys-igms",
+    "search_name": "CPGRAMS intelligent grievance management",
+    "system": {
+      "system_id": "sys-igms",
+      "name": "CPGRAMS Intelligent Grievance Management System (IGMS)",
+      "sector": "Public grievance triage",
+      "jurisdiction": "India",
+      "stage": "Official module use described",
+      "latest_record_date": null,
+      "ai_basis": "Explicit AI attribution in reviewed source; not independent validation",
+      "legacy_id": null,
+      "owner_institution_id": "inst-47b878b9100a8229",
+      "checked_date": "2026-10-05",
+      "unit": "Named service/system; not each installation or model",
+      "selection": "Broadening-round named-system addition",
+      "frame_id": null,
+      "system_kind": "Public-service system",
+      "ai_class": "Explicit source attribution",
+      "ai_class_basis": "AI attribution includes vendor/editorial sources, not independent or government validation. Qualified subset lacks verified system-specific AI identification in the reviewed records.",
+      "research_round": "1.2.0"
+    },
+    "assertions": [
+      {
+        "assertion_id": "sys-igms-field-01",
+        "system_id": "sys-igms",
+        "field": "Owner & purpose",
+        "value": "Department of Administrative Reforms and Public Grievances; CPGRAMS Intelligent Grievance Management System (IGMS). Source-stated responsibility, not registry-certified legal ownership.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-igms-field-02",
+        "system_id": "sys-igms",
+        "field": "Decision role & affected people",
+        "value": "Urgency/spam/repetition classification and thematic grievance analysis; not automatic final resolution. Adverse-decision and override pathways were not tested.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-igms-field-03",
+        "system_id": "sys-igms",
+        "field": "Deployment & date",
+        "value": "Official module use described; documentary stage, not an independent October operational audit.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-igms-field-04",
+        "system_id": "sys-igms",
+        "field": "Procurement & supplier",
+        "value": "Portal names IIT Kanpur development collaboration; executed supplier award and processor terms not established.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-igms-field-05",
+        "system_id": "sys-igms",
+        "field": "Funding & contract",
+        "value": "n.a.; system-specific allocation, award, spending and reconciliation were not established; programme totals are not assigned.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-igms-field-06",
+        "system_id": "sys-igms",
+        "field": "Data & integration",
+        "value": "Citizen grievance text and PDF attachments. Full live data flow and current production-model/version identity not independently verified.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-igms-field-07",
+        "system_id": "sys-igms",
+        "field": "Evaluation & error rates",
+        "value": "n.a.; a current-version independent benchmark, error/subgroup rates and reproducible evaluation protocol were not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-igms-field-08",
+        "system_id": "sys-igms",
+        "field": "Human review & overrides",
+        "value": "n.a.; a complete system-specific human-review/override procedure and actual enforcement not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-igms-field-09",
+        "system_id": "sys-igms",
+        "field": "Privacy & retention",
+        "value": "Portal policy disclaims third-party PII sharing; IGMS/IIT Kanpur processing, model training and retention arrangements are not separately established.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-igms-field-10",
+        "system_id": "sys-igms",
+        "field": "Complaints & appeal",
+        "value": "CPGRAMS has an appeal process, but this does not establish an appeal specifically against an AI urgency/spam classification.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-igms-field-11",
+        "system_id": "sys-igms",
+        "field": "Public outputs & access",
+        "value": "Original source records and selected excerpts available; no personal records or original copyrighted binaries mirrored.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-igms-field-12",
+        "system_id": "sys-igms",
+        "field": "Current-status limits",
+        "value": "The records support attribution and documentary observations, not complete rollout, legal compliance, causality or independent effectiveness.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      }
+    ],
+    "sources": [
+      {
+        "source_id": "ext-double-001",
+        "title": "CPGRAMS IGMS functions",
+        "url": "https://www.pgportal.gov.in/Home/AboutUs",
+        "source_type": "Official service description",
+        "published_date": null,
+        "date_basis": "Publication date not established; retrieval and page-update dates not substituted",
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/ext-double-001.txt",
+        "snapshot_sha256": "eb180d37e877bb6f5f1ebef2dca1d9569fda37fe3413dce4828292497c318961",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      },
+      {
+        "source_id": "ext-extra-010",
+        "title": "CPGRAMS privacy policy",
+        "url": "https://pgportal.gov.in/Home/Privacy",
+        "source_type": "Official portal policy",
+        "published_date": null,
+        "date_basis": "Publication date not established; retrieval and page-update dates not substituted",
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/ext-extra-010.txt",
+        "snapshot_sha256": "706eb470fc56adeaf33ffcb120c7704f22b21717ab9611ef4a6d25d2626c0ca7",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      },
+      {
+        "source_id": "ext-extra-011",
+        "title": "CPGRAMS appeal and IGMS presentation",
+        "url": "https://nceg.gov.in/assets/pdf/Shri_Puneet_Yadav_Department_of_Administrative_Reforms_and_Public_Grievances_GoI.pdf",
+        "source_type": "Official governance presentation",
+        "published_date": null,
+        "date_basis": "Publication date not established; retrieval and page-update dates not substituted",
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/ext-extra-011.txt",
+        "snapshot_sha256": "1d0aa6be4bb55b087d6b2750e0357bb38e1a199f0f52a0de3d3316b686b963d1",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      }
+    ],
+    "governance_links": []
+  },
+  {
+    "system_id": "sys-askdisha",
+    "search_name": "IRCTC AskDISHA",
+    "system": {
+      "system_id": "sys-askdisha",
+      "name": "AskDISHA 2.0",
+      "sector": "Rail passenger services",
+      "jurisdiction": "India",
+      "stage": "Service interface observed",
+      "latest_record_date": "2021-09-06",
+      "ai_basis": "Explicit AI in institutional report and service interface",
+      "legacy_id": null,
+      "owner_institution_id": "inst-c0df593d9ca61f9c",
+      "checked_date": "2026-10-05",
+      "unit": "Named service/system; not each installation or model",
+      "selection": "Purposive exploratory seed",
+      "frame_id": "frame-railways",
+      "system_kind": "Public-service system",
+      "ai_class": "Explicit source attribution",
+      "ai_class_basis": "AI attribution includes vendor/editorial sources, not independent or government validation. Qualified subset lacks verified system-specific AI identification in the reviewed records.",
+      "research_round": "1.0.0"
+    },
+    "assertions": [
+      {
+        "assertion_id": "sys-askdisha-field-01",
+        "system_id": "sys-askdisha",
+        "field": "Owner & purpose",
+        "value": "IRCTC's historical report identifies the assistant. The earlier captured interface identified an authorized partner, but that label was not re-located during the later extraction recheck; current affiliation is not inferred from its absence.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-askdisha-field-02",
+        "system_id": "sys-askdisha",
+        "field": "Decision role & affected people",
+        "value": "Enquiries and booking support; no purchase or automated decision was tested.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-askdisha-field-03",
+        "system_id": "sys-askdisha",
+        "field": "Deployment & date",
+        "value": "2021 report describes enquiry service and planned booking; current interface provides booking features. Undated UI is not assigned a launch date.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-askdisha-field-04",
+        "system_id": "sys-askdisha",
+        "field": "Procurement & supplier",
+        "value": "CoRover named as historical technical partner; current executed terms/award not reviewed.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-askdisha-field-05",
+        "system_id": "sys-askdisha",
+        "field": "Funding & contract",
+        "value": "n.a.; component-specific current contract price and disbursements not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-askdisha-field-06",
+        "system_id": "sys-askdisha",
+        "field": "Data & integration",
+        "value": "AI/ML/NLP voice/chat functions stated; current model/version and complete data-flow map not verified.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-askdisha-field-07",
+        "system_id": "sys-askdisha",
+        "field": "Evaluation & error rates",
+        "value": "n.a.; independent current response accuracy or booking-error evaluation not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-askdisha-field-08",
+        "system_id": "sys-askdisha",
+        "field": "Human review & overrides",
+        "value": "n.a.; assistant-specific handoff/override SOP not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-askdisha-field-09",
+        "system_id": "sys-askdisha",
+        "field": "Privacy & retention",
+        "value": "n.a.; assistant-specific retention/processor terms were not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-askdisha-field-10",
+        "system_id": "sys-askdisha",
+        "field": "Complaints & appeal",
+        "value": "IRCTC terms provide an e-ticket cancellation contact, not a verified AI-error complaint outcome.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-askdisha-field-11",
+        "system_id": "sys-askdisha",
+        "field": "Public outputs & access",
+        "value": "Public interface, historical annual-report copy and ticketing terms retained.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-askdisha-field-12",
+        "system_id": "sys-askdisha",
+        "field": "Current-status limits",
+        "value": "2025-26 report was listed in the live report library but PDF retrieval failed; it is not presented as reviewed.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      }
+    ],
+    "sources": [
+      {
+        "source_id": "reg-irctc-interface",
+        "title": "AskDISHA 2.0 booking interface",
+        "url": "https://revamp.irctc.corover.ai/",
+        "source_type": "Service/developer interface",
+        "published_date": null,
+        "date_basis": "Undated; not assigned retrieval date",
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/reg-irctc-interface.txt",
+        "snapshot_sha256": "0d892e80e89b643fbf6bbfc34b40c3fc195d14dfc07e9d3e1a776ef5232d617f",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      },
+      {
+        "source_id": "reg-irctc-report-mirror",
+        "title": "IRCTC annual report 2020-21, exchange-filed copy",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1f482507-98ed-4566-8323-ea95fc1f82be.pdf",
+        "source_type": "Institution annual report",
+        "published_date": "2021-09-06",
+        "date_basis": "Exchange filing date of historical 2020–21 report, not a current operating date",
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/reg-irctc-report-mirror.txt",
+        "snapshot_sha256": "0798016dd4aa84ad69f68db0af415385473cff6346db4d547f61efef0da0e40a",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      },
+      {
+        "source_id": "reg-irctc-terms",
+        "title": "IRCTC e-ticketing terms and conditions",
+        "url": "https://contents.irctc.co.in/en/Terms%20and%20conditions.pdf",
+        "source_type": "Service terms",
+        "published_date": null,
+        "date_basis": "Undated; not assigned retrieval date",
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/reg-irctc-terms.txt",
+        "snapshot_sha256": "7c1eb64fd3e2f7868d3bbcda00ed0fe77fcc94d3d2b733fdbff1b12953fefbd0",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      }
+    ],
+    "governance_links": []
+  },
+  {
+    "system_id": "sys-mulehunter",
+    "search_name": "RBIH MuleHunter AI",
+    "system": {
+      "system_id": "sys-mulehunter",
+      "name": "RBIH MuleHunter",
+      "sector": "Bank fraud detection",
+      "jurisdiction": "India",
+      "stage": "Developer describes staged bank deployment; hourly Stage II target, not universal near-real-time use",
+      "latest_record_date": "2026-05-13",
+      "ai_basis": "Explicit AI attribution in reviewed institutional, developer or editorial record; not independent validation",
+      "legacy_id": null,
+      "owner_institution_id": "inst-63f3c7d5d7f43f82",
+      "checked_date": "2026-10-05",
+      "unit": "Named service/system; not each installation or model",
+      "selection": "Scaling cohort: purposive named family; variants and installations coalesced",
+      "frame_id": null,
+      "system_kind": "Public-service system",
+      "ai_class": "Explicit source attribution",
+      "ai_class_basis": "AI attribution includes vendor/editorial sources, not independent or government validation. Qualified subset lacks verified system-specific AI identification in the reviewed records.",
+      "research_round": "1.3.0"
+    },
+    "assertions": [
+      {
+        "assertion_id": "sys-mulehunter-field-01",
+        "system_id": "sys-mulehunter",
+        "field": "Owner & purpose",
+        "value": "Reserve Bank Innovation Hub; source-stated institutional responsibility for RBIH MuleHunter, not certified legal ownership.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-mulehunter-field-02",
+        "system_id": "sys-mulehunter",
+        "field": "Decision role & affected people",
+        "value": "Classify suspected mule accounts for bank AML/fraud workflows; flags are not criminal findings. Output is not automatically a lawful or correct final decision; adverse-output pathways not tested.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-mulehunter-field-03",
+        "system_id": "sys-mulehunter",
+        "field": "Deployment & date",
+        "value": "Developer describes staged bank deployment; hourly Stage II target, not universal near-real-time use. Documentary status, not an independent October operational audit.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-mulehunter-field-04",
+        "system_id": "sys-mulehunter",
+        "field": "Procurement & supplier",
+        "value": "RBIH proprietary model and development responsibility documented; executed bank-specific agreements not established.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-mulehunter-field-05",
+        "system_id": "sys-mulehunter",
+        "field": "Funding & contract",
+        "value": "n.a.; system-specific allocation, award, expenditure and reconciliation not established; broader programme budgets not assigned.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-mulehunter-field-06",
+        "system_id": "sys-mulehunter",
+        "field": "Data & integration",
+        "value": "Bank transaction/account features; model operates in bank infrastructure. Complete live flow, production version and training reuse not independently verified.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-mulehunter-field-07",
+        "system_id": "sys-mulehunter",
+        "field": "Evaluation & error rates",
+        "value": "n.a.; current-version independent evaluation, error/subgroup rates and reproducible protocol not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-mulehunter-field-08",
+        "system_id": "sys-mulehunter",
+        "field": "Human review & overrides",
+        "value": "n.a.; complete system-specific human review/override procedure and enforcement not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-mulehunter-field-09",
+        "system_id": "sys-mulehunter",
+        "field": "Privacy & retention",
+        "value": "Developer describes no bank-to-RBIH PII exchange and anonymised MIS monitoring. Separate May 2026 I4C–RBIH MoU reporting describes suspect identifiers and training datasets; do not generalise the bank-interface statement to all intelligence flows.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-mulehunter-field-10",
+        "system_id": "sys-mulehunter",
+        "field": "Complaints & appeal",
+        "value": "n.a.; system-specific adverse-output appeal and remedy outcomes not established.",
+        "evidence_status": "Not verified",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-mulehunter-field-11",
+        "system_id": "sys-mulehunter",
+        "field": "Public outputs & access",
+        "value": "Original URLs and selected excerpts supplied; no citizen records or full original document binaries mirrored.",
+        "evidence_status": "Documented",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      },
+      {
+        "assertion_id": "sys-mulehunter-field-12",
+        "system_id": "sys-mulehunter",
+        "field": "Current-status limits",
+        "value": "Source attribution is not independent validation, full rollout, lawful processing, safety or causal effectiveness. Unknowns mean unestablished within this corpus, not absent.",
+        "evidence_status": "Partial",
+        "checked_date": "2026-10-05",
+        "coding_basis": "Single-analyst source coding; not operational audit"
+      }
+    ],
+    "sources": [
+      {
+        "source_id": "grow-scale-001",
+        "title": "MuleHunter.ai technical documentation: RBIH",
+        "url": "https://docs.rbihub.in/mule-hunter",
+        "source_type": "Developer technical documentation (RBIH); self-report",
+        "published_date": null,
+        "date_basis": "Publication date not established; page-update and retrieval dates not substituted",
+        "retrieval_basis": "Fresh SDK retrieval request; extracted text, not independent live-operation verification",
+        "is_cached": false,
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/grow-scale-001.txt",
+        "snapshot_sha256": "7317975c2f09dfb64ec435bae92f0f2e62ffbdb82c4253a81e87ac1992bba04d",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      },
+      {
+        "source_id": "grow-sf-006",
+        "title": "Indian Cyber Crime Coordination Centre, RBIH sign MoU to strengthen AI-based detection of mule accounts",
+        "url": "https://government.economictimes.indiatimes.com/news/secure-india/i4c-and-rbih-join-forces-to-combat-cyber-fraud-with-ai-technology/131059334",
+        "source_type": "Journalism / hosted institutional account; see original",
+        "published_date": "2026-05-13",
+        "date_basis": "Publisher metadata date; report date, not deployment date",
+        "retrieval_basis": "Default cache-enabled SDK retrieval; not independently certified live-source status",
+        "is_cached": true,
+        "checked_date": "2026-10-05",
+        "snapshot": "snapshots/grow-sf-006.txt",
+        "snapshot_sha256": "0acb6311eaad37b9397cf8b2b674ec0a3fa8ce08858957c5a743d6ac8c8a9c45",
+        "hash_basis": "Selected-excerpt UTF-8 snapshot; not original PDF"
+      }
+    ],
+    "governance_links": [
+      {
+        "system_link_id": "govlink-dpdp-act-sys-mulehunter",
+        "instrument_id": "gov-dpdp-act",
+        "system_id": "sys-mulehunter",
+        "link_type": "Conditional cross-cutting relevance",
+        "rationale": "Registry describes personal/biometric/health/customer data. DPDP scope, exemptions, fiduciary designation and staged commencement must be established; no complete current compliance obligation inferred.",
+        "instrument_evidence_ids": [
+          "gov-dpdp-act-status",
+          "gov-dpdp-act-scope"
+        ],
+        "system_assertion_ids": [
+          "sys-mulehunter-field-01",
+          "sys-mulehunter-field-02",
+          "sys-mulehunter-field-06"
+        ],
+        "system_source_ids": [
+          "grow-scale-001"
+        ],
+        "system_source_urls": [
+          "https://docs.rbihub.in/mule-hunter"
+        ],
+        "applicability_determination": "Not made; documentary relevance only except explicit named direction, whose implementation remains unverified",
+        "checked_date": "2026-10-05"
+      },
+      {
+        "system_link_id": "govlink-dpdp-rules-sys-mulehunter",
+        "instrument_id": "gov-dpdp-rules",
+        "system_id": "sys-mulehunter",
+        "link_type": "Conditional cross-cutting relevance",
+        "rationale": "Relevant only if processing and entity fall within applicable Act/Rules scope. Most substantive rules have delayed commencement; no SDF designation or present annual audit duty inferred.",
+        "instrument_evidence_ids": [
+          "gov-dpdp-rules-status",
+          "gov-dpdp-rules-scope"
+        ],
+        "system_assertion_ids": [
+          "sys-mulehunter-field-01",
+          "sys-mulehunter-field-02",
+          "sys-mulehunter-field-06"
+        ],
+        "system_source_ids": [
+          "grow-scale-001"
+        ],
+        "system_source_urls": [
+          "https://docs.rbihub.in/mule-hunter"
+        ],
+        "applicability_determination": "Not made; documentary relevance only except explicit named direction, whose implementation remains unverified",
+        "checked_date": "2026-10-05"
+      },
+      {
+        "system_link_id": "govlink-rbi-freeai-sys-mulehunter",
+        "instrument_id": "gov-rbi-freeai",
+        "system_id": "sys-mulehunter",
+        "link_type": "Financial-sector recommendation relevance",
+        "rationale": "Banking/fraud tools overlap report scope; committee recommendations are not an adopted RBI Master Direction or evidence of bank compliance.",
+        "instrument_evidence_ids": [
+          "gov-rbi-freeai-status",
+          "gov-rbi-freeai-scope"
+        ],
+        "system_assertion_ids": [
+          "sys-mulehunter-field-01",
+          "sys-mulehunter-field-02",
+          "sys-mulehunter-field-06"
+        ],
+        "system_source_ids": [
+          "grow-scale-001"
+        ],
+        "system_source_urls": [
+          "https://docs.rbihub.in/mule-hunter"
+        ],
+        "applicability_determination": "Not made; documentary relevance only except explicit named direction, whose implementation remains unverified",
+        "checked_date": "2026-10-05"
+      },
+      {
+        "system_link_id": "govlink-ai-guidelines-sys-mulehunter",
+        "instrument_id": "gov-ai-guidelines",
+        "system_id": "sys-mulehunter",
+        "link_type": "National governance recommendation relevance",
+        "rationale": "These sectoral AI uses overlap national governance principles; no new statutory audit/appeal duty or regulator finding inferred.",
+        "instrument_evidence_ids": [
+          "gov-ai-guidelines-status",
+          "gov-ai-guidelines-scope"
+        ],
+        "system_assertion_ids": [
+          "sys-mulehunter-field-01",
+          "sys-mulehunter-field-02",
+          "sys-mulehunter-field-06"
+        ],
+        "system_source_ids": [
+          "grow-scale-001"
+        ],
+        "system_source_urls": [
+          "https://docs.rbihub.in/mule-hunter"
+        ],
+        "applicability_determination": "Not made; documentary relevance only except explicit named direction, whose implementation remains unverified",
+        "checked_date": "2026-10-05"
+      }
+    ]
+  }
+]

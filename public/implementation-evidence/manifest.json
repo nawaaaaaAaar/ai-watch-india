@@ -1,0 +1,389 @@
+{
+  "version": "1.0.0",
+  "counts": {
+    "cases": 10,
+    "documents": 33,
+    "observations": 124,
+    "case_observations": 136,
+    "evidence": 124,
+    "party_observations": 113,
+    "financial_observations": 12,
+    "coverage": 100,
+    "governance_links": 11,
+    "selection_decisions": 12,
+    "system_keys": 144,
+    "governance_keys": 52
+  },
+  "files": [
+    {
+      "path": "CODEBOOK.md",
+      "bytes": 4845,
+      "sha256": "f4a92df61f0c0c16550ff95298030d6c8639c446b8d4443d1276702fd1f046d6"
+    },
+    {
+      "path": "METHOD.md",
+      "bytes": 7539,
+      "sha256": "be6ab72da31d2c0ef551a54717bd8b9976e787a756d7dc54fdb4ccc7bd3ccda5"
+    },
+    {
+      "path": "REPRODUCE.md",
+      "bytes": 449,
+      "sha256": "f4a6fe73fbb773d4388f501166aae660f1a4f7eb38e17952af1b246b1592ae99"
+    },
+    {
+      "path": "analysis.json",
+      "bytes": 794,
+      "sha256": "afd0b3136657fe236708a949bd047e62ad22be2538e770ee98b285c40d8909ad"
+    },
+    {
+      "path": "baseline-candidates.json",
+      "bytes": 111126,
+      "sha256": "2a176fc7fd86ecab0c798f2e71ad7e5b39ccc0aa8878c6756692e01598952713"
+    },
+    {
+      "path": "baseline-layers.json",
+      "bytes": 83059,
+      "sha256": "78614c3f4cbde571a087875c6d45133704b682ee3ed791fe95e08508b39617be"
+    },
+    {
+      "path": "build_deployment_evidence.py",
+      "bytes": 10001,
+      "sha256": "d28a386efedb674a63e414a1bc336ea19b17a18b676afbe3e3ed7397788ca5c3"
+    },
+    {
+      "path": "case_observations.csv",
+      "bytes": 63101,
+      "sha256": "3165380d6ee6b0e4d3ef1a2fda1974ef2f02acb3388f8879885a462dbee40f36"
+    },
+    {
+      "path": "cases.csv",
+      "bytes": 6520,
+      "sha256": "2c8aff9749c26a1e5c9bccb96541dc99aa49a843e722d0daee845a9a9600942c"
+    },
+    {
+      "path": "coverage.csv",
+      "bytes": 31942,
+      "sha256": "6825366e8e19bed46776afd9680716c17d651fc8308a4fefc7caeb54d99a7460"
+    },
+    {
+      "path": "curation.json",
+      "bytes": 523100,
+      "sha256": "05aa1886438bd13b85f9607ace33016bd585b83ce08b8322b5fb74bf71b94f0c"
+    },
+    {
+      "path": "data.json",
+      "bytes": 523907,
+      "sha256": "3952e660c9d5fedf186c69244568b0d77267c9bdbb4f7293c3bb6f116b30dcd0"
+    },
+    {
+      "path": "dataset.sqlite",
+      "bytes": 491520,
+      "sha256": "3cffe22a6e71d4d150dce81aa4956c93c290f370cc5e181853596a4461b8c073"
+    },
+    {
+      "path": "documents.csv",
+      "bytes": 33183,
+      "sha256": "45e643f6e0e663b977b882de0be91695e5cad6c57b1a0296ce2fd5ad735515af"
+    },
+    {
+      "path": "dossiers/sys-adalat-ai.md",
+      "bytes": 13270,
+      "sha256": "c6dfc435159ffe1273bee95008135889cd56c77f34c0f77ff310f37fcad678cd"
+    },
+    {
+      "path": "dossiers/sys-cag-parakh.md",
+      "bytes": 16470,
+      "sha256": "526b70dfc4433553ec3480039b2de560960d0386529023d5e03a9ddc4711d4f2"
+    },
+    {
+      "path": "dossiers/sys-cag-paras.md",
+      "bytes": 16481,
+      "sha256": "f1d9108388807742083ab906ddd96bd0a0615445b6ff0e1bbb9f5d3a053d69c5"
+    },
+    {
+      "path": "dossiers/sys-igms.md",
+      "bytes": 27278,
+      "sha256": "9763d47a6f19f494009a7c7470a0a0289af94bac857694e035f5d49c1ee72939"
+    },
+    {
+      "path": "dossiers/sys-madukkarai-elephant.md",
+      "bytes": 8395,
+      "sha256": "1a61e08d4ac5284618cb43cfe53c8143128ad48420d3aa84e86948d9cdfc1bfc"
+    },
+    {
+      "path": "dossiers/sys-nhai-das.md",
+      "bytes": 16350,
+      "sha256": "b8fdf23c1b0eacd8e0331cdcd33666045ba7d0372e152f3c55c8a5c467cd11f0"
+    },
+    {
+      "path": "dossiers/sys-rail-ids.md",
+      "bytes": 14530,
+      "sha256": "47fdefaf457864ce2cc56800cdd2c59f3009d24f4406ae5aaf2f4c07dbe3ea0f"
+    },
+    {
+      "path": "dossiers/sys-rail-vss.md",
+      "bytes": 20873,
+      "sha256": "6529cce50c6b201a2702cff6a44e09bc6d7a627aa9c7ed501fef174e2a8a4e5b"
+    },
+    {
+      "path": "dossiers/sys-safe-kerala.md",
+      "bytes": 11837,
+      "sha256": "7a4c8da447da93611f4c37d26987b2ea51c7ff34dc242f072726bfef7b869cc3"
+    },
+    {
+      "path": "dossiers/sys-upsc.md",
+      "bytes": 23140,
+      "sha256": "c9274b0c0adeb5b3f9c64eb3d8479af29f11ba1648fe4d044fec4a51fc50eedd"
+    },
+    {
+      "path": "evidence.csv",
+      "bytes": 50273,
+      "sha256": "c82f9584b173b4c300cbe1b3b200ab3421514990650c4e3b322789d91830e0b4"
+    },
+    {
+      "path": "financial_observations.csv",
+      "bytes": 3424,
+      "sha256": "c146b9c03af1eba913d09f3d031311964cb5d8e3f89ef3f0a375760709bd2d17"
+    },
+    {
+      "path": "governance_keys.csv",
+      "bytes": 11285,
+      "sha256": "5b50c0a160805b5c37c6fb8661690c1c406b211e4561bda1fb08fc6050b9b3d1"
+    },
+    {
+      "path": "governance_links.csv",
+      "bytes": 8079,
+      "sha256": "3f8324fe4e4992c40a44a612bb5f1ef235ae7818fbeec178154eec6e86809be7"
+    },
+    {
+      "path": "implementation-findings.pplx.md",
+      "bytes": 8521,
+      "sha256": "2ee6f15044ad33351f29659350c56203b59aa271e272465d341cd818eeee223b"
+    },
+    {
+      "path": "observations.csv",
+      "bytes": 81913,
+      "sha256": "357489a19f7b8bb8455ecfacd32ee4d67545d14a5378ee8f8c2b25016434a8e2"
+    },
+    {
+      "path": "party_observations.csv",
+      "bytes": 23503,
+      "sha256": "88b3536d78c50914cb707d471bb6dd7195e9a20df8a71de3149b135b5c7ea81e"
+    },
+    {
+      "path": "queries.sql",
+      "bytes": 1563,
+      "sha256": "c057d0a5798dc1706f1d8c13cdf214c750be7a8c4ff46764b25280fccc56986c"
+    },
+    {
+      "path": "quote-audit.json",
+      "bytes": 11496,
+      "sha256": "6f50349b8af10a93e546e7217631dfdf060e30aeb140a0a1f892e441914c28d9"
+    },
+    {
+      "path": "retrieval-log.json",
+      "bytes": 28746,
+      "sha256": "e1bbae3a3bb5f51915ede749ee0b54de00b3d8badb7dca01d286471102bcfd54"
+    },
+    {
+      "path": "review-decisions.json",
+      "bytes": 5672,
+      "sha256": "652a394747ba41eb837aaf5e6324483b1971e4b79f1030793a946e18ceca1fd5"
+    },
+    {
+      "path": "schema.json",
+      "bytes": 5931,
+      "sha256": "259c7940a7549ace396b680a7abac149c88eb185655c762791b96f80598186a3"
+    },
+    {
+      "path": "schema.sql",
+      "bytes": 4067,
+      "sha256": "08c6e5e60cfbfd5ad02acde7c130467db9f82a1891305e833b47687dbb6ca8cb"
+    },
+    {
+      "path": "search-leads.json",
+      "bytes": 445269,
+      "sha256": "a4005430d24c1310279b367b0f4847010a2ffc3c854419af28f51cca3aada790"
+    },
+    {
+      "path": "search-log.json",
+      "bytes": 16316,
+      "sha256": "5441d4eeab0d0dad2dafe0bb24c7eb7d49cb5fb603fa0ecb1228788aaa0803cc"
+    },
+    {
+      "path": "selection_decisions.csv",
+      "bytes": 5024,
+      "sha256": "4c413049e35ec1c522358b6593a4c7bbf3721ccfd376b857bae4d22e8296d4a0"
+    },
+    {
+      "path": "sources/impldoc-cag-eoi.md",
+      "bytes": 3226,
+      "sha256": "caa5a26f316194bed760be24a3189166f47aa423248a15ef4206b2d4274cd33e"
+    },
+    {
+      "path": "sources/impldoc-cag-minutes.md",
+      "bytes": 2817,
+      "sha256": "9852d39294eee3d63758c3baa297b6c954085f9c76c3fa2a41176765d641937d"
+    },
+    {
+      "path": "sources/impldoc-cag-order.md",
+      "bytes": 2227,
+      "sha256": "c26eca8ef217e5e60f3b4cb694da189f9f66fe52f29a3b5c8eb2fd3578c8bc23"
+    },
+    {
+      "path": "sources/impldoc-court-followup.md",
+      "bytes": 3089,
+      "sha256": "ff2e3a5c5e8fbb45452b32717465578a2d88be70c47943df3ba56c8bb77a6444"
+    },
+    {
+      "path": "sources/impldoc-court-order.md",
+      "bytes": 2636,
+      "sha256": "a3b7cd6e970295e7bdbfa30ce25688bc201bd62532c7699b9669c5522439993b"
+    },
+    {
+      "path": "sources/impldoc-igms-about.md",
+      "bytes": 2327,
+      "sha256": "d7f8be2c518ce54b4e5e08a2644e9e3504286e43e3cdf59ee1fb3d635fd825e8"
+    },
+    {
+      "path": "sources/impldoc-igms-aug.md",
+      "bytes": 1817,
+      "sha256": "bf044519a1773a069f05db13a83fa6450b347aadad6b4df6a07b7d728bb8d4ae"
+    },
+    {
+      "path": "sources/impldoc-igms-g2g.md",
+      "bytes": 1542,
+      "sha256": "9f10318d0b30dd51cdaff669b2eb8b5695787244f0f43bee3ff89b8227918956"
+    },
+    {
+      "path": "sources/impldoc-igms-guidelines.md",
+      "bytes": 2687,
+      "sha256": "e5b0b98ccac944f44f29752bc2895d804623174095ef8adf45264dce23cb1472"
+    },
+    {
+      "path": "sources/impldoc-igms-launch.md",
+      "bytes": 2234,
+      "sha256": "8c27f2628bd014a87a789383df859add4edb059e1ca751f526e7a3ea082ce963"
+    },
+    {
+      "path": "sources/impldoc-igms-prebid.md",
+      "bytes": 2956,
+      "sha256": "df03400109731632c09cd3701aba73b6e40c0b7ad9440b20c5b5eff659afa84a"
+    },
+    {
+      "path": "sources/impldoc-igms-privacy.md",
+      "bytes": 1825,
+      "sha256": "dead9840e60bfc4e28e458ae459bba736848e7bc9229d485702446f2a0d04a5f"
+    },
+    {
+      "path": "sources/impldoc-igms-rfp.md",
+      "bytes": 3234,
+      "sha256": "5575f45d16925c65df34c33c2bc6b4b846a39a721c7e296e408a7dd5555182ce"
+    },
+    {
+      "path": "sources/impldoc-nhai-complaint.md",
+      "bytes": 2179,
+      "sha256": "3eb30821ee46e4f9c71ee6732327dfa8fb18ec199089b4199d54017ea40cd521"
+    },
+    {
+      "path": "sources/impldoc-nhai-proposal.md",
+      "bytes": 2507,
+      "sha256": "6c7fdfd424dc0487092dcd564cf305d052922f995b5ff430024526bb9936d20f"
+    },
+    {
+      "path": "sources/impldoc-nhai-status.md",
+      "bytes": 1862,
+      "sha256": "c9980c2fca73414c2e6b1308e8ab2d48d75ba61c7e931f19715c6a27805151d7"
+    },
+    {
+      "path": "sources/impldoc-nhai-tcil.md",
+      "bytes": 3258,
+      "sha256": "d3c74226ac21a1ef125d43041b4ea8724a155fc0817a5c8fbbd227d72594772f"
+    },
+    {
+      "path": "sources/impldoc-rail-iti.md",
+      "bytes": 2841,
+      "sha256": "c57cc2fbc19cc0bac657ff4448466152b32c04d39ad2f94afe5480a8c5d8e093"
+    },
+    {
+      "path": "sources/impldoc-rail-operation.md",
+      "bytes": 2172,
+      "sha256": "d1c730031a97eea764c8895c56912d2897ef22af5458b0d2a2284bafa483240f"
+    },
+    {
+      "path": "sources/impldoc-rail-spec.md",
+      "bytes": 3207,
+      "sha256": "41b2ad2a8165e106ecc91bc067e369119d41d9765603635a06f5b198b1590adb"
+    },
+    {
+      "path": "sources/impldoc-safe-order.md",
+      "bytes": 2476,
+      "sha256": "07912489846aa9227d67319eef09a9e559bce119f1587007f832a0ab422d6491"
+    },
+    {
+      "path": "sources/impldoc-safe-report.md",
+      "bytes": 2997,
+      "sha256": "d333872a6b633a6d4c3e72af2287b868d4a0a40a7ef1b26a7eae01340b2599cd"
+    },
+    {
+      "path": "sources/impldoc-tn-launch.md",
+      "bytes": 2909,
+      "sha256": "b7eb7b69293bb64bc3140c309ed9ea2717843a74aea21de1e0257159f04c2c79"
+    },
+    {
+      "path": "sources/impldoc-tn-policy-note.md",
+      "bytes": 1461,
+      "sha256": "f9901d554231107903bc8d2254f83d3ed4ba2a721e9864b7afb031fdf28c0c8d"
+    },
+    {
+      "path": "sources/impldoc-upsc-correction.md",
+      "bytes": 2898,
+      "sha256": "cec9b6376ca1bf94b6fb1818ec46c355905958104473c5073a0cbb744f844def"
+    },
+    {
+      "path": "sources/impldoc-upsc-recent.md",
+      "bytes": 2407,
+      "sha256": "e6c406769a595873f71df261a2d5ee20d97aaf3ff261f4c8e56bc714bc6c4666"
+    },
+    {
+      "path": "sources/impldoc-upsc-status-recovery.md",
+      "bytes": 3429,
+      "sha256": "ddff65285be69bb1527a919e5ba7422a2bc8c536de0d26d498ae528c0d1b9f08"
+    },
+    {
+      "path": "sources/impldoc-upsc-tender.md",
+      "bytes": 3552,
+      "sha256": "96c1dd5a081a26079d263fdf055c9ca6630254f6dcc90c616ba9b2cc7bf62543"
+    },
+    {
+      "path": "sources/impldoc-vss-2025-tender.md",
+      "bytes": 2884,
+      "sha256": "9872d948f5d26b5444148c151e799b70b5523b12d0f0594d784e622a2894476b"
+    },
+    {
+      "path": "sources/impldoc-vss-award.md",
+      "bytes": 3123,
+      "sha256": "3b9b5a2a681c66ed169fd2e775b5f1c7f70f1e104cf8dba315de0146f9a79a90"
+    },
+    {
+      "path": "sources/impldoc-vss-nwr.md",
+      "bytes": 1970,
+      "sha256": "f60e398ca46f0be2371d583896043e0b8ed6b5b89fae221fa43246bfa0764b98"
+    },
+    {
+      "path": "sources/impldoc-vss-status.md",
+      "bytes": 1575,
+      "sha256": "b3a628936050f6b243a31abe45a30a8a21bd9caa83aa8f5a2f3120aa26eb92db"
+    },
+    {
+      "path": "sources/impldoc-vss-tender.md",
+      "bytes": 3056,
+      "sha256": "72091d8f95c9c5c537dea4fb47a6b3ca18982c5d8469aea6544a4fae9694d110"
+    },
+    {
+      "path": "system_keys.csv",
+      "bytes": 15035,
+      "sha256": "bf671f42bda28614c2a76434d979bde8c11e69566d97a8246069287d39ceb550"
+    }
+  ]
+}
