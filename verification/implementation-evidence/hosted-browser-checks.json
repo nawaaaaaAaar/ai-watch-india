@@ -1,0 +1,158 @@
+{
+  "checks": [
+    {
+      "name": "hosted ten cases",
+      "ok": true
+    },
+    {
+      "name": "hosted bytes complete-implementation-evidence.zip",
+      "ok": true
+    },
+    {
+      "name": "hosted bytes data.json",
+      "ok": true
+    },
+    {
+      "name": "hosted bytes dataset.sqlite",
+      "ok": true
+    },
+    {
+      "name": "hosted bytes coverage.csv",
+      "ok": true
+    },
+    {
+      "name": "hosted bytes governance_links.csv",
+      "ok": true
+    },
+    {
+      "name": "hosted bytes implementation-findings.pplx.md",
+      "ok": true
+    },
+    {
+      "name": "hosted case sys-rail-ids",
+      "ok": true
+    },
+    {
+      "name": "hosted case sys-rail-vss",
+      "ok": true
+    },
+    {
+      "name": "hosted case sys-nhai-das",
+      "ok": true
+    },
+    {
+      "name": "hosted case sys-adalat-ai",
+      "ok": true
+    },
+    {
+      "name": "hosted case sys-cag-paras",
+      "ok": true
+    },
+    {
+      "name": "hosted case sys-cag-parakh",
+      "ok": true
+    },
+    {
+      "name": "hosted case sys-safe-kerala",
+      "ok": true
+    },
+    {
+      "name": "hosted case sys-upsc",
+      "ok": true
+    },
+    {
+      "name": "hosted case sys-madukkarai-elephant",
+      "ok": true
+    },
+    {
+      "name": "hosted case sys-igms",
+      "ok": true
+    },
+    {
+      "name": "hosted search one",
+      "ok": true
+    },
+    {
+      "name": "hosted combined empty",
+      "ok": true
+    },
+    {
+      "name": "hosted reset ten",
+      "ok": true
+    },
+    {
+      "name": "hosted bytes dossiers/sys-adalat-ai.md",
+      "ok": true
+    },
+    {
+      "name": "hosted source excerpt visible",
+      "ok": true
+    },
+    {
+      "name": "hosted bytes sources/impldoc-court-order.md",
+      "ok": true
+    },
+    {
+      "name": "hosted governance join navigates",
+      "ok": true
+    },
+    {
+      "name": "hosted old 144",
+      "ok": true
+    },
+    {
+      "name": "hosted old 52",
+      "ok": true
+    },
+    {
+      "name": "hosted mobile no overflow",
+      "ok": true
+    },
+    {
+      "name": "hosted implementation nav active",
+      "ok": true
+    }
+  ],
+  "downloads": [
+    {
+      "file": "complete-implementation-evidence.zip",
+      "bytes": 556595,
+      "sha256": "85893b951df71efb9cc9e732131f3a1a146995e802768be264ddb8da34bebbb7"
+    },
+    {
+      "file": "data.json",
+      "bytes": 523907,
+      "sha256": "3952e660c9d5fedf186c69244568b0d77267c9bdbb4f7293c3bb6f116b30dcd0"
+    },
+    {
+      "file": "dataset.sqlite",
+      "bytes": 491520,
+      "sha256": "3cffe22a6e71d4d150dce81aa4956c93c290f370cc5e181853596a4461b8c073"
+    },
+    {
+      "file": "coverage.csv",
+      "bytes": 31942,
+      "sha256": "6825366e8e19bed46776afd9680716c17d651fc8308a4fefc7caeb54d99a7460"
+    },
+    {
+      "file": "governance_links.csv",
+      "bytes": 8079,
+      "sha256": "3f8324fe4e4992c40a44a612bb5f1ef235ae7818fbeec178154eec6e86809be7"
+    },
+    {
+      "file": "implementation-findings.pplx.md",
+      "bytes": 8521,
+      "sha256": "2ee6f15044ad33351f29659350c56203b59aa271e272465d341cd818eeee223b"
+    },
+    {
+      "file": "dossiers/sys-adalat-ai.md",
+      "bytes": 13270,
+      "sha256": "c6dfc435159ffe1273bee95008135889cd56c77f34c0f77ff310f37fcad678cd"
+    },
+    {
+      "file": "sources/impldoc-court-order.md",
+      "bytes": 2636,
+      "sha256": "a3b7cd6e970295e7bdbfa30ce25688bc201bd62532c7699b9669c5522439993b"
+    }
+  ]
+}

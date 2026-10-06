@@ -1,0 +1,667 @@
+{
+  "checks": [
+    {
+      "name": "initial ten cases",
+      "ok": true
+    },
+    {
+      "name": "search supplier gives one",
+      "ok": true
+    },
+    {
+      "name": "combined filters empty",
+      "ok": true
+    },
+    {
+      "name": "reset ten",
+      "ok": true
+    },
+    {
+      "name": "dimension Procurement",
+      "ok": true
+    },
+    {
+      "name": "dimension Contracts and awards",
+      "ok": true
+    },
+    {
+      "name": "dimension Funding",
+      "ok": true
+    },
+    {
+      "name": "dimension Supplier",
+      "ok": true
+    },
+    {
+      "name": "dimension Implementation",
+      "ok": true
+    },
+    {
+      "name": "dimension Evaluation",
+      "ok": true
+    },
+    {
+      "name": "dimension Human oversight",
+      "ok": true
+    },
+    {
+      "name": "dimension Redress",
+      "ok": true
+    },
+    {
+      "name": "dimension Data safeguards",
+      "ok": true
+    },
+    {
+      "name": "dimension Operational status",
+      "ok": true
+    },
+    {
+      "name": "strength Procurement-stage invitation",
+      "ok": true
+    },
+    {
+      "name": "strength Formal prescribed requirement",
+      "ok": true
+    },
+    {
+      "name": "strength First-party reported activity or outcome",
+      "ok": true
+    },
+    {
+      "name": "strength Institutional contextual evidence",
+      "ok": true
+    },
+    {
+      "name": "strength Implementer's historical account",
+      "ok": true
+    },
+    {
+      "name": "sys-rail-ids ten dims",
+      "ok": true
+    },
+    {
+      "name": "sys-rail-ids observations",
+      "ok": true
+    },
+    {
+      "name": "sys-rail-ids excerpt visible",
+      "ok": true
+    },
+    {
+      "name": "sys-rail-ids original URL",
+      "ok": true
+    },
+    {
+      "name": "sys-rail-ids excerpt closes",
+      "ok": true
+    },
+    {
+      "name": "sys-rail-ids backlink returns",
+      "ok": true
+    },
+    {
+      "name": "sys-rail-vss ten dims",
+      "ok": true
+    },
+    {
+      "name": "sys-rail-vss observations",
+      "ok": true
+    },
+    {
+      "name": "sys-rail-vss excerpt visible",
+      "ok": true
+    },
+    {
+      "name": "sys-rail-vss original URL",
+      "ok": true
+    },
+    {
+      "name": "sys-rail-vss excerpt closes",
+      "ok": true
+    },
+    {
+      "name": "sys-rail-vss backlink returns",
+      "ok": true
+    },
+    {
+      "name": "sys-nhai-das ten dims",
+      "ok": true
+    },
+    {
+      "name": "sys-nhai-das observations",
+      "ok": true
+    },
+    {
+      "name": "sys-nhai-das excerpt visible",
+      "ok": true
+    },
+    {
+      "name": "sys-nhai-das original URL",
+      "ok": true
+    },
+    {
+      "name": "sys-nhai-das excerpt closes",
+      "ok": true
+    },
+    {
+      "name": "sys-nhai-das backlink returns",
+      "ok": true
+    },
+    {
+      "name": "sys-adalat-ai ten dims",
+      "ok": true
+    },
+    {
+      "name": "sys-adalat-ai observations",
+      "ok": true
+    },
+    {
+      "name": "sys-adalat-ai excerpt visible",
+      "ok": true
+    },
+    {
+      "name": "sys-adalat-ai original URL",
+      "ok": true
+    },
+    {
+      "name": "sys-adalat-ai excerpt closes",
+      "ok": true
+    },
+    {
+      "name": "sys-adalat-ai backlink returns",
+      "ok": true
+    },
+    {
+      "name": "sys-cag-paras ten dims",
+      "ok": true
+    },
+    {
+      "name": "sys-cag-paras observations",
+      "ok": true
+    },
+    {
+      "name": "sys-cag-paras excerpt visible",
+      "ok": true
+    },
+    {
+      "name": "sys-cag-paras original URL",
+      "ok": true
+    },
+    {
+      "name": "sys-cag-paras excerpt closes",
+      "ok": true
+    },
+    {
+      "name": "sys-cag-paras backlink returns",
+      "ok": true
+    },
+    {
+      "name": "sys-cag-parakh ten dims",
+      "ok": true
+    },
+    {
+      "name": "sys-cag-parakh observations",
+      "ok": true
+    },
+    {
+      "name": "sys-cag-parakh excerpt visible",
+      "ok": true
+    },
+    {
+      "name": "sys-cag-parakh original URL",
+      "ok": true
+    },
+    {
+      "name": "sys-cag-parakh excerpt closes",
+      "ok": true
+    },
+    {
+      "name": "sys-cag-parakh backlink returns",
+      "ok": true
+    },
+    {
+      "name": "sys-safe-kerala ten dims",
+      "ok": true
+    },
+    {
+      "name": "sys-safe-kerala observations",
+      "ok": true
+    },
+    {
+      "name": "sys-safe-kerala excerpt visible",
+      "ok": true
+    },
+    {
+      "name": "sys-safe-kerala original URL",
+      "ok": true
+    },
+    {
+      "name": "sys-safe-kerala excerpt closes",
+      "ok": true
+    },
+    {
+      "name": "sys-safe-kerala backlink returns",
+      "ok": true
+    },
+    {
+      "name": "sys-upsc ten dims",
+      "ok": true
+    },
+    {
+      "name": "sys-upsc observations",
+      "ok": true
+    },
+    {
+      "name": "sys-upsc excerpt visible",
+      "ok": true
+    },
+    {
+      "name": "sys-upsc original URL",
+      "ok": true
+    },
+    {
+      "name": "sys-upsc excerpt closes",
+      "ok": true
+    },
+    {
+      "name": "sys-upsc backlink returns",
+      "ok": true
+    },
+    {
+      "name": "sys-madukkarai-elephant ten dims",
+      "ok": true
+    },
+    {
+      "name": "sys-madukkarai-elephant observations",
+      "ok": true
+    },
+    {
+      "name": "sys-madukkarai-elephant excerpt visible",
+      "ok": true
+    },
+    {
+      "name": "sys-madukkarai-elephant original URL",
+      "ok": true
+    },
+    {
+      "name": "sys-madukkarai-elephant excerpt closes",
+      "ok": true
+    },
+    {
+      "name": "sys-madukkarai-elephant backlink returns",
+      "ok": true
+    },
+    {
+      "name": "sys-igms ten dims",
+      "ok": true
+    },
+    {
+      "name": "sys-igms observations",
+      "ok": true
+    },
+    {
+      "name": "sys-igms excerpt visible",
+      "ok": true
+    },
+    {
+      "name": "sys-igms original URL",
+      "ok": true
+    },
+    {
+      "name": "sys-igms excerpt closes",
+      "ok": true
+    },
+    {
+      "name": "sys-igms backlink returns",
+      "ok": true
+    },
+    {
+      "name": "download bytes complete-implementation-evidence.zip",
+      "ok": true
+    },
+    {
+      "name": "download bytes data.json",
+      "ok": true
+    },
+    {
+      "name": "download bytes dataset.sqlite",
+      "ok": true
+    },
+    {
+      "name": "download bytes schema.sql",
+      "ok": true
+    },
+    {
+      "name": "download bytes queries.sql",
+      "ok": true
+    },
+    {
+      "name": "download bytes METHOD.md",
+      "ok": true
+    },
+    {
+      "name": "download bytes CODEBOOK.md",
+      "ok": true
+    },
+    {
+      "name": "download bytes implementation-findings.pplx.md",
+      "ok": true
+    },
+    {
+      "name": "download bytes manifest.json",
+      "ok": true
+    },
+    {
+      "name": "download bytes manifest.sha256",
+      "ok": true
+    },
+    {
+      "name": "download bytes quote-audit.json",
+      "ok": true
+    },
+    {
+      "name": "download bytes search-log.json",
+      "ok": true
+    },
+    {
+      "name": "download bytes retrieval-log.json",
+      "ok": true
+    },
+    {
+      "name": "download bytes cases.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes documents.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes observations.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes case_observations.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes evidence.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes party_observations.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes financial_observations.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes coverage.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes governance_links.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes selection_decisions.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes system_keys.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes governance_keys.csv",
+      "ok": true
+    },
+    {
+      "name": "download bytes review-decisions.json",
+      "ok": true
+    },
+    {
+      "name": "download bytes dossiers/sys-adalat-ai.md",
+      "ok": true
+    },
+    {
+      "name": "download bytes sources/impldoc-court-order.md",
+      "ok": true
+    },
+    {
+      "name": "implementation to named governance instrument",
+      "ok": true
+    },
+    {
+      "name": "nav active",
+      "ok": true
+    },
+    {
+      "name": "dark mode",
+      "ok": true
+    },
+    {
+      "name": "theme restore",
+      "ok": true
+    },
+    {
+      "name": "empty result no fabricated row",
+      "ok": true
+    },
+    {
+      "name": "load error retry visible",
+      "ok": true
+    },
+    {
+      "name": "retry recovered ten",
+      "ok": true
+    },
+    {
+      "name": "deferred existing case not fabricated",
+      "ok": true
+    },
+    {
+      "name": "invalid case not fabricated",
+      "ok": true
+    },
+    {
+      "name": "old registry 144",
+      "ok": true
+    },
+    {
+      "name": "old registry filter works",
+      "ok": true
+    },
+    {
+      "name": "old governance 52",
+      "ok": true
+    },
+    {
+      "name": "unselected system disclaimer",
+      "ok": true
+    },
+    {
+      "name": "old notebook export preserves selected provision",
+      "ok": true
+    },
+    {
+      "name": "old markdown brief downloads",
+      "ok": true
+    },
+    {
+      "name": "mobile list no page overflow",
+      "ok": true
+    },
+    {
+      "name": "mobile case no overflow",
+      "ok": true
+    },
+    {
+      "name": "HTML download rejected",
+      "ok": true
+    },
+    {
+      "name": "download bytes manifest.json",
+      "ok": true
+    },
+    {
+      "name": "NHAI masked-video evidence text",
+      "ok": true
+    },
+    {
+      "name": "IGMS conflicting chronology visible",
+      "ok": true
+    },
+    {
+      "name": "Safe Kerala visual limitation visible",
+      "ok": true
+    }
+  ],
+  "downloads": [
+    {
+      "file": "complete-implementation-evidence.zip",
+      "bytes": 556595,
+      "sha256": "85893b951df71efb9cc9e732131f3a1a146995e802768be264ddb8da34bebbb7"
+    },
+    {
+      "file": "data.json",
+      "bytes": 523907,
+      "sha256": "3952e660c9d5fedf186c69244568b0d77267c9bdbb4f7293c3bb6f116b30dcd0"
+    },
+    {
+      "file": "dataset.sqlite",
+      "bytes": 491520,
+      "sha256": "3cffe22a6e71d4d150dce81aa4956c93c290f370cc5e181853596a4461b8c073"
+    },
+    {
+      "file": "schema.sql",
+      "bytes": 4067,
+      "sha256": "08c6e5e60cfbfd5ad02acde7c130467db9f82a1891305e833b47687dbb6ca8cb"
+    },
+    {
+      "file": "queries.sql",
+      "bytes": 1563,
+      "sha256": "c057d0a5798dc1706f1d8c13cdf214c750be7a8c4ff46764b25280fccc56986c"
+    },
+    {
+      "file": "METHOD.md",
+      "bytes": 7539,
+      "sha256": "be6ab72da31d2c0ef551a54717bd8b9976e787a756d7dc54fdb4ccc7bd3ccda5"
+    },
+    {
+      "file": "CODEBOOK.md",
+      "bytes": 4845,
+      "sha256": "f4a92df61f0c0c16550ff95298030d6c8639c446b8d4443d1276702fd1f046d6"
+    },
+    {
+      "file": "implementation-findings.pplx.md",
+      "bytes": 8521,
+      "sha256": "2ee6f15044ad33351f29659350c56203b59aa271e272465d341cd818eeee223b"
+    },
+    {
+      "file": "manifest.json",
+      "bytes": 12143,
+      "sha256": "ebc705e657e87ea2c031254d967b95aa16a14137c9ba0ea5698b34cd4d52566f"
+    },
+    {
+      "file": "manifest.sha256",
+      "bytes": 80,
+      "sha256": "cd6d89f72ec6bb8e97e021b5fd93317f8dc862b15d27303e12c224285dbad530"
+    },
+    {
+      "file": "quote-audit.json",
+      "bytes": 11496,
+      "sha256": "6f50349b8af10a93e546e7217631dfdf060e30aeb140a0a1f892e441914c28d9"
+    },
+    {
+      "file": "search-log.json",
+      "bytes": 16316,
+      "sha256": "5441d4eeab0d0dad2dafe0bb24c7eb7d49cb5fb603fa0ecb1228788aaa0803cc"
+    },
+    {
+      "file": "retrieval-log.json",
+      "bytes": 28746,
+      "sha256": "e1bbae3a3bb5f51915ede749ee0b54de00b3d8badb7dca01d286471102bcfd54"
+    },
+    {
+      "file": "cases.csv",
+      "bytes": 6520,
+      "sha256": "2c8aff9749c26a1e5c9bccb96541dc99aa49a843e722d0daee845a9a9600942c"
+    },
+    {
+      "file": "documents.csv",
+      "bytes": 33183,
+      "sha256": "45e643f6e0e663b977b882de0be91695e5cad6c57b1a0296ce2fd5ad735515af"
+    },
+    {
+      "file": "observations.csv",
+      "bytes": 81913,
+      "sha256": "357489a19f7b8bb8455ecfacd32ee4d67545d14a5378ee8f8c2b25016434a8e2"
+    },
+    {
+      "file": "case_observations.csv",
+      "bytes": 63101,
+      "sha256": "3165380d6ee6b0e4d3ef1a2fda1974ef2f02acb3388f8879885a462dbee40f36"
+    },
+    {
+      "file": "evidence.csv",
+      "bytes": 50273,
+      "sha256": "c82f9584b173b4c300cbe1b3b200ab3421514990650c4e3b322789d91830e0b4"
+    },
+    {
+      "file": "party_observations.csv",
+      "bytes": 23503,
+      "sha256": "88b3536d78c50914cb707d471bb6dd7195e9a20df8a71de3149b135b5c7ea81e"
+    },
+    {
+      "file": "financial_observations.csv",
+      "bytes": 3424,
+      "sha256": "c146b9c03af1eba913d09f3d031311964cb5d8e3f89ef3f0a375760709bd2d17"
+    },
+    {
+      "file": "coverage.csv",
+      "bytes": 31942,
+      "sha256": "6825366e8e19bed46776afd9680716c17d651fc8308a4fefc7caeb54d99a7460"
+    },
+    {
+      "file": "governance_links.csv",
+      "bytes": 8079,
+      "sha256": "3f8324fe4e4992c40a44a612bb5f1ef235ae7818fbeec178154eec6e86809be7"
+    },
+    {
+      "file": "selection_decisions.csv",
+      "bytes": 5024,
+      "sha256": "4c413049e35ec1c522358b6593a4c7bbf3721ccfd376b857bae4d22e8296d4a0"
+    },
+    {
+      "file": "system_keys.csv",
+      "bytes": 15035,
+      "sha256": "bf671f42bda28614c2a76434d979bde8c11e69566d97a8246069287d39ceb550"
+    },
+    {
+      "file": "governance_keys.csv",
+      "bytes": 11285,
+      "sha256": "5b50c0a160805b5c37c6fb8661690c1c406b211e4561bda1fb08fc6050b9b3d1"
+    },
+    {
+      "file": "review-decisions.json",
+      "bytes": 5672,
+      "sha256": "652a394747ba41eb837aaf5e6324483b1971e4b79f1030793a946e18ceca1fd5"
+    },
+    {
+      "file": "dossiers/sys-adalat-ai.md",
+      "bytes": 13270,
+      "sha256": "c6dfc435159ffe1273bee95008135889cd56c77f34c0f77ff310f37fcad678cd"
+    },
+    {
+      "file": "sources/impldoc-court-order.md",
+      "bytes": 2636,
+      "sha256": "a3b7cd6e970295e7bdbfa30ce25688bc201bd62532c7699b9669c5522439993b"
+    }
+  ],
+  "notes": [
+    "Initial unselected-system assertion ran before data arrived; wait corrected.",
+    "A notebook Markdown assertion expected an internal ID that the exported format does not promise; check corrected to source-linked brief content.",
+    "Case filter searches case summaries as well as filtered observations; unit expectation corrected, no UI code change."
+  ]
+}
