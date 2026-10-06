@@ -23,6 +23,6 @@
   "fixed_files_unchanged": 619,
   "independent_review_completed": false,
   "reviewer_zip_sha256": "0ed63e9afc9c5e52bf685d1876759d0784ce6872c224d00cc8718ef501f1fdf6",
-  "manager_zip_sha256": "eed86435eac8a35f2fb95da51ef66437c8129c0256fe9063b869b5dfbc5434c5",
+  "manager_zip_sha256": "c7be278f1456ba410db8756516701a359829a7680b48dfb587e2d3832fd6c476",
   "blinding_limit": "Conclusion-blinded, not identity/sample blind; public prior analyses and analyst-selected passages remain exposure risks."
 }

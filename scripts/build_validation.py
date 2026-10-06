@@ -30,7 +30,7 @@ if OUT.exists() or PRIVATE.exists():
 REVIEW=OUT/"reviewer";MANAGER=PRIVATE/"manager";REVIEW.mkdir(parents=True);MANAGER.mkdir(parents=True)
 case_map={c["system_id"]:opaque("C",c["system_id"]) for c in d["cases"]}
 source_map={s["url"]:opaque("D",s["url"]) for s in d["documents"]}
-instrument_map={i:opaque("P",i) for i in {l["instrument_id"] for l in d["governance_links"]}}
+instrument_map={i:opaque("P",i) for i in sorted({l["instrument_id"] for l in d["governance_links"]})}
 original_docs={s["document_id"]:s for s in d["documents"]}
 sources={source_map[s["url"]]:{"source_id":source_map[s["url"]],"original_url":s["url"],"reviewed_text_sha256":s["reviewed_text_sha256"],"is_cached":s["is_cached"],"retrieval_phase":s["retrieval_basis"],"technical_note":"Frozen selected extraction; verify original page and version. Text hash is not binary authentication.","fragments":[]} for s in d["documents"]}
 fragment_map={}
@@ -77,6 +77,7 @@ variables["coverage_presence"]["comparable_reference"]=False
 variables["coverage_presence"]["comparison_limit"]="Legacy A records primary-dimension allocation; B audits relevant corpus evidence. Treat matches/disagreements as construct diagnostics, not intercoder reliability, until A is recoded under the same rubric."
 units=[];baseline=[];key=[];qual=[];projections=[]
 def add(kind,old_id,cases,sourceids,fragments,values,prompt,dimension="",instruments=None):
+ sourceids=sorted(set(sourceids))
  uid=opaque("U",kind+"|"+old_id)
  u={"unit_id":uid,"unit_kind":kind,"case_ids":arr(sorted(cases)),"source_ids":arr(sorted(set(sourceids))),"fragment_ids":arr(fragments),"candidate_instrument_ids":arr(instruments or []),"task_dimension":dimension,"task":prompt,"variables":arr(list(values))}
  units.append(u);key.append({"unit_id":uid,"original_kind":kind,"original_id":old_id})

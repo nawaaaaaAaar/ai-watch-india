@@ -133,3 +133,11 @@ try:
 finally:p.write_bytes(old)
 print('ok')`),/ok/);
 });
+test('both archives reproduce across different Python hash seeds',()=>{
+ const paths=['public/validation/reviewer-pack.zip','private-validation/manager-kit.zip'];
+ const before=paths.map(p=>hash(fs.readFileSync(new URL(p,root))));
+ for(const seed of ['101','202']){
+  execFileSync('python',['scripts/build_validation.py'],{cwd:root,env:{...process.env,PYTHONHASHSEED:seed}});
+  assert.deepEqual(paths.map(p=>hash(fs.readFileSync(new URL(p,root)))),before);
+ }
+});
