@@ -1,0 +1,17 @@
+variable_or_construct,review_priority,weakness_to_test,review_response,measurement_limit
+coverage_presence,High,Allocated primary-dimension observations are not exhaustive corpus evidence,Review each case document across all ten dimensions,Agreement may reveal a construct mismatch rather than coding error
+dimension,High,Multi-purpose fragments forced to one primary category,Record primary and secondary dimensions,Nominal primary-code agreement omits legitimate overlap
+claim_type,High,Speech act may mix invitation requirement account and embedded supplier statement,Reconstruct context before assigning type,Source hosting does not establish statement truth
+evidence_strength,High,Source authority stage and clause function may be conflated,Explain issuer and embedded material separately,Categories are not ordinal quality scores
+current_version_match,High,Current-version identity and document-specific scope are combined,Record the version evidence and propose construct splits,Original categories do not certify current deployment
+event_date,High,Plans publication historical reporting and fiscal intervals differ,Code relevant event with precision and date basis,Exact-text agreement is format and selection sensitive
+document_date,High,Filename retrieval and embedded event dates may be mistaken for issue date,Inspect original cover and effective-date text,Unknown is not missing or a retrieval date
+date_precision,Medium,Intervals and inconsistent document wording can resist day-month-year classes,Keep uncertain precision and explain it,Coarse category agreement does not establish correct chronology
+finance_stage,High,Estimates securities sanctions prices and payment schedules can be mixed,Use explicit sets and source monetary transcription,Reference sets are retrospective analyst projections
+amount_text,High,Multiple scopes taxes and malformed totals invite silent repair,Preserve raw text and explain separate amounts,Exact text is not numeric or semantic equivalence
+party_identity_and_role,High,Invitation support training and award counterparties are not equivalent,Independent reconstruction and identity notes,Qualitative adjudication not automated kappa
+governance_link_type,High,Common sources and domain relevance can be mistaken for applicability,Test candidate association from original instrument,Relevance is not a legal or operational determination
+human_oversight_and_redress,High,General routes and prescribed controls may not be AI-specific or implemented,Reconstruct authority exception handling and remedy scope,Free-text semantic validity requires source-based review
+independent_outcome_verified,High,Published reference has no positive variation,Assess evidence independence and source adequacy,Constant categories can make kappa undefined or uninformative
+compliance_verified,High,Publication or named direction is not proof of compliance,Require implementation-specific evidence,No positive reference variation limits substantive agreement
+source_access_and_readability,High,Cached drift limited context and damaged translation may select easy pairs,Log access and leave insufficient items unresolved,Complete pairs may be selectively accessible

@@ -1,0 +1,65 @@
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": "CODEBOOK.md",
+      "bytes": 5923,
+      "sha256": "2dce23f680e6186885bf1c5fb7c9bd771d16b3acafa620259805f4db43e7a296"
+    },
+    {
+      "path": "INSTRUCTIONS.md",
+      "bytes": 6034,
+      "sha256": "56fa665b40f93225ed86c4242c6d556d9e7b8fc4d4bf33feeca73d81c17e8e18"
+    },
+    {
+      "path": "cases.csv",
+      "bytes": 524,
+      "sha256": "1d987beee57229b71a4978fb5e13bd11ffa6c672ef5777a0192b5b58a8c6c34b"
+    },
+    {
+      "path": "instruments.csv",
+      "bytes": 226,
+      "sha256": "c404fd4bf6ffa507a56fce68ded7f609dfe9ec6b6c66634f139f7d511de2c570"
+    },
+    {
+      "path": "nominations.csv",
+      "bytes": 134,
+      "sha256": "8a984424e19e247c162a41884dccf5e1c031bfc59333aa87e4f9029d0fd2d668"
+    },
+    {
+      "path": "ratings.csv",
+      "bytes": 47872,
+      "sha256": "a3c39b00d03329164931dd55c4ce46141afda16249d03a167dd6908fdcf9e037"
+    },
+    {
+      "path": "reviewer-declaration.json",
+      "bytes": 308,
+      "sha256": "6c8b4fea60e20ed7973c71432017430b37e837c5eb01e1787ae8d0be6461be80"
+    },
+    {
+      "path": "source-access.csv",
+      "bytes": 874,
+      "sha256": "b53eb05d5c7ca0e56b91f62b3377c9fc16b29b716a671b06939e576c215ce009"
+    },
+    {
+      "path": "sources.json",
+      "bytes": 88457,
+      "sha256": "010fbcf9f87ded72b80d44f4fa59a9f9a4b4200ad1bb6e514fab8139aacce69e"
+    },
+    {
+      "path": "unit-notes.csv",
+      "bytes": 6494,
+      "sha256": "1f87dd2c6b57c4f93cf5dac03b546deb9f64b47d045a04385460f7288cae5924"
+    },
+    {
+      "path": "units.csv",
+      "bytes": 93478,
+      "sha256": "81fb0f65b8642a994a77669ee739777e7ec942f339e41ea8d8a1c6189a1a67a2"
+    },
+    {
+      "path": "variables.json",
+      "bytes": 5010,
+      "sha256": "07f335daabeedcdd679006e1a748c5f315fff2b1da8ffd90c9fc9855e47e0a69"
+    }
+  ]
+}

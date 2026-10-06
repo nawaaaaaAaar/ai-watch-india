@@ -1,0 +1,162 @@
+{
+  "version": "1.0.0",
+  "variables": {
+    "dimension": {
+      "kind": "nominal",
+      "allowed": [
+        "Procurement",
+        "Contracts and awards",
+        "Funding",
+        "Supplier",
+        "Implementation",
+        "Evaluation",
+        "Human oversight",
+        "Redress",
+        "Data safeguards",
+        "Operational status"
+      ],
+      "definition": "Primary documentary subject, not exclusive relevance."
+    },
+    "claim_type": {
+      "kind": "nominal",
+      "allowed": [
+        "Embedded supplier claim",
+        "General institutional route",
+        "Implementer account of award / agreement",
+        "Official reported activity",
+        "Official reported outcome",
+        "Procurement invitation",
+        "Requirement / specification",
+        "Other / mixed",
+        "Not established"
+      ],
+      "definition": "Source speech act, not truth or verified deployment."
+    },
+    "evidence_strength": {
+      "kind": "nominal",
+      "allowed": [
+        "First-party reported activity or outcome",
+        "Formal prescribed requirement",
+        "Implementer's historical account",
+        "Institutional contextual evidence",
+        "Procurement-stage invitation",
+        "Other / mixed",
+        "Not established"
+      ],
+      "definition": "Categorical source/stage classification; not ordinal."
+    },
+    "event_date": {
+      "kind": "exact",
+      "definition": "Event date or stated interval; Unknown is substantive, not missing."
+    },
+    "current_version_match": {
+      "kind": "nominal",
+      "allowed": [
+        "Document-specific; no wider version or coverage inference",
+        "Not established",
+        "Current deployed version established",
+        "Different version established",
+        "Unclear"
+      ],
+      "definition": "Version/scope distinction; explain which construct drives choice."
+    },
+    "independent_outcome_verified": {
+      "kind": "nominal",
+      "allowed": [
+        "Established",
+        "Not established"
+      ],
+      "definition": "Whether reviewed evidence establishes independent verification, not global absence."
+    },
+    "document_date": {
+      "kind": "exact",
+      "definition": "Publication/effective date as defined in notes; Unknown when not established after adequate review."
+    },
+    "date_precision": {
+      "kind": "nominal",
+      "allowed": [
+        "Day",
+        "Month",
+        "Year",
+        "Interval / other",
+        "Not established"
+      ],
+      "definition": "Precision of coded document date."
+    },
+    "document_association_scope": {
+      "kind": "nominal",
+      "allowed": [
+        "Named-system or component evidence",
+        "Institutional/platform context",
+        "Association not defensible",
+        "Unclear"
+      ],
+      "definition": "Candidate case-source association, not assumed applicability."
+    },
+    "coverage_presence": {
+      "kind": "nominal",
+      "allowed": [
+        "Relevant evidence in reviewed corpus",
+        "Not established in reviewed corpus",
+        "Unclear"
+      ],
+      "definition": "Relevant corpus evidence, not verified implementation; may expose primary-dimension allocation mismatch.",
+      "comparable_reference": false,
+      "comparison_limit": "Legacy A records primary-dimension allocation; B audits relevant corpus evidence. Treat matches/disagreements as construct diagnostics, not intercoder reliability, until A is recoded under the same rubric."
+    },
+    "amount_text": {
+      "kind": "exact",
+      "definition": "Independent source monetary transcription; exact match is only format agreement."
+    },
+    "finance_stage": {
+      "kind": "set",
+      "allowed": [
+        "Estimate",
+        "Bid security",
+        "Authorised cost / sanction",
+        "Reported cost / price",
+        "Payment arrangement",
+        "Verified expenditure",
+        "Not established"
+      ],
+      "definition": "Source financial stages; multiple allowed except singleton Not established."
+    },
+    "governance_link_type": {
+      "kind": "nominal",
+      "allowed": [
+        "Common original primary document",
+        "Inherited, expressly qualified governance association",
+        "Association not defensible",
+        "Unclear"
+      ],
+      "definition": "Independent scope judgment for a candidate instrument-system pair."
+    },
+    "compliance_verified": {
+      "kind": "nominal",
+      "allowed": [
+        "Established",
+        "Not established"
+      ],
+      "definition": "Reviewed evidence of compliance, not inference from a policy's existence."
+    }
+  },
+  "statuses": [
+    "coded",
+    "unresolved",
+    "unreadable",
+    "not_applicable",
+    "pending"
+  ],
+  "missing_rule": "Only coded-coded pairs are scored; substantive Unknown/Not established are valid codes where defined.",
+  "rating_columns": [
+    "schema_version",
+    "unit_id",
+    "variable",
+    "reviewer_id",
+    "value",
+    "coding_status",
+    "rationale",
+    "evidence_anchor",
+    "source_access"
+  ]
+}

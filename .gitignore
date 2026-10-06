@@ -4,3 +4,7 @@ test-results/
 .env*
 *.log
 __pycache__/
+# Keep the unblinding key and original-code handoff owner-only.
+public/validation/manager/
+public/validation/manager-kit.zip
+private-validation/

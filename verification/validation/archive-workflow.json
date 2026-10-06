@@ -1,0 +1,49 @@
+{
+  "state": "archive_workflow_verified_using_synthetic_fixtures_only",
+  "independent_review_completed": false,
+  "checks": [
+    {
+      "check": "Extracted blank reviewer pack waits with zero paired ratings",
+      "passed": true
+    },
+    {
+      "check": "Empty forms do not create agreement scores",
+      "passed": true
+    },
+    {
+      "check": "Extracted manager kit runs its standalone synthetic tests",
+      "passed": true
+    },
+    {
+      "check": "Full synthetic pass joins every assignment exactly once",
+      "passed": true
+    },
+    {
+      "check": "Non-equivalent coverage comparison is diagnostic only",
+      "passed": true
+    },
+    {
+      "check": "Synthetic changed label produces one disagreement",
+      "passed": true
+    },
+    {
+      "check": "Consensus export leaves pre-adjudication metrics unchanged",
+      "passed": true
+    },
+    {
+      "check": "Reference review and completed decision files remain byte-identical",
+      "passed": true
+    },
+    {
+      "check": "Reviewer ZIP contains no original baseline or linkage key",
+      "passed": true
+    },
+    {
+      "check": "No owner-only manager key or ZIP lives under public",
+      "passed": true
+    }
+  ],
+  "empty_review_paired_ratings": 0,
+  "reviewer_zip_sha256": "0ed63e9afc9c5e52bf685d1876759d0784ce6872c224d00cc8718ef501f1fdf6",
+  "manager_zip_sha256": "eed86435eac8a35f2fb95da51ef66437c8129c0256fe9063b869b5dfbc5434c5"
+}
